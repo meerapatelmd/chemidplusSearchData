@@ -3899,3 +3899,269 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T23:19:20Z,https://chem.nlm.nih.gov/chemidplus/rn/1159266-37-1,Synonyms,Poteligeo
 2020-09-21T23:19:20Z,https://chem.nlm.nih.gov/chemidplus/rn/1159266-37-1,Synonyms,UNII-YI437801BE
 2020-09-21T23:19:20Z,https://chem.nlm.nih.gov/chemidplus/rn/1159266-37-1,Systematic Name,"Immunoglobulin G1, anti-(CC chemokine receptor CCR4) (human-mouse monoclonal KW-0761 heavy chain), disulfide with human-mouse monoclonal KW-0761 kappa-chain, dimer"
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Name of Substance,Emibetuzumab [USAN:INN]
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Synonyms,Emibetuzumab
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Synonyms,LY-2875358
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Synonyms,LY2875358
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Synonyms,UNII-MO4K3GDN1I
+2020-09-21T23:20:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3,Systematic Name,"Immunoglobulin G4, anti-(human hepatocyte growth factor receptor) (human-Mus musculus monoclonal LY2875358 gamma4-chain), disulfide with human-Mus musculus monoclonal LY2875358 kappa-chain, dimer"
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Name of Substance,Barasertib [INN]
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Synonyms,AZD 1152
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Synonyms,AZD1152
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Synonyms,Barasertib
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Synonyms,UNII-16XC2U7W8N
+2020-09-21T23:21:18Z,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9,Systematic Name,"1H-Pyrazole-3-acetamide, 5-((7-(3-(ethyl(2-   (phosphonooxy)ethyl)amino)propoxy)-4-quinazolinyl)amino)-N-(3-fluorophenyl)-"
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Name of Substance,Panitumumab
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Name of Substance,Panitumumab [USAN:INN:BAN]
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,MeSH Heading,Panitumumab
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,Abenix
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,ABX-EGF
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,ABX-EGF MAb
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,Monoclonal antibody ABX-EGF
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,Panitumumab
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,Panitumumab (genetical recombination)
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,UNII-6A901E312A
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Synonyms,Vectibix
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Systematic Names,ABX-EGF
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Systematic Names,"Immunoglobulin, anti-(human epidermal growth factor receptor) (human monoclonal ABX-EGF heavy chain), disulfide with human monoclonal ABX-EGF light chain, dimer"
+2020-09-21T23:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/339177-26-3,Systematic Names,"Immunoglobulin, human (anti-human epidermal growth factor receptor) monoclonal antibody (ABX-EGF)"
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Results Name,Goserelin acetate
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Name of Substance,Goserelin
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Name of Substance,Goserelin acetate [JAN]
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Synonyms,Fertilan
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Synonyms,Goserelin acetate
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Synonyms,UNII-6YUU2PV0U8
+2020-09-21T23:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6,Systematic Name,"1-9-Luteinizing hormone-releasing factor (swine), 6-(O-(1,1-dimethylethyl)-D-serine)-, 2-(aminocarbonyl)hydrazide, acetate (salt)"
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Name of Substance,Satraplatin
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Name of Substance,Satraplatin [USAN:INN]
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,(OC-6-43)-Bis(acetato)amminedichloro(cyclohexylamine)platinum
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,(OC-6-43)-Bis(acetato-O)amminedichloro(cyclohexanamine)platinum
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,Bis-acetatoamminedichlorocyclohexylamine platinum(IV)
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,BMS 182751
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,BMS-182751
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,BMY 45594
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,BMY-45594
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,"Cyclohexanamine, platinum complex"
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,JM-216
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,JM216
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,Poplat
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,Satraplatin
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Synonyms,UNII-8D7B37T28G
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Systematic Names,"Platinum, bis(acetato-kappaO)amminedichloro(cyclohexanamine)-, (OC-6-43)-"
+2020-09-21T23:22:28Z,https://chem.nlm.nih.gov/chemidplus/rn/129580-63-8,Systematic Names,"Platinum, bis(acetato-O)amminedichloro(cyclohexanamine)-, (OC-6-43)-"
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Name of Substance,Dacomitinib metabolite M2
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Synonyms,(2R)-2-Amino-3-(3-((4-(3-chloro-4-fluoro-anilino)-7-methoxy-quinazolin-6-yl)amino)-3-oxo-1-(1-piperidylmethyl)propyl)sulfanyl-propanoic acid
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Synonyms,Dacomitinib cysteine conjugate
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Synonyms,Dacomitinib metabolite M2
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Synonyms,"L-Cysteine, S-(3-((4-((3-chloro-4-fluorophenyl)amino)-7-methoxy-6-quinazolinyl)amino)-3-oxo-1-(1-piperidinylmethyl)propyl)-"
+2020-09-21T23:22:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1262034-38-7,Synonyms,UNII-SOA52D3NLL
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Results Name,Celf protein
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,MeSH Heading,CCAAT-Enhancer-binding protein-delta
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,C-Ebp delta
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Celf gene product
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Celf protein
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Crp3 gene product
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Crp3 protein
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,IL-6beta-NF
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Interleukin-6beta nuclear factor
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Nfil-6beta
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Synonyms,Nuclear factor interleukin 6beta
+2020-09-21T23:24:03Z,https://chem.nlm.nih.gov/chemidplus/rn/142662-43-9,Systematic Name,Ribonucleic acid formation factor CELF (rat clone lambda2 reduced)
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,MeSH Heading,Interleukin-6
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,Synonyms,Hybridoma growth factor
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,Synonyms,IL 6
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,Synonyms,Interleukin 6
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,Synonyms,Interleukin-6
+2020-09-21T23:24:11Z,https://chem.nlm.nih.gov/chemidplus/rn/308067-66-5,Synonyms,Plasmacytoma growth factor
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Name of Substance,Olaratumab [USAN:INN]
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,anti-PDGFR alpha monoclonal antibody IMC-3G3
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,IMC 3G3
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,IMC-3G3
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,IMC3G3
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,Lartruvo
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,Olaratumab
+2020-09-21T23:24:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7,Synonyms,UNII-TT6HN20MVF
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Name of Substance,6-Demethyl-6-(hydroxymethyl)-2alpha-hydroxy megestrol acetate
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Synonyms,"17alpha-Acetoxy-2alpha-hydroxy-6-hydroxymethylpregna-4,6-diene-3,20-dione"
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Synonyms,6-Demethyl-6-(hydroxymethyl)-2alpha-hydroxy megestrol acetate
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Synonyms,"Pregna-4,6-diene-3,20-dione, 17-(acetyloxy)-2-hydroxy-6-(hydroxymethyl)-, (2alpha)-"
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Synonyms,"Pregna-4,6-diene-3,20-dione, 2alpha,17-dihydroxy-6-(hydroxymethyl)-, 17-acetate"
+2020-09-21T23:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-40-9,Synonyms,UNII-DZ5I9Q768J
+2020-09-21T23:24:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-41-0,Name of Substance,6-Demethyl-6-(hydroxymethyl)-megestrol acetate
+2020-09-21T23:24:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-41-0,Synonyms,6-Demethyl-6-(hydroxymethyl)-megestrol acetate
+2020-09-21T23:24:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-41-0,Synonyms,"Pregna-4,6-diene-3,20-dione, 17-(acetyloxy)-6-(hydroxymethyl)-"
+2020-09-21T23:24:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-41-0,Synonyms,"Pregna-4,6-diene-3,20-dione, 17-hydroxy-6-(hydroxymethyl)-, 17-acetate"
+2020-09-21T23:24:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1867-41-0,Synonyms,UNII-512643PIG8
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Name of Substance,6-Epimedroxyprogesterone acetate
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,6-Epimedroxyprogesterone acetate
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,6beta-Methyl-17alpha-hydroxyprogesterone acetate
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,"6beta-Methyl-3,20-dioxopregn-4-en-17-yl acetate"
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,Medroxyprogesterone acetate specified impurity D [EP]
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,Megestrol acetate impurity F [EP]
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,NSC-119085
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,"Pregn-4-ene-3,20-dione, 17-(acetyloxy)-6-methyl-, (6beta)-"
+2020-09-21T23:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2242-65-1,Synonyms,UNII-275N4RXX0Q
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Name of Substance,Megestrol acetate [USAN:USP]
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,MeSH Heading,Megestrol Acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"17-Acetoxy-6-methylpregna-4,6-diene-3,20-dione"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,17-alpha-Acetoxy-6-dehydro-6-methylprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione 17-acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,17alpha-Acetoxy-6-dehydro-6-methylprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"17alpha-Acetoxy-6-methylpregna-4,6-diene-3,20-dione"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"17alpha-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,5071
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Dehydro-6-methyl-17-alpha-acetoxyprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Dehydro-6-methyl-17alpha-acetoxyprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"6-Methyl-17-alpha-acetoxypregna-4,6-diene-3,20-dione"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Methyl-17-alpha-hydroxy-delta(sup 6)-progesterone acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Methyl-17alpha-hydroxy-delta(sup 6)-progesterone acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Methyl-6-dehydro-17-alpha-acetoxyprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Methyl-6-dehydro-17alpha-acetoxyprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"6-Methyl-delta(sup 4,6)-pregnadien-17-alpha-ol-3,20-dione acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,6-Methyl-delta(sup 6)-dehydro-17-alpha-acetoxyprogesterone
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,"6-Methyl-delta4,6-pregnadien-17alpha-ol-3,20-dione acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,BDH 1298
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,CCRIS 372
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,DMAP
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,EINECS 209-864-5
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Magestin
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Maygace
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megace
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megace ES
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megeron
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megestat
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megestrol acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Megestryl acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Niagestin
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,NSC-71423
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Ovaban
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Ovaban (Veterinary)
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Ovarid
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,Pallace
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,SC 10363
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,SC10363
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Synonyms,UNII-TJ2M0FR8ES
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Systematic Names,"17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione 17-acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Systematic Names,Megestrol acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Systematic Names,"Pregna-4,6-diene-3,20-dione, 17-(acetyloxy)-6-methyl-"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Systematic Names,"Pregna-4,6-diene-3,20-dione, 17-hydroxy-6-methyl-, acetate"
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Superlist Names,Megestrol acetate
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Superlist Names,Megestrol acetole
+2020-09-21T23:25:12Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,Superlist Names,Megestrol acetole [Progestins]
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Name of Substance,1-Dehydromegesterol acetate
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Synonyms,1-Dehydromegesterol acetate
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Synonyms,"6-Methyl-3,20-dioxopregna-1,4,6-trien-17-yl acetate"
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Synonyms,Megestrol acetate specified impurity E [EP]
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Synonyms,"Pregna-1,4,6-triene-3,20-dione, 17-(acetyloxy)-6-methyl-"
+2020-09-21T23:25:20Z,https://chem.nlm.nih.gov/chemidplus/rn/982-89-8,Synonyms,UNII-97Y3D0E49L
+2020-09-21T23:25:45Z,https://chem.nlm.nih.gov/chemidplus/rn/102580-65-4,Name of Substance,Bryostatin 10
+2020-09-21T23:25:45Z,https://chem.nlm.nih.gov/chemidplus/rn/102580-65-4,Synonyms,"7-O-Deacetyl-20-de((1-oxo-2,4-octadienyl)oxy)-7-O-(3-methyl-1-oxobutyl)bryostatin 1"
+2020-09-21T23:25:45Z,https://chem.nlm.nih.gov/chemidplus/rn/102580-65-4,Synonyms,Bryostatin-10
+2020-09-21T23:25:45Z,https://chem.nlm.nih.gov/chemidplus/rn/102580-65-4,Systematic Name,"Bryostatin 1, 7-O-deacetyl-20-de((1-oxo-2,4-octadienyl)oxy)-7-O-(3-methyl-1-oxobutyl)-"
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Name of Substance,FP-1039
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,A soluble fusion protein consisting of fibroblast growth factor receptor 1 and fc domain of IGG1
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,Fgf receptor antagonist HGS1036
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,FP-1039
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,GSK-3052230
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,GSK3052230
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,HGS-1036
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,HGS1036
+2020-09-21T23:25:59Z,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9,Synonyms,UNII-CTG26PRE5S
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Name of Substance,Edotecarin
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Name of Substance,Edotecarin [USAN:INN]
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,"12-beta-D-Glucopyranosyl-2,10-dihydroxy-6-((2-hydroxy-1-(hydroxymethyl)ethyl)amino)-12,13-dihydro-6H-indolo(2,3-a)pyrrolo(3,4-c)carbazole-5,7-dione"
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,E'dotecarine
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,E'dotecarine [INN-French]
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,Edotecarin
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,Edotecarina
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,Edotecarinum
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,Edotecarinum [INN-Latin]
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,J 107088
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,J-107088
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,PF-804950
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Synonyms,UNII-1V8X590XDP
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Systematic Names,"12-beta-D-Glucopyranosyl-2,10-dihydroxy-6-((2-hydroxy-1-(hydroxymethyl)ethyl)amino)-12,13-dihydro-6H-indolo(2,3-a)pyrrolo(3,4-c)carbazole-5,7-dione"
+2020-09-21T23:26:13Z,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5,Systematic Names,"5H-Indolo(2,3-a)pyrrolo(3,4-c)carbazole-5,7(6H)-dione, 12-beta-D-glucopyranosyl-12,13-dihydro-2,10-dihydroxy-6-((2-hydroxy-1-(hydroxymethyl)ethyl)amino)-"
+2020-09-21T23:26:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0,Name of Substance,ENMD-2076
+2020-09-21T23:26:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0,Synonyms,"4-Pyrimidinamine, 6-(4-methyl-1-piperazinyl)-N-(5-methyl-1H-pyrazol-3-yl)-2-((1E)-2-phenylethenyl)-, (2R,3R)-2,3-dihydroxybutanedioate (1:1)"
+2020-09-21T23:26:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0,Synonyms,ENMD-2076
+2020-09-21T23:26:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0,Synonyms,L-(+) Tartrate salt of ENMD-981693
+2020-09-21T23:26:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0,Synonyms,UNII-KXQ762CQTH
+2020-09-21T23:26:45Z,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1,Name of Substance,ENMD-2076
+2020-09-21T23:26:45Z,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1,Synonyms,(E)-N-(5-Methyl-1H-pyrazol-3-yl)-6-(4-methylpiperazin-1-yl)-2-styrylpyrimidin-4-amine
+2020-09-21T23:26:45Z,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1,Synonyms,"4-Pyrimidinamine, 6-(4-methyl-1-piperazinyl)-N-(5-methyl-1H-pyrazol-3-yl)-2-((1E)-2-phenylethenyl)-"
+2020-09-21T23:26:45Z,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1,Synonyms,ENMD 2076
+2020-09-21T23:26:45Z,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1,Synonyms,UNII-J6U9WP10T7
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Name of Substance,Tesetaxel
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Name of Substance,Tesetaxel [INN]
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Synonyms,DJ 927
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Synonyms,DJ-927
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Synonyms,DJ927
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Synonyms,Tesetaxel
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Synonyms,UNII-UG97LO5M8Y
+2020-09-21T23:26:59Z,https://chem.nlm.nih.gov/chemidplus/rn/333754-36-2,Systematic Name,"2-Pyridinepropanoic acid, beta-(((1,1-dimethylethoxy)carbonyl)amino)-3-fluoro-alpha-hydroxy-, (2aS,2bR,3S,4S,6S,8aR,10S,11aS,11bR,13aR)-2a-(acetyloxy)-3-(benzoyloxy)-10-((dimethylamino)methyl)-2a,2b,3,4,5,6,8a,11a,11b,12,13,13a-dodecahydro-4-hydroxy-7,11"
+2020-09-21T23:27:12Z,https://chem.nlm.nih.gov/chemidplus/rn/140461-66-1,Name of Substance,17-Dihydroexemestane
+2020-09-21T23:27:12Z,https://chem.nlm.nih.gov/chemidplus/rn/140461-66-1,Synonyms,17-Dihydroexemestane
+2020-09-21T23:27:12Z,https://chem.nlm.nih.gov/chemidplus/rn/140461-66-1,Synonyms,"Androsta-1,4-dien-3-one, 17-hydroxy-6-methylene-"
+2020-09-21T23:27:12Z,https://chem.nlm.nih.gov/chemidplus/rn/140461-66-1,Synonyms,FCE-25071
+2020-09-21T23:27:12Z,https://chem.nlm.nih.gov/chemidplus/rn/140461-66-1,Synonyms,UNII-U35ZNO9DJH
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Name of Substance,"6-Hydroxymethylandrosta-1,4-diene-3,17-dione"
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,"6-Hydroxymethyl-1,4-androstadiene-3,17-dione"
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,"6-Hydroxymethylandrosta-1,4-diene-3,17-dione"
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,"Androsta-1,4-diene-3,17-dione, 6-(hydroxymethyl)-"
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,Exemestane related compound B [USP-RS]
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,Exemestane related compound B [USP]
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,FCE-27247
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,Hydroxymethyl derivative [USP]
+2020-09-21T23:27:20Z,https://chem.nlm.nih.gov/chemidplus/rn/184972-09-6,Synonyms,UNII-9WP8IQE7YT
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Name of Substance,Arzoxifene hydrochloride [USAN]
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Name of Substance,LY 353381
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,2-(4-Methoxyphenyl)-3-(4-(2-(1-piperidinyl)ethoxy)phenoxy)benzo(b)thiophene-6-ol hydrochloride
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,2-(p-Methoxyphenyl)-3-(p-(2-(1-piperidinyl)ethoxy)phenoxy)benzo(b)thiophene-6-ol hydrochloride
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,2-(p-Methoxyphenyl)-3-(p-(2-piperidinoethoxy)phenoxy)benzo(b)thiophene-6-ol hydrochloride
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,Arzoxifene HCl
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,Arzoxifene hydrochloride
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,LY 353381 HCl
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,LY353381.HCl
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,SERM 3
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Synonyms,UNII-FU88PI0433
+2020-09-21T23:27:45Z,https://chem.nlm.nih.gov/chemidplus/rn/182133-27-3,Systematic Name,"Benzo(b)thiophene-6-ol, 2-(4-methoxyphenyl)-3-(4-(2-(1-piperidinyl)ethoxy)phenoxy)-, hydrochloride"
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Name of Substance,N-Acetylmuramyl-threonyl-isoglutamine
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Name of Substance,Temurtide [USAN:INN:BAN]
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,"2-Acetamido-3-O-(((1R)-1-((1S,2R)-1-(((1R)-1-carbamoyl-3-carboxypropyl)carbamoyl)-2-hydroxypropyl)carbamoyl)ethyl)-2-deoxy-D-glucopyranose"
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,"D-alpha-Glutamine, N(sup 2)-(N-(N-acetylmuramoyl)-L-threonyl)-"
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,DRG-0177
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,N-Acetylmuramyl-threonyl-isoglutamine
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,RS-37449
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Temurtida
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Temurtida [INN-Spanish]
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Temurtide
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Temurtidum
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Temurtidum [INN-Latin]
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Termurtide
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,Threonyl MDP
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Synonyms,UNII-VXK0TND2RY
+2020-09-21T23:29:16Z,https://chem.nlm.nih.gov/chemidplus/rn/66112-59-2,Systematic Name,"D-alpha-Glutamine, N(sup 2)-(N-(N-acetylmuramoyl)-L-threonyl)-"
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Name of Substance,MEDI-6469
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Synonyms,anti-OX40
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Synonyms,MEDI 6469 monoclonal antibody
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Synonyms,MEDI6469
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Synonyms,UNII-AKV2GM43DD
+2020-09-21T23:29:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1715924-11-0,Systematic Name,MEDI 6469
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Name of Substance,GSK-3174998
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,anti-Ox40 monoclonal antibody GSK3174998
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,GSK-3174998
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,"GSK-3174998 (a humanized IGG1 monoclonal antibody agonistic toward OX40 (cd134), A potent costimulatory tumor necrosis factor receptor expressed ON activated cd4+ and cd8+ T cells)"
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,GSK3174998
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,"GSK3174998, humanized IGG1 anti-ox40 mab"
+2020-09-21T23:29:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3,Synonyms,UNII-CT69TVL1KE
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Name of Substance,Ivuxolimab
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,anti-Ox40 antibody PF-04518600
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,Ivuxolimab
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,Ivuxolimab [INN]
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,Ivuxolimab [USAN]
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,PF-04518600
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,PF-8600
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,PF04518600
+2020-09-21T23:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2128729-41-7,Synonyms,UNII-APS3IS9D6W
