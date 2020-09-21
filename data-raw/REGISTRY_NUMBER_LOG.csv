@@ -391,3 +391,49 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T18:29:38Z,TOPOTECAN,TOPOTECAN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TOPOTECAN,TRUE,FALSE,TRUE,Topotecan hydrochloride (1:1.25),1228035-86-6,https://chem.nlm.nih.gov/chemidplus/rn/1228035-86-6
 2020-09-21T18:30:16Z,AZD6738 tablet,AZD6738tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6738tablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T18:30:27Z,INVEST ASP2215,INVESTASP2215,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INVESTASP2215,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:30:48Z,m402 /placebo,m402/placebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/m402/placebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:30:59Z,3F8 MoAB,3F8MoAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MoAB,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:31:10Z,ABEMACICLIB,ABEMACICLIB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABEMACICLIB,TRUE,FALSE,TRUE,Abemaciclib mesylate,1231930-82-7,https://chem.nlm.nih.gov/chemidplus/rn/1231930-82-7
+2020-09-21T18:31:23Z,valemetostat,valemetostat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/valemetostat,TRUE,FALSE,TRUE,Valemetostat tosylate,1809336-93-3,https://chem.nlm.nih.gov/chemidplus/rn/1809336-93-3
+2020-09-21T18:31:35Z,MCLA-128,MCLA-128,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MCLA-128,TRUE,FALSE,TRUE, Zenocutuzumab [INN],1969309-56-5,https://chem.nlm.nih.gov/chemidplus/rn/1969309-56-5
+2020-09-21T18:31:48Z,trametinib 0.5 mg oral tablet,trametinib0.5mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trametinib0.5mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:32:05Z,IM-862 OR PLACEBO,IM-862ORPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM-862ORPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:32:16Z,enASIdenib (AG-221 FORMULATION 1) Oral TABLET INVEST,enASIdenib(AG-221FORMULATION1)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/enASIdenib(AG-221FORMULATION1)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:32:27Z,SGN-LIV1A INVEST,SGN-LIV1AINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-LIV1AINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:32:38Z,tuCAtinib (ONT-380) Tablet,tuCAtinib(ONT-380)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/tuCAtinib(ONT-380)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:32:49Z,IPI-145,IPI-145,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPI-145,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-21T18:33:07Z,aLECtinib Oral (NF) Capsule,aLECtinibOral(NF)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/aLECtinibOral(NF)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:33:18Z,3F8 MoAB IRB #01-075,3F8MoABIRB#01-075,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MoABIRB#01-075,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:33:29Z,LOXO-292 80 mg tablet,LOXO-29280mgtablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LOXO-29280mgtablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:33:40Z,Flavopiridol (irb#03-081),Flavopiridol(irb#03-081),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Flavopiridol(irb#03-081),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:33:51Z,MDX-010,MDX-010,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010,TRUE,FALSE,TRUE, Ipilimumab [USAN:INN],477202-00-9,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9
+2020-09-21T18:34:05Z,SORAfenib vs placebo,SORAfenibvsplacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SORAfenibvsplacebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:34:21Z,ATEZOLIZUMAB,ATEZOLIZUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ATEZOLIZUMAB,TRUE,FALSE,TRUE, Atezolizumab [USAN:INN],1380723-44-3,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3
+2020-09-21T18:34:39Z,PU-H71 INVEST (Single Pt Use),PU-H71INVEST(SinglePtUse),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PU-H71INVEST(SinglePtUse),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:34:50Z,bRENtuximab (SGN-35) INVEST,bRENtuximab(SGN-35)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/bRENtuximab(SGN-35)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:35:01Z,SAHA 5MG/ML,SAHA5MG/ML,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SAHA5MG/ML,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:35:12Z,LGD1057 10 MG CAPSULE,LGD105710MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGD105710MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:35:22Z,ETOPOSIDE,ETOPOSIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ETOPOSIDE,TRUE,FALSE,TRUE,"3',4'-Dihydroxyetoposide",100007-54-3,https://chem.nlm.nih.gov/chemidplus/rn/100007-54-3
+2020-09-21T18:35:22Z,ETOPOSIDE,ETOPOSIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ETOPOSIDE,TRUE,FALSE,TRUE,Etoposide glucuronide,100007-55-4,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
+2020-09-21T18:35:22Z,ETOPOSIDE,ETOPOSIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ETOPOSIDE,TRUE,FALSE,TRUE,Etoposide quinone,105016-65-7,https://chem.nlm.nih.gov/chemidplus/rn/105016-65-7
+2020-09-21T18:35:22Z,ETOPOSIDE,ETOPOSIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ETOPOSIDE,TRUE,FALSE,TRUE,NK-611 free acid,105655-99-0,https://chem.nlm.nih.gov/chemidplus/rn/105655-99-0
+2020-09-21T18:36:01Z,Arsenic Trioxide (IRB#01-042),ArsenicTrioxide(IRB#01-042),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ArsenicTrioxide(IRB#01-042),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:36:12Z,"RALTITREXED (TOMUDEX,D1694)","RALTITREXED(TOMUDEX,D1694)",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/RALTITREXED(TOMUDEX,D1694)",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:36:23Z,CED CARCINOMA,CEDCARCINOMA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CEDCARCINOMA,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:36:34Z,BMS-936558 (NIVOlumab) INVEST,BMS-936558(NIVOlumab)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-936558(NIVOlumab)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:36:45Z,Kpt-330,Kpt-330,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Kpt-330,TRUE,FALSE,TRUE,Selinexor [USAN:INN],1393477-72-9,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9
+2020-09-21T18:36:45Z,Kpt-330,Kpt-330,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Kpt-330,TRUE,FALSE,TRUE,"KPT-330, (E)-",1421923-86-5,https://chem.nlm.nih.gov/chemidplus/rn/1421923-86-5
+2020-09-21T18:37:05Z,TRASTUZUmab (IRB#04-126),TRASTUZUmab(IRB#04-126),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRASTUZUmab(IRB#04-126),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:37:22Z,Temozolomide 5 mg Capsule (IRB#10-082),Temozolomide5mgCapsule(IRB#10-082),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temozolomide5mgCapsule(IRB#10-082),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:37:33Z,Rituximab (IRB#03-139),Rituximab(IRB#03-139),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Rituximab(IRB#03-139),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:37:44Z,TAK 700 versus placebo,TAK700versusplacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TAK700versusplacebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:38:05Z,SGN-CD19A,SGN-CD19A,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-CD19A,TRUE,FALSE,TRUE, Denintuzumab mafodotin [USAN:INN],1399672-02-6,https://chem.nlm.nih.gov/chemidplus/rn/1399672-02-6
+2020-09-21T18:38:18Z,BEVACIZUmab (IRB#06-064) (Latex free),BEVACIZUmab(IRB#06-064)(Latexfree),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-064)(Latexfree),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:38:29Z,lenalidomide.,lenalidomide.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/lenalidomide.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:38:51Z,olaparib,olaparib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/olaparib,TRUE,FALSE,TRUE,Olaparib-bodipy FL,1380359-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1380359-84-1
+2020-09-21T18:39:08Z,"INTERFERON,ALFA 2B 10MU/ML","INTERFERON,ALFA2B10MU/ML",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/INTERFERON,ALFA2B10MU/ML",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:39:19Z,BEC-2KLH 2.5MG + BCG ( ),BEC-2KLH2.5MG+BCG(),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC-2KLH2.5MG+BCG(),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:39:30Z,COL-3 50MG #14,COL-350MG#14,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/COL-350MG#14,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:39:41Z,AGS-22M6E,AGS-22M6E,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AGS-22M6E,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:39:57Z,AMG 337 Capsule,AMG337Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG337Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:40:07Z,"VELIparib (ABT-888) Oral INVEST (PEDS) Capsule, 10 mg","VELIparib(ABT-888)OralINVEST(PEDS)Capsule,10mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/VELIparib(ABT-888)OralINVEST(PEDS)Capsule,10mg",TRUE,TRUE,FALSE,NA,NA,NA
