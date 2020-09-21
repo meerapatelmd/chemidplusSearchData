@@ -743,6 +743,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T17:27:28Z,https://chem.nlm.nih.gov/chemidplus/rn/133524-69-3,Synonyms,N-Deboc-docetaxel
 2020-09-21T17:27:28Z,https://chem.nlm.nih.gov/chemidplus/rn/133524-69-3,Synonyms,UNII-EG6AN1S5YT
 2020-09-21T17:28:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,Name of Substance,Rociletinib hydrobromide
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,RO6958688
 2020-09-21T17:28:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,Synonyms,"2-Propenamide, N-(3-((2-((4-(4-acetyl-1-piperazinyl)-2-methoxyphenyl)amino)-5-(trifluoromethyl)-4-pyrimidinyl)amino)phenyl)-, hydrobromide (1:1)"
 2020-09-21T17:28:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,Synonyms,CNX-419 hydrobromide
 2020-09-21T17:28:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,Synonyms,CO-1686 Hydrobromide
@@ -785,3 +786,26 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T17:31:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,Synonyms,Erdafitinib
 2020-09-21T17:31:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,Synonyms,JNJ-42756493
 2020-09-21T17:31:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,Synonyms,UNII-890E37NHMV
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Name of Substance,Ganetespib [USAN:INN]
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,"5-(2,4-Dihydroxy-5-(1-methylethyl)phenyl)-4-(1-methyl-1H-indol-5-yl)-2,4-dihydro-3H- 1,2,4-triazol-3-one"
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,Ganetespib
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,STA 9090
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,STA-9090
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,STA9090
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Synonyms,UNII-2E8412Y946
+2020-09-21T18:03:23Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Systematic Name,"3H-1,2,4-Triazol-3-one, 5-(2,4-dihydroxy-5-(1-methylethyl)phenyl)-2,4-dihydro-4-(1- methyl-1H-indol-5-yl)-"
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Name of Substance,RO-6958688
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,anti-Cea/cd3 bispecific antibody RO6958688
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,Cea CD3 tcb
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,Humanized immunoglobulin G1 (igg1) t-cell bispecific (tcb) antibody targeting carcinoembryonic antigen (cea) and CD3 epsilon chain (cd3E) ON t-cells
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,RG7802
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,RO-6958688
+2020-09-21T18:03:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7,Synonyms,UNII-ZAM5J1ATF2
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Name of Substance,Praluzatamab ravtansine
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,anti-Cd166 probody-drug conjugate CX-2009
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,anti-Cd166-dm4 CX-2009
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,CX 2009 [WHO-DD]
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,CX-2009
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,Praluzatamab ravtansine
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,Praluzatamab ravtansine [INN]
+2020-09-21T18:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9,Synonyms,UNII-RD2I59M9FC

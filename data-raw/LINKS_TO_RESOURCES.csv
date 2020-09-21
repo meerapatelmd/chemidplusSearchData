@@ -1006,3 +1006,25 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T17:31:33Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=JNJ-42756493%20OR%20Erdafitinib,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6
 2020-09-21T17:31:33Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=JNJ-42756493%20OR%20Erdafitinib,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6
 2020-09-21T17:31:33Z,NA,http://www.google.com/search?q=%22OLAHOMJCDNXHFI-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6
+2020-09-21T18:03:23Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Ganetespib+OR+STA-9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/888216-25-9,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=888216-25-9,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Ganetespib+OR+STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Ganetespib+OR+STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Ganetespib+OR+STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Ganetespib+OR+STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Ganetespib+OR+STA+9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22888216-25-9%22+OR+%22%22+OR+%22STA+9090%22,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22888216-25-9%22+OR+%22%22+OR+%22STA+9090%22,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C533237,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/2E8412Y946,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Ganetespib+OR+STA-9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Ganetespib+OR+STA-9090,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:23Z,NA,http://www.google.com/search?q=%22RVAQIUULWULRNW-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-21T18:03:42Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=RO6958688,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7
+2020-09-21T18:03:42Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2101242-53-7,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7
+2020-09-21T18:03:42Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2101242-53-7,https://chem.nlm.nih.gov/chemidplus/rn/2101242-53-7
+2020-09-21T18:04:07Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=CX-2009,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9
+2020-09-21T18:04:07Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2145115-85-9,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9
+2020-09-21T18:04:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2145115-85-9,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9
