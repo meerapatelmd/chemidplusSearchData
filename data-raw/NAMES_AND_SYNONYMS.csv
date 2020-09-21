@@ -3236,6 +3236,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T22:09:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1394849-26-3,Synonyms,ALS-2158
 2020-09-21T22:09:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1394849-26-3,Systematic Name,ALS 2158
 2020-09-21T22:09:29Z,https://chem.nlm.nih.gov/chemidplus/rn/2145096-91-7,Name of Substance,Ongericimab
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Name of Substance,VTX-2337
 2020-09-21T22:09:29Z,https://chem.nlm.nih.gov/chemidplus/rn/2145096-91-7,Synonyms,"Immunoglobulin G4, anti-(neural apoptosis-regulated convertase 1) (human monoclonal JS002 gamma4-chain), disulfide with human monoclonal JS002 kappa-chain, dimer"
 2020-09-21T22:09:29Z,https://chem.nlm.nih.gov/chemidplus/rn/2145096-91-7,Synonyms,"Immunoglobulin G4-kappa, anti-(homo sapienspcsk9 (proprotein convertase subtilisin/kexin type 9, neural apoptosis-regulated convertase 1, NARC1, NARC-1, proprotein convertase 9, pc9)), humanized monoclonal antibody"
 2020-09-21T22:09:29Z,https://chem.nlm.nih.gov/chemidplus/rn/2145096-91-7,Synonyms,JS 002
@@ -3279,3 +3280,21 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T22:18:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7,Synonyms,6-((7-((1-Aminocyclopropyl)methoxy)-6-methoxyquinolin-4-yl)oxy)-n-methylnaphthalene-1-carboxamide
 2020-09-21T22:18:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7,Synonyms,Lucitanib
 2020-09-21T22:18:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7,Synonyms,UNII-PP449XA4BH
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Name of Substance,ONC 201
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Synonyms,NSC 350625
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Synonyms,ONC201
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Synonyms,TIC 10
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Synonyms,TIC10
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Synonyms,UNII-9U35A31JAI
+2020-09-21T22:27:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9,Systematic Name,"2,4,6,7,8,9-Hexahydro-4-((2-methylphenyl)methyl)-7-phenylmethyl)imidazo)(1,2-a)pyrido(3,4-e)pyrimidin-5(1H)-one"
+2020-09-21T22:28:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1923833-60-6,Name of Substance,BMS-986205
+2020-09-21T22:28:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1923833-60-6,Synonyms,"(2R)-N-(4-Chlorophenyl)-2-(4-(6-fluoro-4-quinolyl)cyclohexyl)propanamide, cis"
+2020-09-21T22:28:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1923833-60-6,Synonyms,"Cyclohexaneacetamide, N-(4-chlorophenyl)-4-(6-fluoro-4-quinolinyl)-alpha-methyl-, cis-(alphaR)-"
+2020-09-21T22:28:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1923833-60-6,Synonyms,UNII-0A7729F42K
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Results Name,Motolimod [USAN:INN]
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Name of Substance,Motolimod [USAN:INN]
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Synonyms,"3H-1-Benzazepine-4-carboxamide, 2-amino-n,N-dipropyl-8-(4-(1-pyrrolidinylcarbonyl)phenyl)-"
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Synonyms,Motolimod
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Synonyms,UNII-WP6PY72ZH3
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Synonyms,VTX 2337
+2020-09-21T22:28:25Z,https://chem.nlm.nih.gov/chemidplus/rn/926927-61-9,Synonyms,VTX-378
