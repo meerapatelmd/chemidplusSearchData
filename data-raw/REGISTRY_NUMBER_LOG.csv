@@ -331,3 +331,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T18:13:04Z,TG-1501,TG-1501,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TG-1501,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T18:13:30Z,Dacomitinib 30 mg tablet (IRB# 13-036),Dacomitinib30mgtablet(IRB#13-036),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Dacomitinib30mgtablet(IRB#13-036),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T18:13:53Z,RO4929097 Tablet,RO4929097Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RO4929097Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:14:13Z,TN-C-KLH15MCG+100MCGQS21,TN-C-KLH15MCG+100MCGQS21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TN-C-KLH15MCG+100MCGQS21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:14:24Z,ZW25,ZW25,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZW25,TRUE,FALSE,TRUE,N-Ethylpentylone hydrochloride,17763-02-9,https://chem.nlm.nih.gov/chemidplus/rn/17763-02-9
+2020-09-21T18:14:24Z,ZW25,ZW25,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZW25,TRUE,FALSE,TRUE,Zanidatamab,2169946-15-8,https://chem.nlm.nih.gov/chemidplus/rn/2169946-15-8
+2020-09-21T18:14:50Z,sAVOLItinib (AZD6094) Tablet,sAVOLItinib(AZD6094)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/sAVOLItinib(AZD6094)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:15:01Z,INTERLEUKIN-1 RECEPTOR 500MCG,INTERLEUKIN-1RECEPTOR500MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1RECEPTOR500MCG,TRUE,TRUE,FALSE,NA,NA,NA
