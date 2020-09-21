@@ -4546,3 +4546,54 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T22:09:36Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C418124,https://chem.nlm.nih.gov/chemidplus/rn/321963-33-1
 2020-09-21T22:09:36Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/YMS878LR7I,https://chem.nlm.nih.gov/chemidplus/rn/321963-33-1
 2020-09-21T22:09:36Z,NA,http://www.google.com/search?q=%22KFAGJPNFERWZJA-JKBXLQNXSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/321963-33-1
+2020-09-21T22:14:10Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/162520-00-5,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=162520-00-5,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Salirasib,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C093323,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=162520-00-5,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/MZH0OM550M,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:14:10Z,NA,http://www.google.com/search?q=%22WUILNKCFCLNXOK-CFBAGHHKSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/162520-00-5
+2020-09-21T22:16:29Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1386874-06-1,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1386874-06-1,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221386874-06-1%22+OR+%22%22+OR+LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221386874-06-1%22+OR+%22%22+OR+LY3023414,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000621566,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/C88817F47Y,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LY3023414+OR+Samotolisib,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LY3023414+OR+Samotolisib,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:29Z,NA,http://www.google.com/search?q=%22ACCFLVVUVBJNGT-AWEZNQCLSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1386874-06-1
+2020-09-21T22:16:42Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ACE-041+OR+Dalantercept,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1186210-24-1,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=ACE-041,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1186210-24-1,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=ace-041,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=ace-041,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22ace-041%22,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22ace-041%22,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22ace-041%22,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/EGC16R10V0,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ACE-041+OR+Dalantercept,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:16:42Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ACE-041+OR+Dalantercept,https://chem.nlm.nih.gov/chemidplus/rn/1186210-24-1
+2020-09-21T22:18:44Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Lucitanib,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1058137-23-7,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1058137-23-7,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1058137-23-7,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/PP449XA4BH,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Lucitanib,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lucitanib,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,Wikipedia,http://en.wikipedia.org/wiki/Lucitanib,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
+2020-09-21T22:18:44Z,NA,http://www.google.com/search?q=%22CUDVHEFYRIWYQD-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
