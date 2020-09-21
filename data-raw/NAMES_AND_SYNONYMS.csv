@@ -1612,6 +1612,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Synonyms,UNII-J4T82NDH7E
 2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Systematic Name,"4-Quinazolinamine, N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-"
 2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Name of Substance,CP-373943
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Name of Substance,XELIRI Regimen
 2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,2-(4-(3-Ethynylanilino)-7-(2-hydroxyethoxy)quinazolin-6-yl)oxyethanol
 2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,CP-373943
 2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,Erlotinib metabolite M12
@@ -1728,3 +1729,165 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,Narnatumab
 2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,RON8
 2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,UNII-R42YK40U9M
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Results Name,Capecitabine regimen with irinotecan
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,Capecitabine regimen with irinotecan
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,Capecitabine-irinotecan regimen
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,Capiri
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,Xeliri
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,XELIRI Protocol
+2020-09-21T19:42:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1100690-10-5,Synonyms,Xeloda / Camptosar regimen
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Results Name,Capecitabine regimen with oxaliplatin
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Name of Substance,Capecitabine regimen with oxaliplatin
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Capecitabine and Oxaliplatin
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Capecitabine mixture with oxaliplatin
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,CapeOx
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,COPOX
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Eloxatin / xeloda
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Oxaliplatin mixture with capecitabine
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Oxaliplatin regimen with Capecitabine
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Xelox
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Synonyms,Xelox RT
+2020-09-21T19:42:59Z,https://chem.nlm.nih.gov/chemidplus/rn/930113-49-8,Systematic Name,"Cytidine, 5'-deoxy-5-fluoro-N-((pentyloxy)carbonyl)-, mixt. with (SP-4-2)-((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)(ethanedioato(2-)-kappaO1,kappaO2)platinum"
+2020-09-21T19:45:35Z,https://chem.nlm.nih.gov/chemidplus/rn/314771-76-1,Name of Substance,"4,6-Quinazolinediamine, N4-(3-chloro-4-fluorophenyl)-7-(((3S)-tetrahydro-3-furanyl)oxy)-"
+2020-09-21T19:45:35Z,https://chem.nlm.nih.gov/chemidplus/rn/314771-76-1,Synonyms,"(S)-N4-(3-Chloro-4-fluorophenyl)-7-((tetrahydrofuran-3-yl)oxy)quinazoline-4,6-diamine"
+2020-09-21T19:45:35Z,https://chem.nlm.nih.gov/chemidplus/rn/314771-76-1,Synonyms,"4,6-Quinazolinediamine, N4-(3-chloro-4-fluorophenyl)-7-(((3S)-tetrahydro-3-furanyl)oxy)-"
+2020-09-21T19:45:35Z,https://chem.nlm.nih.gov/chemidplus/rn/314771-76-1,Synonyms,Afatinib metabolite M20
+2020-09-21T19:45:35Z,https://chem.nlm.nih.gov/chemidplus/rn/314771-76-1,Synonyms,UNII-Q58L53U44Y
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Name of Substance,Afatinib
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Name of Substance,Afatinib [USAN:INN]
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Name of Substance,BIBW 2992
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,MeSH Heading,Afatinib
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,(2E)-N-(4-(3-chloro-4-fluoroanilino)-7-(((3S)-oxolan-3-yl)oxy)quinoxazolin-6-yl)-4-(dimethylamino)but-2-enamide
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,Afatinib
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,BIBW 2992
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,BIBW2992
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,Tomtovok
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,Tovok
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Synonyms,UNII-41UD74L59M
+2020-09-21T19:45:42Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6,Systematic Name,"2-Butenamide, N-(4-((3-chloro-4-fluorophenyl)amino)-7-(((3S)-tetrahydro-3-furanyl)oxy)-6-quinazolinyl)-4-(dimethylamino)-, (2E)-"
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Name of Substance,Afatinib dimaleate [USAN]
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,(2E)-N-(4-((3-Chloro-4-fluorophenyl)amino)-7-(((3S)-tetrahydrofuran-3-yl)oxy)quinazolin- 6-yl)-4-(dimethylamino)but-2-enamide bis(hydrogen (2Z)-but-2-enedioate)
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,Afatinib dimaleate
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,BIBW 2992MA2
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,BIBW2992 MA2
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,Gilotrif
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,Giotrif
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,Tomtovok
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,Tovok
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Synonyms,UNII-V1T5K7RZ0B
+2020-09-21T19:45:49Z,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7,Systematic Name,"2-Butenamide, N-(4-((3-chloro-4-fluorophenyl)amino)-7-(((3S)-tetrahydro-3-furanyl)oxy)- 6-quinazolinyl)-4-(dimethylamino)-, (2E)-, (2Z)-2-butenedioate (1:2)"
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Name of Substance,Desmethyl dabrafenib
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,"Benzenesulfonamide, N-(3-(5-(2-amino-4-pyrimidinyl)-2-(1-methylethyl)-4-thiazolyl)-2-fluorophenyl)-2,6-difluoro-"
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,Dabrafenib metabolite M8
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,Desmethyl dabrafenib
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,GSK 2167542
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,GSK-2167542
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,GSK2167542
+2020-09-21T19:46:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1195765-47-9,Synonyms,UNII-3EHQ1EWE0D
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Name of Substance,Hydroxy dabrafenib
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,"Benzenesulfonamide, N-(3-(5-(2-amino-4-pyrimidinyl)-2-(2-hydroxy-1,1-dimethylethyl)-4-thiazolyl)-2-fluorophenyl)-2,6-difluoro-"
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,Dabrafenib metabolite M7
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,GSK 2285403
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,GSK-2285403
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,GSK2285403
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,Hydroxy dabrafenib
+2020-09-21T19:46:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1195767-77-1,Synonyms,UNII-2N549WYF8O
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Results Name,Phenoxarsine oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Name of Substance,Phenarsazine oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Name of Substance,Phenoxarsine oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Bis(phenoxyarsinyl) oxide"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Oxidiphenoxarsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Oxybis-10H-phenoxarsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Oxybisphenoxarsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Oxybisphenoxy-arsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10,10'-Oxydiphenoxarsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,10-10' Oxybisphenoxyarsine
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"10H-Phenoxarsine, 10,10'-oxybis-"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,2-27-00-00948 (Beilstein Handbook Reference)
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Bis(10-phenoxarsinyl)oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Bis(10-phenoxarsyl) oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Bis(10-phenoxyarsinyl) oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Bis(phenoxarsin-10-yl) ether
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,BRN 0055641
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,DID 47
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Durotex
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,EINECS 200-377-3
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,HSDB 6375
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,OBPA
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Phenoxaksine oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"Phenoxarsine, 10,10'-oxydi-"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,"Phenoxyarsine, 10,10'-oxybis-"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,SA 546
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,UNII-1R0GEE9L5Z
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinadine
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene (pesticide)
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene BP 5
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene BP 5-2
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene BS 1
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Synonyms,Vinyzene SB 1
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Systematic Names,"10H-Phenoxarsine, 10,10'-oxybis-"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Systematic Names,"10H-Phenoxarsine, 10,10'-oxybis- (9CI)"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Systematic Names,Diphenoxarsin-10-yl oxide
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Systematic Names,"Phenoxarsine, 10,10'-oxydi-"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Superlist Names,"10,10'-Oxybisphenoxarsine"
+2020-09-21T19:47:12Z,https://chem.nlm.nih.gov/chemidplus/rn/58-36-6,Superlist Names,"Phenoxarsine, 10,10'-oxydi-"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Name of Substance,"9,12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Name of Substance,Grape seed oil
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Name of Substance,Linoleic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Name of Substance,"Oils, grape seed"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,MeSH Heading,Linoleic Acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"9,12-Octadecadienoic acid, (Z,Z)-"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"9-cis,12-cis-Linoleic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"9Z,12Z-Linoleic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,AI3-11132
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"all-cis-9,12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,alpha-Linoleic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,CCRIS 650
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"cis,cis-9,12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"cis,cis-Linoleic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"cis-9,cis-12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,"cis-delta9,12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,EINECS 200-470-9
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Emersol 310
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Emersol 315
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Extra Linoleic 90
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,FEMA No. 3380
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Grape seed oil
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,HSDB 5200
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Linoleic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Linolic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,NSC 281243
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Polylin 515
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Polylin No. 515
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Telfairic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Unifac 6550
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,UNII-9KJL21T0QJ
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Systematic Names,"9,12-Octadecadienoic acid (9Z,12Z)-"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Systematic Names,"9,12-Octadecadienoic acid, (Z,Z)-"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Systematic Names,Linoleic acid
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Systematic Names,"Linoleic acid, pure"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Systematic Names,"Oils, grape"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Superlist Names,"(Z,Z)-9,12-Octadecadienoic acid"
+2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Superlist Names,Linoleic acid
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Name of Substance,Ontuxizumab [USAN:INN]
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Synonyms,MORAb-004
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Synonyms,Ontuxizumab
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Synonyms,Tem1 monoclonal antibody MORAb 004
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Synonyms,UNII-0M2XT000YC
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Systematic Names,"Immunoglobulin G1, anti-(human endosialin (tumor endothelial marker 1, CD248)); humanized mouse monoclonal MORAb-004 (410-phenylalanine(CH363S>F))gamma1 heavy chain (227-215')-disulfide with humanized mouse monoclonal MORAb-004 kappa light chain, dimer ("
+2020-09-21T19:47:53Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-62-9,Systematic Names,"Immunoglobulin G1, anti-(human protein TEM1 (tumor endothelial marker 1)) (human-mouse monoclonal MORAb-004 heavy chain), disulfide with human-mouse monoclonal MORAb-004 kappa-chain, dimer"
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Name of Substance,Alemtuzumab
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Name of Substance,Alemtuzumab [USAN:INN:BAN]
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,MeSH Heading,Alemtuzumab
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Alemtuzumab
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Campath
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Campath 1H
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Campath 1H/LDP03
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Campath-1H
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,HSDB 8177
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,"Immunoglobulin G 1 (human-rat monoclonal CAMPATH-1H gamma1-chain anti-human antigen CD52), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer. Molecular weight is approximately 150,000 daltons"
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,LDP-03
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,Lemtrada
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Synonyms,UNII-3A189DH42V
+2020-09-21T19:51:17Z,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0,Systematic Name,"Immunoglobulin G1, anti-(human CD52 (antigen)) (human-rat monoclonalCAMPATH-1H gamma1-chain), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer"
