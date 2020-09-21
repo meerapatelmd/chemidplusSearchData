@@ -4956,3 +4956,48 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T22:46:09Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""TH+302""%20OR%20evofosfamide",https://chem.nlm.nih.gov/chemidplus/rn/918633-87-1
 2020-09-21T22:46:09Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""TH+302""%20OR%20evofosfamide",https://chem.nlm.nih.gov/chemidplus/rn/918633-87-1
 2020-09-21T22:46:09Z,NA,http://www.google.com/search?q=%22UGJWRPJDTDGERK-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/918633-87-1
+2020-09-21T22:53:23Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Cergutuzumab%20amunaleukin,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1509916-03-3,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1509916-03-3,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Cergutuzumab+amunaleukin,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Cergutuzumab%20amunaleukin,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22Cergutuzumab+amunaleukin%22,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22Cergutuzumab+amunaleukin%22,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22Cergutuzumab+amunaleukin%22,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22Cergutuzumab+amunaleukin%22,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/48FCG62C25,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Cergutuzumab%20amunaleukin,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:53:23Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Cergutuzumab%20amunaleukin,https://chem.nlm.nih.gov/chemidplus/rn/1509916-03-3
+2020-09-21T22:54:58Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/640735-09-7,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=640735-09-7,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=MDX-060+OR+Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=MDX-060+OR+Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=MDX-060+OR+Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=MDX-060+OR+Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=MDX-060+OR+Iratumumab,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=640735-09-7,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:54:58Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/AYH22O1B1U,https://chem.nlm.nih.gov/chemidplus/rn/640735-09-7
+2020-09-21T22:57:11Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ptk+787,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/212142-18-2,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=212142-18-2,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PTK787+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PTK787+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=PTK787+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=PTK787+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=PTK787+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22212142-18-2%22+OR+%22%22+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22212142-18-2%22+OR+%22%22+OR+Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=212142-18-2,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=212142-18-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=212142-18-2,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=212142-18-2,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/V5FUB77031,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Vatalanib,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2
+2020-09-21T22:57:11Z,NA,http://www.google.com/search?q=%22LLDWLPRYLVPDTG-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/212142-18-2

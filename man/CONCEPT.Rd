@@ -5,7 +5,7 @@
 \alias{CONCEPT}
 \title{CONCEPT}
 \format{
-A data frame with 929 rows and 11 variables:
+A data frame with 929 rows and 10 variables:
 \describe{
 \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
@@ -17,7 +17,6 @@ A data frame with 929 rows and 11 variables:
 \item{\code{valid_start_date}}{double COLUMN_DESCRIPTION}
 \item{\code{valid_end_date}}{double COLUMN_DESCRIPTION}
 \item{\code{invalid_reason}}{character COLUMN_DESCRIPTION}
-\item{\code{normalized_name}}{character COLUMN_DESCRIPTION}
 }
 }
 \usage{
