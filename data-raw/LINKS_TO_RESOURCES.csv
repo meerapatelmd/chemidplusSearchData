@@ -4061,3 +4061,64 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T21:29:46Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=PLX4032+OR+PLX-4032,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0
 2020-09-21T21:29:46Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PLX4032+OR+PLX-4032,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0
 2020-09-21T21:29:46Z,NA,http://www.google.com/search?q=%22SUNCACOTKLUNHD-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0
+2020-09-21T21:32:30Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/246252-04-0,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=246252-04-0,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=PCI-123+OR+Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=246252-04-0,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/0V38NF6N89,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lutetium+texaphyrin,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,Wikipedia,http://en.wikipedia.org/wiki/Motexafin%20lutetium,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:32:30Z,NA,http://www.google.com/search?q=%22ZCISRIHHEXSWIR-WRIGXHCHSA-L%22,https://chem.nlm.nih.gov/chemidplus/rn/246252-04-0
+2020-09-21T21:34:42Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Abiraterone%20Acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=Abiraterone%20acetate#results,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Abiraterone+acetate+OR+154229-18-2+[rn],https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Abiraterone+acetate+OR+154229-18-2+[rn],https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Abiraterone+acetate+OR+154229-18-2+[rn],https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Abiraterone+acetate+OR+154229-18-2+[rn],https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22154229-18-2%22+OR+%22%22+OR+%22Abiraterone+acetate%22,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22154229-18-2%22+OR+%22%22+OR+%22Abiraterone+acetate%22,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,CA65,http://oehha.ca.gov/proposition-65/proposition-65-list,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000069501,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,DrugBank,http://www.drugbank.ca/drugs/DB05812,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=zytiga,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Abiraterone%20acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=154229-18-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=abiraterone%20acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/EM5OCB9YJ6,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Abiraterone+acetate,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:34:42Z,NA,http://www.google.com/search?q=%22UVIQSJCZCSLXRZ-UBUQANBQSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-21T21:35:45Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=bms906024,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1401066-79-2,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=BMS-906024,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1401066-79-2,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=bms+906024,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=bms+906024,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22bms+906024%22,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22bms+906024%22,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22bms+906024%22,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000606543,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1401066-79-2,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/DRL23N424R,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-21T21:35:45Z,NA,http://www.google.com/search?q=%22AYOUDDAETNMCBW-GSHUGGBRSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
