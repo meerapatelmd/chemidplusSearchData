@@ -1529,3 +1529,119 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T18:43:09Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=847925-91-1,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
 2020-09-21T18:43:09Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/KK8645V7LE,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
 2020-09-21T18:43:09Z,NA,http://www.google.com/search?q=%22OJPLJFIFUQPSJR-INIZCTEOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:52:06Z,ClinicalTrials.gov,"https://clinicaltrials.gov/search/intervention=""MDX-1106""+OR+""BMS+936558""+OR+""ONO+4538""+OR+nivolumab",https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/946414-94-4,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8256,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8256,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1164,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1164,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a614056.html,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a614056.html,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=946414-94-4,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22946414-94-4%22+OR+%22%22+OR+nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22946414-94-4%22+OR+%22%22+OR+nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,DrugBank,http://www.drugbank.ca/drugs/DB09035,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=946414-94-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/31YO63LBSN,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""MDX-1106""+OR+""BMS+936558""+OR+""ONO+4538""+OR+nivolumab",https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""MDX-1106""+OR+""BMS+936558""+OR+""ONO+4538""+OR+nivolumab",https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:52:06Z,Wikipedia,http://en.wikipedia.org/wiki/Nivolumab,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-21T18:53:03Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=bkt%20140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/664334-36-5,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=4F-benzoyl-TN14003,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=664334-36-5,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=bkt140,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C477728,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/DA9G065962,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:53:03Z,NA,http://www.google.com/search?q=%22JJVZSYKFCOBILL-MKMRYRNGSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5
+2020-09-21T18:54:43Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1797030-22-8,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8
+2020-09-21T18:54:43Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1797030-22-8,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8
+2020-09-21T18:54:43Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/K3YT3PC74T,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8
+2020-09-21T18:54:43Z,NA,http://www.google.com/search?q=%22CNFXJGPXGDNUHJ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8
+2020-09-21T18:54:50Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/338992-12-4,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=338992-12-4,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22N-Desmethyl+vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=+%22N-Desmethyl%20vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22+%22N-Desmethyl%20vandetanib%22%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22+%22N-Desmethyl%20vandetanib%22%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22+%22N-Desmethyl%20vandetanib%22%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22338992-12-4%22+OR+%22%22+OR+%22N-Desmethyl%20vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22338992-12-4%22+OR+%22%22+OR+%22N-Desmethyl%20vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=338992-12-4,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/K4I43R5TNP,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=+%22N-Desmethyl%20vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=+%22N-Desmethyl%20vandetanib%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:54:50Z,NA,http://www.google.com/search?q=%22HTCPERSEGREUFC-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4
+2020-09-21T18:55:53Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/24968-67-0,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=24968-67-0,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2224968-67-0%22+OR+%22%22+OR+Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2224968-67-0%22+OR+%22%22+OR+Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=24968-67-0,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/180GXZ85US,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:55:53Z,NA,http://www.google.com/search?q=%22ZZRLHFZFFIHTLN-FFZBVKAFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0
+2020-09-21T18:56:00Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/31959-87-2,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:00Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=31959-87-2,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:00Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:00Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=31959-87-2,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:00Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/7NTU241O1D,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:00Z,NA,http://www.google.com/search?q=%22WTJBHEZHUNHLJR-RRFWXCNOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2
+2020-09-21T18:56:07Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/7059-23-6,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=7059-23-6,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Mitoguazone+dihydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=7059-23-6,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=7059-23-6&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.027.588,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=7059-23-6,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/NNI098FX5Q,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=7059-23-6,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:07Z,NA,http://www.google.com/search?q=%22VVTBQCXLZQYGQE-JWICLDENSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6
+2020-09-21T18:56:52Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=PROSTVAC-VF/TRICOM,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/947602-09-7,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=PROSTVAC,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=947602-09-7,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PROSTVAC-VF/TRICOM,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PROSTVAC-VF/TRICOM,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22PROSTVAC-VF/TRICOM%22,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22PROSTVAC-VF/TRICOM%22,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7
+2020-09-21T18:56:52Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C588274,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7

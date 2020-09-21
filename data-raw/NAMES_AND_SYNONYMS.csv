@@ -1122,3 +1122,69 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T18:43:08Z,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1,Synonyms,RO4929097
 2020-09-21T18:43:08Z,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1,Synonyms,UNII-KK8645V7LE
 2020-09-21T18:43:08Z,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1,Systematic Name,"Propanediamide, N-((7S)-6,7-dihydro-6-oxo-5H-dibenz(b,d)azepin-7-yl)-2,2-dimethyl-N'-(2,2,3,3,3-pentafluoropropyl)-"
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Results Name,Nivolumab [USAN:INN]
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Name of Substance,MDX-1106
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Name of Substance,Nivolumab
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Name of Substance,Nivolumab [USAN:INN]
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,MeSH Heading,Nivolumab
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,Anti-PD-1 human monoclonal antibody MDX-1106.
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,BMS 936558
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,BMS-936558
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,HSDB 8256
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,MDX 1106
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,MDX-1106
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,Nivolumab
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,ONO 4538
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,ONO-4538
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,Opdivo
+2020-09-21T18:52:05Z,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4,Synonyms,UNII-31YO63LBSN
+2020-09-21T18:53:02Z,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5,Name of Substance,BL-8040
+2020-09-21T18:53:02Z,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5,Synonyms,4F-benzoyl-TN14003
+2020-09-21T18:53:02Z,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5,Synonyms,BKT 140
+2020-09-21T18:53:02Z,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5,Synonyms,TF 14016
+2020-09-21T18:53:02Z,https://chem.nlm.nih.gov/chemidplus/rn/664334-36-5,Synonyms,UNII-DA9G065962
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Name of Substance,N-Oxide vandetanib
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,"4-Quinazolinamine, N-(4-bromo-2-fluorophenyl)-6-methoxy-7-((1-methyl-1-oxido-4-piperidinyl)methoxy)-"
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,M447882
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,N-Oxide metabolite of vandetanib
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,N-Oxide vandetanib
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,N-Oxide vandetanib metabolite
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,N-Oxide ZD6474
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,UNII-K3YT3PC74T
+2020-09-21T18:54:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1797030-22-8,Synonyms,Vandetanib N-oxide
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Name of Substance,N-Desmethyl vandetanib
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,4-(4-Bromo-2-fluoroanilino)-6-methoxy-7-((piperidin-4-yl)methoxy)quinazoline
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,"4-Quinazolinamine, N-(4-bromo-2-fluorophenyl)-6-methoxy-7-(4-piperidinylmethoxy)-"
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,J1.720.299E
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,M382558
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,N-Desmethyl metabolite of vandetanib
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,N-Desmethyl vandetanib
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,N-Desmethyl-ZD6474
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,N-Desmethylvandetanib
+2020-09-21T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,Synonyms,UNII-K4I43R5TNP
+2020-09-21T18:55:52Z,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0,Name of Substance,Mitoguazone dihydrochloride monohydrate
+2020-09-21T18:55:52Z,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0,Synonyms,Methyl gag dihydrochloride monohydrate
+2020-09-21T18:55:52Z,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0,Synonyms,Methylglyoxal bis(guanylhydrazone) dihydrochloride monohydrate
+2020-09-21T18:55:52Z,https://chem.nlm.nih.gov/chemidplus/rn/24968-67-0,Synonyms,UNII-180GXZ85US
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Name of Substance,Mitoguazone dihydrochloride dihydrate
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Synonyms,"1,1'-(Methylethanedilidenedinitrilo)biguanidine dihydrochloride dihydrate"
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Synonyms,NSC 32946
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Synonyms,UNII-7NTU241O1D
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Systematic Names,"Guanidine, 1,1'-((methylethanediylidene)dinitrilo)bis-, dihydrochloride, dihydrate"
+2020-09-21T18:55:59Z,https://chem.nlm.nih.gov/chemidplus/rn/31959-87-2,Systematic Names,"Hydrazinecarboximidamide, 2,2'-(1-methyl-1.2-ethanediylidene)bis-, dihydrochloride, dihydrate"
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Name of Substance,Mitoguazone dihydrochloride
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,AI3-50536
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,EINECS 230-347-5
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,Methyl glyoxal bis(amidinohydrazone) dihydrochloride
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,Methylglyoxal bis(guanylhydrazone) dihydrochloride
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,MGGH
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,Mitoguazone HCl
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,NSC 32946
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,NSC 69432
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Synonyms,UNII-NNI098FX5Q
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Systematic Names,"3,3'-(1-Methylethane-1,2-diylidene)dicarbazamidine dihydrochloride"
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Systematic Names,"Guanidine, 1,1'-((methylethanediylidene)dinitrilo)di-, dihydrochloride"
+2020-09-21T18:56:06Z,https://chem.nlm.nih.gov/chemidplus/rn/7059-23-6,Systematic Names,"Hydrazinecarboximidamide, 2,2'-(1-methyl-1,2-ethanediylidene)bis-, dihydrochloride (9CI)"
+2020-09-21T18:56:51Z,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7,Synonyms,Prostvac
+2020-09-21T18:56:51Z,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7,Synonyms,Prostvac-VF/Tricom
+2020-09-21T18:56:51Z,https://chem.nlm.nih.gov/chemidplus/rn/947602-09-7,Systematic Name,Prostvac-VF-Tricom
