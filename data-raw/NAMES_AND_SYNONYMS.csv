@@ -2731,3 +2731,176 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T21:18:28Z,https://chem.nlm.nih.gov/chemidplus/rn/209783-80-2,Synonyms,SNDX-275
 2020-09-21T21:18:28Z,https://chem.nlm.nih.gov/chemidplus/rn/209783-80-2,Synonyms,UNII-1ZNY4FKK9H
 2020-09-21T21:18:28Z,https://chem.nlm.nih.gov/chemidplus/rn/209783-80-2,Systematic Name,"Carbamic acid, ((4-(((2-aminophenyl)amino)carbonyl)phenyl)methyl)-, 3-pyridinylmethyl ester"
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Name of Substance,Indibulin
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Name of Substance,Indibulin [USAN:INN]
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,2-(1-(4-Chlorophenylmethyl)-1H-indol-3-yl)-2-oxo-N-(pyridin-4-yl)acetamide
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,D 24851
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,D-24851
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,Indibulin
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,UNII-80K4H2RB8P
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Synonyms,ZIO-301
+2020-09-21T21:22:03Z,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3,Systematic Name,"1H-Indole-3-acetamide, 1-((4-chlorophenyl)methyl)-alpha-oxo-N-4-pyridinyl-"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Name of Substance,Isolan
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropil-3-metil-1H-pirazol-5-il)-N,N-dimetil-carbammato"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropil-3-metil-1H-pirazol-5-il)-N,N-dimetil-carbammato [Italian]"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropyl-3-methyl-1H-pyrazol-5-yl)-N,N-dimethyl-carbamat"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropyl-3-methyl-1H-pyrazol-5-yl)-N,N-dimethyl-carbamat [German]"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropyl-3-methyl-1H-pyrazol-5-yl)-N,N-dimethylcarbamaat"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"(1-Isopropyl-3-methyl-1H-pyrazol-5-yl)-N,N-dimethylcarbamaat [Dutch]"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,1-Isopropyl-3-methyl-5-pyrazolyl dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,1-Isopropyl-3-methyl-5-pyrazolylester kyseliny dimethylkarbaminove
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,1-Isopropyl-3-methyl-5-pyrazolylester kyseliny dimethylkarbaminove [Czech]
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,1-Isopropyl-3-methylpyrazolyl-(5)-dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,5-23-10-00529 (Beilstein Handbook Reference)
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,5-Methyl-2-isopropyl-3-pyrazolyl dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,AI3-19060
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,BRN 0201858
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"Carbamic acid, dimethyl-, 1-isopropyl-3-methylpyrazol-5-yl ester"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"Carbamic acid, dimethyl-, 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Caswell No. 511D
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethyl-5-(1-isopropyl-3-methyl-pyrazolyl)-carbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamate d'L-isopropyl 3-methyl 5-pyrazolyle
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamate d'L-isopropyl 3-methyl 5-pyrazolyle [French]
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamate de L-isopropyl 3-methyl 5-pyrazolyle
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamate de L-isopropyl 3-methyl 5-pyrazolyle [French]
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamic acid 1-isopropyl-3-methylpyrazol-5-yl ester
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Dimethylcarbamic acid 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,EINECS 204-318-2
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"ENT 19,060"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,EPA Pesticide Chemical Code 511500
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,G 23611
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Geigy G-23611
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,HSDB 31
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Isolan
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Isolan (pesticide)
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Isolane
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Isolane [French]
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Isopropylmethylpyrazolyl dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,NSC 406375
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,OMS 62
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Primin
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,"Pyrazol-5-ol, 1-isopropyl-3-methyl-, dimethylcarbamate"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,Saolan
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Synonyms,UNII-K7716TIH63
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Systematic Names,1-Isopropyl-3-methylpyrazol-5-yl dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Systematic Names,"Carbamic acid, dimethyl-, 1-isopropyl-3-methylpyrazol-5-yl ester"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Systematic Names,"Carbamic acid, dimethyl-, 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Systematic Names,"Carbamic acid, dimethyl-, 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester (9CI)"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Systematic Names,Dimethylcarbamic acid 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Superlist Names,"Carbamic acid, dimethyl-, 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester"
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Superlist Names,Isolan
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Superlist Names,Isopropylmethylpyrazolyl dimethylcarbamate
+2020-09-21T21:22:27Z,https://chem.nlm.nih.gov/chemidplus/rn/119-38-0,Superlist Names,RCRA waste no. P192
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Name of Substance,Dimetan
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimethyl-3-oxo-cyclohex-1-en-yl)-N,N-dimethyl-carbamaat"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimethyl-3-oxo-cyclohex-1-en-yl)-N,N-dimethyl-carbamaat [Dutch]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimethyl-3-oxo-cyclohex-1-en-yl)-N,N-dimethyl-carbamat"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimethyl-3-oxo-cyclohex-1-en-yl)-N,N-dimethyl-carbamat [German]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimetil-3-oxo-cicloes-1-en-il)-N,N-dimetil-carbammato"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"(5,5-Dimetil-3-oxo-cicloes-1-en-il)-N,N-dimetil-carbammato [Italian]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"2-Cyclohexen-1-one, 3-hydroxy-5,5-dimethyl-, dimethylcarbamate"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,3-08-00-00048 (Beilstein Handbook Reference)
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-3-oxo-1-cyclohexen-1-yl dimethylcarbamate"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-3-oxo-1-cyklohexenylester kyseliny dimethylkarbaminove"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-3-oxo-1-cyklohexenylester kyseliny dimethylkarbaminove [Czech]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-3-oxocyclohex-1-enyl dimethylcarbamate"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-4,5-dihydro-3-resorcyl-dimethyl-carbamat"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-4,5-dihydro-3-resorcyl-dimethyl-carbamat [German]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-dihydroresorcinol-N,N-dimethylcarbamat"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyl-dihydroresorcinol-N,N-dimethylcarbamat [German]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"5,5-Dimethyldihydroresorcinol dimethylcarbamate"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,AI3-24728
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,BRN 3280184
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,Dimetan
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"Dimethylcarbamate de 5,5-dimethyl dihydroresorcinol"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"Dimethylcarbamate de 5,5-dimethyl dihydroresorcinol [French]"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,EINECS 204-525-8
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,"ENT 24,728"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,G 19258
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,Geigy 19258
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Synonyms,UNII-215ZV6RPXL
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Systematic Names,"5,5-Dimethyl-3-oxocyclohex-1-enyl dimethylcarbamate"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Systematic Names,"Carbamic acid, dimethyl-, 5,5-dimethyl-3-oxo-1-cyclohexen-1-yl ester"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Systematic Names,"Carbamic acid, dimethyl-, 5,5-dimethyl-3-oxo-1-cyclohexene-1-yl ester (9CI)"
+2020-09-21T21:22:34Z,https://chem.nlm.nih.gov/chemidplus/rn/122-15-6,Systematic Names,"Carbamic acid, dimethyl-, ester with 3-hydroxy-5,5-dimethyl-2-cyclohexen-1-one"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Name of Substance,Mesityl oxide
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,"2,2-Dimethylvinyl methyl ketone"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,2-Methyl-2-pentenone-4
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,2-Methyl-4-oxo-2-pentene
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,3-Isohexen-2-one
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,"3-Penten-2-one, 4-methyl-"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,4-01-00-03471 (Beilstein Handbook Reference)
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,4-Methyl-3-penten-2-on
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,"4-Methyl-3-penten-2-on [Dutch, German]"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,4-Methyl-3-penten-2-one
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,4-Metil-3-penten-2-one
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,4-Metil-3-penten-2-one [Italian]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,"Acetone, isopropylidene-"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,AI3-07702
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,BRN 1361550
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Caswell No. 547
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,EC 205-502-5
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,EINECS 205-502-5
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,EPA Pesticide Chemical Code 052401
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,FEMA No. 3368
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,FEMA Number 3368
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,HSDB 1195
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Isobutenyl methyl ketone
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Isopropylidene acetone
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Isopropylideneacetone
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Mesityl oxide
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Mesityloxid
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Mesityloxid [German]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Mesityloxyde
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Mesityloxyde [Dutch]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,"Methyl 2,2-dimethylvinyl ketone"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Methyl 2-methyl-1-propenyl ketone
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Methyl isobutenyl ketone
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,MIBK
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,NSC 38717
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Ossido di mesitile
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Ossido di mesitile [Italian]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Oxyde de mesityle
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,Oxyde de mesityle [French]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Synonyms,UNII-77LAC84669
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Systematic Names,"3-Penten-2-one, 4-methyl-"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Systematic Names,4-Methylpent-3-en-2-one
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Superlist Names,"3-Penten-2-one, 4-methyl-"
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Superlist Names,4-Methyl-3-penten-2-one
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Superlist Names,Mesityl oxide
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Superlist Names,Mesityl oxide [UN1229]  [Flammable liquid]
+2020-09-21T21:22:41Z,https://chem.nlm.nih.gov/chemidplus/rn/141-79-7,Superlist Names,UN1229
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Name of Substance,Taselisib [USAN:INN]
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Synonyms,GDC 0032
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Synonyms,GDC-0032
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Synonyms,Taselisib
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Synonyms,Taselisib [INN]
+2020-09-21T21:23:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4,Synonyms,UNII-L08J2O299M
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Results Name,9-Amino-20(RS)-camptothecin
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Name of Substance,10-Aminocamptothecin
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Synonyms,(+-)-9-Aminocamptothecine
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Synonyms,9-Amino-20(RS)-camptothecin
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Synonyms,"9-Aminocamptothecin (R,S)"
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Synonyms,CCRIS 9381
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Synonyms,NSC 629971
+2020-09-21T21:24:13Z,https://chem.nlm.nih.gov/chemidplus/rn/130194-90-0,Systematic Name,"1H-Pyrano(3',4':6,7)indolizino(1,2-b)quinoline-3,14(4H,12H)-dione, 10-amino-4-ethyl-4-hydroxy-, (+-)-"
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Results Name,9-Amino-20(S)-camptothecin
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Name of Substance,9-Aminocamptothecin
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,"(S)-10-Amino-4-ethyl-4-hydroxy-1H-pyrano(3;,4':6,7)indolizino(1,2-b)quinoline-3,14(4H,12H)-dione"
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,9-Amino-20(S)-camptothecin
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,9-Aminocamptothecin
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,"Camptothecin, 9-amino-"
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,NSC 603071
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Synonyms,UNII-5MB77ICE2Q
+2020-09-21T21:24:20Z,https://chem.nlm.nih.gov/chemidplus/rn/91421-43-1,Systematic Name,"1H-Pyrano(3;,4':6,7)indolizino(1,2-b)quinoline-3,14(4H,12H)-dione, 10-amino-4-ethyl-4-hydroxy-, (S)-"
+2020-09-21T21:26:54Z,https://chem.nlm.nih.gov/chemidplus/rn/957054-33-0,Name of Substance,Pictilisib bismesylate
+2020-09-21T21:26:54Z,https://chem.nlm.nih.gov/chemidplus/rn/957054-33-0,Synonyms,GDC-0941 dimesylate
+2020-09-21T21:26:54Z,https://chem.nlm.nih.gov/chemidplus/rn/957054-33-0,Synonyms,Pictilisib bismesylate
+2020-09-21T21:26:54Z,https://chem.nlm.nih.gov/chemidplus/rn/957054-33-0,Synonyms,"Thieno(3,2-d)pyrimidine, 2-(1H-indazol-4-yl)-6-((4-(methylsulfonyl)-1-piperazinyl)methyl)-4-(4-morpholinyl)-, methanesulfonate (1:2)"
+2020-09-21T21:26:54Z,https://chem.nlm.nih.gov/chemidplus/rn/957054-33-0,Synonyms,UNII-G3D7HF2GS9
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Name of Substance,PLX4032
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Synonyms,PLX 4032
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Synonyms,PLX4032
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Synonyms,R7204
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Synonyms,RG7204
+2020-09-21T21:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0,Synonyms,RO5185426
