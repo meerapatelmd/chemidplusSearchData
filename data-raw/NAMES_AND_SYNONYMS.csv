@@ -2338,3 +2338,53 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Synonyms,Voreloxin
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Synonyms,Vosaroxin
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Systematic Name,"1,8-Naphthyridine-3-carboxylic acid, 1,4-dihydro-7-(3-methoxy-4-(methylamino)-1-pyrrolidinyl)-4-oxo-1-(2-thiazolyl)-, (3S-trans)-"
+2020-09-21T20:25:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1102-95-0,Name of Substance,1a-Acetylmitomycin C
+2020-09-21T20:25:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1102-95-0,Synonyms,BRN 0590954
+2020-09-21T20:25:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1102-95-0,Synonyms,"Mitomycin C, acetyl-"
+2020-09-21T20:25:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1102-95-0,Systematic Name,"Azirino(2',3':3,4)pyrrolo(1,2-a)indole-4,7-dione, 1,1a,2,8,8a,8b-hexahydro-1-acetyl-6-amino-8-(hydroxymethyl)-8a-methoxy-5-methyl-, carbamate"
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Name of Substance,Mitomycin A
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Synonyms,HSDB 3418
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Synonyms,Mitomycin A
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Synonyms,NSC 75986
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Synonyms,UNII-87TMG6FJHV
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Systematic Names,"Azirino(2',3':3,4)pyrrolo(1,2-a)indole-4,7-dione, 1,1a,2,8,8a,8b-hexahydro-8-(hydroxymethyl)-6,8a-dimethoxy-5-methyl-, carbamate (ester)"
+2020-09-21T20:25:27Z,https://chem.nlm.nih.gov/chemidplus/rn/4055-39-4,Systematic Names,"Azirino(2',3':3,4)pyrrolo(1,2-a)indole-4,7-dione, 8-(((aminocarbonyl)oxy)methyl)-1,1a,2,8,8a,8b-hexahydro-6,8a-dimethoxy-5-methyl-, (1aR-(1aalpha,8beta,8aalpha,8balpha))- (9CI)"
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Name of Substance,Lonafarnib
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Name of Substance,Lonafarnib [USAN:INN]
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,"(+)-4-(2-(4-(11R)-3,10-Dibromo-8-chloro-6,11-dihydro-5H-benzo(5,6)cyclohepta(1,2-b)pyridin-11-yl)-piperidin-1-yl))-2-oxoethyl)-piperidine-1-carboxamide"
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,"1-Piperidinecarboxamide, 4-(2-(4-((11R-3,10-dibromo-8-chloro-6,11-dihydro-5H-benzo(5,6)cyclohepta(1,2-b)pyridin-11-yl)-1-piperidinyl)-2-oxoethyl)-"
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,"4-(2-(4-(8-Chloro-3,10-dibromo-6,11-dihydro-5H-benzo-(5,6)-cyclohepta(1,2-b)-pyridin-11(R)-yl)-1-piperidinyl)-2-oxo-ethyl)-1-piperidinecarboxamide"
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,Lonafarnib
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,Sarasar
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,SCH 66336
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,SCH-66336
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,SCH66336
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Synonyms,UNII-IOW153004F
+2020-09-21T20:26:46Z,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2,Systematic Name,"1-Piperidinecarboxamide, 4-(2-(4-((11R)-3,10-dibromo-8-chloro-6,11-dihydro-5H-benzo(5,6)cyclohepta(1,2-b)pyridin-11-yl)-1-piperidinyl)-2-oxoethyl)-"
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Name of Substance,Neratinib dimethylamine N-oxide
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,"2-Butenamide, N-(4-((3-chloro-4-(2-pyridinylmethoxy)phenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethyloxidoamino)-, (2E)-"
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,HKI-272 dimethylamine N-oxide
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,Neratinib dimethylamine N-oxide
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,Neratinib metabolite M7
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,UNII-QUH15J9Q1Q
+2020-09-21T20:28:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1376615-55-2,Synonyms,WYE-121592
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Name of Substance,Neratinib pyridine N-oxide
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,"2-Butenamide, N-(4-((3-chloro-4-((1-oxido-2-pyridinyl)methoxy)phenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethylamino)-, (2E)-"
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,HKI-272 pyridine N-oxide
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,Neratinib metabolite M3
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,Neratinib pyridine N-oxide
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,UNII-PO13R2U9YB
+2020-09-21T20:28:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1376619-94-1,Synonyms,WYE-121529
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Name of Substance,Neratinib maleate
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,"2-Butenamide, N-(4-((3-chloro-4-(2-pyridinylmethoxy)phenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethylamino)-, (2E)-, (2Z)-2-butenedioate (1:1)"
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,hki-272 maleate
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,Neratinib maleate
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,Neratinib maleate [MI]
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,NERLYNX
+2020-09-21T20:28:18Z,https://chem.nlm.nih.gov/chemidplus/rn/915942-22-2,Synonyms,UNII-9RM7XY23ZS
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Name of Substance,Panobinostat lactate
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,(2E)-N-Hydroxy-3-(4-(((2-(2-methyl-1H-indol-3-yl)ethyl)amino(methyl)phenyl)prop-2-enamide mono((2RS)-2-hydroxypropanoate)
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,Panobinostat lactate
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,Panobinostat lactate [JAN]
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,"Propanoic acid, 2-hydroxy-, compd. with (2E)-N-hydroxy-3-(4-(((2-(2-methyl-1H-indol-3-yl)ethyl)amino)methyl)phenyl)-2-propenamide (1:1)"
+2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,UNII-HN0T99OO4V

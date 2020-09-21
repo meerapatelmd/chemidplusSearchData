@@ -5,7 +5,7 @@
 \alias{CONCEPT_DEPRECATION}
 \title{CONCEPT_DEPRECATION}
 \format{
-A data frame with 27026 rows and 4 variables:
+A data frame with 54052 rows and 4 variables:
 \describe{
 \item{\code{cd_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{principle_concept_id}}{double COLUMN_DESCRIPTION}
