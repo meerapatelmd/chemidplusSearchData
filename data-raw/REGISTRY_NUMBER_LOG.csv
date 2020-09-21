@@ -36,6 +36,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T16:38:11Z,HER-2,HER-2,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HER-2,TRUE,FALSE,TRUE,"1,2-Propanediol, 3-(o-tolyloxy)-, diacetate",63991-86-6,https://chem.nlm.nih.gov/chemidplus/rn/63991-86-6
 2020-09-21T16:38:11Z,HER-2,HER-2,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HER-2,TRUE,FALSE,TRUE,Coprelotamab,2348469-84-9,https://chem.nlm.nih.gov/chemidplus/rn/2348469-84-9
 2020-09-21T16:38:51Z,LY3321367 INVEST,LY3321367INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3321367INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:02:13Z,"MDL 73,147EF","MDL73,147EF",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/MDL73,147EF",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T16:39:14Z,Tafinlar,Tafinlar,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tafinlar,TRUE,FALSE,TRUE, Dabrafenib [USAN:INN],1195765-45-7,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
 2020-09-21T16:39:31Z,ST1481 0.5 mg Capsule (IRB#04-058),ST14810.5mgCapsule(IRB#04-058),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ST14810.5mgCapsule(IRB#04-058),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T16:39:41Z,Tyrosinase:368-376(370D) (IRB#00-142),Tyrosinase:368-376(370D)(IRB#00-142),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tyrosinase:368-376(370D)(IRB#00-142),TRUE,TRUE,FALSE,NA,NA,NA
@@ -191,6 +192,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T17:09:45Z,NERAtinib 40 mg oral tablet,NERAtinib40mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NERAtinib40mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T17:09:56Z,INCB054828,INCB054828,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INCB054828,TRUE,FALSE,TRUE, Pemigatinib [USAN:INN],1513857-77-6,https://chem.nlm.nih.gov/chemidplus/rn/1513857-77-6
 2020-09-21T17:10:09Z,veneTOCLAX (GDC-0199/ABT-199) Oral TABLET INVEST,veneTOCLAX(GDC-0199/ABT-199)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/veneTOCLAX(GDC-0199/ABT-199)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:10:34Z,HTI-1066,HTI-1066,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HTI-1066,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T17:10:20Z,IBRUTinib or Placebo Oral INVEST,IBRUTiniborPlaceboOralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IBRUTiniborPlaceboOralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T17:10:31Z,Hu M195 MoAB Irb# 00-072,HuM195MoABIrb#00-072,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HuM195MoABIrb#00-072,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T17:10:42Z,BCG Tokyo-172 Strain (intravesical) INVEST,BCGTokyo-172Strain(intravesical)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BCGTokyo-172Strain(intravesical)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
@@ -1091,3 +1093,48 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T21:00:51Z,Montanide +/- WT-1 Peptide Vaccine INVEST,Montanide+/-WT-1PeptideVaccineINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Montanide+/-WT-1PeptideVaccineINVEST,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T21:01:07Z,"BAY 43-9006 Tablet INV, 200 MG","BAY43-9006TabletINV,200MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/BAY43-9006TabletINV,200MG",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T21:01:24Z,CML VAX(6PEPX100MCGPEP)+QS21,CMLVAX(6PEPX100MCGPEP)+QS21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CMLVAX(6PEPX100MCGPEP)+QS21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:02:24Z,ICI D1694 5.5MG IVPB 50ML D5W,ICID16945.5MGIVPB50MLD5W,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ICID16945.5MGIVPB50MLD5W,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:02:35Z,Imatinib Mesylate Oral,ImatinibMesylateOral,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ImatinibMesylateOral,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:02:46Z,Nilutamide,Nilutamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Nilutamide,TRUE,FALSE,TRUE, Nilutamide [USAN:INN:BAN],63612-50-0,https://chem.nlm.nih.gov/chemidplus/rn/63612-50-0
+2020-09-21T21:02:59Z,"OSI-774 (IRB#02-010) Tablet INV, 25 mg","OSI-774(IRB#02-010)TabletINV,25mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(IRB#02-010)TabletINV,25mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:03:10Z,*Ceritinib Tab,*CeritinibTab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/*CeritinibTab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:03:21Z,Captisol Enabled Melphalan INVEST,CaptisolEnabledMelphalanINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CaptisolEnabledMelphalanINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:03:37Z,Arsenic Trioxide INJ,ArsenicTrioxideINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ArsenicTrioxideINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:03:48Z,AZD7762 (IRB#07-057),AZD7762(IRB#07-057),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD7762(IRB#07-057),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:04:00Z,IRB 18-427: zanubrutinib,IRB18-427:zanubrutinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB18-427:zanubrutinib,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:04:10Z,13-CIS RETINOIC ACID / PLACEBO,13-CISRETINOICACID/PLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/13-CISRETINOICACID/PLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:04:21Z,BB-2516 CAPSULES,BB-2516CAPSULES,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BB-2516CAPSULES,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:04:32Z,IPILIMUmab or Placebo (IRB#09-126),IPILIMUmaborPlacebo(IRB#09-126),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPILIMUmaborPlacebo(IRB#09-126),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:04:49Z,pazopanib/placebo (50 mg/1 ml),pazopanib/placebo(50mg/1ml),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/pazopanib/placebo(50mg/1ml),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:00Z,Clofarabine (IRB#02-052),Clofarabine(IRB#02-052),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clofarabine(IRB#02-052),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:10Z,Zen003694,Zen003694,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zen003694,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:21Z,Midostaurin Capsule,MidostaurinCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MidostaurinCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:32Z,"SU011248 (Sunitinib) (IRB#06-081) Cap, 12.5 mg","SU011248(Sunitinib)(IRB#06-081)Cap,12.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(Sunitinib)(IRB#06-081)Cap,12.5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:43Z,PREXASERTIB (LY2606368),PREXASERTIB(LY2606368),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PREXASERTIB(LY2606368),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:05:55Z,OMP-59R5,OMP-59R5,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OMP-59R5,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:06:05Z,ZANUBRUTINIB,ZANUBRUTINIB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZANUBRUTINIB,TRUE,FALSE,TRUE, Zanubrutinib [USAN:INN],1691249-45-2,https://chem.nlm.nih.gov/chemidplus/rn/1691249-45-2
+2020-09-21T21:06:19Z,"ZD6474 (IRB#06-012) Tablet INV, 300 mg","ZD6474(IRB#06-012)TabletINV,300mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/ZD6474(IRB#06-012)TabletINV,300mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:06:30Z,Pemetrexed INVEST,PemetrexedINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PemetrexedINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:06:40Z,GM2KLH30+GD2KLH30+QS21 100MCG,GM2KLH30+GD2KLH30+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2KLH30+GD2KLH30+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:06:52Z,M-195 BLINDED DOSE,M-195BLINDEDDOSE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/M-195BLINDEDDOSE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:07:08Z,ZD6474 vs ZD1839 Part A Reduced Dose Kit 100 mg vs,ZD6474vsZD1839PartAReducedDoseKit100mgvs,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD6474vsZD1839PartAReducedDoseKit100mgvs,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:07:19Z,KW-2450,KW-2450,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KW-2450,TRUE,FALSE,TRUE,KW-2450 free base,904899-25-8,https://chem.nlm.nih.gov/chemidplus/rn/904899-25-8
+2020-09-21T21:07:19Z,KW-2450,KW-2450,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KW-2450,TRUE,FALSE,TRUE,KW-2450,1360433-93-7,https://chem.nlm.nih.gov/chemidplus/rn/1360433-93-7
+2020-09-21T21:07:44Z,"BEC-2-KLH(2.5MG),+BCG","BEC-2-KLH(2.5MG),+BCG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/BEC-2-KLH(2.5MG),+BCG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:07:55Z,IMAB362,IMAB362,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMAB362,TRUE,FALSE,TRUE, Zolbetuximab,1496553-00-4,https://chem.nlm.nih.gov/chemidplus/rn/1496553-00-4
+2020-09-21T21:08:13Z,NIROGACESTAT (PF-03084014),NIROGACESTAT(PF-03084014),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NIROGACESTAT(PF-03084014),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:08:24Z,CA-4948 Tablet,CA-4948Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CA-4948Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:08:35Z,Cabozatinib,Cabozatinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cabozatinib,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:08:45Z,LY573636 (IRB#03-060),LY573636(IRB#03-060),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY573636(IRB#03-060),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:08:56Z,TEMSIROLIMUS,TEMSIROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMSIROLIMUS,TRUE,FALSE,TRUE,36-Hydroxyl temsirolimus,876060-65-0,https://chem.nlm.nih.gov/chemidplus/rn/876060-65-0
+2020-09-21T21:08:56Z,TEMSIROLIMUS,TEMSIROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMSIROLIMUS,TRUE,FALSE,TRUE,35-Hydroxyl temsirolimus,876060-66-1,https://chem.nlm.nih.gov/chemidplus/rn/876060-66-1
+2020-09-21T21:08:56Z,TEMSIROLIMUS,TEMSIROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMSIROLIMUS,TRUE,FALSE,TRUE,N-Oxide temsirolimus,876060-68-3,https://chem.nlm.nih.gov/chemidplus/rn/876060-68-3
+2020-09-21T21:08:56Z,TEMSIROLIMUS,TEMSIROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMSIROLIMUS,TRUE,FALSE,TRUE,32-o-Desmethyl temsirolimus,952607-97-5,https://chem.nlm.nih.gov/chemidplus/rn/952607-97-5
+2020-09-21T21:10:01Z,PF-06755992,PF-06755992,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-06755992,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:10:12Z,GP75 DNA Vaccine,GP75DNAVaccine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GP75DNAVaccine,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:10:23Z,Talazoparib / BMN673,Talazoparib/BMN673,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Talazoparib/BMN673,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:10:45Z,IPI-504 or Placebo INVEST,IPI-504orPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPI-504orPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:10:55Z,DNX-2401,DNX-2401,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DNX-2401,TRUE,FALSE,TRUE,DNX 2401,1802466-37-0,https://chem.nlm.nih.gov/chemidplus/rn/1802466-37-0
+2020-09-21T21:11:13Z,MCC (Mycobacterial Cell Wall-DNA Complex),MCC(MycobacterialCellWall-DNAComplex),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MCC(MycobacterialCellWall-DNAComplex),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T21:11:24Z,AT13387,AT13387,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AT13387,TRUE,FALSE,TRUE, Onalespib [USAN:INN],912999-49-6,https://chem.nlm.nih.gov/chemidplus/rn/912999-49-6
+2020-09-21T21:11:38Z,BMS-247550,BMS-247550,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-247550,TRUE,FALSE,TRUE, Estramustine [USAN:INN:BAN],2998-57-4,https://chem.nlm.nih.gov/chemidplus/rn/2998-57-4

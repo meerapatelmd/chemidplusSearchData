@@ -356,3 +356,17 @@ Timestamp	Activity Type	Function	File	Details
 2020-09-21 17:01:42	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBER_LOG.csv	
 2020-09-21 17:01:42	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBERS.csv	
 2020-09-21 17:01:42	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//RN_URL_VALIDITY.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//CLASSIFICATION.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//CONCEPT_DEPRECATION.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//LINKS_TO_RESOURCES.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//NAMES_AND_SYNONYMS.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBER_LOG.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBERS.csv	
+2020-09-21 17:11:54	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//RN_URL_VALIDITY.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//CLASSIFICATION.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//CONCEPT_DEPRECATION.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//LINKS_TO_RESOURCES.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//NAMES_AND_SYNONYMS.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBER_LOG.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//REGISTRY_NUMBERS.csv	
+2020-09-21 17:11:54	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData//data-raw//RN_URL_VALIDITY.csv	
