@@ -907,3 +907,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T20:21:37Z,CYTARABINE,CYTARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CYTARABINE,TRUE,FALSE,TRUE,Adamantoylcytarabine,23113-01-1,https://chem.nlm.nih.gov/chemidplus/rn/23113-01-1
 2020-09-21T20:21:57Z,DOXOrubicin IVCI Admix,DOXOrubicinIVCIAdmix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOXOrubicinIVCIAdmix,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T20:22:08Z,GD2L/GD3L-KLH Conj. 30 mcg Each,GD2L/GD3L-KLHConj.30mcgEach,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GD2L/GD3L-KLHConj.30mcgEach,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T20:22:37Z,IM862 0.7ML/PACKAGE,IM8620.7ML/PACKAGE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM8620.7ML/PACKAGE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T20:22:48Z,MUC-1(32A) KLH 50MCG,MUC-1(32A)KLH50MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1(32A)KLH50MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T20:22:59Z,RITUXImab INVEST,RITUXImabINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RITUXImabINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T20:23:09Z,MRTX849,MRTX849,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MRTX849,TRUE,FALSE,TRUE, MRTX-849,2326521-71-3,https://chem.nlm.nih.gov/chemidplus/rn/2326521-71-3
+2020-09-21T20:23:44Z,enASIdenib (AG-221 FORMULATION 2) Oral TABLET INVEST,enASIdenib(AG-221FORMULATION2)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/enASIdenib(AG-221FORMULATION2)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T20:23:55Z,VOSAROXIN,VOSAROXIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VOSAROXIN,TRUE,FALSE,TRUE, Vosaroxin [USAN:INN],175414-77-4,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4
+2020-09-21T20:24:08Z,ETirinotecan pegol (NKTR-102) INVEST,ETirinotecanpegol(NKTR-102)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ETirinotecanpegol(NKTR-102)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
