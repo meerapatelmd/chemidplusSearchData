@@ -1971,6 +1971,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,JTP 74057
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,JTP-74057
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,Mekinist
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,NSC 681239
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,"N-(3-(3-Cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8-dimethyl-2,4,7-trioxo-3,4,6,7- tetrahydropyrido(4,3-d)pyrimidin-1(2H)-yl)phenyl)acetamide"
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,Trametinib
 2020-09-21T19:59:25Z,https://chem.nlm.nih.gov/chemidplus/rn/871700-17-3,Synonyms,UNII-33E86K87QN
@@ -2013,3 +2014,147 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T20:00:16Z,https://chem.nlm.nih.gov/chemidplus/rn/417717-04-5,Synonyms,"6-Quinolinecarboxamide, 4-(3-chloro-4-(((cyclopropylamino)carbonyl)amino)phenoxy)-7-hydroxy-"
 2020-09-21T20:00:16Z,https://chem.nlm.nih.gov/chemidplus/rn/417717-04-5,Synonyms,Lenvatinib metabolite M2
 2020-09-21T20:00:16Z,https://chem.nlm.nih.gov/chemidplus/rn/417717-04-5,Synonyms,UNII-269N24780P
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Name of Substance,Bortezomib
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Name of Substance,Bortezomib [USAN:INN:BAN]
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,MeSH Heading,Bortezomib
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,((1R)-3-Methyl-1-(((2S)-3-phenyl-2-((pyrazinylcarbonyl)amino)propanoyl)amino)butyl)boronic acid
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,"Boronic acid, ((1R)-3-methyl-1-(((2S)-1-oxo-3-phenyl-2-((pyrazinylcarbonyl)amino)propyl)amino)butyl)-"
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,Bortezomib
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,HSDB 7666
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,LDP 341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,LDP-341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,MG 341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,MLN-341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,N-((1S)-1-Benzyl-2-(((1R)-1-(dihydroxyboranyl)-3-methylbutyl)amino)-2-oxoethyl)pyrazinecarboxamide
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,PS 341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,PS 341 (pharmaceutical)
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,PS-341
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,UNII-69G8BD63PP
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Synonyms,Velcade
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Systematic Names,"Boronic acid, ((1R)-3-methyl-1-(((2S)-1-oxo-3-phenyl-2-((pyrazinylcarbonyl)amino)propyl)amino)butyl)-"
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Systematic Names,"Boronic acid, (3-methyl-1-((1-oxo-3-phenyl-2-((pyrazinylcarbonyl)amino)propyl)amino)butyl)-, (S-(R*,S*))-"
+2020-09-21T20:04:27Z,https://chem.nlm.nih.gov/chemidplus/rn/179324-69-7,Systematic Names,N-((1S)-1-benzyl-2-(((1R)-1-(dihydroxyboranyl)-3-methylbutyl)amino)2-oxoethylpyrazinecarboxamide
+2020-09-21T20:05:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1071848-28-6,Synonym,PF-00477736
+2020-09-21T20:05:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1071848-28-6,Systematic Name,PF 00477736
+2020-09-21T20:05:25Z,https://chem.nlm.nih.gov/chemidplus/rn/952021-60-2,Name of Substance,PF-477736
+2020-09-21T20:05:25Z,https://chem.nlm.nih.gov/chemidplus/rn/952021-60-2,Synonyms,"Cyclohexaneacetamide, alpha-amino-N-(5,6-dihydro-2-(1-methyl-1H-pyrazol-4-yl)-6-oxo-1H-pyrrolo(4,3,2-ef)(2,3)benzodiazepin-8-yl)-, (alphaR)-"
+2020-09-21T20:05:25Z,https://chem.nlm.nih.gov/chemidplus/rn/952021-60-2,Synonyms,PF-00477736
+2020-09-21T20:05:25Z,https://chem.nlm.nih.gov/chemidplus/rn/952021-60-2,Synonyms,PF-477736
+2020-09-21T20:05:25Z,https://chem.nlm.nih.gov/chemidplus/rn/952021-60-2,Synonyms,UNII-XO23PGZ0SM
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Name of Substance,Lapatinib ditosylate anhydrous
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Synonyms,GW 572016F
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Synonyms,Lapatinib ditosylate
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Synonyms,Tykerb
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Synonyms,UNII-4WK72K94MC
+2020-09-21T20:06:22Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,Systematic Name,"4-Quinazolinamine, N-(3-chloro-4-((3-fluorophenyl)methoxy)phenyl)-6-(5-(((2-(methylsulfonyl)ethyl)amino)methyl)-2-furanyl)-, bis(4-methylbenzenesulfonate)"
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Name of Substance,Everolimus
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Name of Substance,Everolimus [USAN:INN:BAN]
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,MeSH Heading,Everolimus
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,"(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-1,18-Dihydroxy-12-((1R)-2-((1S,3R,4R)-4-(2-hydroxyethoxy)-3-methoxycyclohexyl)-1-methylethyl)-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo(30.3.1.0(sup 4,9))hexatriacon"
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,"(3S,6R,7E,9R,10R,12R,14S,15E,17E,19E,21S,23S,26R,27R,34aS)-9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-Hexadecahydro-9,27-dihydroxy-3-((1R)-2-((1S,3R,4R)-4-(2-hydroxyethoxy)-3-methoxycyclohexyl)-1-methylethyl)-10,21-dimethoxy-6,8,12,14,20,26-hexameth"
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,40-O-(2-hydroxyethyl)-rapamycin
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,42-O-(2-Hydroxyethyl)rapamycin
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Afinitor
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Afinitor Disperz
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Certican
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Everolimus
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,HSDB 8255
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,RAD
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,RAD 001
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,RAD001
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,SDZ-RAD
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,UNII-9HW64Q8G6G
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Xience V
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Synonyms,Zortress
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Systematic Names,"(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-1,18-Dihydroxy-12-((1R)-2-((1S,3R,4R)-4-(2-hydroxyethoxy)-3-methoxycyclohexyl)-1-methylethyl)-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo(30.3.1.04,9)hexatriaconta-16,"
+2020-09-21T20:07:13Z,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6,Systematic Names,"Rapamycin, 42-O-(2-hydroxyethyl)-"
+2020-09-21T20:07:37Z,https://chem.nlm.nih.gov/chemidplus/rn/682745-43-3,Name of Substance,Tivozanib hydrochloride anhydrous
+2020-09-21T20:07:37Z,https://chem.nlm.nih.gov/chemidplus/rn/682745-43-3,Synonyms,UNII-Z0UE3Z0EK7
+2020-09-21T20:07:37Z,https://chem.nlm.nih.gov/chemidplus/rn/682745-43-3,Synonyms,"Urea, N-(2-chloro-4-((6,7-dimethoxy-4-quinolinyl)oxy)phenyl)-n'-(5-methyl-3-isoxazolyl)-, hydrochloride (1:1)"
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Name of Substance,Palbociclib hydrochloride
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Synonyms,Palbociclib hydrochloride
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Synonyms,PD-0332991 hydrochloride
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Synonyms,"Pyrido(2,3-d)pyrimidin-7(8H)-one, 6-acetyl-8-cyclopentyl-5-methyl-2-((5-(1-piperazinyl)-2-pyridinyl)amino)-, hydrochloride (1:1)"
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Synonyms,"Pyrido(2,3-d)pyrimidin-7(8H)-one, 6-acetyl-8-cyclopentyl-5-methyl-2-((5-(1-piperazinyl)-2-pyridinyl)amino)-, monohydrochloride"
+2020-09-21T20:09:18Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,Synonyms,UNII-BKC4F3Q5XL
+2020-09-21T20:09:53Z,https://chem.nlm.nih.gov/chemidplus/rn/1391916-64-5,"NA",((125)I)AT-1012
+2020-09-21T20:09:53Z,https://chem.nlm.nih.gov/chemidplus/rn/1391916-64-5,"NA",(125I)AT 1012
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Name of Substance,AT-1015 free base
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Synonyms,"4-Piperidinecarboxamide, N-(2-(4-(5H-dibenzo(a,d)cyclohepten-5-ylidene)-1-piperidinyl)ethyl)-1-formyl-"
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Synonyms,AT-1015 free base
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Synonyms,AT-1015 free base anhydrous
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Synonyms,"N-(2-(4-(5H-Dibenzo(a,d)cyclohepten-5-ylidene)-1-piperidinyl)ethyl)-1-formyl-4-piperidinecarboxamide"
+2020-09-21T20:10:01Z,https://chem.nlm.nih.gov/chemidplus/rn/173722-21-9,Synonyms,UNII-IT78WD91U3
+2020-09-21T20:10:08Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-48-6,Name of Substance,AT-1015
+2020-09-21T20:10:08Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-48-6,Synonyms,AT-1015
+2020-09-21T20:10:08Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-48-6,Synonyms,"N-(2-(4-(5H-Dibenzo(a,d)cyclohepten-5-ylidene)piperidino)ethyl)-1-formyl-4-piperidinecarboxamide monohydrochloride hydrate"
+2020-09-21T20:10:08Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-48-6,Synonyms,"N-(2-(4-(5H-Dibenzo(a,d)cyclohepten-5-ylidene)piperidino)ethyl)-1-formyl-4-piperidinecarboxamide monohydrochloride monohydrate"
+2020-09-21T20:10:08Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-48-6,Synonyms,UNII-EK8T22V558
+2020-09-21T20:10:15Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-50-0,Name of Substance,AT-1015 anhydrous
+2020-09-21T20:10:15Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-50-0,Synonyms,"4-Piperidinecarboxamide, N-(2-(4-(5H-dibenzo(a,d)cyclohepten-5-ylidene)-1-piperidinyl)ethyl)-1-formyl-, hydrochloride (1:1)"
+2020-09-21T20:10:15Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-50-0,Synonyms,AT-1015 anhydrous
+2020-09-21T20:10:15Z,https://chem.nlm.nih.gov/chemidplus/rn/190508-50-0,Synonyms,UNII-OO0X01E9MJ
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Name of Substance,Isosorbide
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Name of Substance,Isosorbide [USAN:USP:INN:BAN:JAN]
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,MeSH Heading,Isosorbide
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,(+)-D-Isosorbide
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"1,4-Dianhydrosorbitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"1,4:3,6-Dianhydro-D-glucitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"1,4:3,6-Dianhydro-D-sorbitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"1,4:3,6-Dianhydrosorbitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,5-19-03-00201 (Beilstein Handbook Reference)
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,AT 101
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,AT-101
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,BRN 0080510
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"D-1,4:3,6-Dianhydroglucitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Devicoran
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,EC 211-492-3
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,EINECS 211-492-3
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,"Glucitol, 1,4:3,6-dianhydro-, D-"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,HSDB 3105
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Hydronol
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Hydronol (VAN)
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Ismotic
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isobide
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isosorbida
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isosorbida [INN-Spanish]
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isosorbide
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isosorbidum
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Isosorbidum [INN-Latin]
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,NSC 40725
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Polysorb P
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Polysorb PS
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Sorbid
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,UNII-WXR179L51S
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Synonyms,Vascardin dinitrate
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Systematic Names,"1,4:3,6-Dianhydro-D-glucitol"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Systematic Names,"D-Glucitol, 1,4:3,6-dianhydro-"
+2020-09-21T20:10:23Z,https://chem.nlm.nih.gov/chemidplus/rn/652-67-5,Systematic Names,"Glucitol, 1,4:3,6-dianhydro-, D-"
+2020-09-21T20:10:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1126641-10-8,Name of Substance,Sunitinib maleate
+2020-09-21T20:10:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1126641-10-8,Synonyms,"1H-Pyrrole-3-carboxamide, N-(2-(diethylamino)ethyl)-5-((Z)-(5-fluoro-1,2-dihydro-2-oxo-3H-indol-3-ylidene)methyl)-2,4-dimethyl-, (2Z)-2-butenedioate (1:1)"
+2020-09-21T20:10:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1126641-10-8,Synonyms,Sunitinib maleate
+2020-09-21T20:10:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1126641-10-8,Synonyms,UNII-92019DWI1D
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Name of Substance,PHA-782584
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Synonyms,"1H-Pyrrole-3-carboxamide, N-(2-(diethylamino)ethyl)-5-((Z)-(1,2-dihydro-5-hydroxy-2-oxo-3H-indol-3-ylidene)methyl)-2,4-dimethyl-"
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Synonyms,"N-(2-Diethylaminoethyl)-5-((Z)-(5-hydroxy-2-oxo-indolin-3-ylidene)methyl)-2,4-dimethyl-1H-pyrrole-3-carboxamide"
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Synonyms,PHA-782584
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Synonyms,Sunitinib metabolite M8
+2020-09-21T20:10:54Z,https://chem.nlm.nih.gov/chemidplus/rn/1126899-61-3,Synonyms,UNII-4MK76GX29B
+2020-09-21T20:11:01Z,https://chem.nlm.nih.gov/chemidplus/rn/356068-97-8,Name of Substance,N-Desethyl sunitinib
+2020-09-21T20:11:01Z,https://chem.nlm.nih.gov/chemidplus/rn/356068-97-8,Synonyms,N-Desethyl sunitinib
+2020-09-21T20:11:01Z,https://chem.nlm.nih.gov/chemidplus/rn/356068-97-8,Synonyms,SU-12662
+2020-09-21T20:11:01Z,https://chem.nlm.nih.gov/chemidplus/rn/356068-97-8,Synonyms,UNII-42LJ35612R
+2020-09-21T20:11:47Z,https://chem.nlm.nih.gov/chemidplus/rn/42476-21-1,Results Name,EINECS 255-839-7
+2020-09-21T20:11:47Z,https://chem.nlm.nih.gov/chemidplus/rn/42476-21-1,Name of Substance,Leucovorin monosodium
+2020-09-21T20:11:47Z,https://chem.nlm.nih.gov/chemidplus/rn/42476-21-1,Synonyms,EINECS 255-839-7
+2020-09-21T20:11:47Z,https://chem.nlm.nih.gov/chemidplus/rn/42476-21-1,Synonyms,UNII-DR33Q67R37
+2020-09-21T20:11:47Z,https://chem.nlm.nih.gov/chemidplus/rn/42476-21-1,Systematic Name,"Sodium hydrogen N-(4-(((2-amino-5-formyl-1,4,5,6,7,8-hexahydro-4-oxo-6-pteridinyl)methyl)amino)benzoyl)-L-glutamate"
+2020-09-21T20:11:54Z,https://chem.nlm.nih.gov/chemidplus/rn/6035-45-6,Name of Substance,Leucovorin calcium pentahydrate
+2020-09-21T20:11:54Z,https://chem.nlm.nih.gov/chemidplus/rn/6035-45-6,Synonyms,Folinic acid calcium salt pentahydrate
+2020-09-21T20:11:54Z,https://chem.nlm.nih.gov/chemidplus/rn/6035-45-6,Synonyms,"L-Glutamic acid, N-(4-(((2-amino-5-formyl-1,4,5,6,7,8-hexahydro-4-oxo-6-pteridinyl)methyl)amino)benzoyl)-, calcium salt (1:1), pentahydrate"
+2020-09-21T20:11:54Z,https://chem.nlm.nih.gov/chemidplus/rn/6035-45-6,Synonyms,UNII-R3W57OBQ5W
+2020-09-21T20:11:54Z,https://chem.nlm.nih.gov/chemidplus/rn/6035-45-6,Systematic Name,"Glutamic acid, N-(p-(((2-amino-5-formyl-5,6,7,8-tetrahydro-4-hydroxy-6-pteridinyl)methyl)amino)benzoyl)-, calcium salt, pentahydrate, L-"
+2020-09-21T20:12:01Z,https://chem.nlm.nih.gov/chemidplus/rn/7444-29-3,Name of Substance,"5,10-Methenyltetrahydrofolate"
+2020-09-21T20:12:01Z,https://chem.nlm.nih.gov/chemidplus/rn/7444-29-3,Synonyms,"5,10-Methenyltetrahydropteroylglutamate"
+2020-09-21T20:12:01Z,https://chem.nlm.nih.gov/chemidplus/rn/7444-29-3,Synonyms,Anhydroleucovorin
+2020-09-21T20:12:01Z,https://chem.nlm.nih.gov/chemidplus/rn/7444-29-3,Systematic Name,"Imidazo(1,5-f)pteridinium, 3-amino-8-(4-(((1,3-dicarboxypropyl)amino)carbonyl)phenyl)-1,2,5,6,6a,7-hexahydro-1-oxo-, inner salt"
