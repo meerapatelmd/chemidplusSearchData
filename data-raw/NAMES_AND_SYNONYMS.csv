@@ -62,6 +62,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T16:32:03Z,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0,Synonyms,UNII-FCB9EGG971
 2020-09-21T16:32:03Z,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0,Synonyms,ZD 1694
 2020-09-21T16:32:03Z,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0,Synonyms,ZD1694
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Telagan
 2020-09-21T16:32:03Z,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0,Systematic Name,"L-Glutamic acid, N-((5-(((1,4-dihydro-2-methyl-4-oxo-6-quinazolinyl)methyl)methylamino)-2-thienyl)carbonyl)-"
 2020-09-21T16:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4299-28-9,Name of Substance,Tetrahydromethotrexate
 2020-09-21T16:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4299-28-9,Synonyms,NSC 526044
@@ -1424,3 +1425,306 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T19:29:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1496553-00-4,Synonyms,IMAB362
 2020-09-21T19:29:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1496553-00-4,Synonyms,UNII-TF5MPQ8WGY
 2020-09-21T19:29:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1496553-00-4,Systematic Name,IMAB 362
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Results Name,(R)-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Name of Substance,"Thalidomide, (R)-"
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,(+)-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,(R)-(D)-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,(R)-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-, (R)-"
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,D-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,NSC 91729
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-, (+)-"
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,R-(+)-Thalidomide
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Synonyms,UNII-QN61H68KLK
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Systematic Names,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-, (R)-"
+2020-09-21T19:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2614-06-4,Systematic Names,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-, D-(+)-"
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Results Name,beta-Thalidomide
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,"3-Phthalimidoglutarimide, DL-"
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,5-22-13-00231 (Beilstein Handbook Reference)
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,beta-Thalidomide
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,BRN 0488492
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,CG 809
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,E 350
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,E 350 (pharmaceutical)
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Synonyms,"N-(2,6-Dioxo-4-piperidyl)phthalimide"
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Systematic Names,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-4-piperidinyl)- (9CI)"
+2020-09-21T19:32:14Z,https://chem.nlm.nih.gov/chemidplus/rn/303-31-1,Systematic Names,"Phthalimide, N-(2,6-dioxo-4-piperidyl)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Name of Substance,Thalidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Name of Substance,Thalidomide [USAN:USP:INN:BAN:JAN]
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,MeSH Heading,Thalidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"(+-)-N-(2,6-Dioxo-3-piperidyl)phthalimide"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,(+-)-Thalidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"1,3-Dioxo-2-(2,6-dioxopiperidin-3-yl)isoindoline"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-, (+-)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"2,6-Dioxo-3-phthalimidopiperidine"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,3-Phthalimidoglutarimide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,5-22-13-00224 (Beilstein Handbook Reference)
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Actimid
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,AI3-50606
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Algosediv
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,alpha-(N-Phthalimido)glutarimide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,alpha-N-Phthalylglutaramide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,alpha-Phthalimidoglutarimide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Asidon 3
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Asmadion
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Asmaval
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Bonbrain
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,BRN 0030233
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Calmore
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Calmorex
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,CCRIS 8148
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Contergan
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Corronarobetin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Distaval
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,E-217
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Ectiluran
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,EINECS 200-031-1
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,ENMD 0995
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Enterosediv
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Gastrinide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Glupan
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Glutanon
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"Glutarimide, 2-phthalimido-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Grippex
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Hippuzon
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,HSDB 3586
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Imida-lab
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Imidan (peyta)
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Imidene
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Isomin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,K 17
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,K-17
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Kevadon
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"N-(2,6-Dioxo-3-piperidyl)phthalimide"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,N-Phthaloylglutamimide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,N-Phthalyl-glutaminsaeure-imid
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,N-Phthalyl-glutaminsaeure-imid [German]
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,N-Phthalylglutamic acid imide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neaufatin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neosedyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neosydyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Nerosedyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neufatin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neurodyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neurosedin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Neurosedym
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Nevrodyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Nibrol
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Noctosediv
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Noxodyn
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,NSC 527179
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,NSC-66847
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Pangul
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Pantosediv
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Poly-giron
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Polygripan
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Predni-sediv
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Pro-Bam M
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Pro-ban M
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Profarmil
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Psycholiquid
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Psychotablets
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Quetimid
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Quietoplex
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sandormin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sedalis sedi-lab
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sedimide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sedin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sedisperil
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sedoval
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Shin-naito S
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Shinnibrol
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Sleepan
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Slipro
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Softenil
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Softenon
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talargan
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talidomida
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talidomida [INN-Spanish]
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talidomide [DCIT]
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talimol
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Talismol
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Telargean
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Tensival
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalidomide Celgene
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalidomidum
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalidomidum [INN-Latin]
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalinette
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalomid
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Thalomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Theophilcholine
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Ulcerfen
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,UNII-4Z8R6ORS6L
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Valgis
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Valgraine
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Synonyms,Yodomin
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Systematic Names,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Systematic Names,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-"
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Systematic Names,Thalidomide
+2020-09-21T19:32:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,Superlist Name,Thalidomide
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Name of Substance,4-Hydroxy thalidomide
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-4-hydroxy-"
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,4-Hydroxy thalidomide
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,"4-Hydroxy thalidomide, (+/-)-"
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,4-Hydroxythalidomide
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-3-hydroxy-"
+2020-09-21T19:32:29Z,https://chem.nlm.nih.gov/chemidplus/rn/5054-59-1,Synonyms,UNII-J344NHC6VB
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Results Name,(S)-Thalidomide
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Name of Substance,"Thalidomide, (-)-"
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,(-)-Thalidomide
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,(S)-Thalidomide
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-, (S)-"
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,l-Thalidomide
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,NSC 91730
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-, (-)-"
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,S-(-)-Thalidomide
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,"Thalidomide, L-"
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Synonyms,UNII-TG87FSR590
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Systematic Names,"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-, (S)-"
+2020-09-21T19:32:36Z,https://chem.nlm.nih.gov/chemidplus/rn/841-67-8,Systematic Names,"Phthalimide, N-(2,6-dioxo-3-piperidyl)-, L-(-)-"
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Name of Substance,Erlotinib hydrochloride [USAN:INN]
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,MeSH Heading,Erlotinib Hydrochloride
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,"4-(m-Ethynylanilino)-6,7-bis(2-methoxyethoxy)quinazoline monohydrochloride"
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,CP 358774
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,"CP-358,774-01"
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,Erlotinib HCl
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,Erlotinib hydrochloride
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,OSI 774
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,OSI-774
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,Tarceva
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Synonyms,UNII-DA87705X9K
+2020-09-21T19:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9,Systematic Name,"4-Quinazolinamine, N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-, monohydrochloride"
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Name of Substance,CP-373413
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,2-(4-(3-Ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl)oxyethanol
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,CP-373413
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,Erlotinib metabolite M13
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,"Ethanol, 2-((4-((3-ethynylphenyl)amino)-6-(2-methoxyethoxy)-7-quinazolinyl)oxy)-"
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,OSI-413
+2020-09-21T19:33:29Z,https://chem.nlm.nih.gov/chemidplus/rn/183320-29-8,Synonyms,UNII-EBL2O556JZ
+2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Name of Substance,Erlotinib [INN:BAN]
+2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Synonyms,Erlotinib
+2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Synonyms,HSDB 8082
+2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Synonyms,UNII-J4T82NDH7E
+2020-09-21T19:33:36Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-74-6,Systematic Name,"4-Quinazolinamine, N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-"
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Name of Substance,CP-373943
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,2-(4-(3-Ethynylanilino)-7-(2-hydroxyethoxy)quinazolin-6-yl)oxyethanol
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,CP-373943
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,Erlotinib metabolite M12
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,"Ethanol, 2,2'-((4-((3-ethynylphenyl)amino)-6,7-quinazolinediyl)bis(oxy))bis-"
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,"Ethanol, 2-((4-((3-ethynylphenyl)amino)-6-(2-hydroxyethoxy)-7-quinazolinyl)oxy)-"
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,OSI-943
+2020-09-21T19:33:43Z,https://chem.nlm.nih.gov/chemidplus/rn/183321-84-8,Synonyms,UNII-92T0F45VE1
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Name of Substance,2-(4-(3-Ethynylanilino)-7-(2-methoxyethoxy)quinazolin-6-yl)oxyacetic acid
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Synonyms,2-(4-(3-Ethynylanilino)-7-(2-methoxyethoxy)quinazolin-6-yl)oxyacetic acid
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Synonyms,"Acetic acid, ((4-((3-ethynylphenyl)amino)-6-(2-methoxyethoxy)-7-quinazolinyl)oxy)-"
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Synonyms,"Acetic acid, 2-((4-((3-ethynylphenyl)amino)-6-(2-methoxyethoxy)-7-quinazolinyl)oxy)-"
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Synonyms,Erlotinib metabolite M11
+2020-09-21T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/882172-60-3,Synonyms,UNII-NE98M1L9HG
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Name of Substance,Oxaliplatin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Name of Substance,Oxaliplatin [USAN:USP:INN:BAN]
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,MeSH Heading,Oxaliplatin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,"(SP-4-2-(1R-trans))-(1,2-Cyclohexanediamine-N,N')(ethanedioato(2-)-O,O')platinum"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,1-OHP
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,CCRIS 9143
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,"cis-((1R,2R)-1,2-Cyclohexanediamine-N,N')(oxalato(2-)-O,O')platinum"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Dacplat
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Eloxatin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Elplat
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,JM-83
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,l-OHP
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Lipoxal
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,NSC 266046
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,"Oxalato(1R,2R-cyclohexanediammine)platinum(II)"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,"Oxalato(trans-(-)-1,2-cyclohexanediamine)platinum(II)"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,"Oxalato(trans-1-1,2-cyclohexanediamine)platinum(II)"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxalatoplatin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxalatoplatinum
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaliplatin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaliplatino
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaliplatino [Spanish]
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaliplatinum
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaliplatinum [Latin]
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxalitin
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaloplatine
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaloplatine [French]
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaloplatino
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,Oxaloplatino [Spanish]
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,RP 54780
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,RP-54780
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,SR 96669
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,SR-96669
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,trans-l-Diaminocyclohexane oxalatoplatinum
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Synonyms,UNII-04ZR38536J
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Systematic Names,"Platinum, ((1R,2R)-1,2-cyclohexanediamine-kappaN,kappaN')(ethanedioato(2-)-kappaO1,kappaO2)-, (SP-4-2)-"
+2020-09-21T19:34:52Z,https://chem.nlm.nih.gov/chemidplus/rn/61825-94-3,Systematic Names,"Platinum, (1,2-cyclohexanediamine-N,N')(ethanedioato(2-)-O,O')-, (SP-4-2-(1R-trans))-"
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Synonyms,ACT 078
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Synonyms,NSC 271670
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Synonyms,"Oxalato(1,2-diaminocyclohexane)platinum(II)"
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Synonyms,Oxaliplatin
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Synonyms,"Platinum, (1,2-cyclohexanediamine-N,N')(ethanedioato(2-)-O,O')-, (SP-4-2-(trans))-"
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Systematic Names,"Platinum (II), (cyclohexane-1,2-diammine)oxalato-"
+2020-09-21T19:34:59Z,https://chem.nlm.nih.gov/chemidplus/rn/63121-00-6,Systematic Names,"Platinum, (1,2-cyclohexanediamine-kappaN,kappaN')(ethanedioato(2-)-kappaO1,kappaO2)-, (SP-4-2-(trans))-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Name of Substance,"(1,2-Cyclohexanediamine-N,N') diiodidoplatinum(II), (sp-4-2-(1R-trans))-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"((Sp-4-2-(1R-trans))-(1,2-cyclohexanediamine-N,N') diiodidoplatinum(II))"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"(1,2-Cyclohexanediamine-N,N') diiodidoplatinum(II), (sp-4-2-(1R-trans))-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"(Sp-4-2)-((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)diiodoplatinum"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"(trans-R,R-1,2-Diaminocyclohexane)diiodoplatinum"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"(trans-R,R-Cyclohexane-1,2-diamine)diiodoplatinum"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"Diiodo(trans-L-1,2-cyclohexanediamine)platinum"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,NSC-290127
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,Oxaliplatin related compound F
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,Oxaliplatin related compound F RS [USP]
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,Oxaliplatin related compound F [USP-RS]
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"Platinum, ((1R,2R)-1,2-cyclohexanediamine-kappaN,kappaN')diiodo-, (sp-4-2)-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"Platinum, ((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)diiodo-, (sp-4-2)-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,"Platinum, (1,2-cyclohexanediamine-kappaN,kappaN')diiodo-, (sp-4-2-(1R-trans))-"
+2020-09-21T19:35:06Z,https://chem.nlm.nih.gov/chemidplus/rn/66845-32-7,Synonyms,UNII-A6IL7532PP
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Name of Substance,"(R,R-1,2-Diaminocyclohexane)dinitratoplatinum"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"(1,2-Cyclohexanediamine-N,N') dinitratoplatinum(II), (sp-4-2-(1R-trans))-"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"(1R,2R)-1,2-Cyclohexanediaminedinitratoplatinum"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"(1R,2R)-1,2-trans-Cyclohexanediamine)dinitratoplatinum(II)"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"(R,R-1,2-Diaminocyclohexane)dinitratoplatinum"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"(Sp-4-2)-((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)bis(nitrato-kappaO)platinum"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,NSC-290132
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,Oxaliplatin related compound B
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,Oxaliplatin related compound B RS [USP]
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,Oxaliplatin related compound B [USP-RS]
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"Platinum, ((1R,2R)-1,2-cyclohexanediamine-kappaN,kappaN')bis(nitrato-kappaO)-, (sp-4-2)-"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"Platinum, ((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)bis(nitrato-kappaO)-, (sp-4-2)-"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,"Platinum, (1,2-cyclohexanediamine-kappaN,kappaN')bis(nitrato-kappaO)-, (sp-4-2-(1R-trans))-"
+2020-09-21T19:35:13Z,https://chem.nlm.nih.gov/chemidplus/rn/66900-68-3,Synonyms,UNII-H1J83OU9AD
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Name of Substance,"Diaquodiaminocyclohexaneplatinum dinitrate, (R,R)-"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"(Sp-4-2)-diaqua((1R,2R)-cyclohexane-1,2-diamine-N,N')platinum"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"(Sp-4-2)-diaqua((1R,2R)-cyclohexane-1,2-diaminekappaN,kappaN')platinum"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,Diaquodiaminocyclohexaneplatinum
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"Diaquodiaminocyclohexaneplatinum dinitrate, (R,R)-"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,NSC-268252
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"Oxaliplatin impurity, (sp-4-2)-diaqua((1R,2R)-cyclohexane-1,2-diamine-N,N')platinum- [USP]"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"Oxaliplatin related compound B, desdiaquo dinitrato-"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,Oxaliplatin specified impurity B [EP]
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,"Platinum(2+), diaqua((1R,2R)-1,2-cyclohexanediamine-kappaN1,kappaN2)-, (1R-trans)-"
+2020-09-21T19:35:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94042-08-7,Synonyms,UNII-Z6N6X37D9R
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Name of Substance,Tesevatinib [USAN:INN]
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Name of Substance,Xl-647
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,"4-Quinazolinamine, N-(3,4-dichloro-2-fluorophenyl)-6-methoxy-7-(((3aalpha,5beta,6aalpha)-octahydro-2-methylcyclopenta(c)pyrrol-5-yl)methoxy)-"
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,EXEL 7647
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,Exel-7647
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,KD 019
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,KD-019
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,KD019
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,"N-(3,4-Dichloro-2-fluorophenyl)-6-methoxy-7-(((3ar,6as)-2-methyloctahydrocyclopenta(c)pyrrol-5-yl)methoxy)quinazolin-4-amine"
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,Tesevatinib
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,UNII-F6XM2TN5A1
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,XL 647
+2020-09-21T19:39:05Z,https://chem.nlm.nih.gov/chemidplus/rn/781613-23-8,Synonyms,Xl647
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Name of Substance,Narnatumab [USAN:INN]
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,IMC RON-8
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,IMC-RON8
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,Narnatumab
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,RON8
+2020-09-21T19:39:40Z,https://chem.nlm.nih.gov/chemidplus/rn/1188275-92-4,Synonyms,UNII-R42YK40U9M
