@@ -2388,3 +2388,83 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,Panobinostat lactate [JAN]
 2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,"Propanoic acid, 2-hydroxy-, compd. with (2E)-N-hydroxy-3-(4-(((2-(2-methyl-1H-indol-3-yl)ethyl)amino)methyl)phenyl)-2-propenamide (1:1)"
 2020-09-21T20:28:42Z,https://chem.nlm.nih.gov/chemidplus/rn/960055-56-5,Synonyms,UNII-HN0T99OO4V
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Name of Substance,Patritumab deruxtecan
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,anti-Her3 antibody-drug conjugate U3 1402
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,Patritumab deruxtecan
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,Patritumab deruxtecan [INN]
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,U3 1402
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,U3 1402 [WHO-DD]
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,U3-1402
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,U3-1402A
+2020-09-21T20:33:22Z,https://chem.nlm.nih.gov/chemidplus/rn/2227102-46-5,Synonyms,UNII-3XPI7EG4W8
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Results Name,Venetoclax [USAN:INN]
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Name of Substance,"4-(4-((2-(4-chlorophenyl)-4,4-dimethylcyclohex-1-en-1-yl)methyl)piperazin-1-yl)-N-((3-nitro-4-((tetrahydro-2H-pyran-4-ylmethyl)amino)phenyl)sulfonyl)-2-(1H-pyrrolo(2,3-b)pyridin-5-yloxy)benzamide"
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Name of Substance,ABT-199
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Name of Substance,Venetoclax
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Name of Substance,Venetoclax [USAN:INN]
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,ABT 199
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,ABT199
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,GDC 0199
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,UNII-N54AIC43PW
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,Venclexta
+2020-09-21T20:36:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8,Synonyms,Venetoclax
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Name of Substance,"4-(7-(4-Chlorophenyl)-9,9-dimethyl-1,3,4,6,8,10,10a,11a-octahydropyrazino(2,1-b)(1,3)benzoxazin-2-yl)-N-(3-nitro-4-(tetrahydropyran-4-ylmethylamino)phenyl)sulfonyl-2-(1H-pyrrolo(2,3-b)pyridin-5-yloxy)benzamide"
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Synonyms,"4-(7-(4-Chlorophenyl)-9,9-dimethyl-1,3,4,6,8,10,10a,11a-octahydropyrazino(2,1-b)(1,3)benzoxazin-2-yl)-N-(3-nitro-4-(tetrahydropyran-4-ylmethylamino)phenyl)sulfonyl-2-(1H-pyrrolo(2,3-b)pyridin-5-yloxy)benzamide"
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Synonyms,"Benzamide, 4-(7-(4-chlorophenyl)-1,3,4,8,9,10,10a,11a-octahydro-9,9-dimethyl-2H,6H-pyrazino(2,1-b)(1,3)benzoxazin-2-yl)-N-((3-nitro-4-(((tetrahydro-2H-pyran-4-yl)methyl)amino)phenyl)sulfonyl)-2-(1H-pyrrolo(2,3-b)pyridin-5-yloxy)-"
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Synonyms,UNII-J0M3UN1DX0
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Synonyms,Venetoclax metabolite M-27
+2020-09-21T20:36:37Z,https://chem.nlm.nih.gov/chemidplus/rn/2097938-69-5,Synonyms,Venetoclax metabolite M27
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Name of Substance,Tanespimycin
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Name of Substance,Tanespimycin [USAN:INN]
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,"(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-Hydroxy-8,14-dimethoxy-4,10,12,16- tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo(16.3.1)docosa- 1(21),4,6,10,18-penten-9-yl carbamate"
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,17-(Allylamino)-17-demethoxygeldanamycin
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,17-(Allylamino)geldanamycin
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,17-AAG
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,17-Demethoxy-17-allylamino geldanamycin
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,17AAG
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,AAG
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,BMS-722782
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,CCRIS 9401
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,CP 127374
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,"Geldanamycin, 17-(Allylamino)-17-demethoxy-"
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,KOS-953
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,NSC 330507
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,NSC-330507
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,Tanespimycin
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Synonyms,UNII-4GY0AVT3L4
+2020-09-21T20:38:17Z,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7,Systematic Name,"Geldanamycin, 17-demethoxy-17-(2-propenylamino)-"
+2020-09-21T20:39:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2097002-61-2,Name of Substance,LOXO-195
+2020-09-21T20:39:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2097002-61-2,Synonyms,"Cas registry number 2097002-61-2 ~1~1 C20 H21 F N6 O 10H-5,7-ethenopyrazolo(3,4-d)pyrido(2,3-k)pyrrolo(2,1-m)(1,3,7)triazacyclotridecin-10-one, 17-fluoro-1,2,3,11,12,13,14,18b-octahydro-12-methyl-, (12R,18bR)-"
+2020-09-21T20:39:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2097002-61-2,Synonyms,LOXO-195
+2020-09-21T20:39:41Z,https://chem.nlm.nih.gov/chemidplus/rn/2097002-61-2,Synonyms,UNII-0J45910S3X
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Name of Substance,Nitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,AI3-01239
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Caswell No. 600
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,CCRIS 2841
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,EC 202-716-0
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,EINECS 202-716-0
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,EPA Pesticide Chemical Code 056501
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Essence of mirbane
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,HSDB 104
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Mirbane oil
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,NCI-C60082
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzeen
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzeen [Dutch]
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzen
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzen [Polish]
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Nitrobenzol
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,NSC 9573
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Oil of mirbane
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,Oil of myrbane
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,p-Nitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,RCRA waste number U169
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Synonyms,UNII-E57JCN6SSY
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Systematic Names,"Benzene, nitro-"
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Systematic Names,Nitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,"Benzene, nitro-"
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,Mononitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,Nitrobenzene
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,Nitrobenzene [UN1662]  [Poison]
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,RCRA waste no. U169
+2020-09-21T20:40:28Z,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3,Superlist Names,UN1662
