@@ -1366,6 +1366,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T18:35:37Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Etoposide+glucuronide+OR+100007-55-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
 2020-09-21T18:35:37Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Etoposide+glucuronide+OR+100007-55-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
 2020-09-21T18:35:37Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22100007-55-4%22+OR+%22%22+OR+%22Etoposide+glucuronide%22,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
+2020-09-21T18:41:00Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Scyllitol+OR+488-59-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
 2020-09-21T18:35:37Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22100007-55-4%22+OR+%22%22+OR+%22Etoposide+glucuronide%22,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
 2020-09-21T18:35:37Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=100007-55-4,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
 2020-09-21T18:35:37Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C064401,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4
@@ -1420,3 +1421,111 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-21T18:38:58Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1380359-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1380359-84-1
 2020-09-21T18:38:58Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/ZMX54372EH,https://chem.nlm.nih.gov/chemidplus/rn/1380359-84-1
 2020-09-21T18:38:58Z,NA,http://www.google.com/search?q=%22IGUTVNUEFKPBGK-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1380359-84-1
+2020-09-21T18:40:46Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=4745,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5904,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5904,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=2917-73-9&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.018.956,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/TSR57315NK,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=2917-73-9&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=2917-73-9,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:46Z,NA,http://www.google.com/search?q=%22RISLXYINQFKFRL-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/2917-73-9
+2020-09-21T18:40:53Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=487-99-0,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/487-99-0,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+487-99-0+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=487-99-0,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22487-99-0%22+OR+%22%22+OR+Lindelofine,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22487-99-0%22+OR+%22%22+OR+Lindelofine,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=487-99-0&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=487-99-0,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=487-99-0,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/AZD4M8S1R4,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Lindelofine,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lindelofine,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:40:53Z,NA,http://www.google.com/search?q=%22BWQSLRZZOVFVHJ-COMQUAJESA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/487-99-0
+2020-09-21T18:41:00Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Scyllo-inositol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%22488-59-5%22+,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Scyllitol+OR+488-59-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Scyllitol+OR+488-59-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Scyllitol+OR+488-59-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Scyllitol+OR+488-59-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22488-59-5%22+OR+%22%22+OR+Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22488-59-5%22+OR+%22%22+OR+Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C009217,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=488-59-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/1VS4X81277,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=488-59-5&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=488-59-5,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,Wikipedia,http://en.wikipedia.org/wiki/Scyllitol,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:00Z,NA,http://www.google.com/search?q=%22CDAISMWEOUEBRE-CDRYSYESSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/488-59-5
+2020-09-21T18:41:07Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+78-67-1+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=5685,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5220,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5220,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Azobis(isobutyronitrile),https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Azobis+isobutyronitrile+OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Azobis+isobutyronitrile++OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Azobis+isobutyronitrile++OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Azobis+isobutyronitrile++OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Azobis+isobutyronitrile+OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Azobis+isobutyronitrile++OR+78-67-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2278-67-1%22+OR+%22%22+OR+%22Azobis+isobutyronitrile%22,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2278-67-1%22+OR+%22%22+OR+%22Azobis+isobutyronitrile%22,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,DSL,https://pollution-waste.canada.ca/substances-search/Substance/DisplaySubstanceDetails?Id=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,HPV,http://www.epa.gov/chemrtk/pubs/general/opptsrch.htm,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,MA,http://www.mass.gov/lwd/labor-standards/massachusetts-workplace-safety-and-health-program/chemical-right-to-know-.html,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,MTL,https://www.epa.gov/chemicals-under-tsca,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,PA,http://www.openrecords.pa.gov/,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,CAMEO,https://m.cameochemicals.noaa.gov/chemical/2545,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C004526,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,ECHA,https://echa.europa.eu/brief-profile/-/briefprofile/100.001.030,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=78-67-1&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.001.030,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/78671.html,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/FZ6PX8U5YB,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,NIOSH ICSC,https://www.cdc.gov/niosh/ipcsneng/neng1090.html,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=78-67-1&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,NJ-HSFS,http://nj.gov/health/eoh/rtkweb/documents/fs/0179.pdf,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,SRC BIODEG,http://esc.syrres.com/scripts/CASBDcgi.exe?CASNUM=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,SRC CHEMFATE,http://esc.syrres.com/scripts/CASCFcgi.exe?CASNUM=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=78-67-1,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""Azobis+isobutyronitrile""",https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""Azobis+isobutyronitrile""",https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,Wikipedia,http://en.wikipedia.org/wiki/Azobisisobutyronitrile,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:41:07Z,NA,http://www.google.com/search?q=%22OZAIFHULBGXAKX-VAWYXSNFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/78-67-1
+2020-09-21T18:43:09Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Ro+4929097,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/847925-91-1,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=ro4929097,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=847925-91-1,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Ro+4929097,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Ro+4929097,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22Ro+4929097%22,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22Ro+4929097%22,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22Ro+4929097%22,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=847925-91-1,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C545185,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=847925-91-1,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/KK8645V7LE,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
+2020-09-21T18:43:09Z,NA,http://www.google.com/search?q=%22OJPLJFIFUQPSJR-INIZCTEOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/847925-91-1
