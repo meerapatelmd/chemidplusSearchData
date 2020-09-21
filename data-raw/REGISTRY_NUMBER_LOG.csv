@@ -322,3 +322,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T18:04:41Z,Investigational Agent - K0706,InvestigationalAgent-K0706,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/InvestigationalAgent-K0706,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T18:05:11Z,B1 MONOCLONAL ANTIBODY,B1MONOCLONALANTIBODY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B1MONOCLONALANTIBODY,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T18:05:22Z,"AZD5438 (IRB#04-066) Tablet INV, 20 mg","AZD5438(IRB#04-066)TabletINV,20mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/AZD5438(IRB#04-066)TabletINV,20mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:05:59Z,Investigational Drug- Tamibarotene 2mg tab,InvestigationalDrug-Tamibarotene2mgtab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/InvestigationalDrug-Tamibarotene2mgtab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:06:10Z,OBINUtuzumab INVEST,OBINUtuzumabINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OBINUtuzumabINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:12:20Z,Gemcitabine INVEST,GemcitabineINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GemcitabineINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:12:31Z,IMC-A12 (CIXUtumumab) (IRB#08-102),IMC-A12(CIXUtumumab)(IRB#08-102),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMC-A12(CIXUtumumab)(IRB#08-102),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:12:42Z,Eculizumab Blind Dose or Placebo,EculizumabBlindDoseorPlacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EculizumabBlindDoseorPlacebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:12:53Z,WT-1 Peptide Vaccine (in Montanide) INVEST,WT-1PeptideVaccine(inMontanide)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/WT-1PeptideVaccine(inMontanide)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T18:13:04Z,TG-1501,TG-1501,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TG-1501,TRUE,TRUE,FALSE,NA,NA,NA
