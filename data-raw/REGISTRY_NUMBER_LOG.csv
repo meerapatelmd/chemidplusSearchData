@@ -1812,3 +1812,57 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-21T23:40:55Z,ALRN-6924,ALRN-6924,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALRN-6924,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-21T23:41:11Z,PROSTVAC-F,PROSTVAC-F,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PROSTVAC-F,TRUE,FALSE,TRUE, Prostvac-F,1225283-42-0,https://chem.nlm.nih.gov/chemidplus/rn/1225283-42-0
 2020-09-21T23:41:30Z,LY3499446,LY3499446,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3499446,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:42:12Z,PT2385,PT2385,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PT2385,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:43:00Z,BEC2-KLH/BCG,BEC2-KLH/BCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC2-KLH/BCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:43:11Z,PTC299,PTC299,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PTC299,TRUE,FALSE,TRUE,PTC 299,1219951-09-3,https://chem.nlm.nih.gov/chemidplus/rn/1219951-09-3
+2020-09-21T23:43:24Z,PENTOSTATIN,PENTOSTATIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PENTOSTATIN,TRUE,FALSE,TRUE,Adechlorin,96328-17-5,https://chem.nlm.nih.gov/chemidplus/rn/96328-17-5
+2020-09-21T23:43:38Z,SELINEXOR,SELINEXOR,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SELINEXOR,TRUE,FALSE,TRUE, Selinexor [USAN:INN],1393477-72-9,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9
+2020-09-21T23:43:51Z,FAZ053,FAZ053,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FAZ053,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:44:02Z,SHO-SAIKO-TO,SHO-SAIKO-TO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SHO-SAIKO-TO,TRUE,FALSE,TRUE, Saiko-keishi-to,63364-01-2,https://chem.nlm.nih.gov/chemidplus/rn/63364-01-2
+2020-09-21T23:44:16Z,GALINPEPIMUT-S,GALINPEPIMUT-S,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GALINPEPIMUT-S,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:44:27Z,FLOXURIDINE,FLOXURIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLOXURIDINE,TRUE,FALSE,TRUE,"3',5'-O-Dioleoylfloxuridine",7207-70-7,https://chem.nlm.nih.gov/chemidplus/rn/7207-70-7
+2020-09-21T23:44:40Z,TASELISIB (GDC-0032),TASELISIB(GDC-0032),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TASELISIB(GDC-0032),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:44:51Z,HUMAB5B1 (MVT-5873),HUMAB5B1(MVT-5873),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HUMAB5B1(MVT-5873),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:46:48Z,TYROSINASE:368-376(370D) PEPTIDE,TYROSINASE:368-376(370D)PEPTIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TYROSINASE:368-376(370D)PEPTIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:46:59Z,BTX-A51,BTX-A51,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BTX-A51,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:47:09Z,GSK2849330,GSK2849330,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK2849330,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:47:20Z,MONTANIDE +/- WT-1 PEPTIDE VACCINE,MONTANIDE+/-WT-1PEPTIDEVACCINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MONTANIDE+/-WT-1PEPTIDEVACCINE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:47:31Z,HEXAVALENT VACCINE 00-064,HEXAVALENTVACCINE00-064,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HEXAVALENTVACCINE00-064,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:47:42Z,DOXORUBICIN LIPOSOMAL,DOXORUBICINLIPOSOMAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOXORUBICINLIPOSOMAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:47:52Z,FLAVOPIRIDOL (ALVOCIDIB),FLAVOPIRIDOL(ALVOCIDIB),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLAVOPIRIDOL(ALVOCIDIB),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:48:03Z,PF-04136309,PF-04136309,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-04136309,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:48:14Z,POLYVALENT VACCINE 01-019,POLYVALENTVACCINE01-019,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/POLYVALENTVACCINE01-019,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:48:25Z,BIND-014 (DOCETAXEL NANOPARTICLES),BIND-014(DOCETAXELNANOPARTICLES),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND-014(DOCETAXELNANOPARTICLES),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:48:35Z,AL101 (BMS-906024),AL101(BMS-906024),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AL101(BMS-906024),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:48:46Z,GD2-KLH,GD2-KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GD2-KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:49:19Z,KTN3379,KTN3379,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KTN3379,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:49:36Z,KS-IL-2 (HUMAN),KS-IL-2(HUMAN),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KS-IL-2(HUMAN),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:49:47Z,DEPATUXIZUMAB MAFODOTIN (ABT-414),DEPATUXIZUMABMAFODOTIN(ABT-414),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DEPATUXIZUMABMAFODOTIN(ABT-414),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:49:57Z,PF-06863135,PF-06863135,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-06863135,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:50:25Z,OPT-821,OPT-821,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OPT-821,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:50:37Z,TEGAVIVINT (BC2059),TEGAVIVINT(BC2059),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEGAVIVINT(BC2059),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:50:48Z,CIBISATAMAB (RO6958688),CIBISATAMAB(RO6958688),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CIBISATAMAB(RO6958688),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:51:10Z,TREMELIMUMAB,TREMELIMUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TREMELIMUMAB,TRUE,FALSE,TRUE, Tremelimumab [USAN:INN],745013-59-6,https://chem.nlm.nih.gov/chemidplus/rn/745013-59-6
+2020-09-21T23:51:23Z,TENIPOSIDE,TENIPOSIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TENIPOSIDE,TRUE,FALSE,TRUE, Teniposide [USAN:INN:BAN],29767-20-2,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-21T23:51:36Z,HER2/NEU DNA VACCINE,HER2/NEUDNAVACCINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HER2/NEUDNAVACCINE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:51:46Z,TKI258,TKI258,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TKI258,TRUE,FALSE,TRUE, Dovitinib lactate [USAN],915769-50-5,https://chem.nlm.nih.gov/chemidplus/rn/915769-50-5
+2020-09-21T23:52:10Z,"GEDATOLISIB (PKI-587, PF-05212384)","GEDATOLISIB(PKI-587,PF-05212384)",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/GEDATOLISIB(PKI-587,PF-05212384)",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:52:21Z,BMS-641988,BMS-641988,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-641988,TRUE,FALSE,TRUE,BMS-641988,573738-99-5,https://chem.nlm.nih.gov/chemidplus/rn/573738-99-5
+2020-09-21T23:52:21Z,BMS-641988,BMS-641988,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-641988,TRUE,FALSE,TRUE,BMS-641988,1093276-09-5,https://chem.nlm.nih.gov/chemidplus/rn/1093276-09-5
+2020-09-21T23:52:40Z,TIRAGOLUMAB (RO7092284/MTIG7192A),TIRAGOLUMAB(RO7092284/MTIG7192A),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TIRAGOLUMAB(RO7092284/MTIG7192A),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:52:56Z,MDX-1203,MDX-1203,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-1203,TRUE,FALSE,TRUE, MDX 1203,1607828-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1607828-84-1
+2020-09-21T23:53:09Z,ET-743,ET-743,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ET-743,TRUE,FALSE,TRUE, Trabectedin [USAN:INN:BAN],114899-77-3,https://chem.nlm.nih.gov/chemidplus/rn/114899-77-3
+2020-09-21T23:53:22Z,GI-4016,GI-4016,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GI-4016,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:53:33Z,LY3500518 (AM0010),LY3500518(AM0010),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3500518(AM0010),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:53:44Z,AVELUMAB,AVELUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AVELUMAB,TRUE,FALSE,TRUE, Avelumab [USAN:INN],1537032-82-8,https://chem.nlm.nih.gov/chemidplus/rn/1537032-82-8
+2020-09-21T23:53:57Z,CC5013,CC5013,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC5013,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:54:07Z,GALUNISERTIB (LY2157299),GALUNISERTIB(LY2157299),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GALUNISERTIB(LY2157299),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:54:18Z,BUPARLISIB (BKM120),BUPARLISIB(BKM120),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BUPARLISIB(BKM120),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:54:29Z,EC1169,EC1169,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EC1169,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:54:39Z,TIPIRACIL-TRIFLURIDINE,TIPIRACIL-TRIFLURIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TIPIRACIL-TRIFLURIDINE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:54:50Z,PF-06671008,PF-06671008,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-06671008,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:55:01Z,A33 MOAB,A33MOAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/A33MOAB,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:55:12Z,CT53518 (TANDUTINIB),CT53518(TANDUTINIB),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CT53518(TANDUTINIB),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:55:22Z,GNS561,GNS561,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GNS561,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-21T23:55:33Z,ALITRETINOIN,ALITRETINOIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALITRETINOIN,TRUE,FALSE,TRUE, Alitretinoin [USAN:INN:BAN],5300-03-8,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
+2020-09-21T23:55:46Z,MONALIZUMAB (IPH2201),MONALIZUMAB(IPH2201),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MONALIZUMAB(IPH2201),TRUE,TRUE,FALSE,NA,NA,NA
