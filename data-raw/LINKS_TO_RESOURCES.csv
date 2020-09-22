@@ -12755,3 +12755,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T10:30:06Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
 2020-09-22T10:30:06Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
 2020-09-22T10:30:06Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:37:12Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1874170-91-8,https://chem.nlm.nih.gov/chemidplus/rn/1874170-91-8
+2020-09-22T10:37:12Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1874170-91-8,https://chem.nlm.nih.gov/chemidplus/rn/1874170-91-8
+2020-09-22T10:37:12Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/17C4BJ408U,https://chem.nlm.nih.gov/chemidplus/rn/1874170-91-8
+2020-09-22T10:37:12Z,NA,http://www.google.com/search?q=%22WHECVDVHIHTISC-NNVWMOTJSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1874170-91-8
