@@ -13605,3 +13605,51 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T16:25:49Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ct+53518+OR+tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
 2020-09-22T16:25:49Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ct+53518+OR+tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
 2020-09-22T16:25:49Z,NA,http://www.google.com/search?q=%22UXXQOJXBIDBUAC-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:49:34Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/111358-88-4,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=111358-88-4,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Lestaurtinib+OR+CEP+701,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22111358-88-4%22+OR+%22%22+OR+Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22111358-88-4%22+OR+%22%22+OR+Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C119379,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=111358-88-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=111358-88-4,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=111358-88-4,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/DO989GC5D1,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lestaurtinib,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:49:34Z,NA,http://www.google.com/search?q=%22UIARLYUEJFELEN-LROUJFHJSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-22T16:52:32Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1628338-78-2,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2
+2020-09-22T16:52:32Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1628338-78-2,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2
+2020-09-22T16:52:32Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/RHP89XVN70,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2
+2020-09-22T16:52:32Z,NA,http://www.google.com/search?q=%22UQPFPXXVGVCSCX-MIFIOKNMSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2
+2020-09-22T16:54:15Z,MeSH,"https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=MCC%20protein,%20human",https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=137764-10-4,https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Mcc+protein+OR+137764-10-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Mcc+protein+OR+137764-10-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Mcc+protein+OR+137764-10-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Mcc+protein+OR+137764-10-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Mcc+protein+OR+137764-10-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:15Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=137764-10-4,https://chem.nlm.nih.gov/chemidplus/rn/137764-10-4
+2020-09-22T16:54:22Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=oncogene+proteins,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=139691-74-0,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Oncogene+protein+cot,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22Oncogene+protein+cot%22,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Oncogene+protein+cot,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22Oncogene+protein+cot%22,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:22Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=139691-74-0,https://chem.nlm.nih.gov/chemidplus/rn/139691-74-0
+2020-09-22T16:54:29Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/92448-22-1,https://chem.nlm.nih.gov/chemidplus/rn/92448-22-1
+2020-09-22T16:54:29Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=92448-22-1,https://chem.nlm.nih.gov/chemidplus/rn/92448-22-1
+2020-09-22T16:54:29Z,NA,http://www.google.com/search?q=%22INZOTETZQBPBCE-NYLDSJSYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/92448-22-1
+2020-09-22T16:54:36Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=94465-69-7,https://chem.nlm.nih.gov/chemidplus/rn/94465-69-7
+2020-09-22T16:54:36Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=94465-69-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/94465-69-7
+2020-09-22T16:54:36Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.095.733,https://chem.nlm.nih.gov/chemidplus/rn/94465-69-7
+2020-09-22T16:54:36Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=94465-69-7,https://chem.nlm.nih.gov/chemidplus/rn/94465-69-7
