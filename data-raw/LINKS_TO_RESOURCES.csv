@@ -13384,3 +13384,27 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T14:48:55Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1314929-56-0,https://chem.nlm.nih.gov/chemidplus/rn/1314929-56-0
 2020-09-22T14:48:55Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1314929-56-0,https://chem.nlm.nih.gov/chemidplus/rn/1314929-56-0
 2020-09-22T14:48:55Z,NA,http://www.google.com/search?q=%22IRJLFDHRTDDHFP-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1314929-56-0
+2020-09-22T14:51:48Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/13922-04-8,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=13922-04-8,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Mitoguazone,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=13922-04-8,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:51:48Z,NA,http://www.google.com/search?q=%22QFMGTJJDGOIPAY-BCKSSGNJSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/13922-04-8
+2020-09-22T14:57:36Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/99201-87-3,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Anpirtoline+hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=99201-87-3,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Anpirtoline%20hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Anpirtoline%20hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Anpirtoline%20hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2299201-87-3%22+OR+%22%22+OR+Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2299201-87-3%22+OR+%22%22+OR+Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=99201-87-3,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Anpirtoline,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
+2020-09-22T14:57:36Z,NA,http://www.google.com/search?q=%22GRXDJABVNGUGCW-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/99201-87-3
