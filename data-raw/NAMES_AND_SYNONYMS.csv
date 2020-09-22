@@ -9757,6 +9757,8 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T19:48:23Z,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3,Synonyms,SKF 105992
 2020-09-22T19:48:23Z,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3,Synonyms,Topotecancarboxylic acid
 2020-09-22T20:02:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1847461-43-1,Name of Substance,Mobocertinib
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,r-serHuIL-2
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Recombinant human interleukin-2
 2020-09-22T20:02:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1847461-43-1,Synonyms,"5-Pyrimidinecarboxylic acid, 2-((4-((2-(dimethylamino)ethyl)methylamino)-2-methoxy-5-((1-oxo-2-propen-1-yl)amino)phenyl)amino)-4-(1-methyl-1H-indol-3-yl)-, 1-methylethyl ester"
 2020-09-22T20:02:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1847461-43-1,Synonyms,Mobocertinib
 2020-09-22T20:02:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1847461-43-1,Synonyms,Mobocertinib [INN]
@@ -9790,3 +9792,47 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T21:29:51Z,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7,Synonyms,LY-2835219
 2020-09-22T21:29:51Z,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7,Synonyms,UNII-60UAB198HK
 2020-09-22T21:29:51Z,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7,Synonyms,Verzenio
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Name of Substance,Interleukin-2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,MeSH Heading,Interleukin-2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,IL-2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,IL2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,Interleukin 2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,"Interleukin-2, recombinant"
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,Lymphocyte Mitogenic Factor
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,Recombinant human interleukin 2
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,Ro-23-6019
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,RU 49637
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,TCGF
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Synonyms,Thymocyte Stimulating Factor
+2020-09-22T22:02:10Z,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7,Systematic Name,Interleukin 2 (human clone pTIL2-21a protein moiety reduced)
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Name of Substance,Aldesleukin
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Name of Substance,Aldesleukin [USAN:INN:BAN]
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,125-L-Serine-2-133-interleukin 2 (human reduced)
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleucina
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleukin
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleukina
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleukina [INN-Spanish]
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleukinum
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Aldesleukinum [INN-Latin]
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,BAY 50-4798
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,IL-2
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Interleukin-2
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Interleukin-2 (Recombinant human)
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,"Interleukin-2, recombinant human"
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Prokine
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,Proleukin
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,rIL-2
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Synonyms,UNII-M89N0Q7EQR
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Systematic Name,"2-133-Interleukin 2 (human reduced), 125-L-serine-"
+2020-09-22T22:02:22Z,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4,Mixture Name,Guna-dermo
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Name of Substance,Interleukin-21
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Synonyms,IL 21
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Synonyms,IL-21
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Synonyms,"IL21 protein, human"
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Synonyms,Interleukin 21
+2020-09-22T22:02:34Z,https://chem.nlm.nih.gov/chemidplus/rn/251100-02-4,Synonyms,"interleukin 21 protein, human"
+2020-09-22T22:02:46Z,https://chem.nlm.nih.gov/chemidplus/rn/90686-89-8,Name of Substance,Interleukin-2 (59-72)
+2020-09-22T22:02:46Z,https://chem.nlm.nih.gov/chemidplus/rn/90686-89-8,Synonyms,"IL-2, 59-72"
+2020-09-22T22:02:46Z,https://chem.nlm.nih.gov/chemidplus/rn/90686-89-8,Synonyms,Peptide 84
+2020-09-22T22:02:46Z,https://chem.nlm.nih.gov/chemidplus/rn/90686-89-8,Systematic Name,"L-Leucine, L-leucyl-L-alpha-glutamyl-L-alpha-glutamyl-L-alpha-glutamyl-L-leucyl-L-lysyl-L-prolyl-L-leucyl-L-alpha-glutamyl-L-alpha-glutamyl-L-valyl-L-leucyl-L-asparaginyl-"
+2020-09-22T22:02:59Z,https://chem.nlm.nih.gov/chemidplus/rn/90804-20-9,"NA",DNA (human interleukin-2 gene)
