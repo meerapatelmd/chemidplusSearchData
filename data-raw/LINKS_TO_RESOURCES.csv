@@ -12516,3 +12516,35 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T08:40:06Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=AZD2014%20OR%20Vistusertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
 2020-09-22T08:40:06Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=AZD2014%20OR%20Vistusertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
 2020-09-22T08:40:06Z,NA,http://www.google.com/search?q=%22JUSFANSTBFGBAF-IRXDYDNUSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
+2020-09-22T08:51:31Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=PD+0332991%20OR%20Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1275,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1275,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a615013.html,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a615013.html,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22571190-30-2%22+OR+%22%22+OR+palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22571190-30-2%22+OR+%22%22+OR+palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C500026,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,DrugBank,http://www.drugbank.ca/drugs/DB09073,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=571190-30-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/G9ZF61LE7G,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=PD+0332991+OR+Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PD+0332991+OR+Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,Wikipedia,http://en.wikipedia.org/wiki/Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T08:51:31Z,NA,http://www.google.com/search?q=%22AHJRHEGDXFFMBM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
