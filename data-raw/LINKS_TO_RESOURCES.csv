@@ -14056,3 +14056,8 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T19:35:29Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
 2020-09-22T19:35:29Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
 2020-09-22T19:35:29Z,NA,http://www.google.com/search?q=%22WOWHHFRSBJGXCM-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:48:24Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=132877-29-3,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3
+2020-09-22T19:48:24Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=132877-29-3&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3
+2020-09-22T19:48:24Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=132877-29-3,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3
+2020-09-22T19:48:24Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=132877-29-3,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3
+2020-09-22T19:48:24Z,NA,http://www.google.com/search?q=%22DPQJTQJZJNYUEC-QHCPKHFHSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/132877-29-3
