@@ -11441,3 +11441,8 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T04:56:36Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Actinium-225-labeled%20humanized%20anti-cd33%20monoclonal%20antibody%20HUM195,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
 2020-09-22T04:56:36Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2209911-94-2,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
 2020-09-22T04:56:36Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2209911-94-2,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
+2020-09-22T05:01:47Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=BMS-986016+OR+Relatlimab,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
+2020-09-22T05:01:47Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1673516-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
+2020-09-22T05:01:47Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1673516-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
+2020-09-22T05:01:47Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=BMS-986016+OR+Relatlimab,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
+2020-09-22T05:01:47Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=BMS-986016+OR+Relatlimab,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
