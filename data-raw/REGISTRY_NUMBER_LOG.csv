@@ -1968,3 +1968,66 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T00:17:17Z,LEVAMISOLE,LEVAMISOLE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEVAMISOLE,TRUE,FALSE,TRUE,Levamisole phosphate,32093-35-9,https://chem.nlm.nih.gov/chemidplus/rn/32093-35-9
 2020-09-22T00:17:58Z,DENILEUKIN DIFTITOX,DENILEUKINDIFTITOX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DENILEUKINDIFTITOX,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T00:18:13Z,CX-072,CX-072,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CX-072,TRUE,FALSE,TRUE, CX-072,2101273-62-3,https://chem.nlm.nih.gov/chemidplus/rn/2101273-62-3
+2020-09-22T00:18:42Z,BI 754111,BI754111,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BI754111,TRUE,FALSE,TRUE, Miptenalimab,2245092-03-7,https://chem.nlm.nih.gov/chemidplus/rn/2245092-03-7
+2020-09-22T00:19:07Z,MK-4166,MK-4166,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-4166,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:19:18Z,CEMIPLIMAB,CEMIPLIMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CEMIPLIMAB,TRUE,FALSE,TRUE,Cemiplimab,1801342-60-8,https://chem.nlm.nih.gov/chemidplus/rn/1801342-60-8
+2020-09-22T00:19:18Z,CEMIPLIMAB,CEMIPLIMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CEMIPLIMAB,TRUE,FALSE,TRUE,Cemiplimab,1859072-60-8,https://chem.nlm.nih.gov/chemidplus/rn/1859072-60-8
+2020-09-22T00:19:41Z,CRLX101,CRLX101,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CRLX101,TRUE,FALSE,TRUE, CRLX 101,1338695-89-8,https://chem.nlm.nih.gov/chemidplus/rn/1338695-89-8
+2020-09-22T00:19:54Z,AF0144,AF0144,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AF0144,TRUE,FALSE,TRUE, Perflubrodec [USAN:INN],307-43-7,https://chem.nlm.nih.gov/chemidplus/rn/307-43-7
+2020-09-22T00:20:07Z,4-HYDROPEROXY-CYCLOPHOSPHAMIDE,4-HYDROPEROXY-CYCLOPHOSPHAMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/4-HYDROPEROXY-CYCLOPHOSPHAMIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:20:18Z,SAR439859,SAR439859,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SAR439859,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:20:29Z,FLUDARABINE,FLUDARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUDARABINE,TRUE,FALSE,TRUE,Fludarabine [INN],21679-14-1,https://chem.nlm.nih.gov/chemidplus/rn/21679-14-1
+2020-09-22T00:20:29Z,FLUDARABINE,FLUDARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUDARABINE,TRUE,FALSE,TRUE,6-Amino-9-(5-O-phosphono-beta-D-arabinofuranosyl)-9H-purin-2-ol,62314-92-5,https://chem.nlm.nih.gov/chemidplus/rn/62314-92-5
+2020-09-22T00:20:29Z,FLUDARABINE,FLUDARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUDARABINE,TRUE,FALSE,TRUE,Fludarabine phosphate [USAN:USP:BAN],75607-67-9,https://chem.nlm.nih.gov/chemidplus/rn/75607-67-9
+2020-09-22T00:20:29Z,FLUDARABINE,FLUDARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUDARABINE,TRUE,FALSE,TRUE,Fludarabine diphosphate,107811-61-0,https://chem.nlm.nih.gov/chemidplus/rn/107811-61-0
+2020-09-22T00:20:29Z,FLUDARABINE,FLUDARABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUDARABINE,TRUE,FALSE,TRUE,"9-(3,5-Di-O-phosphono-beta-D-arabinofuranosyl)-2-fluoro-9H-purin-6-amine",548774-53-4,https://chem.nlm.nih.gov/chemidplus/rn/548774-53-4
+2020-09-22T00:21:20Z,EVEROLIMUS,EVEROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EVEROLIMUS,TRUE,FALSE,TRUE,Everolimus [USAN:INN:BAN],159351-69-6,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6
+2020-09-22T00:21:20Z,EVEROLIMUS,EVEROLIMUS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EVEROLIMUS,TRUE,FALSE,TRUE,7-O-Demethyl-42-O-(2-hydroxyethyl)rapamycin,745779-75-3,https://chem.nlm.nih.gov/chemidplus/rn/745779-75-3
+2020-09-22T00:21:40Z,GSK3174998,GSK3174998,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK3174998,TRUE,FALSE,TRUE, GSK-3174998,2089398-68-3,https://chem.nlm.nih.gov/chemidplus/rn/2089398-68-3
+2020-09-22T00:21:53Z,PYRAZOLOACRIDINE,PYRAZOLOACRIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PYRAZOLOACRIDINE,TRUE,FALSE,TRUE,Pyrazoloacridine,99009-20-8,https://chem.nlm.nih.gov/chemidplus/rn/99009-20-8
+2020-09-22T00:21:53Z,PYRAZOLOACRIDINE,PYRAZOLOACRIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PYRAZOLOACRIDINE,TRUE,FALSE,TRUE,NSC 366140,99009-21-9,https://chem.nlm.nih.gov/chemidplus/rn/99009-21-9
+2020-09-22T00:22:12Z,EPACADOSTAT (INCB024360),EPACADOSTAT(INCB024360),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EPACADOSTAT(INCB024360),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:22:23Z,SOR007,SOR007,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SOR007,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:22:34Z,GANETESPIB (STA-9090),GANETESPIB(STA-9090),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GANETESPIB(STA-9090),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:22:45Z,ISATUXIMAB,ISATUXIMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ISATUXIMAB,TRUE,FALSE,TRUE, Isatuximab [USAN:INN],1461640-62-9,https://chem.nlm.nih.gov/chemidplus/rn/1461640-62-9
+2020-09-22T00:22:58Z,INTERLEUKIN-1,INTERLEUKIN-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1,TRUE,FALSE,TRUE,Interleukin-1beta-converting enzyme inhibitor,96282-35-8,https://chem.nlm.nih.gov/chemidplus/rn/96282-35-8
+2020-09-22T00:22:58Z,INTERLEUKIN-1,INTERLEUKIN-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1,TRUE,FALSE,TRUE,Interleukin 1alpha (human clone p10A),97599-22-9,https://chem.nlm.nih.gov/chemidplus/rn/97599-22-9
+2020-09-22T00:22:58Z,INTERLEUKIN-1,INTERLEUKIN-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1,TRUE,FALSE,TRUE,Interleukin-1beta (163-171),106021-96-9,https://chem.nlm.nih.gov/chemidplus/rn/106021-96-9
+2020-09-22T00:22:58Z,INTERLEUKIN-1,INTERLEUKIN-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1,TRUE,FALSE,TRUE,"Interleukin-1beta, methionyl-glutamyl-alanyl-glutamine-",121797-27-1,https://chem.nlm.nih.gov/chemidplus/rn/121797-27-1
+2020-09-22T00:22:58Z,INTERLEUKIN-1,INTERLEUKIN-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1,TRUE,FALSE,TRUE,Interleukin-10,130068-27-8,https://chem.nlm.nih.gov/chemidplus/rn/130068-27-8
+2020-09-22T00:23:38Z,SCH 717454,SCH717454,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SCH717454,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:23:48Z,HU 3S193 ANTIBODY,HU3S193ANTIBODY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HU3S193ANTIBODY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:23:59Z,HDM201 (NEW VARIANT 2),HDM201(NEWVARIANT2),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HDM201(NEWVARIANT2),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:24:10Z,DEBIO 1347 (CH5183284),DEBIO1347(CH5183284),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DEBIO1347(CH5183284),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:24:53Z,MK-4827,MK-4827,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-4827,TRUE,FALSE,TRUE,Niraparib hydrochloride,1038915-64-8,https://chem.nlm.nih.gov/chemidplus/rn/1038915-64-8
+2020-09-22T00:24:53Z,MK-4827,MK-4827,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-4827,TRUE,FALSE,TRUE,Niraparib tosylate,1038915-73-9,https://chem.nlm.nih.gov/chemidplus/rn/1038915-73-9
+2020-09-22T00:25:12Z,TROXACITABINE,TROXACITABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TROXACITABINE,TRUE,FALSE,TRUE,Troxacitabine triphosphate,171039-00-2,https://chem.nlm.nih.gov/chemidplus/rn/171039-00-2
+2020-09-22T00:25:12Z,TROXACITABINE,TROXACITABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TROXACITABINE,TRUE,FALSE,TRUE,Troxacitabine monophosphate,182482-78-6,https://chem.nlm.nih.gov/chemidplus/rn/182482-78-6
+2020-09-22T00:25:12Z,TROXACITABINE,TROXACITABINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TROXACITABINE,TRUE,FALSE,TRUE,MIV-818,2129993-56-0,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
+2020-09-22T00:25:38Z,TAS3681,TAS3681,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TAS3681,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:25:48Z,IMELPG1,IMELPG1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMELPG1,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:25:59Z,SELITRECTINIB (BAY 2731954/LOXO-195),SELITRECTINIB(BAY2731954/LOXO-195),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SELITRECTINIB(BAY2731954/LOXO-195),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:26:36Z,ARSENIC TRIOXIDE,ARSENICTRIOXIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ARSENICTRIOXIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:26:47Z,PCNU,PCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PCNU,TRUE,FALSE,TRUE,"1-(2-Chloroethyl)-3-(2,6-dioxo-3-piperidinyl)-1-nitrosourea",13909-02-9,https://chem.nlm.nih.gov/chemidplus/rn/13909-02-9
+2020-09-22T00:26:47Z,PCNU,PCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PCNU,TRUE,FALSE,TRUE,Icig 1163,55102-43-7,https://chem.nlm.nih.gov/chemidplus/rn/55102-43-7
+2020-09-22T00:26:47Z,PCNU,PCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PCNU,TRUE,FALSE,TRUE,"Urea, N-(2-chloroethyl)-N-nitroso-N'-(2,3,4-tri-O-acetyl-beta-D-xylopyranosyl)-",58845-59-3,https://chem.nlm.nih.gov/chemidplus/rn/58845-59-3
+2020-09-22T00:26:47Z,PCNU,PCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PCNU,TRUE,FALSE,TRUE,N-Chloroethylnitrosourea asparaginamide,81965-31-3,https://chem.nlm.nih.gov/chemidplus/rn/81965-31-3
+2020-09-22T00:27:31Z,ADO-TRASTUZUMAB EMTANSINE,ADO-TRASTUZUMABEMTANSINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ADO-TRASTUZUMABEMTANSINE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:27:42Z,IMPRIME PGG,IMPRIMEPGG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMPRIMEPGG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:27:58Z,VISMODEGIB,VISMODEGIB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VISMODEGIB,TRUE,FALSE,TRUE, Vismodegib [USAN:INN],879085-55-9,https://chem.nlm.nih.gov/chemidplus/rn/879085-55-9
+2020-09-22T00:28:11Z,VISTUSERTIB (AZD2014),VISTUSERTIB(AZD2014),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VISTUSERTIB(AZD2014),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:28:22Z,VARLILUMAB,VARLILUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VARLILUMAB,TRUE,FALSE,TRUE, Varlilumab [USAN:INN],1393344-72-3,https://chem.nlm.nih.gov/chemidplus/rn/1393344-72-3
+2020-09-22T00:28:35Z,FLUTAMIDE,FLUTAMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUTAMIDE,TRUE,FALSE,TRUE,Hydroxyflutamide,52806-53-8,https://chem.nlm.nih.gov/chemidplus/rn/52806-53-8
+2020-09-22T00:28:35Z,FLUTAMIDE,FLUTAMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUTAMIDE,TRUE,FALSE,TRUE,O-Flutamide,151262-93-0,https://chem.nlm.nih.gov/chemidplus/rn/151262-93-0
+2020-09-22T00:28:55Z,MUC-2 KLH/QS-21,MUC-2KLH/QS-21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-2KLH/QS-21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:29:06Z,GRT-C903,GRT-C903,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GRT-C903,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:29:16Z,DOCETAXEL,DOCETAXEL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOCETAXEL,TRUE,FALSE,TRUE,10-Deacetyl-3'-debenzoylpaclitaxel,133524-69-3,https://chem.nlm.nih.gov/chemidplus/rn/133524-69-3
+2020-09-22T00:29:16Z,DOCETAXEL,DOCETAXEL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOCETAXEL,TRUE,FALSE,TRUE,4-Epidocetaxel,153381-68-1,https://chem.nlm.nih.gov/chemidplus/rn/153381-68-1
+2020-09-22T00:29:16Z,DOCETAXEL,DOCETAXEL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOCETAXEL,TRUE,FALSE,TRUE,RPR-111026,157067-33-9,https://chem.nlm.nih.gov/chemidplus/rn/157067-33-9
+2020-09-22T00:29:48Z,AG-636,AG-636,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-636,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:29:59Z,BW301 (PIRITREXIN),BW301(PIRITREXIN),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BW301(PIRITREXIN),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:30:15Z,AUY922,AUY922,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AUY922,TRUE,FALSE,TRUE,AUY 922,747412-64-2,https://chem.nlm.nih.gov/chemidplus/rn/747412-64-2
+2020-09-22T00:30:28Z,LETROZOLE,LETROZOLE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LETROZOLE,TRUE,FALSE,TRUE,"p,p'-Dicyanobenzophenone",32446-66-5,https://chem.nlm.nih.gov/chemidplus/rn/32446-66-5
+2020-09-22T00:30:40Z,COL-3,COL-3,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/COL-3,TRUE,FALSE,TRUE, Incyclinide [USAN:INN],15866-90-7,https://chem.nlm.nih.gov/chemidplus/rn/15866-90-7
+2020-09-22T00:30:59Z,TISOTUMAB VEDOTIN (HUMAX-TF-ADC),TISOTUMABVEDOTIN(HUMAX-TF-ADC),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TISOTUMABVEDOTIN(HUMAX-TF-ADC),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T00:31:09Z,ULOCUPLUMAB (BMS-936564),ULOCUPLUMAB(BMS-936564),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ULOCUPLUMAB(BMS-936564),TRUE,TRUE,FALSE,NA,NA,NA
