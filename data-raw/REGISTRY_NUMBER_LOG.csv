@@ -5625,3 +5625,33 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T17:38:54Z,AV-951 Capsule 1 mg (IRB#08-144),AV-951Capsule1mg(IRB#08-144),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AV-951Capsule1mg(IRB#08-144),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:39:11Z,DEBIO 1347 10 mg 13-131 investigational drug,DEBIO134710mg13-131investigationaldrug,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DEBIO134710mg13-131investigationaldrug,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:39:27Z,"SU011248 (IRB#04-108) Capsule INV, 25 MG","SU011248(IRB#04-108)CapsuleINV,25MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#04-108)CapsuleINV,25MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:40:20Z,SAHA (IRB#01-021) CAP,SAHA(IRB#01-021)CAP,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SAHA(IRB#01-021)CAP,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:40:31Z,Trameinib,Trameinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trameinib,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:40:42Z,UFT 100MG COMPASSIONATE STUDY,UFT100MGCOMPASSIONATESTUDY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/UFT100MGCOMPASSIONATESTUDY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:40:53Z,CPI-613 INVEST,CPI-613INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPI-613INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:41:30Z,Temozolomide 20 mg Capsule (IRB#05-119),Temozolomide20mgCapsule(IRB#05-119),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temozolomide20mgCapsule(IRB#05-119),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:42:15Z,RGX-104 Capsule,RGX-104Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RGX-104Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:42:26Z,oSIMERtinib 80 mg oral tablet IRB16-033,oSIMERtinib80mgoraltabletIRB16-033,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/oSIMERtinib80mgoraltabletIRB16-033,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:42:43Z,TEMOZOLOMIDE 5MG CAPSULE,TEMOZOLOMIDE5MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMOZOLOMIDE5MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:43:01Z,AMG 337 Oral INVEST,AMG337OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG337OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:43:11Z,LGD1069 10MG CAP. MICRONIZED,LGD106910MGCAP.MICRONIZED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGD106910MGCAP.MICRONIZED,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:43:22Z,ZD1839 (IRB#04-003) Tablet 250 mg,ZD1839(IRB#04-003)Tablet250mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839(IRB#04-003)Tablet250mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:43:33Z,PDX 10MG/ML INJ.,PDX10MG/MLINJ.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PDX10MG/MLINJ.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:43:50Z,Debio 1347 (CH5183284) Oral TABLET INVEST,Debio1347(CH5183284)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Debio1347(CH5183284)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:44:01Z,"SU011248 (IRB#04-001) Capsule INV, 50 MG","SU011248(IRB#04-001)CapsuleINV,50MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#04-001)CapsuleINV,50MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:44:12Z,"XL844 (IRB#07-081) Capsule INV, 100 mg","XL844(IRB#07-081)CapsuleINV,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/XL844(IRB#07-081)CapsuleINV,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:44:34Z,DAUNORUBICIN LIPOSOME 2MG/ML,DAUNORUBICINLIPOSOME2MG/ML,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DAUNORUBICINLIPOSOME2MG/ML,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:45:33Z,TN(C) 15 MCG,TN(C)15MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TN(C)15MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:45:49Z,LY293111 200MG CAPSULE,LY293111200MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY293111200MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:46:01Z,RELAPS/REFRACT. LEUKEMIA,RELAPS/REFRACT.LEUKEMIA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RELAPS/REFRACT.LEUKEMIA,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:46:12Z,Axitinib (AG-013736) 5 mg Tablet (IRB#08-059),Axitinib(AG-013736)5mgTablet(IRB#08-059),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Axitinib(AG-013736)5mgTablet(IRB#08-059),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:46:23Z,Capecitabine 150 mg Tablet (IRB#08-108),Capecitabine150mgTablet(IRB#08-108),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Capecitabine150mgTablet(IRB#08-108),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:46:39Z,Duvelisib 50mg,Duvelisib50mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Duvelisib50mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:47:06Z,THALIDOMIDE 50MG/CAPSULE,THALIDOMIDE50MG/CAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/THALIDOMIDE50MG/CAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:47:47Z,LY3415244 INVEST,LY3415244INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3415244INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:48:03Z,Bevacizumab (IRB#02-041),Bevacizumab(IRB#02-041),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bevacizumab(IRB#02-041),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:48:13Z,Fosbretabulin (CA4P) or Placebo INVEST,Fosbretabulin(CA4P)orPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Fosbretabulin(CA4P)orPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:48:24Z,IM-862 VS. PLACEBO 0.7ML/5MG,IM-862VS.PLACEBO0.7ML/5MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM-862VS.PLACEBO0.7ML/5MG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:48:46Z,RAD001 (Everolimus) 5 mg Tablet (IRB#06-105),RAD001(Everolimus)5mgTablet(IRB#06-105),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)5mgTablet(IRB#06-105),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:48:57Z,TOMUDEX,TOMUDEX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TOMUDEX,TRUE,FALSE,TRUE, Raltitrexed,112887-68-0,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0
+2020-09-22T17:49:09Z,RAD001 (Everolimus) 5 mg Tab (IRB#09-130),RAD001(Everolimus)5mgTab(IRB#09-130),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)5mgTab(IRB#09-130),TRUE,TRUE,FALSE,NA,NA,NA
