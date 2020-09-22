@@ -13676,3 +13676,19 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T17:12:51Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Oblimersen,https://chem.nlm.nih.gov/chemidplus/rn/190977-41-4
 2020-09-22T17:12:51Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Oblimersen,https://chem.nlm.nih.gov/chemidplus/rn/190977-41-4
 2020-09-22T17:12:51Z,NA,http://www.google.com/search?q=%22IBXPAFBDJCXCDW-MHFPCNPESA-A%22,https://chem.nlm.nih.gov/chemidplus/rn/190977-41-4
+2020-09-22T17:15:00Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=5-Fluorodihydrouracil,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=696-06-0,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=5-Fluorodihydrouracil+OR+696-06-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=5-Fluorodihydrouracil+OR+696-06-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=5-Fluorodihydrouracil+OR+696-06-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=5-Fluorodihydrouracil+OR+696-06-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22696-06-0%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=696-06-0,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C019389,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=696-06-0&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=696-06-0,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:15:00Z,NA,http://www.google.com/search?q=%22RAIRJKWTBBDDAR-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T17:19:04Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=MIV-818,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
+2020-09-22T17:19:04Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2129993-56-0,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
+2020-09-22T17:19:04Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2129993-56-0,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
+2020-09-22T17:19:04Z,NA,http://www.google.com/search?q=%22JBYKMODFCUCTGY-LLSQRQBFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
