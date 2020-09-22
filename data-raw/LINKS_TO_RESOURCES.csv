@@ -13460,3 +13460,21 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T15:18:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Epothilone+B+OR+Patupilone,https://chem.nlm.nih.gov/chemidplus/rn/152044-54-7
 2020-09-22T15:18:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Epothilone+B+OR+Patupilone,https://chem.nlm.nih.gov/chemidplus/rn/152044-54-7
 2020-09-22T15:18:35Z,NA,http://www.google.com/search?q=%22QXRSDHAAWVKZLJ-PVYNADRNSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/152044-54-7
+2020-09-22T15:24:27Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Psma-hbed-CC,https://chem.nlm.nih.gov/chemidplus/rn/1366302-52-4
+2020-09-22T15:24:27Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1366302-52-4,https://chem.nlm.nih.gov/chemidplus/rn/1366302-52-4
+2020-09-22T15:24:27Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1366302-52-4,https://chem.nlm.nih.gov/chemidplus/rn/1366302-52-4
+2020-09-22T15:24:27Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/9AG41L3AOQ,https://chem.nlm.nih.gov/chemidplus/rn/1366302-52-4
+2020-09-22T15:24:27Z,NA,http://www.google.com/search?q=%22QJUIUFGOTBRHKP-LQJZCPKCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1366302-52-4
+2020-09-22T15:24:39Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%228067-07-0%22+,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/8067-07-0,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=baralgin,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=8067-07-0,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=BARALGIN,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=BARALGIN,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=BARALGIN,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=BARALGIN,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=BARALGIN,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=8067-07-0,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Baralgin,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Baralgin,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:24:39Z,NA,http://www.google.com/search?q=%22PUNYXHSYWKIRTJ-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
