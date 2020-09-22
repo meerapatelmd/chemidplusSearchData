@@ -13834,3 +13834,69 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T18:59:03Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
 2020-09-22T18:59:03Z,Wikipedia,http://en.wikipedia.org/wiki/Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
 2020-09-22T18:59:03Z,NA,http://www.google.com/search?q=%22PTOAARAWEBMLNO-KVQBGUIXSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T19:09:10Z,MeSH,"https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=7-Hydroxymethylbenz(a)anthracene-8,9-dihydrodiol",https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=16053-72-8,https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,PubMed,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=7-Hydroxymethylbenz*a*anthracene-8,9-dihydrodiol+OR+16053-72-8+[rn]",https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=7-Hydroxymethylbenz*a*anthracene-8,9-dihydrodiol+OR+16053-72-8+[rn]",https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,PubMed Central,"https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=7-Hydroxymethylbenz*a*anthracene-8,9-dihydrodiol+OR+16053-72-8+[rn]",https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:26Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:10Z,PubMed Toxicology,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=7-Hydroxymethylbenz*a*anthracene-8,9-dihydrodiol+OR+16053-72-8+[rn]",https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C035844,https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=16053-72-8,https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:10Z,NA,http://www.google.com/search?q=%22IAVXTYVFOYQFLN-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/16053-72-8
+2020-09-22T19:09:20Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=16110-13-7,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2216110-13-7%22+,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+16110-13-7+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,GENETOX,https://pubchem.ncbi.nlm.nih.gov/substance/?source=gene-tox&sourceid=16110-13-7,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=7-Hydroxymethylbenz(a)anthracene,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=16110-13-7,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=7-Hydroxymethylbenz*a*anthracene+OR+16110-13-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=7-Hydroxymethylbenz*a*anthracene+OR+16110-13-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=7-Hydroxymethylbenz*a*anthracene+OR+16110-13-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=7-Hydroxymethylbenz*a*anthracene+OR+16110-13-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2216110-13-7%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C025909,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=16110-13-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=16110-13-7,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=16110-13-7,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:20Z,NA,http://www.google.com/search?q=%22FWFOOWHDKQMDKI-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/16110-13-7
+2020-09-22T19:09:26Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+3073-59-4+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Hexamethylene+bisacetamide,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Hexamethylene+bisacetamide+OR+3073-59-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%223073-59-4%22+OR+%22%22+OR+%22Hexamethylene+bisacetamide%22,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%223073-59-4%22+OR+%22%22+OR+%22Hexamethylene+bisacetamide%22,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C014026,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=3073-59-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=3073-59-4,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/LA133J59VU,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=3073-59-4&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Hexamethylene+bisacetamide,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Hexamethylene+bisacetamide,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:26Z,NA,http://www.google.com/search?q=%22BNQSTAOJRULKNX-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3073-59-4
+2020-09-22T19:09:29Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=2-Hydroxy-2-methyl-3-butenoic+acid,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=31572-04-0,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=2-Hydroxy-2-methyl-3-butenoic+acid+OR+31572-04-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=2-Hydroxy-2-methyl-3-butenoic+acid+OR+31572-04-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=2-Hydroxy-2-methyl-3-butenoic+acid+OR+31572-04-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2231572-04-0%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C039884,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=31572-04-0,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:29Z,NA,http://www.google.com/search?q=%22SXQCPXKZTFJHQI-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/31572-04-0
+2020-09-22T19:09:32Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=ATP%20gamma-(4-(N-(2-hydroxyethyl)-N-methylamino)benzylamide),https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=74536-50-8,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=ATP+gamma-*4-*N-*2-Hydroxyethyl*-N-methylamino*benzylamide*+OR+74536-50-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=ATP+gamma-*4-*N-*2-Hydroxyethyl*-N-methylamino*benzylamide*+OR+74536-50-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C032384,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=74536-50-8,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:09:32Z,NA,http://www.google.com/search?q=%22QXEZTRZFKVPUIH-WVSUBDOOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
