@@ -12027,3 +12027,23 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T06:07:44Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
 2020-09-22T06:07:44Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
 2020-09-22T06:07:44Z,NA,http://www.google.com/search?q=%22LCYWXOLNJNHLGN-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:09:28Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=DCC-2701,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1345847-93-9,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=DCC-2701,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1345847-93-9,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=DCC-2701,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=DCC-2701,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22DCC-2701%22,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22DCC-2701%22,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22DCC-2701%22,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000597309,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/T678746713,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Altiratinib%20OR%20DCC-270%20OR%20%20DP-5164,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Altiratinib%20OR%20DCC-270%20OR%20%20DP-5164,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:09:28Z,NA,http://www.google.com/search?q=%22GNNDEPIMDAZHRQ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1345847-93-9
+2020-09-22T06:12:41Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/3543-74-6,https://chem.nlm.nih.gov/chemidplus/rn/3543-74-6
+2020-09-22T06:12:41Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=3543-74-6,https://chem.nlm.nih.gov/chemidplus/rn/3543-74-6
+2020-09-22T06:12:41Z,NA,http://www.google.com/search?q=%22SJYOJVBTSZGDQH-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3543-74-6
+2020-09-22T06:13:01Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/87475-54-5,https://chem.nlm.nih.gov/chemidplus/rn/87475-54-5
+2020-09-22T06:13:01Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=87475-54-5,https://chem.nlm.nih.gov/chemidplus/rn/87475-54-5
+2020-09-22T06:13:01Z,NA,http://www.google.com/search?q=%22GVLZDNWNOBSNEN-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/87475-54-5
