@@ -12309,3 +12309,27 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T06:52:20Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=3131-60-0,https://chem.nlm.nih.gov/chemidplus/rn/3131-60-0
 2020-09-22T06:52:20Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/YD42UEH51C,https://chem.nlm.nih.gov/chemidplus/rn/3131-60-0
 2020-09-22T06:52:20Z,NA,http://www.google.com/search?q=%22OZQDLJNDRVBCST-SHUUEZRQSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3131-60-0
+2020-09-22T07:06:28Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=OMP-54f28%20OR%20Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1391727-24-4,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=OMP-54F28,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1391727-24-4,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=OMP-54f28+OR+Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=OMP-54f28%20OR%20Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=OMP-54f28+OR+Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=OMP-54f28+OR+Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=OMP-54f28+OR+Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/2N71QUE3NL,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=OMP-54f28%20OR%20Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:06:28Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=OMP-54f28%20OR%20Ipafricept,https://chem.nlm.nih.gov/chemidplus/rn/1391727-24-4
+2020-09-22T07:09:15Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/192185-68-5,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=r%20115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=192185-68-5,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=r115777,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=192185-68-5,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
+2020-09-22T07:09:15Z,NA,http://www.google.com/search?q=%22PLHJCIYEEKOWNM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/192185-68-5
