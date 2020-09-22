@@ -11721,3 +11721,50 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T05:26:54Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/0O39RGI33V,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
 2020-09-22T05:26:54Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
 2020-09-22T05:26:54Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:33:39Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Paclitaxel+Poliglumex,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/263351-82-2,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Paclitaxel+Poliglumex,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=263351-82-2,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Paclitaxel+Poliglumex+OR+Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22263351-82-2%22+OR+%22%22+OR+%22Paclitaxel+Poliglumex%22,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22263351-82-2%22+OR+%22%22+OR+%22Paclitaxel+Poliglumex%22,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C509139,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Paclitaxel,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=263351-82-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=263351-82-2,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/TQ64FZ98ZN,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""Paclitaxel+Poliglumex""",https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""Paclitaxel+Poliglumex""",https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:33:39Z,NA,http://www.google.com/search?q=%22ZPUHVPYXSITYDI-HEUWMMRCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/263351-82-2
+2020-09-22T05:36:23Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=RO-5509554,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1448221-67-7,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=emactuzumab,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1448221-67-7,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=RG7155,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/6FY6EI1X8R,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=RG7155%20OR%20RO-5509554%20OR%20Emactuzumab,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:23Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=RG7155%20OR%20RO-5509554%20OR%20Emactuzumab,https://chem.nlm.nih.gov/chemidplus/rn/1448221-67-7
+2020-09-22T05:36:58Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Vadastuximab%20talirine%20OR%20SGN-CD33A,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1436390-64-5,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1436390-64-5,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=SGN-CD33A,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=SGN-CD33A,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22SGN-CD33A%22,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22SGN-CD33A%22,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22SGN-CD33A%22,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/T13V17U431,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Vadastuximab%20talirine,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Vadastuximab%20talirine,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-22T05:36:58Z,NA,http://www.google.com/search?q=%22BNJNAEJASPUJTO-DUOHOMBCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
