@@ -2476,3 +2476,26 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:23:34Z,PEMETREXED,PEMETREXED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMETREXED,TRUE,FALSE,TRUE,Pemetrexed 6-oxo diacid impurity,193281-00-4,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4
 2020-09-22T02:23:34Z,PEMETREXED,PEMETREXED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMETREXED,TRUE,FALSE,TRUE,Pemetrexed disodium heptahydrate,357166-29-1,https://chem.nlm.nih.gov/chemidplus/rn/357166-29-1
 2020-09-22T02:24:20Z,MT-3724,MT-3724,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MT-3724,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:25:15Z,XL844,XL844,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/XL844,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:26:17Z,SELICRELUMAB (RO7009789),SELICRELUMAB(RO7009789),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SELICRELUMAB(RO7009789),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:27:19Z,IPI-549,IPI-549,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPI-549,TRUE,FALSE,TRUE,Sipi 549,106287-81-4,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:19Z,IPI-549,IPI-549,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPI-549,TRUE,FALSE,TRUE,IPI-549,1693758-51-8,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8
+2020-09-22T02:29:24Z,LEUPROLIDE,LEUPROLIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEUPROLIDE,TRUE,FALSE,TRUE,Leuprolide (1-3),35925-21-4,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:29:24Z,LEUPROLIDE,LEUPROLIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEUPROLIDE,TRUE,FALSE,TRUE,Leuprorelin [INN:BAN],53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:29:24Z,LEUPROLIDE,LEUPROLIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEUPROLIDE,TRUE,FALSE,TRUE,Leuprolide acetate [USAN:USP],74381-53-6,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-22T02:29:24Z,LEUPROLIDE,LEUPROLIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEUPROLIDE,TRUE,FALSE,TRUE,Leuprolide (5-9),129244-90-2,https://chem.nlm.nih.gov/chemidplus/rn/129244-90-2
+2020-09-22T02:29:24Z,LEUPROLIDE,LEUPROLIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEUPROLIDE,TRUE,FALSE,TRUE,Leuprolide mesylate,944347-41-5,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:17Z,MTP-PE (CGP 19835A LIPID),MTP-PE(CGP19835ALIPID),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MTP-PE(CGP19835ALIPID),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:31:48Z,RILOTUMUMAB,RILOTUMUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RILOTUMUMAB,TRUE,FALSE,TRUE, Rilotumumab [USAN:INN],872514-65-3,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:21Z,CIXUTUMUMAB (IMC-A12),CIXUTUMUMAB(IMC-A12),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CIXUTUMUMAB(IMC-A12),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:33:23Z,PYROTINIB (SHR1258),PYROTINIB(SHR1258),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PYROTINIB(SHR1258),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:34:09Z,ASCIMINIB (ABL001),ASCIMINIB(ABL001),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASCIMINIB(ABL001),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:34:55Z,BENDAMUSTINE,BENDAMUSTINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BENDAMUSTINE,TRUE,FALSE,TRUE,Ethyl 5-(bis(2-hydroxyethyl)amino)-1-methyl-1H-benzimidazole-2-butanoate,3543-74-6,https://chem.nlm.nih.gov/chemidplus/rn/3543-74-6
+2020-09-22T02:34:55Z,BENDAMUSTINE,BENDAMUSTINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BENDAMUSTINE,TRUE,FALSE,TRUE,Bendamustine hydrochloride,3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:34:55Z,BENDAMUSTINE,BENDAMUSTINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BENDAMUSTINE,TRUE,FALSE,TRUE,Bendamustine [INN:BAN],16506-27-7,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:34:55Z,BENDAMUSTINE,BENDAMUSTINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BENDAMUSTINE,TRUE,FALSE,TRUE,N-Desmethylbendamustine,41515-13-3,https://chem.nlm.nih.gov/chemidplus/rn/41515-13-3
+2020-09-22T02:34:55Z,BENDAMUSTINE,BENDAMUSTINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BENDAMUSTINE,TRUE,FALSE,TRUE,"1H-Benzimidazole-2-butanoic acid, 5-(bis(2-chloroethyl)amino)-1-methyl-, ethyl ester",87475-54-5,https://chem.nlm.nih.gov/chemidplus/rn/87475-54-5
+2020-09-22T02:36:32Z,MCLA-145,MCLA-145,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MCLA-145,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:37:18Z,STM 434,STM434,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/STM434,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:38:04Z,REGN1400,REGN1400,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/REGN1400,TRUE,FALSE,TRUE, REGN-1400,1443016-81-6,https://chem.nlm.nih.gov/chemidplus/rn/1443016-81-6
+2020-09-22T02:38:37Z,"BRILANESTRANT (GDC-0810, ARN-810)","BRILANESTRANT(GDC-0810,ARN-810)",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/BRILANESTRANT(GDC-0810,ARN-810)",TRUE,TRUE,FALSE,NA,NA,NA

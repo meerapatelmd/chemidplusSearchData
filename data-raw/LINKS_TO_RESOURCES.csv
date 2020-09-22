@@ -10567,3 +10567,165 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T02:23:59Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=193281-00-4,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4
 2020-09-22T02:23:59Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/4AF6UXL7P7,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4
 2020-09-22T02:23:59Z,NA,http://www.google.com/search?q=%22YVRHJHKPTURIID-KIYNQFGBSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4
+2020-09-22T02:27:51Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Sipi+549,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=106287-81-4,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Sipi+549+OR+106287-81-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Sipi+549+OR+106287-81-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Sipi+549+OR+106287-81-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22106287-81-4%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C052073,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=106287-81-4,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:27:51Z,NA,http://www.google.com/search?q=%22SYJFBYMNIYYHAV-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/106287-81-4
+2020-09-22T02:30:12Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/35925-21-4,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:30:12Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=35925-21-4,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:30:12Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=35925-21-4,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:30:12Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/7OI82E72DN,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:30:12Z,NA,http://www.google.com/search?q=%22OHCMNYPOVOHMJR-BZSNNMDCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/35925-21-4
+2020-09-22T02:30:29Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2253714-56-0%22+,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+53714-56-0+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6518,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6518,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a685040.html,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a685040.html,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=leuprolide+OR+53714-56-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=leuprolide+OR+53714-56-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=leuprolide+OR+53714-56-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=leuprolide+OR+53714-56-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=leuprolide+OR+53714-56-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2253714-56-0%22+OR+%22Leuprolide%22+,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2253714-56-0%22+OR+%22Leuprolide%22+,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D016729,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DrugBank,http://www.drugbank.ca/drugs/DB00007,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=53714-56-0&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/EFY6W0M8TG,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,Wikipedia,http://en.wikipedia.org/wiki/Leuprorelin,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:30:29Z,NA,http://www.google.com/search?q=%22GFIJNRVAKGFPGQ-LIJARHBVSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
+2020-09-22T02:31:01Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Leuprolide%20mesylate,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/944347-41-5,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=944347-41-5,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22944347-41-5%22+OR+%22%22+OR+Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22944347-41-5%22+OR+%22%22+OR+Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=944347-41-5,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/8E3C3C493W,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:31:01Z,NA,http://www.google.com/search?q=%22MBIDSOMXPLCOHS-XNHQSDQCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5
+2020-09-22T02:32:05Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=AMG+102,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/872514-65-3,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Rilotumumab,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=872514-65-3,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=AMG+102,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=AMG+102,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22AMG+102%22,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22AMG+102%22,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22AMG+102%22,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/51WEW898IJ,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:32:05Z,Wikipedia,http://en.wikipedia.org/wiki/Rilotumumab,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3
+2020-09-22T02:35:12Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=BENDAMUSTINe,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/16506-27-7,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7763,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7763,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1364,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1364,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a608034.html,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a608034.html,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=16506-27-7,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Bendamustine+OR+16506-27-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2216506-27-7%22+OR+%22%22+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2216506-27-7%22+OR+%22%22+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000069461,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,DrugBank,http://www.drugbank.ca/drugs/DB06769,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=16506-27-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=16506-27-7,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=16506-27-7,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/9266D9P3PQ,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,Wikipedia,http://en.wikipedia.org/wiki/Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:12Z,NA,http://www.google.com/search?q=%22YTKUWDBFDASYHO-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/16506-27-7
+2020-09-22T02:35:45Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Bendamustine+hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%223543-75-7%22+,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+3543-75-7+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,GENETOX,https://pubchem.ncbi.nlm.nih.gov/substance/?source=gene-tox&sourceid=3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a608034.html,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a608034.html,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Bendamustine%20Hydrochloride,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Cytostasan+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Cytostasan+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Cytostasan+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%223543-75-7%22+OR+%22%22+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%223543-75-7%22+OR+%22%22+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000069461,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DrugBank,http://www.drugbank.ca/drugs/DB06769,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=3543-75-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=3543-75-7,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/981Y8SX18M,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:35:45Z,NA,http://www.google.com/search?q=%22ZHSKUOZOLHMKEA-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T02:36:02Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/41515-13-3,https://chem.nlm.nih.gov/chemidplus/rn/41515-13-3
+2020-09-22T02:36:02Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=41515-13-3,https://chem.nlm.nih.gov/chemidplus/rn/41515-13-3
+2020-09-22T02:36:02Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/542SRM4E31,https://chem.nlm.nih.gov/chemidplus/rn/41515-13-3
+2020-09-22T02:36:02Z,NA,http://www.google.com/search?q=%22BPZIKXXNXMYQPN-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/41515-13-3
+2020-09-22T02:38:22Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=REGN1400,https://chem.nlm.nih.gov/chemidplus/rn/1443016-81-6
+2020-09-22T02:38:22Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1443016-81-6,https://chem.nlm.nih.gov/chemidplus/rn/1443016-81-6
+2020-09-22T02:38:22Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1443016-81-6,https://chem.nlm.nih.gov/chemidplus/rn/1443016-81-6
