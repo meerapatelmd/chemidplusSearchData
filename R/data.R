@@ -1,6 +1,6 @@
 #' @title CLASSIFICATION
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 453 rows and 3 variables:
+#' @format A data frame with 502 rows and 3 variables:
 #' \describe{
 #'   \item{\code{c_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_classification}}{character COLUMN_DESCRIPTION}
@@ -40,7 +40,7 @@
 
 #' @title LINKS_TO_RESOURCES
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 6599 rows and 4 variables:
+#' @format A data frame with 7076 rows and 4 variables:
 #' \describe{
 #'   \item{\code{ltr_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{resource_agency}}{character COLUMN_DESCRIPTION}
@@ -52,7 +52,7 @@
 
 #' @title NAMES_AND_SYNONYMS
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 4700 rows and 4 variables:
+#' @format A data frame with 5062 rows and 4 variables:
 #' \describe{
 #'   \item{\code{nas_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
@@ -64,7 +64,7 @@
 
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 1917 rows and 11 variables:
+#' @format A data frame with 1969 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
@@ -83,7 +83,7 @@
 
 #' @title REGISTRY_NUMBERS
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 1473 rows and 4 variables:
+#' @format A data frame with 1594 rows and 4 variables:
 #' \describe{
 #'   \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
@@ -95,7 +95,7 @@
 
 #' @title RN_URL_VALIDITY
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 466 rows and 3 variables:
+#' @format A data frame with 504 rows and 3 variables:
 #' \describe{
 #'   \item{\code{rnuv_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
