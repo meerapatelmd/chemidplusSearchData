@@ -12097,3 +12097,85 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T06:24:52Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/O134PDX2SP,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1
 2020-09-22T06:24:52Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=500-98-1,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1
 2020-09-22T06:24:52Z,NA,http://www.google.com/search?q=%22UTYVDVLMYQPLQB-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1
+2020-09-22T06:29:56Z,MeSH,"https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=xcpY%20protein,%20Pseudomonas%20aeruginosa",https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:29:56Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=137630-08-1,https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:29:56Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Xcpy+protein+OR+137630-08-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:29:56Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Xcpy+protein+OR+137630-08-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:29:56Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Xcpy+protein+OR+137630-08-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:29:56Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=137630-08-1,https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1
+2020-09-22T06:30:02Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/23048-75-1,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1
+2020-09-22T06:30:02Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=23048-75-1,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1
+2020-09-22T06:30:02Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=23048-75-1,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1
+2020-09-22T06:30:02Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/517PLX6392,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1
+2020-09-22T06:30:02Z,NA,http://www.google.com/search?q=%22QUFMVAWAOYDYFV-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1
+2020-09-22T06:30:09Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/3194-15-8,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=3194-15-8,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=3194-15-8&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.019.722,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=3194-15-8,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=3194-15-8,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=3194-15-8&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:09Z,NA,http://www.google.com/search?q=%22HCPORNAVHSWTOJ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8
+2020-09-22T06:30:16Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=CARBOXYMETHYLCELLULOSE+sodium,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=CARBOXYMETHYLCELLULOSE+sodium,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=CARBOXYMETHYLCELLULOSE+sodium,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%229004-32-4%22+,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+9004-32-4+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=12802,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,Household Products,http://hpd.nlm.nih.gov/cgi-bin/household/search?queryx=9004-32-4&tbl=TblChemicals&prodcat=all,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Carboxymethylcellulose+OR+9004-32-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Carboxymethylcellulose+OR+9004-32-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Carboxymethylcellulose+OR+9004-32-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Carboxymethylcellulose+OR+9004-32-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Carboxymethylcellulose+OR+9004-32-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%229004-32-4%22+OR+%22Carboxymethylcellulose%22+,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%229004-32-4%22+OR+%22Carboxymethylcellulose%22+,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DSL,https://pollution-waste.canada.ca/substances-search/Substance/DisplaySubstanceDetails?Id=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,INER,https://www.epa.gov/opprd001/inerts/,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,PAFA,https://www.accessdata.fda.gov/scripts/fdcc/index.cfm?set=FoodSubstances&id=CARBOXYMETHYLCELLULOSESODIUMSALT,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D002266,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,DSLD,https://dsld.od.nih.gov/dsld/Ingredient.jsp?db=adsld%2C&item=CELLULOSE%20GUM,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=9004-32-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/auto/9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=9004-32-4,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Carboxymethylcellulose,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:16Z,NA,http://www.google.com/search?q=%22DPXJVFZANSGRMM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4
+2020-09-22T06:30:23Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2299674-26-7%22+,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/99674-26-7,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+99674-26-7+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Esperamicin+A1,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=99674-26-7,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Esperamicin+A1+OR+99674-26-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Esperamicin+A1+OR+99674-26-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Esperamicin+A1+OR+99674-26-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Esperamicin+A1+OR+99674-26-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Esperamicin+A1+OR+99674-26-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2299674-26-7%22+OR+%22%22+OR+%22Esperamicin%20A1%22,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2299674-26-7%22+OR+%22%22+OR+%22Esperamicin%20A1%22,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=99674-26-7,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C047543,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=99674-26-7,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/PLX8T21X8G,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=%22Esperamicin%20A1%22,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=%22Esperamicin%20A1%22,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,Wikipedia,http://en.wikipedia.org/wiki/Esperamicin,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:30:23Z,NA,http://www.google.com/search?q=%22LJQQFQHBKUKHIS-IIZLOWFNSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7
+2020-09-22T06:31:08Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=RXDX-107,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8
+2020-09-22T06:31:08Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1456608-94-8,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8
+2020-09-22T06:31:08Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1456608-94-8,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8
+2020-09-22T06:31:08Z,NA,http://www.google.com/search?q=%22RJNURICEBYUKHL-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8

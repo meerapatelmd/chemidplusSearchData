@@ -8338,6 +8338,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T06:22:12Z,https://chem.nlm.nih.gov/chemidplus/rn/5786-56-1,Synonyms,N-Acmel
 2020-09-22T06:22:12Z,https://chem.nlm.nih.gov/chemidplus/rn/5786-56-1,Synonyms,NSC 212512
 2020-09-22T06:22:12Z,https://chem.nlm.nih.gov/chemidplus/rn/5786-56-1,Systematic Names,"Alanine, N-acetyl-3-(p-(bis(2-chloroethyl)amino)phenyl)-, DL- (8CI)"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,"Carmellose sodium, low-substituted"
 2020-09-22T06:22:12Z,https://chem.nlm.nih.gov/chemidplus/rn/5786-56-1,Systematic Names,"DL-Phenylalanine, N-acetyl-4-(bis(2-chloroethyl)amino)- (9CI)"
 2020-09-22T06:24:30Z,https://chem.nlm.nih.gov/chemidplus/rn/125005-66-5,Name of Substance,"pdxA protein, E coli"
 2020-09-22T06:24:30Z,https://chem.nlm.nih.gov/chemidplus/rn/125005-66-5,Synonym,Pdxa gene product
@@ -8361,3 +8362,188 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T06:24:51Z,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1,Systematic Names,"Glycine, N-(phenylacetyl)-"
 2020-09-22T06:24:51Z,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1,Systematic Names,N-(Phenylacetyl)glycine
 2020-09-22T06:24:51Z,https://chem.nlm.nih.gov/chemidplus/rn/500-98-1,Systematic Names,Phenaceturic acid
+2020-09-22T06:29:55Z,https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1,Name of Substance,"xcpY protein, Pseudomonas aeruginosa"
+2020-09-22T06:29:55Z,https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1,Synonym,Xcpy gene product
+2020-09-22T06:29:55Z,https://chem.nlm.nih.gov/chemidplus/rn/137630-08-1,Systematic Name,Protein (Pseudomonas aeruginosa clone pLXE3 gene xepY reduced)
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Name of Substance,10-Hydroxypalmitic acid
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,10-Hydroxyhexadecanoic acid
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,10-Hydroxypalmitic acid
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,"10-Hydroxypalmitic acid, (+/-)-"
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,DL-10-Hydroxypalmitic acid
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,"Hexadecanoic acid, 10-hydroxy-"
+2020-09-22T06:30:02Z,https://chem.nlm.nih.gov/chemidplus/rn/23048-75-1,Synonyms,UNII-517PLX6392
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Name of Substance,"1-Propanone, 1-(2-furanyl)-"
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Synonyms,AI3-23587
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Synonyms,EINECS 221-693-8
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Synonyms,UNII-PLX6ML3WN6
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Systematic Names,1-(2-Furyl)propan-1-one
+2020-09-22T06:30:09Z,https://chem.nlm.nih.gov/chemidplus/rn/3194-15-8,Systematic Names,"1-Propanone, 1-(2-furanyl)-"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Carboxymethyl cellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Carboxymethylcellulose sodium
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Carboxymethylcellulose sodium [USP]
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Cellulose gum
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,"Cellulose, carboxymethyl ether"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Orabase
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Sodium carboxymethyl cellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Name of Substance,Sodium CMC
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,MeSH Heading,Carboxymethylcellulose sodium
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,7H3SF
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,AC-Di-sol. NF
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Aku-W 515
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Aquacel
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Aquaplast
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Avicel RC/CL
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,B 10
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,B 10 (Polysaccharide)
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Blanose BS 190
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Blanose BWM
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Camellose gum
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carbose 1M
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carboxymethylcellulose sodium
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carboxymethylcellulose sodium salt
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,"Carboxymethylcellulose sodium, low-substituted"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carmellose gum
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carmellose sodium
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Carmethose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CCRIS 3653
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas B
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas B5
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas B50
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas B6
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellofas C
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellogel C
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellogen 3H
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellogen PR
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellogen WS-C
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellpro
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellufix FF 100
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellufresh
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellugel
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellulose carboxymethyl ether sodium salt
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,"Cellulose glycolic acid, sodium salt"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellulose gum
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Cellulose sodium glycolate
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,"Cellulose, carboxymethyl ether, sodium salt, low-substituted"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Celluvisc
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CM-Cellulose sodium salt
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 2
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 3M5T
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 41A
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 4H1
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 4M6
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 7H
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 7H3SF
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 7L1
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 7M
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC 7MT
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,CMC sodium salt
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Collowel
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Copagel PB 25
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose A 590
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose A 610
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose A 650
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose F 1000G
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose F 20
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose F 370
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose F 4
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Courlose F 8
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Daicel 1150
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Daicel 1180
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Edifas B
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Ethoxose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Fine Gum HES
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Glikocel TA
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,KMTs 212
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,KMTs 300
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,KMTs 500
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,KMTs 600
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Lovosa
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Lovosa 20alk.
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Lovosa TN
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Lucel (polysaccharide)
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Majol PLX
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Modocoll 1200
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,NaCm-cellulose salt
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Nymcel S
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Nymcel slc-T
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Nymcel ZSB 10
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Nymcel ZSB 16
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Polyfibron 120
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,"Refresh Plus, Cellufresh Formula"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,S 75M
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sanlose SN 20A
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sarcell tel
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium carboxmethylcellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium carboxymethyl cellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium carboxymethylcellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium cellulose glycolate
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium CM-cellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium CMC
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium glycolate cellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Sodium salt of carboxymethylcellulose
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose 666
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose C
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose C 1000P
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose C 30
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose C 300
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose C 600
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CB 200
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CB series
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CBR 400
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CBR series
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CBS 30
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CBS 70
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CR
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose CR 50
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Tylose DKL
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-0891BL4S3D
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-0F4M8SIS5K
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-0Z2R7OG99L
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-1RD48779FJ
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-379M03VC9O
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-4J4P6L645M
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-6YYV7VRE59
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-6ZQ8V6YVNK
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-72QQR5RYU4
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-75KU4500GF
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-8UX21M67IJ
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-8W25JI0G3V
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-93O70285VH
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-97W605BIK0
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-99H65D77XY
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-D7SXM450NR
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-E0DNV5JJHX
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-FC40A8XAJ3
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-K679OBS311
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-KX442849T5
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-M8VP63K8FU
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-M9J9397QWS
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-R05Y0B55JY
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-RYZ9SHL900
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-S5517JT8YS
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-V5U74HSL76
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-X075FT70UI
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-Y3R0RA1Q8S
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-YGX74DKE74
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,UNII-ZY4732LP1O
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Synonyms,Unisol RH
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Systematic Names,"Carboxymethyl cellulose, sodium salt"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Systematic Names,"Cellulose, carboxymethyl ether, sodium salt"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Systematic Names,Orabase
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Superlist Names,"Cellulose carboxymethyl ether, sodium salt"
+2020-09-22T06:30:16Z,https://chem.nlm.nih.gov/chemidplus/rn/9004-32-4,Superlist Names,Sodium carboxymethyl cellulose
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Name of Substance,Esperamicin A1
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Synonyms,BMY 28175
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Synonyms,Esperamicin A(sub 1)
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Synonyms,Esperamicin A1
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Synonyms,UNII-PLX8T21X8G
+2020-09-22T06:30:23Z,https://chem.nlm.nih.gov/chemidplus/rn/99674-26-7,Systematic Name,"Benzoic acid, 4,5-dimethoxy-2-((2-methoxy-1-oxo-2-propenyl)amino)-, 3'(12)-ester with methyl(8-((4,6-dideoxy-2-O-(2,4-dideoxy-3-O-methyl-4-((1-methylethyl)amino)-alpha-L-threo-pentopyranosyl)-4-(((2,6-dideoxy-4-S-methyl-4-thio-beta-D-ribo-hexopyranosyl)o"
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Name of Substance,Bendamustine dodecyl ester
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,"1H-Benzimidazole-2-butanoic acid, 5-(bis(2-chloroethyl)amino)-1-methyl-, dodecyl ester"
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,Bendamustine dodecyl ester
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,CEP-40125
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,Dodecyl 4-(5-(bis(2-chloroethyl)amino)-1-methyl-benzimidazol-2-yl)butanoate
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,RXDX-107
+2020-09-22T06:31:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1456608-94-8,Synonyms,UNII-22C7JIO84O
