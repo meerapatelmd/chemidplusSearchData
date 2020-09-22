@@ -13900,3 +13900,66 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T19:09:32Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C032384,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
 2020-09-22T19:09:32Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=74536-50-8,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
 2020-09-22T19:09:32Z,NA,http://www.google.com/search?q=%22QXEZTRZFKVPUIH-WVSUBDOOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/74536-50-8
+2020-09-22T19:24:53Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/16610-63-2,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:24:53Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=16610-63-2,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:24:53Z,ECHA,https://echa.europa.eu/brief-profile/-/briefprofile/100.102.369,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:24:53Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=16610-63-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:24:53Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/S888WM4024,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:24:53Z,NA,http://www.google.com/search?q=%22KKVZONPEMODBBG-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/16610-63-2
+2020-09-22T19:25:01Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/53225-38-0,https://chem.nlm.nih.gov/chemidplus/rn/53225-38-0
+2020-09-22T19:25:01Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=53225-38-0,https://chem.nlm.nih.gov/chemidplus/rn/53225-38-0
+2020-09-22T19:25:01Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/L7M4020EDB,https://chem.nlm.nih.gov/chemidplus/rn/53225-38-0
+2020-09-22T19:25:01Z,NA,http://www.google.com/search?q=%22KEHFJHPSOFFXBO-YUMQZZPRSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/53225-38-0
+2020-09-22T19:25:55Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2998-94-9,https://chem.nlm.nih.gov/chemidplus/rn/2998-94-9
+2020-09-22T19:25:55Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2998-94-9,https://chem.nlm.nih.gov/chemidplus/rn/2998-94-9
+2020-09-22T19:25:55Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=2998-94-9,https://chem.nlm.nih.gov/chemidplus/rn/2998-94-9
+2020-09-22T19:25:55Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/553NTQ7G6C,https://chem.nlm.nih.gov/chemidplus/rn/2998-94-9
+2020-09-22T19:25:55Z,NA,http://www.google.com/search?q=%22BWFJUJNDYYZWQU-FOCLMDBBSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/2998-94-9
+2020-09-22T19:26:02Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/30950-27-7,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=30950-27-7,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2230950-27-7%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2230950-27-7%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=30950-27-7,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=30950-27-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.045.806,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=30950-27-7,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=30950-27-7,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/46S302515I,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=30950-27-7&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,Wikipedia,http://en.wikipedia.org/wiki/Perillartine,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:26:02Z,NA,http://www.google.com/search?q=%22XCOJIVIDDFTHGB-YRNVUSSQSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/30950-27-7
+2020-09-22T19:28:21Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/28815-20-5,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=28815-20-5,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=28815-20-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.044.761,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=28815-20-5,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/01LSZ8XXL0,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:21Z,NA,http://www.google.com/search?q=%22JIZQRWKUYFNSDM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/28815-20-5
+2020-09-22T19:28:28Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/470666-31-0,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=470666-31-0,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=470666-31-0&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,Google,https://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4GGRP_enUS507&q=LSZ%20,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LSZ+drug+(designer+OR+illicit),https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LSZ+drug+(designer+OR+illicit),https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,Wikipedia,http://en.wikipedia.org/wiki/LSZ,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:28Z,NA,http://www.google.com/search?q=%22DUKNIHFTDAXJON-CTQRGLTFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/470666-31-0
+2020-09-22T19:28:35Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2277327-04-9%22+,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/77327-04-9,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+77327-04-9+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Didemnin+A,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=77327-04-9,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22Didemnin+A%22+OR+77327-04-9+[rn],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=%22Didemnin%20A%22+OR+77327-04-9+[rn],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22Didemnin%20A%22+OR+77327-04-9+[rn],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22Didemnin%20A%22+OR+77327-04-9+[rn]],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22Didemnin+A%22+OR+77327-04-9+[rn],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22Didemnin%20A%22+OR+77327-04-9+[rn],https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2277327-04-9%22+OR+%22%22+OR+%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2277327-04-9%22+OR+%22%22+OR+%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C030051,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=77327-04-9,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/4LSZ9C5HOB,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:28:35Z,NA,http://www.google.com/search?q=%22XQZOGOCTPKFYKC-VSZULPIASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
