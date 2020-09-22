@@ -12387,3 +12387,16 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T07:17:14Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=incb-18424,https://chem.nlm.nih.gov/chemidplus/rn/941685-37-6
 2020-09-22T07:17:14Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=incb-18424,https://chem.nlm.nih.gov/chemidplus/rn/941685-37-6
 2020-09-22T07:17:14Z,NA,http://www.google.com/search?q=%22HFNKQEVNSGCOJV-HNNXBMFYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/941685-37-6
+2020-09-22T07:27:05Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=RC-Prep,https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=71812-50-5,https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=RC-Prep+OR+71812-50-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=RC-Prep+OR+71812-50-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=RC-Prep+OR+71812-50-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=RC-Prep+OR+71812-50-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=RC-Prep+OR+71812-50-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C025081,https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:05Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=71812-50-5,https://chem.nlm.nih.gov/chemidplus/rn/71812-50-5
+2020-09-22T07:27:12Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Rc-phenylpropenone,https://chem.nlm.nih.gov/chemidplus/rn/72277-78-2
+2020-09-22T07:27:12Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=72277-78-2,https://chem.nlm.nih.gov/chemidplus/rn/72277-78-2
+2020-09-22T07:27:12Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C022848,https://chem.nlm.nih.gov/chemidplus/rn/72277-78-2
+2020-09-22T07:27:12Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=72277-78-2,https://chem.nlm.nih.gov/chemidplus/rn/72277-78-2
