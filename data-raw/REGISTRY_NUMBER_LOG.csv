@@ -5717,6 +5717,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T18:09:01Z,ABT-263 25 mg/mL Soln (150 mg) Oral Syr #7,ABT-26325mg/mLSoln(150mg)OralSyr#7,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSoln(150mg)OralSyr#7,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:09:23Z,ABT-888 (Veliparib) Oral Soln INVEST,ABT-888(Veliparib)OralSolnINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-888(Veliparib)OralSolnINVEST,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:09:45Z,BTCT4465A (New Formulation) INVEST,BTCT4465A(NewFormulation)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BTCT4465A(NewFormulation)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:23:26Z,ALPElisib Oral (NF) Tablet,ALPElisibOral(NF)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALPElisibOral(NF)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:10:44Z,BEVACIZUmab (IRB#06-064) Latex Free,BEVACIZUmab(IRB#06-064)LatexFree,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-064)LatexFree,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:10:55Z,MUC-1KLH 100MCG+QS-21 100MCG,MUC-1KLH100MCG+QS-21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1KLH100MCG+QS-21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:11:06Z,GSK1363089 (XL880) 20 mg Cap (IRB#07-138),GSK1363089(XL880)20mgCap(IRB#07-138),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK1363089(XL880)20mgCap(IRB#07-138),TRUE,TRUE,FALSE,NA,NA,NA
@@ -5734,3 +5735,32 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T18:16:10Z,GILTERItinib (ASP2215) or Placebo Tablet,GILTERItinib(ASP2215)orPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GILTERItinib(ASP2215)orPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:16:20Z,ABT-263 25 mg/mL Soln (225mg) Oral Syr #7,ABT-26325mg/mLSoln(225mg)OralSyr#7,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSoln(225mg)OralSyr#7,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:16:31Z,TRAStuzumab INJ (reference product or biosimilar),TRAStuzumabINJ(referenceproductorbiosimilar),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRAStuzumabINJ(referenceproductorbiosimilar),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:17:50Z,SGN-35 INVEST,SGN-35INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-35INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:18:01Z,RITUXImab (IRB#08-063),RITUXImab(IRB#08-063),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RITUXImab(IRB#08-063),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:18:17Z,MDX-010 or Placebo (IRB#04-125),MDX-010orPlacebo(IRB#04-125),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010orPlacebo(IRB#04-125),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:18:28Z,AZD6244 Hydrogen Sulfate 25 mg Capsule,AZD6244HydrogenSulfate25mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244HydrogenSulfate25mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:18:38Z,Fucoidan Kanehidebio CO,FucoidanKanehidebioCO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FucoidanKanehidebioCO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:18:55Z,MK-8033 Capsule 50 mg (IRB#07-160),MK-8033Capsule50mg(IRB#07-160),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-8033Capsule50mg(IRB#07-160),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:19:05Z,3F8 MoAB (IRB#01-075),3F8MoAB(IRB#01-075),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MoAB(IRB#01-075),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:19:16Z,Dacomitinib Tab,DacomitinibTab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DacomitinibTab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:19:27Z,AVElumab (MSB0010718C) or Placebo INVEST,AVElumab(MSB0010718C)orPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AVElumab(MSB0010718C)orPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:19:39Z,veliparib vs. placebo 50mg capsule,veliparibvs.placebo50mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/veliparibvs.placebo50mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:19:55Z,devimistat (CPI-613) INVEST,devimistat(CPI-613)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/devimistat(CPI-613)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:20:16Z,BMS-986218 INVEST,BMS-986218INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-986218INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:20:27Z,CETUXimab (IRB#07-073),CETUXimab(IRB#07-073),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CETUXimab(IRB#07-073),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:20:44Z,CISplatin INJ,CISplatinINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CISplatinINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:20:55Z,Erlotonib,Erlotonib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Erlotonib,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:21:12Z,THALIDOMIDE 200MG,THALIDOMIDE200MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/THALIDOMIDE200MG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:21:34Z,DCC-2618,DCC-2618,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DCC-2618,TRUE,FALSE,TRUE, Ripretinib [USAN],1442472-39-0,https://chem.nlm.nih.gov/chemidplus/rn/1442472-39-0
+2020-09-22T18:21:47Z,Depsipeptide,Depsipeptide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Depsipeptide,TRUE,FALSE,TRUE,N-Methyldepsipeptide,148156-31-4,https://chem.nlm.nih.gov/chemidplus/rn/148156-31-4
+2020-09-22T18:22:00Z,EC1169 INVEST,EC1169INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EC1169INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:22:43Z,INTERFERON ALPHA 2B 5MU/VIAL,INTERFERONALPHA2B5MU/VIAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERFERONALPHA2B5MU/VIAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:22:54Z,MLN01289 (TAK-228),MLN01289(TAK-228),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN01289(TAK-228),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:23:05Z,MUC-1(106)100MCG+QS21100MCG,MUC-1(106)100MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1(106)100MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:23:15Z,BEVACIZUmab (IRB#05-035),BEVACIZUmab(IRB#05-035),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#05-035),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:23:45Z,CPI-0610 25 mg tablets,CPI-061025mgtablets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPI-061025mgtablets,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:24:06Z,MLN0128(TAK-228),MLN0128(TAK-228),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN0128(TAK-228),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:24:17Z,Veliparib Blind Dose or Placebo Capsule,VeliparibBlindDoseorPlaceboCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VeliparibBlindDoseorPlaceboCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:24:28Z,ZD1839 100MG TABLET,ZD1839100MGTABLET,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839100MGTABLET,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:25:14Z,BAY 43-9006 (SORAFenib) (IRB#06-109) 200 mg Tab,BAY43-9006(SORAFenib)(IRB#06-109)200mgTab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY43-9006(SORAFenib)(IRB#06-109)200mgTab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:25:25Z,OTS167PO Capsule,OTS167POCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OTS167POCapsule,TRUE,TRUE,FALSE,NA,NA,NA
