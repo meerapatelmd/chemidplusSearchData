@@ -977,6 +977,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,Name of Substance,Ipilimumab [USAN:INN]
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,MeSH Heading,Ipilimumab
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,Synonyms,Anti-CTLA4
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"2,4-DNP"
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,Synonyms,"Immunoglobulin G1, anti-(human CTLA-4 (antigen)) (human gamma1-chain), disulfide with human kappa-chain, dimer"
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,Synonyms,Ipilimumab
 2020-09-21T18:33:59Z,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9,Synonyms,MDX 010
@@ -1857,6 +1858,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,HSDB 5200
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Linoleic acid
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Linolic acid
+2020-09-22T04:17:18Z,https://chem.nlm.nih.gov/chemidplus/rn/187739-60-2,Synonyms,CTO
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,NSC 281243
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Polylin 515
 2020-09-21T19:47:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-33-3,Synonyms,Polylin No. 515
@@ -7486,3 +7488,102 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T04:08:58Z,https://chem.nlm.nih.gov/chemidplus/rn/90825-43-7,Synonyms,MTP-PE sodium
 2020-09-22T04:08:58Z,https://chem.nlm.nih.gov/chemidplus/rn/90825-43-7,Synonyms,Muramyl tripeptide
 2020-09-22T04:08:58Z,https://chem.nlm.nih.gov/chemidplus/rn/90825-43-7,Synonyms,UNII-21G81IKJ8L
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Name of Substance,Gefitinib
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Name of Substance,Gefitinib [USAN:INN:BAN]
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,MeSH Heading,Gefitinib
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,4-(3'-Chloro-4'-fluoroanilino)-7-methoxy-6-(3-morpholinopropoxy)quinazoline
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,CCRIS 9011
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,Gefitinib
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,Iressa
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,Irressat
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,UNII-S65743JHBS
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,ZD 1839
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Synonyms,ZD1839
+2020-09-22T04:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2,Systematic Name,"4-Quinazolinamine, N-(3-chloro-4-fluorophenyl)-7-methoxy-6-(3-(4-morpholinyl)propoxy)-"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Name of Substance,"2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,MeSH Heading,"2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"1'alpha-2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"1-Hydroxy-2,4-dinitrobenzene"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"2,4-Dinitrofenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"2,4-Dinitrofenol [Dutch]"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,AI3-01535
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Aldifen
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,alpha-Dinitrophenol
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Camello mosquito coils
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Caswell No. 392
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,CCRIS 3102
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Chemox PE
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Cobra salts (Impregna salts)
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Dinitrofenolo
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Dinitrofenolo [Italian]
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Dinofan
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,DNP
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,EC 200-087-7
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,EINECS 200-087-7
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,EK 102
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,EPA Pesticide Chemical Code 037509
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Fenoxyl carbon N
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,HSDB 529
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Maroxol-50
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Nitro kleenup
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Nitrophen
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Nitrophen (VAN)
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Nitrophene
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Nitrophene (VAN)
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,NSC 1532
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Osmoplastic-R
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Osmotox-Plus
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,"Phenol, alpha-dinitro-"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,RCRA waste number P048
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Shirakiku brand mosquito coils
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Solfo Black 2B Supra
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Solfo Black B
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Solfo Black BB
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Solfo Black G
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Solfo Black SB
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Tertrosulphur Black PB
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,Tertrosulphur PBR
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,UNII-Q13SKS21MN
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Synonyms,X 32
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Systematic Names,"2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Systematic Names,"Phenol, 2,4-dinitro-"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Superlist Names,"2,4-Dinitrophenol"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Superlist Names,"Phenol, 2,4-dinitro-"
+2020-09-22T04:13:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-28-5,Superlist Names,RCRA waste no. P048
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Name of Substance,Enzalutamide [USAN:INN]
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Name of Substance,MDV 3100
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,Enzalutamide
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,MDV 3100
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,MDV-3100
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,MDV3100
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,UNII-93T0T9GKNU
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Synonyms,Xtandi
+2020-09-22T04:16:41Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,Systematic Name,"Benzamide, 4-(3-(4-cyano-3-(trifluoromethyl)phenyl)-5,5-dimethyl-4-oxo-2-thioxo-1-imidazolidinyl)-2-fluoro-N-methyl-"
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Name of Substance,Belantamab mafodotin [USAN]
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,Belantamab mafodotin
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,GSK 2857916 [WHO-DD]
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,GSK-2857916
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,GSK2857916
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,"Immunoglobulin G1, anti-(tumor necrosis factor receptor superfamily protein tnfrsf17),(humanized monoclonal GSK2857914 gamma1-chain), disulfide with humanized monoclonal GSK2857914 kappa-chain, dimer, tetrathioether with N-(6-(3-mercapto-2,5-dioxo-1-"
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,"Immunoglobulin G1-kappa, anti-(homo sapiens tumor necrosis factor receptor superfamily member 17 (b-cell maturation protein, antigen cd269))humanized monoclonal antibody conjugated to auristatin fgamma1 heavy chain (1-451) (humanized vh (homo sapiens I"
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,UNII-DB1041CXDG
+2020-09-22T04:17:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2050232-20-5,Synonyms,WHO 10754
+2020-09-22T04:17:18Z,https://chem.nlm.nih.gov/chemidplus/rn/187739-60-2,Name of Substance,Carboxyamidotriazole orotate
+2020-09-22T04:17:18Z,https://chem.nlm.nih.gov/chemidplus/rn/187739-60-2,Synonyms,"4-Pyrimidinecarboxylic acid, 1,2,3,6-tetrahydro-2,6-dioxo-, compd. with 5-amino-1-((3,5-dichloro-4-(4-chlorobenzoyl)phenyl)methyl)-1H-1,2,3-triazole-4-carboxamide (1:1)"
+2020-09-22T04:17:18Z,https://chem.nlm.nih.gov/chemidplus/rn/187739-60-2,Synonyms,Carboxyamidotriazole orotate
+2020-09-22T04:17:18Z,https://chem.nlm.nih.gov/chemidplus/rn/187739-60-2,Synonyms,UNII-776C212QQH
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Results Name,Carboxyamidotriazole
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Name of Substance,Carboxyamido-triazole
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,4-CAI
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,"5-Amino-1-((3,5-dichloro-4-(4-chlorobenzoyl)phenyl)methyl)-1H-1,2,3-triazole-4-carboxamide"
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,CAI
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,Carboxyamido-triazole
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,Carboxyamidotriazole
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,CCRIS 9404
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,L 651582
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,L-651582
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,L651582
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,NSC 609974
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,UNII-6ST3ZF52WB
+2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Systematic Name,"1H-1,2,3-Triazole-4-carboxamide, 5-amino-1-((3,5-dichloro-4-(4-chlorobenzoyl)phenyl)methyl)-"
