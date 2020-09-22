@@ -3612,3 +3612,39 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T08:13:20Z,AC 220 Protocol # 12-106,AC220Protocol#12-106,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AC220Protocol#12-106,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T08:13:42Z,"RAD001 (IRB#05-029) Tablet INV, 5 mg","RAD001(IRB#05-029)TabletINV,5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(IRB#05-029)TabletINV,5mg",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T08:13:52Z,AMG-386,AMG-386,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG-386,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:14:42Z,ABL001 Oral TABLET INVEST,ABL001OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABL001OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:14:53Z,BVD-523 (600 mg),BVD-523(600mg),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BVD-523(600mg),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:04Z,ERLOTinib (OSI-774) 25 mg (IRB#08-152),ERLOTinib(OSI-774)25mg(IRB#08-152),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ERLOTinib(OSI-774)25mg(IRB#08-152),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:15Z,ICI-DI694,ICI-DI694,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ICI-DI694,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:26Z,Docetaxel (IRB#02-034),Docetaxel(IRB#02-034),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Docetaxel(IRB#02-034),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:37Z,OXALIplatin (IRB#05-039),OXALIplatin(IRB#05-039),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OXALIplatin(IRB#05-039),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:47Z,GM2KLH + QS-21 100MCG,GM2KLH+QS-21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2KLH+QS-21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:15:58Z,BMS-247550 (IRB#05-063),BMS-247550(IRB#05-063),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-247550(IRB#05-063),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:16:09Z,3F8 MONOCLONAL ANTIBODY,3F8MONOCLONALANTIBODY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MONOCLONALANTIBODY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:16:26Z,GI-4014 INVEST,GI-4014INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GI-4014INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:16:37Z,MLN8237 (Alisertib) Tablet,MLN8237(Alisertib)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN8237(Alisertib)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:16:48Z,GI-4016 INVEST,GI-4016INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GI-4016INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:16:59Z,9-AMINOCAMPTOTHECIN 5MG VIAL,9-AMINOCAMPTOTHECIN5MGVIAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/9-AMINOCAMPTOTHECIN5MGVIAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:17:10Z,NF-ERLOTINIB(INVESTIGATIONAL),NF-ERLOTINIB(INVESTIGATIONAL),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NF-ERLOTINIB(INVESTIGATIONAL),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:17:21Z,OMP-59R5 INVEST,OMP-59R5INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OMP-59R5INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:17:45Z,SU011248 (Sunitinib) 12.5 mg Cap (IRB#05-124),SU011248(Sunitinib)12.5mgCap(IRB#05-124),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(Sunitinib)12.5mgCap(IRB#05-124),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:18:07Z,Bortezomib (PS341) (IRB#08-018),Bortezomib(PS341)(IRB#08-018),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bortezomib(PS341)(IRB#08-018),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:18:18Z,Inhaled Lipid CISplatin (ILC) INVEST,InhaledLipidCISplatin(ILC)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/InhaledLipidCISplatin(ILC)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:18:29Z,"Imatinib (STI571) (IRB#00-102) Cap, 100 mg","Imatinib(STI571)(IRB#00-102)Cap,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/Imatinib(STI571)(IRB#00-102)Cap,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:18:40Z,tucatinib 150 mg,tucatinib150mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/tucatinib150mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:19:09Z,erlotinib 100 mg oral tablet,erlotinib100mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/erlotinib100mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:19:20Z,irinotecan INJ,irinotecanINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/irinotecanINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:19:31Z,Elacytarabine INVEST,ElacytarabineINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ElacytarabineINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:19:48Z,Rucaparib v Placebo,RucaparibvPlacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RucaparibvPlacebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:19:59Z,AZD5991 INVEST,AZD5991INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD5991INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:20:15Z,THALIDOMIDE 50MG OR PLACEBO,THALIDOMIDE50MGORPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/THALIDOMIDE50MGORPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:20:25Z,selumetinib (ADZ6244) 25 mg,selumetinib(ADZ6244)25mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/selumetinib(ADZ6244)25mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:20:36Z,CEMIplimab (REGN2810) INVEST,CEMIplimab(REGN2810)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CEMIplimab(REGN2810)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:20:47Z,GSK2118436 Capsule,GSK2118436Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK2118436Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:21:03Z,FLUOROTYHMIDINE,FLUOROTYHMIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUOROTYHMIDINE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:21:14Z,JNJ-42756493 (erdafitinib),JNJ-42756493(erdafitinib),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/JNJ-42756493(erdafitinib),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:22:03Z,AZD6244 (selumetinib) oral capsule- INVESTIGATIONAL SUPPLY,AZD6244(selumetinib)oralcapsule-INVESTIGATIONALSUPPLY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244(selumetinib)oralcapsule-INVESTIGATIONALSUPPLY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:22:14Z,MG-0103 (IRB#06-069) Capsules,MG-0103(IRB#06-069)Capsules,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MG-0103(IRB#06-069)Capsules,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:22:24Z,PLX 9486 tablet,PLX9486tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PLX9486tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:22:35Z,PF-06863135 INVEST,PF-06863135INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-06863135INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:23:07Z,LOXO-292 80mg capsule,LOXO-29280mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LOXO-29280mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
