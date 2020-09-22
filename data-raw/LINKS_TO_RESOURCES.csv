@@ -11962,3 +11962,68 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T05:56:20Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""IPH2201""%20OR%20""Monalizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1228763-95-8
 2020-09-22T05:56:20Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""IPH2201""%20OR%20""Monalizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1228763-95-8
 2020-09-22T05:56:20Z,Wikipedia,http://en.wikipedia.org/wiki/Monalizumab,https://chem.nlm.nih.gov/chemidplus/rn/1228763-95-8
+2020-09-22T06:04:15Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=CD+200,https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=138463-95-3,https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=CD+200+OR+138463-95-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=CD+200+OR+138463-95-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=CD+200+OR+138463-95-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=CD+200+OR+138463-95-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=CD+200+OR+138463-95-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:04:15Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=138463-95-3,https://chem.nlm.nih.gov/chemidplus/rn/138463-95-3
+2020-09-22T06:05:17Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Tigatuzumab+OR+CS-1008,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/918127-53-4,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=CS-1008,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=918127-53-4,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=CS-1008+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=CS-1008+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=CS-1008+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=CS-1008+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=CS-1008+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22918127-53-4%22+OR+%22%22+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22918127-53-4%22+OR+%22%22+OR+Tigatuzumab,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/237GB6IDKO,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""CS-1008""+OR+Tigatuzumab",https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:05:17Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""CS-1008""+OR+Tigatuzumab",https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-22T06:07:30Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1234015-54-3,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1234015-54-3,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=LY2606368+OR+Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-54-3%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-54-3%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/9RFT476U2L,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:30Z,NA,http://www.google.com/search?q=%22KMEIPKXRCJTZBZ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1234015-54-3
+2020-09-22T06:07:37Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1234015-55-4,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1234015-55-4,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=LY2606368+OR+Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-55-4%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-55-4%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/453V3E6666,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:37Z,NA,http://www.google.com/search?q=%22WGCKOJKXQKKLQW-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1234015-55-4
+2020-09-22T06:07:44Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1234015-57-6,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1234015-57-6,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=LY2606368+OR+Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=LY2606368%20OR%20Prexasertib,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-57-6%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221234015-57-6%22+OR+%22%22+OR+LY2606368,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/S4D3L195S4,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LY2606368%20OR%20Prexasertib%20,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
+2020-09-22T06:07:44Z,NA,http://www.google.com/search?q=%22LCYWXOLNJNHLGN-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1234015-57-6
