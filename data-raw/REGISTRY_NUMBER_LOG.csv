@@ -6441,3 +6441,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T22:38:46Z,CARmustine INJ,CARmustineINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CARmustineINJ,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T22:40:19Z,PSMA DNA Vacc Human (IRB#03-125),PSMADNAVaccHuman(IRB#03-125),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PSMADNAVaccHuman(IRB#03-125),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T22:41:21Z,DS-7423 Capsule,DS-7423Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DS-7423Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:45:32Z,AG-221 Tablet,AG-221Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-221Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:46:18Z,Ipatasertib Tablet,IpatasertibTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IpatasertibTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:46:49Z,Temozolomide (IRB#02-089) 5 mg Capsule,Temozolomide(IRB#02-089)5mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temozolomide(IRB#02-089)5mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:48:06Z,ALL TRANS RETINOIC ACID,ALLTRANSRETINOICACID,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALLTRANSRETINOICACID,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:48:52Z,enzalutamide 40 mg oral capsule (MDV3100) IRB #: 13-247,enzalutamide40mgoralcapsule(MDV3100)IRB#:13-247,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/enzalutamide40mgoralcapsule(MDV3100)IRB#:13-247,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T22:49:39Z,RXDX-101 Oral INVEST,RXDX-101OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RXDX-101OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
