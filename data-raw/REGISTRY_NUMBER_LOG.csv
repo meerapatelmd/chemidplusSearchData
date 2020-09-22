@@ -2509,3 +2509,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T03:03:35Z,TIGATUZUMAB (CS-1008),TIGATUZUMAB(CS-1008),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TIGATUZUMAB(CS-1008),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T03:04:17Z,ICI D1694,ICID1694,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ICID1694,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T03:05:37Z,AGS-PSCA,AGS-PSCA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AGS-PSCA,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T03:08:35Z,VINCRISTINE LIPOSOME,VINCRISTINELIPOSOME,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VINCRISTINELIPOSOME,TRUE,TRUE,FALSE,NA,NA,NA
