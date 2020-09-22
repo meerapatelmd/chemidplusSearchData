@@ -11700,3 +11700,24 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T05:19:40Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Cediranib+OR+AZD2171,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
 2020-09-22T05:19:40Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Cediranib+OR+AZD2171,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
 2020-09-22T05:19:40Z,NA,http://www.google.com/search?q=%22JRMGHBVACUJCRP-BTJKTKAUSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
+2020-09-22T05:24:07Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/179237-49-1,https://chem.nlm.nih.gov/chemidplus/rn/179237-49-1
+2020-09-22T05:24:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=179237-49-1,https://chem.nlm.nih.gov/chemidplus/rn/179237-49-1
+2020-09-22T05:24:07Z,NA,http://www.google.com/search?q=%22ZZSBPGIGIUFJRA-YMZPHHGTSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/179237-49-1
+2020-09-22T05:25:35Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1401998-36-4,https://chem.nlm.nih.gov/chemidplus/rn/1401998-36-4
+2020-09-22T05:25:35Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1401998-36-4,https://chem.nlm.nih.gov/chemidplus/rn/1401998-36-4
+2020-09-22T05:25:35Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/B618F4630I,https://chem.nlm.nih.gov/chemidplus/rn/1401998-36-4
+2020-09-22T05:25:35Z,NA,http://www.google.com/search?q=%22CFLAKAHRZMPILU-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1401998-36-4
+2020-09-22T05:26:54Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1622140-49-1,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1622140-49-1,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221622140-49-1%22+OR+%22%22+OR+CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221622140-49-1%22+OR+%22%22+OR+CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/0O39RGI33V,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
+2020-09-22T05:26:54Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=CD40,https://chem.nlm.nih.gov/chemidplus/rn/1622140-49-1
