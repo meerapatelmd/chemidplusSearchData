@@ -12701,3 +12701,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T10:03:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=120168-50-5,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
 2020-09-22T10:03:07Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ARRY+162+OR+MEK162,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
 2020-09-22T10:03:07Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ARRY+162+OR+MEK162,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-22T10:09:19Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=OMS721,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
+2020-09-22T10:09:19Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2108782-45-0,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
+2020-09-22T10:09:19Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2108782-45-0,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
+2020-09-22T10:09:19Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=OMS721,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0

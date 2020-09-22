@@ -4053,3 +4053,30 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T10:05:34Z,NF-COL-3 25MG CAPSULES,NF-COL-325MGCAPSULES,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NF-COL-325MGCAPSULES,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T10:05:51Z,BEC-2 2.5 MG + BCG 3X10E6 CFU,BEC-22.5MG+BCG3X10E6CFU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC-22.5MG+BCG3X10E6CFU,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T10:06:02Z,COBIMEtinib (GDC-0973) Tablet,COBIMEtinib(GDC-0973)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/COBIMEtinib(GDC-0973)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:07:19Z,VEGF Trap (IRB#03-138),VEGFTrap(IRB#03-138),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VEGFTrap(IRB#03-138),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:07:29Z,FIMEPInostat (CUDC-907) Capsule,FIMEPInostat(CUDC-907)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIMEPInostat(CUDC-907)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:07:40Z,"OSI-774 (Erlotinib)(IRB#02-039) Tab INV, 100 mg","OSI-774(Erlotinib)(IRB#02-039)TabINV,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(Erlotinib)(IRB#02-039)TabINV,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:07:51Z,ZD1839 500M SE,ZD1839500MSE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839500MSE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:08:18Z,Investigational 19-151: JNJ-67856633,Investigational19-151:JNJ-67856633,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Investigational19-151:JNJ-67856633,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:08:29Z,ALLO-647 INVEST,ALLO-647INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALLO-647INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:08:40Z,savolitinib (Oral Study Medication),savolitinib(OralStudyMedication),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/savolitinib(OralStudyMedication),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:08:51Z,ibrutinib 140 mg oral capsule,ibrutinib140mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ibrutinib140mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:09:01Z,TEMOZOLOMIDE 100MG OR PLACEBO,TEMOZOLOMIDE100MGORPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMOZOLOMIDE100MGORPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:09:12Z,narsoplimab,narsoplimab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/narsoplimab,TRUE,FALSE,TRUE, Narsoplimab [USAN],2108782-45-0,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
+2020-09-22T10:09:31Z,Efatutazone (CS-7017) or Placebo Tablet,Efatutazone(CS-7017)orPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Efatutazone(CS-7017)orPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:10:13Z,MG-0103 (MGCD0103) 25 mg Capsule,MG-0103(MGCD0103)25mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MG-0103(MGCD0103)25mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:10:24Z,REGN3767 INVEST,REGN3767INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/REGN3767INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:10:42Z,17-073 - Investigational: pembrolizumab,17-073-Investigational:pembrolizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/17-073-Investigational:pembrolizumab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:11:06Z,"SU011248 Capsule INV, 12.5 mg","SU011248CapsuleINV,12.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248CapsuleINV,12.5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:11:17Z,MDX-1411 (IRB#08-029),MDX-1411(IRB#08-029),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-1411(IRB#08-029),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:11:27Z,CML-VAX-6 (6 PEP X100MCG PEP),CML-VAX-6(6PEPX100MCGPEP),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX-6(6PEPX100MCGPEP),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:11:43Z,OSI-774 (ERLOTinib) 25 mg Tab (IRB#07-103),OSI-774(ERLOTinib)25mgTab(IRB#07-103),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(ERLOTinib)25mgTab(IRB#07-103),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:11:54Z,H3B-8800 5mg capsules,H3B-88005mgcapsules,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/H3B-88005mgcapsules,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:12:05Z,HSPPC-96 5MCG=0.22CC,HSPPC-965MCG=0.22CC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HSPPC-965MCG=0.22CC,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:12:21Z,PLX3397 as per Protocol 17-056,PLX3397asperProtocol17-056,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PLX3397asperProtocol17-056,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:12:32Z,Tisagenlecleucel INJ INVEST IRB_#18-402,TisagenlecleucelINJINVESTIRB_#18-402,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TisagenlecleucelINJINVESTIRB_#18-402,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:12:42Z,sta-9090,sta-9090,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/sta-9090,TRUE,FALSE,TRUE, Ganetespib [USAN:INN],888216-25-9,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9
+2020-09-22T10:12:55Z,IL-3 35.3MCG IN 100CC NS + ALB,IL-335.3MCGIN100CCNS+ALB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IL-335.3MCGIN100CCNS+ALB,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:13:06Z,Rucaparib or placebo IRB 14-067,RucapariborplaceboIRB14-067,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RucapariborplaceboIRB14-067,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:13:50Z,XL184 Capsule 100 mg (IRB#08-003),XL184Capsule100mg(IRB#08-003),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/XL184Capsule100mg(IRB#08-003),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T10:14:01Z,AZD9291 (Tagrisso),AZD9291(Tagrisso),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD9291(Tagrisso),TRUE,TRUE,FALSE,NA,NA,NA
