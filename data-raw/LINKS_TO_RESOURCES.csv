@@ -13233,3 +13233,37 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T12:58:02Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
 2020-09-22T12:58:02Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
 2020-09-22T12:58:02Z,NA,http://www.google.com/search?q=%22TTZSNFLLYPYKIL-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T13:34:47Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8080,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8080,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM825,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM825,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607001.html,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a607001.html,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=bevacizumab+OR+Avastin,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22216974-75-3%22+OR+%22%22+OR+Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22216974-75-3%22+OR+%22%22+OR+Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,DrugBank,http://www.drugbank.ca/drugs/DB00112,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=BEVACIZUMAB,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=216974-75-3&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/2S9ZZM9Q9V,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:47Z,Wikipedia,http://en.wikipedia.org/wiki/Bevacizumab,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3

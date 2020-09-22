@@ -4805,3 +4805,38 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T13:26:26Z,tesetaxel 5mg,tesetaxel5mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/tesetaxel5mg,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T13:26:43Z,ZD1839 300MG DOSE,ZD1839300MGDOSE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839300MGDOSE,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T13:26:54Z,AZD8186 Tablet,AZD8186Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD8186Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:27:41Z,avAPRItinib (BLU-285) Capsule,avAPRItinib(BLU-285)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/avAPRItinib(BLU-285)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:27:52Z,Abexinostat 20 mg,Abexinostat20mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abexinostat20mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:28:03Z,MUC 1-KLH + QS 21 100MCG,MUC1-KLH+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC1-KLH+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:28:25Z,LY2940680 Capsule,LY2940680Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY2940680Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:28:48Z,"LEE011 Oral INVEST (PEDS) Capsule, 200 mg","LEE011OralINVEST(PEDS)Capsule,200mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/LEE011OralINVEST(PEDS)Capsule,200mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:29:06Z,Rebeccamycin IRB #98-095,RebeccamycinIRB#98-095,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RebeccamycinIRB#98-095,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:29:17Z,ZD1839 500MG DOSE,ZD1839500MGDOSE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839500MGDOSE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:29:27Z,Leuprolide Depot,LeuprolideDepot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LeuprolideDepot,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:29:49Z,BMS-663513 INVEST,BMS-663513INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-663513INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:00Z,BEVACIZUmab (IRB#10-056),BEVACIZUmab(IRB#10-056),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#10-056),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:11Z,SUNITinib (SU011248) 50 mg Cap (IRB#05-124),SUNITinib(SU011248)50mgCap(IRB#05-124),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SUNITinib(SU011248)50mgCap(IRB#05-124),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:22Z,Poly-ICLC (IRB#03-108),Poly-ICLC(IRB#03-108),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Poly-ICLC(IRB#03-108),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:32Z,"SU011248 (IRB#05-082) Capsule INV, 25 MG","SU011248(IRB#05-082)CapsuleINV,25MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#05-082)CapsuleINV,25MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:43Z,ZD1839 OR PLACEBO TABLET,ZD1839ORPLACEBOTABLET,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839ORPLACEBOTABLET,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:30:54Z,RAD001 (Everolimus) 5 mg Tab (IRB#09-142),RAD001(Everolimus)5mgTab(IRB#09-142),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)5mgTab(IRB#09-142),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:31:10Z,INTERLEUKIN-3 150MCG/VIAL,INTERLEUKIN-3150MCG/VIAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-3150MCG/VIAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:31:26Z,Trastuzumab ( irb# 01-038),Trastuzumab(irb#01-038),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trastuzumab(irb#01-038),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:31:53Z,Tesetaxel 20mg Capsules,Tesetaxel20mgCapsules,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tesetaxel20mgCapsules,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:32:04Z,lenvatinib 10 mg oral capsule,lenvatinib10mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/lenvatinib10mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:32:14Z,LGD10MG CAPSULE,LGD10MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGD10MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:32:25Z,SORAFenib (BAY 43-9006) 200 mg Tab (IRB#08-052),SORAFenib(BAY43-9006)200mgTab(IRB#08-052),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SORAFenib(BAY43-9006)200mgTab(IRB#08-052),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:32:36Z,ZD1839 (IRB#02-027) Tablet 250 mg,ZD1839(IRB#02-027)Tablet250mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839(IRB#02-027)Tablet250mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:32:47Z,NIRAparib or Placebo Capsule.,NIRApariborPlaceboCapsule.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NIRApariborPlaceboCapsule.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:33:04Z,POMOLIDOMIDE,POMOLIDOMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/POMOLIDOMIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:33:17Z,MLN8237 Tablet,MLN8237Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN8237Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:33:34Z,Olaparib (AZD 2281) Capsule 25mg IRB 16-257,Olaparib(AZD2281)Capsule25mgIRB16-257,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Olaparib(AZD2281)Capsule25mgIRB16-257,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:33:50Z,GP 100:209-217(210M),GP100:209-217(210M),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GP100:209-217(210M),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:34:02Z,ENTRECtinib (RXDX-101) Oral CAPSULE INVEST,ENTRECtinib(RXDX-101)OralCAPSULEINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ENTRECtinib(RXDX-101)OralCAPSULEINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:34:13Z,Imatinib (STI571) IRB#02-075 caps 100 mg,Imatinib(STI571)IRB#02-075caps100mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Imatinib(STI571)IRB#02-075caps100mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:34:24Z,AZD1775 100mg tabs,AZD1775100mgtabs,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD1775100mgtabs,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:34:39Z,Avastin,Avastin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Avastin,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-22T13:34:53Z,NIVOlumab (BMS-936558) INVEST Admix,NIVOlumab(BMS-936558)INVESTAdmix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NIVOlumab(BMS-936558)INVESTAdmix,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:35:03Z,LOXO-101 Oral Solution INVEST,LOXO-101OralSolutionINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LOXO-101OralSolutionINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:35:14Z,KAPANOL 20MG CAPSULE,KAPANOL20MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KAPANOL20MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T13:35:25Z,IMATinib (STI571) Tab 400 mg (IRB#00-102),IMATinib(STI571)Tab400mg(IRB#00-102),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMATinib(STI571)Tab400mg(IRB#00-102),TRUE,TRUE,FALSE,NA,NA,NA
