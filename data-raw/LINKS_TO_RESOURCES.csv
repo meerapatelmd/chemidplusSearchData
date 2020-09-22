@@ -11345,3 +11345,36 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T04:36:57Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/V7FWP1D62O,https://chem.nlm.nih.gov/chemidplus/rn/9061-61-4
 2020-09-22T04:36:57Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Nerve+growth+factor,https://chem.nlm.nih.gov/chemidplus/rn/9061-61-4
 2020-09-22T04:36:57Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Nerve+growth+factor,https://chem.nlm.nih.gov/chemidplus/rn/9061-61-4
+2020-09-22T04:42:35Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607063.html,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a607063.html,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=Dasatinib#results,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22863127-77-9%22+OR+%22%22+OR+Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22863127-77-9%22+OR+%22%22+OR+Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000069439,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=863127-77-9&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/RBZ1571X5H,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:42:35Z,NA,http://www.google.com/search?q=%22XHXFZZNHDVTMLI-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
