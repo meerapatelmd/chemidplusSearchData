@@ -13531,3 +13531,28 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T16:03:33Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
 2020-09-22T16:03:33Z,Wikipedia,http://en.wikipedia.org/wiki/2-Methyltetrahydrofuran,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
 2020-09-22T16:03:33Z,NA,http://www.google.com/search?q=%22JWUJQDFVADABEY-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:14:38Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=PDR001,https://chem.nlm.nih.gov/chemidplus/rn/1859072-53-9
+2020-09-22T16:14:38Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1859072-53-9,https://chem.nlm.nih.gov/chemidplus/rn/1859072-53-9
+2020-09-22T16:14:38Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1859072-53-9,https://chem.nlm.nih.gov/chemidplus/rn/1859072-53-9
+2020-09-22T16:16:50Z,ClinicalTrials.gov,"https://clinicaltrials.gov/search/intervention=""BSI+201""+OR+iniparib",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/160003-66-7,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,MedlinePlusAll,"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=""BSI+201""+OR+iniparib",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=BSI+201+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=160003-66-7,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=BSI+201+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=""BSI+201""+OR+iniparib",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,PubMed Toxicology,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=""BSI+201""+OR+iniparib",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22160003-66-7%22+OR+%22%22+OR+Iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22160003-66-7%22+OR+%22%22+OR+Iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C090712,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=160003-66-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=160003-66-7,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/2ZWI7KHK8F,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""BSI+201""+OR+iniparib+OR+""4-iodo-3-nitrobenzamide""",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=BSI+201+OR+iniparib+OR+""4-iodo-3-nitrobenzamide""",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,Wikipedia,http://en.wikipedia.org/wiki/Iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:16:50Z,NA,http://www.google.com/search?q=%22MDOJTZQKHMAPBK-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
