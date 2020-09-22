@@ -12628,3 +12628,17 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T09:23:36Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000611752,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
 2020-09-22T09:23:36Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
 2020-09-22T09:23:36Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:35:49Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Xl-765%20OR%20SAR%20245409%20OR%20Voxtalisib,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/934493-76-2,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=SAR245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=934493-76-2,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Xl-765%20OR%20SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C576808,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/CVL1685GPH,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:35:49Z,NA,http://www.google.com/search?q=%22RGHYDLZMTYDBDT-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
