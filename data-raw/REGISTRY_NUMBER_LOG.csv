@@ -2534,3 +2534,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T03:22:47Z,sar650984,sar650984,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/sar650984,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T03:27:03Z,MDX-010 (IPILIMUmab) (IRB#08-130),MDX-010(IPILIMUmab)(IRB#08-130),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010(IPILIMUmab)(IRB#08-130),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T03:27:14Z,PEMBROlizumab INJ,PEMBROlizumabINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMBROlizumabINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T03:43:09Z,CABAZITAXEL,CABAZITAXEL,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CABAZITAXEL,TRUE,FALSE,TRUE, Cabazitaxel [USAN:INN],183133-96-2,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2
