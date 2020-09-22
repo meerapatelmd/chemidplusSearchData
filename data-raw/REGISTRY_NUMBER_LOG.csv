@@ -6235,3 +6235,36 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T20:49:55Z,CML-VAX(6PEPX100MCGPEP),CML-VAX(6PEPX100MCGPEP),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX(6PEPX100MCGPEP),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:50:16Z,"S-1 (IRB#05-039) Capsule INV, 15 mg","S-1(IRB#05-039)CapsuleINV,15mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/S-1(IRB#05-039)CapsuleINV,15mg",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:50:37Z,niraparib 100 mg oral capsule vs. placebo,niraparib100mgoralcapsulevs.placebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/niraparib100mgoralcapsulevs.placebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:51:46Z,EMD121974 (Cilengitide) INVEST,EMD121974(Cilengitide)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EMD121974(Cilengitide)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:52:07Z,Investigational Take Home- DS-3201b,InvestigationalTakeHome-DS-3201b,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/InvestigationalTakeHome-DS-3201b,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:52:27Z,Investigation medication Entospletinib 200 mg tab,InvestigationmedicationEntospletinib200mgtab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/InvestigationmedicationEntospletinib200mgtab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:52:48Z,AMG 386 (IRB#09-076),AMG386(IRB#09-076),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG386(IRB#09-076),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:53:09Z,Sorafenib vs Placebo blinded study,SorafenibvsPlaceboblindedstudy,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SorafenibvsPlaceboblindedstudy,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:53:30Z,SUNITinib 12.5 mg Capsule (IRB#09-113),SUNITinib12.5mgCapsule(IRB#09-113),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SUNITinib12.5mgCapsule(IRB#09-113),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:53:51Z,ALRN-6924 INVEST,ALRN-6924INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALRN-6924INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:54:12Z,TEMOZOLOMIDE 250MG OR PLACEBO,TEMOZOLOMIDE250MGORPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMOZOLOMIDE250MGORPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:54:33Z,Revlimid Capsule,RevlimidCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RevlimidCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:55:05Z,DOXOrubicin INVEST,DOXOrubicinINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOXOrubicinINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:55:26Z,BEVACIZUmab (IRB#09-125),BEVACIZUmab(IRB#09-125),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#09-125),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:55:46Z,umbralisib 200 mg capsule,umbralisib200mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/umbralisib200mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:56:07Z,LY2835219 Capsule,LY2835219Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY2835219Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:56:29Z,mitoXANTRONE or Placebo INVEST,mitoXANTRONEorPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/mitoXANTRONEorPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:57:11Z,CC-5013,CC-5013,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-5013,TRUE,FALSE,TRUE, Lenalidomide [USAN:INN:BAN],191732-72-6,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6
+2020-09-22T20:57:55Z,HSPPC-96 5MCG/VIAL,HSPPC-965MCG/VIAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HSPPC-965MCG/VIAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:58:16Z,BR55-2 MONOCLONAL AB,BR55-2MONOCLONALAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BR55-2MONOCLONALAB,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:58:37Z,A1G4 (irb#97-024),A1G4(irb#97-024),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/A1G4(irb#97-024),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:58:57Z,DOXOrubicin INJ,DOXOrubicinINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOXOrubicinINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:59:18Z,BA3021 INVEST,BA3021INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BA3021INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:00:23Z,BEVACIZUmab (Single-Pt-Use),BEVACIZUmab(Single-Pt-Use),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(Single-Pt-Use),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:01:05Z,RAD001 (EVERolimus) 5 mg (IRB#08-138),RAD001(EVERolimus)5mg(IRB#08-138),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(EVERolimus)5mg(IRB#08-138),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:01:26Z,Selinexor 20mg vs Placebo Protocol 16-382,Selinexor20mgvsPlaceboProtocol16-382,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selinexor20mgvsPlaceboProtocol16-382,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:01:47Z,Olaparib (AZD2281) Tablet,Olaparib(AZD2281)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Olaparib(AZD2281)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:03:01Z,MPDL,MPDL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MPDL,TRUE,FALSE,TRUE, Atezolizumab [USAN:INN],1380723-44-3,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3
+2020-09-22T21:03:24Z,Selumetinib (AZD6244),Selumetinib(AZD6244),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selumetinib(AZD6244),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:03:45Z,Imatinib (STI571) (IRB#00-102) Cap 100 mg,Imatinib(STI571)(IRB#00-102)Cap100mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Imatinib(STI571)(IRB#00-102)Cap100mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:04:27Z,BMS214662 50MG,BMS21466250MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS21466250MG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:05:10Z,NF-THALIDOMIDE,NF-THALIDOMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NF-THALIDOMIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:05:31Z,PS341 (Bortezomib) (IRB#05-002),PS341(Bortezomib)(IRB#05-002),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PS341(Bortezomib)(IRB#05-002),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:06:02Z,CML-VAX(6X100PEP) +QS21 100MCG,CML-VAX(6X100PEP)+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX(6X100PEP)+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:06:43Z,BEVACIZUmab or Placebo (IRB#09-015),BEVACIZUmaborPlacebo(IRB#09-015),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmaborPlacebo(IRB#09-015),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T21:07:04Z,3F8 MoAB (IRB#94-018),3F8MoAB(IRB#94-018),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MoAB(IRB#94-018),TRUE,TRUE,FALSE,NA,NA,NA
