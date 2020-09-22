@@ -3505,3 +3505,40 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T07:47:23Z,pki-587,pki-587,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/pki-587,TRUE,FALSE,TRUE, Gedatolisib [USAN:INN],1197160-78-3,https://chem.nlm.nih.gov/chemidplus/rn/1197160-78-3
 2020-09-22T07:47:36Z,INCB039110 Tablet,INCB039110Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INCB039110Tablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T07:47:47Z,Selinexor 20mg,Selinexor20mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selinexor20mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:48:25Z,"DASATinib Oral INVEST (PEDS) Tablet, 5 mg","DASATinibOralINVEST(PEDS)Tablet,5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/DASATinibOralINVEST(PEDS)Tablet,5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:48:36Z,PLX9486 Tablet,PLX9486Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PLX9486Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:48:46Z,"TRAMEtinib (GSK1120212) Oral TABLET INVEST (PEDS) Tablet, 0.5 mg","TRAMEtinib(GSK1120212)OralTABLETINVEST(PEDS)Tablet,0.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/TRAMEtinib(GSK1120212)OralTABLETINVEST(PEDS)Tablet,0.5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:48:57Z,LEWIS-Y-KLH10MCG+QS21 100MCG,LEWIS-Y-KLH10MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEWIS-Y-KLH10MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:49:08Z,IMC-A12,IMC-A12,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMC-A12,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
+2020-09-22T07:49:20Z,LGD1069-MICR. 10MG CAPSULE,LGD1069-MICR.10MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGD1069-MICR.10MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:49:37Z,PF-04136309 Tablet,PF-04136309Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-04136309Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:49:48Z,Docetaxel (IRB#05-128),Docetaxel(IRB#05-128),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Docetaxel(IRB#05-128),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:49:58Z,ly2157299,ly2157299,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ly2157299,TRUE,FALSE,TRUE,Galunisertib [USAN:INN],700874-72-2,https://chem.nlm.nih.gov/chemidplus/rn/700874-72-2
+2020-09-22T07:49:58Z,ly2157299,ly2157299,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ly2157299,TRUE,FALSE,TRUE,Galunisertib (hydrate) [USAN],924898-09-9,https://chem.nlm.nih.gov/chemidplus/rn/924898-09-9
+2020-09-22T07:50:17Z,Poly-ICLC INVEST,Poly-ICLCINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Poly-ICLCINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:50:28Z,thalididomide,thalididomide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/thalididomide,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:50:39Z,DCC-2618 Protocol17-467,DCC-2618Protocol17-467,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DCC-2618Protocol17-467,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:50:50Z,VEGF Trap Inj INV (IRB#02-020),VEGFTrapInjINV(IRB#02-020),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VEGFTrapInjINV(IRB#02-020),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:51:06Z,fulvestrant INJ INVEST,fulvestrantINJINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/fulvestrantINJINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:51:16Z,Binimetinib 15 mg. 3 tabs po BID,Binimetinib15mg.3tabspoBID,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Binimetinib15mg.3tabspoBID,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:51:39Z,ALTIRAtinib (DCC-2701) Tablet,ALTIRAtinib(DCC-2701)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALTIRAtinib(DCC-2701)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:51:56Z,AZD6244 Hydrogen Sulfate 25 mg (10-053),AZD6244HydrogenSulfate25mg(10-053),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244HydrogenSulfate25mg(10-053),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:52:07Z,DASATinib or Placebo Tablet,DASATiniborPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DASATiniborPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:52:18Z,GC33,GC33,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GC33,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:52:28Z,OGX-427 INVEST,OGX-427INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OGX-427INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:52:39Z,MONOCLONAL ANTIBODIES(R24),MONOCLONALANTIBODIES(R24),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MONOCLONALANTIBODIES(R24),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:53:00Z,Enfortumab vedotin (ASG-22CE) INVEST,Enfortumabvedotin(ASG-22CE)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Enfortumabvedotin(ASG-22CE)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:53:11Z,R115777 300MG/TABLET,R115777300MG/TABLET,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/R115777300MG/TABLET,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:53:22Z,ENTRECtinib (RXDX-101) Sachet,ENTRECtinib(RXDX-101)Sachet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ENTRECtinib(RXDX-101)Sachet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:54:11Z,ALITRETINOIN (9-CIS RETINOIC ACID),ALITRETINOIN(9-CISRETINOICACID),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALITRETINOIN(9-CISRETINOICACID),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:54:22Z,naxitamab,naxitamab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/naxitamab,TRUE,FALSE,TRUE, Naxitamab [USAN],1879925-92-4,https://chem.nlm.nih.gov/chemidplus/rn/1879925-92-4
+2020-09-22T07:54:35Z,NEO-PV-01,NEO-PV-01,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NEO-PV-01,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:54:46Z,"ZD1839 (Gefitinib) Tablet INV, 250 MG","ZD1839(Gefitinib)TabletINV,250MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839(Gefitinib)TabletINV,250MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:54:57Z,Pralatrexate (IRB#10-112),Pralatrexate(IRB#10-112),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pralatrexate(IRB#10-112),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:55:07Z,TN(C)PAM 100MCG INJ.,TN(C)PAM100MCGINJ.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TN(C)PAM100MCGINJ.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:55:18Z,RAD001 (Everolimus) 5 mg Tab (IRB#06-129),RAD001(Everolimus)5mgTab(IRB#06-129),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)5mgTab(IRB#06-129),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:55:29Z,ULOCUPLUMAB,ULOCUPLUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ULOCUPLUMAB,TRUE,FALSE,TRUE, Ulocuplumab [USAN:INN],1375830-34-4,https://chem.nlm.nih.gov/chemidplus/rn/1375830-34-4
+2020-09-22T07:55:42Z,GBR 1342 INVEST - Total Calc Information Only,GBR1342INVEST-TotalCalcInformationOnly,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GBR1342INVEST-TotalCalcInformationOnly,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:55:53Z,ENTRECTinib (RXDX-101) Capsule,ENTRECTinib(RXDX-101)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ENTRECTinib(RXDX-101)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:56:47Z,AMG 420 IVCI INVEST,AMG420IVCIINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG420IVCIINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T07:56:58Z,BEVACIZUmab (IRB#06-098),BEVACIZUmab(IRB#06-098),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-098),TRUE,TRUE,FALSE,NA,NA,NA
