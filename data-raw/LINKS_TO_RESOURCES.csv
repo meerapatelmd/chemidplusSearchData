@@ -12548,3 +12548,37 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T08:51:31Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PD+0332991+OR+Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
 2020-09-22T08:51:31Z,Wikipedia,http://en.wikipedia.org/wiki/Palbociclib,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
 2020-09-22T08:51:31Z,NA,http://www.google.com/search?q=%22AHJRHEGDXFFMBM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-22T09:02:35Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1393466-87-9,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1393466-87-9,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=PLX8394,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000602642,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:02:35Z,NA,http://www.google.com/search?q=%22YYACLQUDUDXAPA-MRXNPFEDSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1393466-87-9
+2020-09-22T09:05:25Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Tamibarotene,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2294497-51-5%22+,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/94497-51-5,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Am+80,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=94497-51-5,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Am+80+OR+Tamibarotene+OR+94497-51-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2294497-51-5%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2294497-51-5%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=94497-51-5,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C061133,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,DrugBank,http://www.drugbank.ca/drugs/DB04942,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=94497-51-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=94497-51-5,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=94497-51-5,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/08V52GZ3H9,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Am+80,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Am+80,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
+2020-09-22T09:05:25Z,NA,http://www.google.com/search?q=%22MUTNCGKQJGXKEM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/94497-51-5
