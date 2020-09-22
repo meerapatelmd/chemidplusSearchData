@@ -12944,6 +12944,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T11:33:33Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Crizotinib+OR+PF-2341066,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
 2020-09-22T11:33:33Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a612018.html,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
 2020-09-22T11:33:33Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a612018.html,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
+2020-09-22T11:47:08Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1620332-47-9,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
 2020-09-22T11:33:33Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=PF-2341066,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
 2020-09-22T11:33:33Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Crizotinib,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
 2020-09-22T11:33:33Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=crizotinib#results,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
@@ -12983,3 +12984,43 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T11:37:28Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Savolitinib%20OR%20HMPL-504%20OR%20aZD-6094%20OR%20volitinib,https://chem.nlm.nih.gov/chemidplus/rn/1313725-88-0
 2020-09-22T11:37:28Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Savolitinib%20OR%20HMPL-504%20OR%20aZD-6094%20OR%20volitinib,https://chem.nlm.nih.gov/chemidplus/rn/1313725-88-0
 2020-09-22T11:37:28Z,NA,http://www.google.com/search?q=%22XYDNMOZJKOGZLS-NSHDSACASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1313725-88-0
+2020-09-22T11:47:08Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=JNJ%2042756493,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1620332-47-9,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=JNJ-42756493,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=JNJ-42756493,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22JNJ-42756493%22,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22JNJ-42756493%22,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:47:08Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22JNJ-42756493%22,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-22T11:49:09Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1236361-78-6,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1236361-78-6,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1236361-78-6,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/6GS1ULF5HV,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Pimasertib+OR+MSC1936369B,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:09Z,NA,http://www.google.com/search?q=%22HIEXZUXKTABHCP-PPHPATTJSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1236361-78-6
+2020-09-22T11:49:16Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1236699-92-5,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1236699-92-5,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221236699-92-5%22+OR+%22%22+OR+%22As+703026%22,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221236699-92-5%22+OR+%22%22+OR+%22As+703026%22,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C550600,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/6ON9RK82AL,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Pimasertib+OR+As+703026,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:16Z,NA,http://www.google.com/search?q=%22VIUAUNHCRHHYNE-JTQLQIEISA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1236699-92-5
+2020-09-22T11:49:23Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/885588-03-4,https://chem.nlm.nih.gov/chemidplus/rn/885588-03-4
+2020-09-22T11:49:23Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=885588-03-4,https://chem.nlm.nih.gov/chemidplus/rn/885588-03-4
+2020-09-22T11:49:23Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/5EQ329N80I,https://chem.nlm.nih.gov/chemidplus/rn/885588-03-4
+2020-09-22T11:49:23Z,NA,http://www.google.com/search?q=%22LKJJUICFLVYDJQ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/885588-03-4
