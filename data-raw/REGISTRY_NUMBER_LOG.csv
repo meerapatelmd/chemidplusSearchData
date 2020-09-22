@@ -3958,3 +3958,36 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T09:40:01Z,Selinexor 80 mg twice weekly x 2 weeks,Selinexor80mgtwiceweeklyx2weeks,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selinexor80mgtwiceweeklyx2weeks,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T09:40:12Z,9 AMINOCAMPTOTHECIN,9AMINOCAMPTOTHECIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/9AMINOCAMPTOTHECIN,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T09:40:22Z,RETINOIC ACID,RETINOICACID,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RETINOICACID,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:41:37Z,AG-120 Tablet,AG-120Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-120Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:41:48Z,MDX-010 (IPILIMUmab) (IRB#09-155),MDX-010(IPILIMUmab)(IRB#09-155),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010(IPILIMUmab)(IRB#09-155),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:41:58Z,PLX3397 Protocol 15-155 Part 2 Cohort 1,PLX3397Protocol15-155Part2Cohort1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PLX3397Protocol15-155Part2Cohort1,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:42:10Z,THALIDOMIDE 50MG CAPSULES,THALIDOMIDE50MGCAPSULES,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/THALIDOMIDE50MGCAPSULES,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:42:33Z,mln9708,mln9708,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/mln9708,TRUE,FALSE,TRUE, Ixazomib citrate [USAN],1239908-20-3,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:46Z,AZD6244 Hydrogen Sulfate Capsule,AZD6244HydrogenSulfateCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244HydrogenSulfateCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:43:14Z,AG-221 Oral TABLET INVEST,AG-221OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-221OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:43:25Z,MK-2206 Tablet 5 mg (IRB#10-067),MK-2206Tablet5mg(IRB#10-067),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-2206Tablet5mg(IRB#10-067),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:43:36Z,"OSI-774 (IRB#03-031) Tablet INV, 25 mg","OSI-774(IRB#03-031)TabletINV,25mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(IRB#03-031)TabletINV,25mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:43:47Z,GM2KLH30UG+GD2KLH10UG+QS21 100,GM2KLH30UG+GD2KLH10UG+QS21100,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2KLH30UG+GD2KLH10UG+QS21100,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:43:58Z,Flavopiridol (IRB#05-136),Flavopiridol(IRB#05-136),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Flavopiridol(IRB#05-136),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:44:08Z,LY3022855 (IMC-CS4) INVEST,LY3022855(IMC-CS4)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3022855(IMC-CS4)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:44:19Z,KAPANOL 50MG CAPSULE,KAPANOL50MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KAPANOL50MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:44:30Z,LIAORZOLE,LIAORZOLE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LIAORZOLE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:44:41Z,SUNITinib or Placebo 50 mg Cap (IRB#07-086),SUNITiniborPlacebo50mgCap(IRB#07-086),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SUNITiniborPlacebo50mgCap(IRB#07-086),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:44:57Z,Entrectinib 200mg capsules,Entrectinib200mgcapsules,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Entrectinib200mgcapsules,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:45:13Z,OMP-59R5 or Placebo INVEST,OMP-59R5orPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OMP-59R5orPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:45:23Z,Fulvestrant (IRB#07-122) (Day 15),Fulvestrant(IRB#07-122)(Day15),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Fulvestrant(IRB#07-122)(Day15),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:45:34Z,Zoledronic Acid (IRB#06-015),ZoledronicAcid(IRB#06-015),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZoledronicAcid(IRB#06-015),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:45:56Z,MK-2206 25 mg Tablet (IRB#10-023),MK-220625mgTablet(IRB#10-023),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-220625mgTablet(IRB#10-023),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:46:20Z,BEVACIZUmab (IRB#06-094) Latex Free,BEVACIZUmab(IRB#06-094)LatexFree,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-094)LatexFree,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:46:30Z,abt-888/placebo,abt-888/placebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/abt-888/placebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:47:00Z,AZD6244 (selumetinib) 10 mg oral capsule- INVESTIGATIONAL SUPPLY,AZD6244(selumetinib)10mgoralcapsule-INVESTIGATIONALSUPPLY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244(selumetinib)10mgoralcapsule-INVESTIGATIONALSUPPLY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:47:10Z,TROXAcitabine (IRB#05-099),TROXAcitabine(IRB#05-099),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TROXAcitabine(IRB#05-099),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:47:21Z,DASATinib or Placebo 20 mg Tablet,DASATiniborPlacebo20mgTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DASATiniborPlacebo20mgTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:47:37Z,RO7009789,RO7009789,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RO7009789,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:47:59Z,Trastuzumab irb 01-038.///,Trastuzumabirb01-038.///,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trastuzumabirb01-038.///,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:48:15Z,CDX-1401 INVEST,CDX-1401INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CDX-1401INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:48:26Z,AZD8055 Tablet 100 mg (IRB#08-093),AZD8055Tablet100mg(IRB#08-093),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD8055Tablet100mg(IRB#08-093),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:48:47Z,MUC-1(32A) 30MCG=0.05CC,MUC-1(32A)30MCG=0.05CC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1(32A)30MCG=0.05CC,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:48:58Z,KOS-1022 (IRB#06-046),KOS-1022(IRB#06-046),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KOS-1022(IRB#06-046),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:49:09Z,TAK-788 (AP32788) Oral CAPSULE INVEST,TAK-788(AP32788)OralCAPSULEINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TAK-788(AP32788)OralCAPSULEINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:49:19Z,"OSI-774 (Erlotinib) Tab INV, 150 mg IRB#02-035","OSI-774(Erlotinib)TabINV,150mgIRB#02-035",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(Erlotinib)TabINV,150mgIRB#02-035",TRUE,TRUE,FALSE,NA,NA,NA

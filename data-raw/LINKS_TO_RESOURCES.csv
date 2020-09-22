@@ -12642,3 +12642,26 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T09:35:49Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
 2020-09-22T09:35:49Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Xl-765+OR+SAR-245409,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
 2020-09-22T09:35:49Z,NA,http://www.google.com/search?q=%22RGHYDLZMTYDBDT-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-22T09:42:41Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=MLN+9708+OR+MLN9708+OR+ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1239908-20-3,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a616008.html,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a616008.html%20,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1239908-20-3,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=MLN9708,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221239908-20-3%22+OR+%22%22+OR+Ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221239908-20-3%22+OR+%22%22+OR+Ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/46CWK97Z3K,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=MLN+9708+OR+MLN9708+OR+ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=MLN+9708+OR+MLN9708+OR+ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:42:41Z,NA,http://www.google.com/search?q=%22MBOMYENWWXQSNW-AWEZNQCLSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
