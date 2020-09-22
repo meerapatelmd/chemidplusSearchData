@@ -2269,6 +2269,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,Name of Substance,Leflunomide [USAN:USP:INN:BAN]
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,MeSH Heading,Leflunomide
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,Synonyms,"4-Isoxazolecarboxamide, 5-methyl-N-(4-(trifluoromethyl)phenyl)-"
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Aribin
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,Synonyms,5-Methyl-N-(4-(trifluoromethyl)phenyl)-4-isoxazolecarboxamide
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,Synonyms,5-Methylisoxazole-4-carboxylic acid (4-trifluoromethyl)anilide
 2020-09-21T20:19:03Z,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6,Synonyms,Arava
@@ -2328,6 +2329,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-21T20:23:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2326521-71-3,Synonyms,MRTX-849
 2020-09-21T20:23:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2326521-71-3,Synonyms,MRTX849
 2020-09-21T20:23:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2326521-71-3,Synonyms,UNII-8EOO6HQF8Y
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,PID
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Name of Substance,Vosaroxin
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Name of Substance,Vosaroxin [USAN:INN]
 2020-09-21T20:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175414-77-4,Synonyms,(+)-AG-7352
@@ -8118,3 +8120,142 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T05:36:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5,Synonyms,Vadastuximab talirine
 2020-09-22T05:36:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5,Synonyms,Vadastuximab talirine [INN]
 2020-09-22T05:36:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5,Synonyms,Vadastuximab talirine [WHO-DD]
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Name of Substance,Bindon
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,"1,3-Indandione, 2-(3-oxo-1-indanylidene)-"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,"2-(3-Oxo-1-indanylidene)-1,3-indandione"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,4-07-00-02830 (Beilstein Handbook Reference)
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,Anhydrobis(indandione)
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,Bindon
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,Bindone
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,BRN 1884961
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,EINECS 216-956-9
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,NSC 26216
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Synonyms,UNII-INB7800050
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Systematic Names,"(delta1,2'-Biindan)-1',3,3'-trione (8CI)"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Systematic Names,"1,2'-Biindanylidene-1',3,3'-trione"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Systematic Names,"1,3-Indandione, 2-(3-oxo-1-indanylidene)-"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Systematic Names,"1H-Indene-1,3(2H)-dione, 2-(2,3-dihydro-3-oxo-1H-inden-1-ylidene)- (9CI)"
+2020-09-22T05:43:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5,Systematic Names,"2-(2,3-Dihydro-3-oxo-1H-inden-1-ylidene)-1H-indene-1,3(2H)-dione"
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Name of Substance,Phosphate-binding proteolipid
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Synonyms,lambda3-Phosphorin
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Synonyms,Phosphabenzene
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Synonyms,Phosphinine
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Synonyms,Phosphoridine
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Synonyms,Phosphorine
+2020-09-22T05:43:14Z,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9,Systematic Name,Phosphorin
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Name of Substance,Harman
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,"1-Methyl-9H-pyrido(3,4-b)indole"
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,1-Methylnorharman
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,2-Methyl-beta-carboline
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,3-Methyl-4-carboline
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,5-23-08-00261 (Beilstein Handbook Reference)
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Aribine
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,BRN 0143898
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,CCRIS 6419
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,EINECS 207-642-2
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Harman
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Harmane
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Locuturin
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Locuturine
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Loturine
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,NSC 54439
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,Passiflorin
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,"PYRIDOBINDOLE, L-METHYL-"
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Synonyms,UNII-82D6J0535P
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Systematic Names,"1-Methyl-9H-pyrido(3,4-b)indole"
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Systematic Names,"9H-Pyrido(3,4-b)indole, 1-methyl-"
+2020-09-22T05:43:21Z,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0,Systematic Names,Harman
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Name of Substance,"4,4-Bis(dimethylamino)diphenylamine"
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Synonyms,"4,4'-Bis(dimethylamino)diphenylamine"
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Synonyms,Bindschedler's green leuco base
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Synonyms,C.I. 76125
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Synonyms,NSC 56921
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Synonyms,"p,p'-(Tetramethyldiamino)diphenylamine"
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Systematic Names,"1,4-Benzenediamine, N'-(4-(dimethylamino)phenyl)-N,N-dimethyl-"
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Systematic Names,"1,4-Benzenediamine, N'-(4-(dimethylamino)phenyl)-N,N-dimethyl- (9CI)"
+2020-09-22T05:43:28Z,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0,Systematic Names,"Diphenylamine, 4,4'-bis(dimethylamino)- (8CI)"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Name of Substance,Phenindione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Name of Substance,Phenindione [USP:INN:BAN]
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,MeSH Heading,Phenindione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"1,3-Indandione, 2-phenyl-"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"1H-Indene-1,3(2H)-dione, 2-phenyl-"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"2-Fenyloindandion-1,3"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"2-Fenyloindandion-1,3 [Polish]"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"2-Phenyl-1,3-diketohydrindene"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"2-Phenyl-1,3-indandione"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,"2-Phenyl-1H-indene-1,3(2H)-dione"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,2-Phenylindandione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Athrombon
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Bindan
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Cronodione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Danedion
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Danilon
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Danilone
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Diadilan
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Dindevan
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Dineval
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Diophindane
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,EINECS 201-454-4
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Emandion
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Emandione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Eridione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Fenhydren
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Fenilin
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Fenindion
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Fenindiona
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Fenindiona [INN-Spanish]
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Hedulin
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Hemolidione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,HSDB 3155
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Indema
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Indon
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,NSC 41693
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenhydren
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenillin
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenindione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenindionum
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenindionum [INN-Latin]
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenylen
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenylin
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenylindanedione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenylindione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Phenyline
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Pindione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Rectadione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Theradione
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Thrombasal
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Tromazal
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,Trombol
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Synonyms,UNII-5M7Y6274ZE
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Systematic Names,"1,3-Indandione, 2-phenyl-"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Systematic Names,"1H-Indene-1,3(2H)-dione, 2-phenyl-"
+2020-09-22T05:43:35Z,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5,Systematic Names,Phenindione
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Name of Substance,IPI-549
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Synonyms,"(S)-2-Amino-N-(1-(8-((1-methyl-1H-pyrazol-4-yl)ethynyl)-1-oxo-2-phenyl-1,2- dihydroisoquinolin-3-yl)ethyl)pyrazolo(1,5-a)pyrimidine-3-carboxamide"
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Synonyms,IPI-549
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Synonyms,pi3k-gamma Inhibitor IPI-549
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Synonyms,"Pyrazolo(1,5-a)pyrimidine-3-carboxamide, 2-amino-N-((1S)-1-(1,2-dihydro-8-(2-(1-methyl-1H-pyrazol-4-yl)ethynyl)-1-oxo-2-phenyl-3-isoquinolinyl)ethyl)-"
+2020-09-22T05:44:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1693758-51-8,Synonyms,UNII-FOF5155FMZ
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Name of Substance,Gilteritinib [USAN:INN]
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Synonyms,"2-Pyrazinecarboxamide, 6-ethyl-3-((3-methoxy-4-(4-(4-methyl-1-piperazinyl)-1-piperidinyl)phenyl)amino)-5-((tetrahydro-2H-pyran-4-yl)amino)-"
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Synonyms,ASP 2215
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Synonyms,ASP2215
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Synonyms,Gilteritinib
+2020-09-22T05:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,Synonyms,UNII-66D92MGC8M
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Results Name,Veliparib [USAN:INN]
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Name of Substance,Veliparib
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Name of Substance,Veliparib [USAN:INN]
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Synonyms,A861695
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Synonyms,ABT 888
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Synonyms,ABT-888
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Synonyms,UNII-01O4K0631N
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Synonyms,Veliparib
+2020-09-22T05:49:02Z,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9,Systematic Name,"1H-Benzimidazole-4-carboxamide, 2-((2R)-2-methyl-2-pyrrolidinyl)-"
+2020-09-22T05:49:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5,Name of Substance,o-Desmethyl alisertib
+2020-09-22T05:49:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5,Synonyms,Alisertib metabolite M2
+2020-09-22T05:49:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5,Synonyms,"Benzoic acid, 4-((9-chloro-7-(2-fluoro-6-hydroxyphenyl)-5H-pyrimido(5,4-d)(2)benzazepin-2-yl)amino)-2-methoxy-"
+2020-09-22T05:49:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5,Synonyms,o-Desmethyl alisertib
+2020-09-22T05:49:43Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5,Synonyms,UNII-8NJ4N1L7PN
+2020-09-22T05:49:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-06-7,Name of Substance,Alisertib sodium anhydrous
+2020-09-22T05:49:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-06-7,Synonyms,"Benzoic acid, 4-((9-chloro-7-(2-fluoro-6-methoxyphenyl)-5H-pyrimido(5,4-d)(2)benzazepin-2-yl)amino)-2-methoxy-, sodium salt (1:1)"
+2020-09-22T05:49:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1028486-06-7,Synonyms,UNII-23KN826MQ4

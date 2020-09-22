@@ -2998,3 +2998,44 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T05:40:53Z,IMC-A12 (IRB#08-015),IMC-A12(IRB#08-015),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMC-A12(IRB#08-015),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T05:41:04Z,zanubrutinib 80 mg capsule,zanubrutinib80mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/zanubrutinib80mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T05:41:15Z,BEC-2KLH2.5MG + BCG 3 X 10-6,BEC-2KLH2.5MG+BCG3X10-6,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC-2KLH2.5MG+BCG3X10-6,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:41:50Z,epirubicin INJ,epirubicinINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/epirubicinINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:42:33Z,AZD6244 (selumetinib) 10 mg oral capsule,AZD6244(selumetinib)10mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244(selumetinib)10mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:42:49Z,AMG 479 (GANITUmab) INVEST,AMG479(GANITUmab)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG479(GANITUmab)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:43:00Z,BIND,BIND,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND,TRUE,FALSE,TRUE,Phenindione [USP:INN:BAN],83-12-5,https://chem.nlm.nih.gov/chemidplus/rn/83-12-5
+2020-09-22T05:43:00Z,BIND,BIND,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND,TRUE,FALSE,TRUE,Phosphate-binding proteolipid,289-68-9,https://chem.nlm.nih.gov/chemidplus/rn/289-68-9
+2020-09-22T05:43:00Z,BIND,BIND,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND,TRUE,FALSE,TRUE,Harman,486-84-0,https://chem.nlm.nih.gov/chemidplus/rn/486-84-0
+2020-09-22T05:43:00Z,BIND,BIND,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND,TRUE,FALSE,TRUE,"4,4-Bis(dimethylamino)diphenylamine",637-31-0,https://chem.nlm.nih.gov/chemidplus/rn/637-31-0
+2020-09-22T05:43:00Z,BIND,BIND,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIND,TRUE,FALSE,TRUE,Bindon,1707-95-5,https://chem.nlm.nih.gov/chemidplus/rn/1707-95-5
+2020-09-22T05:43:41Z,AMG 757 INVEST,AMG757INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG757INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:43:58Z,"daBRAfenib (GSK2118436/DRB436) Oral CAPSULE INVEST (PEDS) Capsule, 10 mg","daBRAfenib(GSK2118436/DRB436)OralCAPSULEINVEST(PEDS)Capsule,10mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/daBRAfenib(GSK2118436/DRB436)OralCAPSULEINVEST(PEDS)Capsule,10mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:44:29Z,asp2215,asp2215,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/asp2215,TRUE,FALSE,TRUE, Gilteritinib [USAN:INN],1254053-43-4,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4
+2020-09-22T05:45:07Z,Encorafenib 75mg capsules,Encorafenib75mgcapsules,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Encorafenib75mgcapsules,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:45:18Z,MG-0103 (MGCD0103),MG-0103(MGCD0103),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MG-0103(MGCD0103),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:45:29Z,Flavopiridol (IRB#09-034),Flavopiridol(IRB#09-034),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Flavopiridol(IRB#09-034),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:45:39Z,DACOMITinib (PF-00299804) Tablet,DACOMITinib(PF-00299804)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DACOMITinib(PF-00299804)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:45:50Z,Perifosine 50 mg Tablet (IRB#09-124),Perifosine50mgTablet(IRB#09-124),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Perifosine50mgTablet(IRB#09-124),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:46:01Z,ONC201 125 mg capsule,ONC201125mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ONC201125mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:46:12Z,PRT062070 Oral INVEST,PRT062070OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PRT062070OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:46:28Z,ABT-263 25 mg/mL Solution in Oral Syringe #1,ABT-26325mg/mLSolutioninOralSyringe#1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSolutioninOralSyringe#1,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:46:45Z,Vistusertib (AZD2014) Oral TABLET INVEST,Vistusertib(AZD2014)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Vistusertib(AZD2014)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:46:56Z,EMD 121974 (Cilengitide) SPO-001-09,EMD121974(Cilengitide)SPO-001-09,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EMD121974(Cilengitide)SPO-001-09,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:47:12Z,Letrozole or Placebo Tablet,LetrozoleorPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LetrozoleorPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:47:23Z,AG2037 (IRB#04-032),AG2037(IRB#04-032),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG2037(IRB#04-032),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:47:34Z,URELUmab (BMS-663513) INVEST,URELUmab(BMS-663513)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/URELUmab(BMS-663513)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:47:45Z,Trastuzumab 01-038.//,Trastuzumab01-038.//,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trastuzumab01-038.//,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:47:56Z,IPILIMUmab or Placebo (IRB#08-085),IPILIMUmaborPlacebo(IRB#08-085),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPILIMUmaborPlacebo(IRB#08-085),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:48:06Z,RUXOLITinib or Placebo Tablet,RUXOLITiniborPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RUXOLITiniborPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:48:17Z,NIVOlumab (BMS-936558) or Placebo Blind Dose INVEST,NIVOlumab(BMS-936558)orPlaceboBlindDoseINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NIVOlumab(BMS-936558)orPlaceboBlindDoseINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:48:28Z,Bicalutamide Tablet,BicalutamideTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BicalutamideTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:48:44Z,CHLOROQUINOXALINE SULFONAMIDE,CHLOROQUINOXALINESULFONAMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CHLOROQUINOXALINESULFONAMIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:48:55Z,abt-888,abt-888,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/abt-888,TRUE,FALSE,TRUE, Veliparib [USAN:INN],912444-00-9,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9
+2020-09-22T05:49:08Z,Denileukin Diftitox (IRB#05-060),DenileukinDiftitox(IRB#05-060),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DenileukinDiftitox(IRB#05-060),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:49:19Z,Olaparib 15-222,Olaparib15-222,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Olaparib15-222,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:49:36Z,alisertib,alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alisertib,TRUE,FALSE,TRUE,o-Desmethyl alisertib,1028486-04-5,https://chem.nlm.nih.gov/chemidplus/rn/1028486-04-5
+2020-09-22T05:49:36Z,alisertib,alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alisertib,TRUE,FALSE,TRUE,Alisertib sodium anhydrous,1028486-06-7,https://chem.nlm.nih.gov/chemidplus/rn/1028486-06-7
+2020-09-22T05:50:03Z,DASATinib 20 mg Tablet (IRB#08-122),DASATinib20mgTablet(IRB#08-122),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DASATinib20mgTablet(IRB#08-122),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:50:45Z,M3814,M3814,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/M3814,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:50:55Z,KRT-232 Tablet,KRT-232Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KRT-232Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:51:06Z,RAD001 (EVERolimus) 5 mg (IRB#10-106),RAD001(EVERolimus)5mg(IRB#10-106),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(EVERolimus)5mg(IRB#10-106),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:51:25Z,GOSERELIN 3.6MG SYR,GOSERELIN3.6MGSYR,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSERELIN3.6MGSYR,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T05:51:35Z,R1507 (CHO) (IRB#09-130),R1507(CHO)(IRB#09-130),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/R1507(CHO)(IRB#09-130),TRUE,TRUE,FALSE,NA,NA,NA
