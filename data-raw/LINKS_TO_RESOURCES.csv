@@ -11446,3 +11446,75 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T05:01:47Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1673516-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
 2020-09-22T05:01:47Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=BMS-986016+OR+Relatlimab,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
 2020-09-22T05:01:47Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=BMS-986016+OR+Relatlimab,https://chem.nlm.nih.gov/chemidplus/rn/1673516-98-7
+2020-09-22T05:06:34Z,ClinicalTrials.gov,"https://clinicaltrials.gov/search/intervention=""PCI-32765""+OR+""CRA-032765""+OR+Ibrutinib+OR+""PCI+32765""+OR+PCI32765",https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8260,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8260,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1267,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1267,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a614007.html,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a614007.html,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=PCI+32765,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PCI+32765,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PCI+32765,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=PCI+32765,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22PCI+32765%22,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=PCI+32765,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22936563-96-1%22+OR+%22%22+OR+%22PCI+32765%22,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22936563-96-1%22+OR+%22%22+OR+%22PCI+32765%22,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C551803,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,DrugBank,http://www.drugbank.ca/drugs/DB09053,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=936563-96-1&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/1X70OSD4VX,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""PCI-32765""+OR+""CRA-032765""+OR+Ibrutinib+OR+""PCI+32765""+OR+PCI32765032765""+OR+Ibrutinib+OR+""PCI+32765""+OR+PCI32765",https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""PCI-32765""+OR+""CRA-032765""+OR+Ibrutinib+OR+""PCI+32765""+OR+PCI32765032765""+OR+Ibrutinib+OR+""PCI+32765""+OR+PCI32765",https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,Wikipedia,http://en.wikipedia.org/wiki/Ibrutinib,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:06:34Z,NA,http://www.google.com/search?q=%22XYFPWWZEPKGCCK-GOSISDBHSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-22T05:08:26Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=CAVATAK,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1802360-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1802360-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=cavatak,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=cavatak,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=cavatak,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=cavatak,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:08:26Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=cavatak,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-22T05:09:27Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=BMS+663513+OR+urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/934823-49-1,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=934823-49-1,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22BMS+663513%22+OR+%22BMS663513%22+OR+urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubMed Mob,"https://www.ncbi.nlm.nih.gov/m/pubmed/?term=BMS+663513+OR+""BMS663513""+OR+urelumab",https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=""BMS+663513""+OR+""BMS663513""",https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22BMS+663513%22+OR+%22BMS663513%22+OR+urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22BMS+663513%22+OR+%22BMS663513%22+OR+urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/230902QLLC,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Urelumab+OR+BMS+663513,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Urelumab+OR+BMS+663513,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:09:27Z,Wikipedia,http://en.wikipedia.org/wiki/Urelumab,https://chem.nlm.nih.gov/chemidplus/rn/934823-49-1
+2020-09-22T05:11:42Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=LY-2940680,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1258861-20-9,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=LY2940680,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1258861-20-9,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=LY2940680+OR+Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=LY2940680%20OR%20Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=LY2940680%20OR%20Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=LY2940680+OR+Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=LY2940680%20OR%20Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221258861-20-9%22+OR+%22%22+OR+LY2940680,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221258861-20-9%22+OR+%22%22+OR+LY2940680,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C581399,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1258861-20-9,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/QY8BWX1LJ5,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=LY-2940680%20OR%20Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=LY-2940680%20OR%20Taladegib,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
+2020-09-22T05:11:42Z,NA,http://www.google.com/search?q=%22SZBGQDXLNMELTB-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1258861-20-9
