@@ -10705,6 +10705,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T02:35:45Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Cytostasan+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
 2020-09-22T02:35:45Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
 2020-09-22T02:35:45Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
+2020-09-22T03:21:26Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
 2020-09-22T02:35:45Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Cytostasan+OR+Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
 2020-09-22T02:35:45Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Bendamustine,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
 2020-09-22T02:35:45Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/3543-75-7
@@ -10779,3 +10780,27 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T02:58:08Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/5638-57-3
 2020-09-22T02:58:08Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=5638-57-3,https://chem.nlm.nih.gov/chemidplus/rn/5638-57-3
 2020-09-22T02:58:08Z,NA,http://www.google.com/search?q=%22FKEBIELXSBGYPQ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/5638-57-3
+2020-09-22T03:21:26Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/934246-14-7,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a609022.html,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a609022.html,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=934246-14-7,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22934246-14-7%22+OR+%22%22+OR+Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22934246-14-7%22+OR+%22%22+OR+Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/I18S89P20R,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Degarelix,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
+2020-09-22T03:21:26Z,NA,http://www.google.com/search?q=%22QMBXFMRFTMPFEY-XDPVAHNXSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/934246-14-7
