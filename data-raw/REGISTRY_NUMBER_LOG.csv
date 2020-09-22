@@ -2191,3 +2191,49 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T01:06:03Z,AB680,AB680,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AB680,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T01:06:20Z,IDEC-152,IDEC-152,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IDEC-152,TRUE,FALSE,TRUE, Lumiliximab [USAN:INN],357613-86-6,https://chem.nlm.nih.gov/chemidplus/rn/357613-86-6
 2020-09-22T01:06:33Z,PERTUZUMAB,PERTUZUMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PERTUZUMAB,TRUE,FALSE,TRUE, Pertuzumab [USAN:INN:BAN],380610-27-5,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-22T01:07:06Z,GM2-KLH,GM2-KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2-KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:07:51Z,SAHA,SAHA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SAHA,TRUE,FALSE,TRUE,Vorinostat [USAN:INN],149647-78-9,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9
+2020-09-22T01:08:04Z,KSA-KLH + GPI-0100,KSA-KLH+GPI-0100,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KSA-KLH+GPI-0100,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:08:14Z,LY3039478,LY3039478,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3039478,TRUE,FALSE,TRUE, Crenigacestat [USAN],1421438-81-4,https://chem.nlm.nih.gov/chemidplus/rn/1421438-81-4
+2020-09-22T01:08:27Z,LY3415244,LY3415244,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3415244,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:08:38Z,9-O-ACETYL GD3KLH,9-O-ACETYLGD3KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/9-O-ACETYLGD3KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:08:49Z,CT-2103 (CONJUGATED PACLITAXEL),CT-2103(CONJUGATEDPACLITAXEL),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CT-2103(CONJUGATEDPACLITAXEL),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:09:00Z,INTERLEUKIN-1REC,INTERLEUKIN-1REC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-1REC,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:09:11Z,VINTAFOLIDE (EC145),VINTAFOLIDE(EC145),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VINTAFOLIDE(EC145),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:09:27Z,DIDEMNIN B,DIDEMNINB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DIDEMNINB,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:09:38Z,SRF231,SRF231,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SRF231,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:09:48Z,IMGN529,IMGN529,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMGN529,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:10:00Z,MEDI7247,MEDI7247,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MEDI7247,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:10:10Z,MUC-1 KLH,MUC-1KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:10:54Z,MIFAMURTIDE (L-MTP-PE),MIFAMURTIDE(L-MTP-PE),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MIFAMURTIDE(L-MTP-PE),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:11:27Z,KSA-KLH,KSA-KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KSA-KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:11:38Z,LGD1069,LGD1069,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGD1069,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-22T01:11:51Z,TRIPTORELIN,TRIPTORELIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRIPTORELIN,TRUE,FALSE,TRUE,Triptorelin acetate,140194-24-7,https://chem.nlm.nih.gov/chemidplus/rn/140194-24-7
+2020-09-22T01:12:04Z,CUSATUZUMAB (JNJ-74494550),CUSATUZUMAB(JNJ-74494550),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CUSATUZUMAB(JNJ-74494550),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:12:15Z,RGX-202-01,RGX-202-01,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RGX-202-01,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:12:25Z,BRENTUXIMAB VEDOTIN,BRENTUXIMABVEDOTIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BRENTUXIMABVEDOTIN,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:12:36Z,SB-743921,SB-743921,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SB-743921,TRUE,FALSE,TRUE,SB-743921,618430-39-0,https://chem.nlm.nih.gov/chemidplus/rn/618430-39-0
+2020-09-22T01:12:36Z,SB-743921,SB-743921,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SB-743921,TRUE,FALSE,TRUE,SB 743921,1067881-56-4,https://chem.nlm.nih.gov/chemidplus/rn/1067881-56-4
+2020-09-22T01:12:56Z,FAM-TRASTUZUMAB DERUXTECAN,FAM-TRASTUZUMABDERUXTECAN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FAM-TRASTUZUMABDERUXTECAN,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:13:18Z,"CL 286,558","CL286,558",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/CL286,558",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:13:29Z,CARBOXYAMIDOTRIAZOLE OROTATE (CTO),CARBOXYAMIDOTRIAZOLEOROTATE(CTO),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CARBOXYAMIDOTRIAZOLEOROTATE(CTO),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:13:40Z,CC-92480,CC-92480,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-92480,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:13:50Z,PU-H71,PU-H71,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PU-H71,TRUE,FALSE,TRUE,PU-H71,873436-91-0,https://chem.nlm.nih.gov/chemidplus/rn/873436-91-0
+2020-09-22T01:13:50Z,PU-H71,PU-H71,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PU-H71,TRUE,FALSE,TRUE,Pu-H71 I-124,1352930-11-0,https://chem.nlm.nih.gov/chemidplus/rn/1352930-11-0
+2020-09-22T01:14:10Z,QUIZARTINIB (AC220),QUIZARTINIB(AC220),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/QUIZARTINIB(AC220),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:14:21Z,GOSSYPOL,GOSSYPOL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSSYPOL,TRUE,FALSE,TRUE,Gossypol,303-45-7,https://chem.nlm.nih.gov/chemidplus/rn/303-45-7
+2020-09-22T01:14:21Z,GOSSYPOL,GOSSYPOL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSSYPOL,TRUE,FALSE,TRUE,Gossypolone,4547-72-2,https://chem.nlm.nih.gov/chemidplus/rn/4547-72-2
+2020-09-22T01:14:21Z,GOSSYPOL,GOSSYPOL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSSYPOL,TRUE,FALSE,TRUE,Gossypol acetic acid,12542-36-8,https://chem.nlm.nih.gov/chemidplus/rn/12542-36-8
+2020-09-22T01:14:21Z,GOSSYPOL,GOSSYPOL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSSYPOL,TRUE,FALSE,TRUE,(+)-Gossypol,20300-26-9,https://chem.nlm.nih.gov/chemidplus/rn/20300-26-9
+2020-09-22T01:14:21Z,GOSSYPOL,GOSSYPOL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GOSSYPOL,TRUE,FALSE,TRUE,"Gossypol, diamino-",25497-49-8,https://chem.nlm.nih.gov/chemidplus/rn/25497-49-8
+2020-09-22T01:15:02Z,AMD3100,AMD3100,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMD3100,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:15:13Z,EPZ-7438,EPZ-7438,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EPZ-7438,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:15:24Z,SGN-40,SGN-40,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-40,TRUE,FALSE,TRUE, Dacetuzumab [USAN:INN:BAN],880486-59-9,https://chem.nlm.nih.gov/chemidplus/rn/880486-59-9
+2020-09-22T01:15:37Z,AGS-16M18,AGS-16M18,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AGS-16M18,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:15:48Z,PYROXAMIDE,PYROXAMIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PYROXAMIDE,TRUE,FALSE,TRUE, Pyroxamide,382180-17-8,https://chem.nlm.nih.gov/chemidplus/rn/382180-17-8
+2020-09-22T01:16:06Z,LSZ102,LSZ102,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LSZ102,TRUE,FALSE,TRUE, LSZ-102,2135600-76-7,https://chem.nlm.nih.gov/chemidplus/rn/2135600-76-7
+2020-09-22T01:16:30Z,BI 907828,BI907828,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BI907828,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:16:41Z,MGI-114(HMAF),MGI-114(HMAF),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MGI-114(HMAF),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:16:52Z,QS-DG,QS-DG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/QS-DG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T01:17:03Z,SAR405838,SAR405838,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SAR405838,TRUE,FALSE,TRUE, SAR-405838,1303607-60-4,https://chem.nlm.nih.gov/chemidplus/rn/1303607-60-4
+2020-09-22T01:17:16Z,AD-RTS-HIL-12,AD-RTS-HIL-12,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AD-RTS-HIL-12,TRUE,TRUE,FALSE,NA,NA,NA
