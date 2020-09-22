@@ -6146,3 +6146,18 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T20:12:05Z,IRB 15-111 Taselisib 2 mg vs Placebo,IRB15-111Taselisib2mgvsPlacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB15-111Taselisib2mgvsPlacebo,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:12:16Z,"AZD6244 (IRB#06-092) Powder INV, 100 mg","AZD6244(IRB#06-092)PowderINV,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6244(IRB#06-092)PowderINV,100mg",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:12:26Z,Debio 1347 20 mg tablet,Debio134720mgtablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Debio134720mgtablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:13:29Z,Fludarabine INJ,FludarabineINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FludarabineINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:13:40Z,LEQ506 Capsule,LEQ506Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEQ506Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:13:51Z,Imatinib Mesylate Caps INV( IRB #00-102)100 mg,ImatinibMesylateCapsINV(IRB#00-102)100mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ImatinibMesylateCapsINV(IRB#00-102)100mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:14:02Z,"DABRAFenib (GSK2118436) Oral INVEST (PEDS) Capsule, 25 mg","DABRAFenib(GSK2118436)OralINVEST(PEDS)Capsule,25mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/DABRAFenib(GSK2118436)OralINVEST(PEDS)Capsule,25mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:14:18Z,Cabozantinib vs Placebo 20 mg oral tablet,CabozantinibvsPlacebo20mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CabozantinibvsPlacebo20mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:14:29Z,ACA-125 (IRB#02-122),ACA-125(IRB#02-122),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ACA-125(IRB#02-122),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:14:39Z,pazopanib/placebo suspension (50 mg/cc),pazopanib/placebosuspension(50mg/cc),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/pazopanib/placebosuspension(50mg/cc),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:15:12Z,"PANOBInostat (LBH589) Oral INVEST (PEDS) Capsule, 20 mg","PANOBInostat(LBH589)OralINVEST(PEDS)Capsule,20mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/PANOBInostat(LBH589)OralINVEST(PEDS)Capsule,20mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:15:47Z,"UFT Capsule INV, 100 mg","UFTCapsuleINV,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/UFTCapsuleINV,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:15:58Z,GM2KLH30UG+GD2KLH3UG+QS21-100,GM2KLH30UG+GD2KLH3UG+QS21-100,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2KLH30UG+GD2KLH3UG+QS21-100,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:16:19Z,CC-5013 Blind Dose or Placebo Cap INV,CC-5013BlindDoseorPlaceboCapINV,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-5013BlindDoseorPlaceboCapINV,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:16:30Z,Flavopiridol (IRB#05-109),Flavopiridol(IRB#05-109),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Flavopiridol(IRB#05-109),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:16:40Z,"TAXOL ""SEMI-SYNTHETIC""","TAXOL""SEMI-SYNTHETIC""",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/TAXOL""SEMI-SYNTHETIC""",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:16:58Z,CA-170 Tablet,CA-170Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CA-170Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:17:16Z,OXALIplatin (IRB#07-145),OXALIplatin(IRB#07-145),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OXALIplatin(IRB#07-145),TRUE,TRUE,FALSE,NA,NA,NA
