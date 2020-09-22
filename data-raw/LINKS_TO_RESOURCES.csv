@@ -12665,3 +12665,39 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T09:42:41Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=MLN+9708+OR+MLN9708+OR+ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
 2020-09-22T09:42:41Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=MLN+9708+OR+MLN9708+OR+ixazomib,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
 2020-09-22T09:42:41Z,NA,http://www.google.com/search?q=%22MBOMYENWWXQSNW-AWEZNQCLSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-22T09:59:59Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=EPZ-5676,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1380288-87-8,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=EPZ-5676,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1380288-87-8,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=EPZ-5676,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=EPZ-5676,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22EPZ-5676%22,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22EPZ-5676%22,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22EPZ-5676%22,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C583893,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1380288-87-8,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/8V9YR09EF3,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T09:59:59Z,NA,http://www.google.com/search?q=%22LXFOLMYKSYSZQS-LURJZOHASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1380288-87-8
+2020-09-22T10:00:11Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=HC-1119,https://chem.nlm.nih.gov/chemidplus/rn/1443331-82-5
+2020-09-22T10:00:11Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1443331-82-5,https://chem.nlm.nih.gov/chemidplus/rn/1443331-82-5
+2020-09-22T10:00:11Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1443331-82-5,https://chem.nlm.nih.gov/chemidplus/rn/1443331-82-5
+2020-09-22T10:00:11Z,NA,http://www.google.com/search?q=%22WXCXUHSOUPDCQV-HPRDVNIFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1443331-82-5
+2020-09-22T10:00:24Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/792921-10-9,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=792921-10-9,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22792921-10-9%22+OR+%22%22+OR+Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22792921-10-9%22+OR+%22%22+OR+Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/3YK0326U7X,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:00:24Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:03:07Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ARRY+162+OR+MEK162+,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-22T10:03:07Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/120168-50-5,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-22T10:03:07Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=120168-50-5,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-22T10:03:07Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ARRY+162+OR+MEK162,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-22T10:03:07Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ARRY+162+OR+MEK162,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
