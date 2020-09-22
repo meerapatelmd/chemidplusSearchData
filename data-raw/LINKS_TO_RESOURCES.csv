@@ -13034,3 +13034,33 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T11:57:53Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/344422-47-5,https://chem.nlm.nih.gov/chemidplus/rn/344422-47-5
 2020-09-22T11:57:53Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=344422-47-5,https://chem.nlm.nih.gov/chemidplus/rn/344422-47-5
 2020-09-22T11:57:53Z,NA,http://www.google.com/search?q=%22SWMCSRIUJLTUKL-FHUPKDODSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/344422-47-5
+2020-09-22T12:09:30Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/9063-57-4,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Tuftsin,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Tuftsin,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=9063-57-4,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Tuftsin+OR+9063-57-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Tuftsin+OR+9063-57-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Tuftsin+OR+9063-57-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Tuftsin+OR+9063-57-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Tuftsin,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Tuftsin+OR+9063-57-4+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%229063-57-4%22+OR+%22Tuftsin%22+,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%229063-57-4%22+OR+%22Tuftsin%22+,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D014405,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=9063-57-4,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/QF5336J16C,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,Wikipedia,http://en.wikipedia.org/wiki/Tuftsin,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:30Z,NA,http://www.google.com/search?q=%22IESDGNYHXIOKRW-YXMSTPNBSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/9063-57-4
+2020-09-22T12:09:43Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Ziv-aflibercept,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ZIV-AFLIBERCEPT,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ZIV-AFLIBERCEPT,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1609655-49-3,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1247,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1247,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1609655-49-3,https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:09:43Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
