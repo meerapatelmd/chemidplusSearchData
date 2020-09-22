@@ -13372,3 +13372,12 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T14:10:56Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=pemetrexed,https://chem.nlm.nih.gov/chemidplus/rn/357166-29-1
 2020-09-22T14:10:56Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=pemetrexed,https://chem.nlm.nih.gov/chemidplus/rn/357166-29-1
 2020-09-22T14:10:56Z,NA,http://www.google.com/search?q=%22QJVSMHJWAOSBMD-MYXYZBIASA-L%22,https://chem.nlm.nih.gov/chemidplus/rn/357166-29-1
+2020-09-22T14:27:41Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/752243-39-3,https://chem.nlm.nih.gov/chemidplus/rn/752243-39-3
+2020-09-22T14:27:41Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=752243-39-3,https://chem.nlm.nih.gov/chemidplus/rn/752243-39-3
+2020-09-22T14:27:41Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=752243-39-3,https://chem.nlm.nih.gov/chemidplus/rn/752243-39-3
+2020-09-22T14:27:41Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/267WB8R4TI,https://chem.nlm.nih.gov/chemidplus/rn/752243-39-3
+2020-09-22T14:27:41Z,NA,http://www.google.com/search?q=%22OZPFIJIOIVJZMN-GOSISDBHSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/752243-39-3
+2020-09-22T14:30:38Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/116371-66-5,https://chem.nlm.nih.gov/chemidplus/rn/116371-66-5
+2020-09-22T14:30:38Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=116371-66-5,https://chem.nlm.nih.gov/chemidplus/rn/116371-66-5
+2020-09-22T14:30:38Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/6FIZ684IIK,https://chem.nlm.nih.gov/chemidplus/rn/116371-66-5
+2020-09-22T14:30:38Z,NA,http://www.google.com/search?q=%22FRQISCZGNNXEMD-QPPQHZFASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/116371-66-5
