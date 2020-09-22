@@ -13542,6 +13542,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T16:16:50Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=160003-66-7,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=BSI+201+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:23:56Z,Wikipedia,http://en.wikipedia.org/wiki/Canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
 2020-09-22T16:16:50Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=""BSI+201""+OR+iniparib",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22BSI+201%22+OR+iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
@@ -13556,3 +13557,51 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T16:16:50Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=BSI+201+OR+iniparib+OR+""4-iodo-3-nitrobenzamide""",https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,Wikipedia,http://en.wikipedia.org/wiki/Iniparib,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
 2020-09-22T16:16:50Z,NA,http://www.google.com/search?q=%22MDOJTZQKHMAPBK-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/160003-66-7
+2020-09-22T16:23:56Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ACZ+885+OR+canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ilaris,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ilaris,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/914613-48-2,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1018,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1018,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Canakinumab%20OR%20ilaris,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Canakinumab%20OR%20ilaris,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=914613-48-2,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22914613-48-2%22+OR+%22%22+OR+Canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22914613-48-2%22+OR+%22%22+OR+Canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,DrugBank,http://www.drugbank.ca/drugs/DB06168,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=914613-48-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=914613-48-2,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/37CQ2C7X93,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ACZ+885+OR+canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:23:56Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ACZ+885+OR+canakinumab,https://chem.nlm.nih.gov/chemidplus/rn/914613-48-2
+2020-09-22T16:25:49Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ct+53518+OR+tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/387867-13-2,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=387867-13-2,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=mln-518+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=mln-518+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=mln-518+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=mln-518+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22387867-13-2%22+OR+%22%22+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22387867-13-2%22+OR+%22%22+OR+Tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=387867-13-2,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C464670,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=387867-13-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=387867-13-2,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=387867-13-2,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/E1IO3ICJ9A,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ct+53518+OR+tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ct+53518+OR+tandutinib,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
+2020-09-22T16:25:49Z,NA,http://www.google.com/search?q=%22UXXQOJXBIDBUAC-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/387867-13-2
