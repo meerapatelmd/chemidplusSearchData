@@ -13494,3 +13494,10 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T15:48:32Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=CT-011+OR+Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
 2020-09-22T15:48:32Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=CT-011+OR+Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
 2020-09-22T15:48:32Z,Wikipedia,http://en.wikipedia.org/wiki/Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:52:52Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1187944-98-4,https://chem.nlm.nih.gov/chemidplus/rn/1187944-98-4
+2020-09-22T15:52:52Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1187944-98-4,https://chem.nlm.nih.gov/chemidplus/rn/1187944-98-4
+2020-09-22T15:52:52Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/RT416XWQ4I,https://chem.nlm.nih.gov/chemidplus/rn/1187944-98-4
+2020-09-22T15:52:52Z,NA,http://www.google.com/search?q=%22FWSOHJFHAGRULY-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1187944-98-4
+2020-09-22T15:58:16Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/78454-17-8,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
+2020-09-22T15:58:16Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=78454-17-8,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
+2020-09-22T15:58:16Z,NA,http://www.google.com/search?q=%22TYLVGQKNNUHXIP-DIYBZAJCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
