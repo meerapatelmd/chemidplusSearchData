@@ -7197,6 +7197,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T02:13:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1859053-21-6,Systematic Name,"Bicyclo(2.2.1)heptane-1-methanesulfonic acid, 7,7-dimethyl-2-oxo-, (1S,4R)-, compd. with 8-fluoro-1,3,4,5-tetrahydro-2-(4-((methylamino)methyl)phenyl)-6H-pyrrolo(4,3,2-ef)(2)benzazepin-6-one (1:1)"
 2020-09-22T02:16:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2,Name of Substance,AZD-9496
 2020-09-22T02:16:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2,Synonyms,"(2E)-3-(3,5-Difluoro-4-((1R,3R)-2-(2-fluoro-2-methylpropyl)-2,3,4,9-tetrahydro-3-methyl-1H-pyrido(3,4-b)indol-1-yl)phenyl)-2-propenoic acid"
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Name of Substance,Efizonerimod alfa [USAN]
 2020-09-22T02:16:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2,Synonyms,"(E)-3-(3,5-Difluoro-4-((1R,3R)-2-(2-fluoro-2-methylpropyl)-3-methyl-2,3,4,9-tetrahydro-1H-pyrido(3,4-b)indol-1-yl)phenyl)acrylic acid"
 2020-09-22T02:16:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2,Synonyms,"2-Propenoic acid, 3-(3,5-difluoro-4-((1R,3R)-2-(2-fluoro-2-methylpropyl)-2,3,4,9-tetrahydro-3-methyl-1H-pyrido(3,4-b)indol-1-yl)phenyl)-, (2E)-"
 2020-09-22T02:16:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2,Synonyms,AZD-9496
@@ -7238,3 +7239,55 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T02:16:37Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,Systematic Names,"s-Triazin-2(1H)-one, 4-amino-1-beta-D-ribofuranosyl- (8CI)"
 2020-09-22T02:16:37Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,Superlist Names,5-Azacytidine
 2020-09-22T02:16:37Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,Superlist Names,Azacitidine
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Name of Substance,Cinrebafusp alfa
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,Cinrebafusp alfa
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,Cinrebafusp alfa [INN]
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,"Fus: mab humanized (igg4) S228P, F234A, L235A anti P04626 (erbb2_human)rprot P80188 (ngal_human) anti Q07011 (tnr9_human) (prs343)"
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,PRS 343 [WHO-DD]
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,PRS-343
+2020-09-22T02:18:10Z,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1,Synonyms,UNII-21Z359Z1CV
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Name of Substance,PR-413
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Synonyms,Carfilzomib impurity 14
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Synonyms,Carfilzomib metabolite M15
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Synonyms,"L-Leucine, N-((2S)-2-((2-(4-morpholinyl)acetyl)amino)-1-oxo-4-phenylbutyl)-"
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Synonyms,PR-413
+2020-09-22T02:19:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5,Synonyms,UNII-4YMT66EB0I
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Results Name,SNX 5422
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Name of Substance,SNX-5422
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,"Glycine, trans-4-((2-(aminocarbonyl)-5-(4,5,6,7-tetrahydro-6,6-dimethyl-4-oxo-3-(trifluoromethyl)-1H-indazol-1-yl)phenyl)amino)cyclohexyl ester"
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,PF 04929113
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,PF-04929113
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,PF-4929113
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,SNX 5422
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Synonyms,UNII-BF52J69Q8T
+2020-09-22T02:21:00Z,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5,Systematic Name,"Glycine, trans-4-((2-(aminocarbonyl)-5-(4,5,6,7-tetrahydro-6,6-dimethyl-4-oxo-3-(trifluoromethyl)-1H-indazol-1-yl)phenyl)amino)cyclohexyl ester"
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Name of Substance,Efizonerimod [USAN]
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,Efizonerimod
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,Efizonerimod alfa
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,"Immunoglobulin G4 (10-proline) (human heavy chain Fc fragment) fusion protein with tumor necrosis factor receptor-associated factor TRAF2 (human C-C domain fragment) fusion protein with CD252 antigen (human extracellular domain fragment), hexamer"
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,MEDI-6383
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,MEDI6383
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,"Modified human immunoglobulin G4 Fc fragment (1-229) (Homo sapiens IGHG4*01 del-CH1, (10-proline (S>P))Hinge) fusion protein with human TNF receptor-associated factor 2-(310-349)-peptide (230-269) fusion protein with des-(1-50)-human tumor necrosis facto"
+2020-09-22T02:21:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5,Synonyms,UNII-1MH7C2X8KE
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Name of Substance,1-Arabinofuranosyl-5-fluorouracil
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Synonyms,5-Fluorouracil arabinoside
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Synonyms,AFU
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Synonyms,EINECS 205-007-4
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Synonyms,NSC 406444
+2020-09-22T02:22:07Z,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6,Systematic Name,"1-beta-D-Arabinofuranosyl-5-fluoro-(1H,3H)-pyrimidine-2,4-dione"
+2020-09-22T02:22:19Z,https://chem.nlm.nih.gov/chemidplus/rn/591-36-6,Name of Substance,6-Fluorouracil
+2020-09-22T02:22:19Z,https://chem.nlm.nih.gov/chemidplus/rn/591-36-6,Synonyms,"2,4(1H,3H)-Pyrimidinedione, 6-fluoro-"
+2020-09-22T02:22:19Z,https://chem.nlm.nih.gov/chemidplus/rn/591-36-6,Synonyms,NSC 528881
+2020-09-22T02:23:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1032349-77-1,Name of Substance,MK-2206
+2020-09-22T02:23:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1032349-77-1,Synonym,UNII-4HA45S22ZZ
+2020-09-22T02:23:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1032349-77-1,Systematic Name,"1,2,4-Triazolo(3,4-f)(1,6)naphthyridin-3(2H)-one, 8-(4-(1-aminocyclobutyl)phenyl)-9-phenyl-, hydrochloride (1:1)"
+2020-09-22T02:23:46Z,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1,Name of Substance,Pemetrexed acid
+2020-09-22T02:23:46Z,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1,Synonyms,"4-(2-(2-Amino-4,7-dihydro-4-oxo-3H-pyrrolo(2,3-d)pyrimidin-5-yl)ethyl)benzoic acid"
+2020-09-22T02:23:46Z,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1,Synonyms,"Benzoic acid, 4-(2-(2-amino-4,7-dihydro-4-oxo-3H-pyrrolo(2,3-d)pyrimidin-5-yl)ethyl)-"
+2020-09-22T02:23:46Z,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1,Synonyms,Pemetrexed acid
+2020-09-22T02:23:46Z,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1,Synonyms,UNII-JBZ211669I
+2020-09-22T02:23:58Z,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4,Name of Substance,Pemetrexed 6-oxo diacid impurity
+2020-09-22T02:23:58Z,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4,Synonyms,"L-Glutamic acid, N-(4-(2-(2-amino-4,5,6,7-tetrahydro-4,6-dioxo-1H-pyrrolo(2,3-d)pyrimidin-5-yl)ethyl)benzoyl)-"
+2020-09-22T02:23:58Z,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4,Synonyms,LY-338979
+2020-09-22T02:23:58Z,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4,Synonyms,Pemetrexed 6-oxo diacid impurity
+2020-09-22T02:23:58Z,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4,Synonyms,UNII-4AF6UXL7P7

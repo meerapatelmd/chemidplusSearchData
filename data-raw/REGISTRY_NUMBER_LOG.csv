@@ -2457,3 +2457,22 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:15:40Z,CIFORADENANT (CPI-444),CIFORADENANT(CPI-444),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CIFORADENANT(CPI-444),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T02:16:01Z,AZD9496,AZD9496,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD9496,TRUE,FALSE,TRUE, AZD-9496,1639042-08-2,https://chem.nlm.nih.gov/chemidplus/rn/1639042-08-2
 2020-09-22T02:16:24Z,AZACITIDINE,AZACITIDINE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZACITIDINE,TRUE,FALSE,TRUE, Azacitidine [USAN:INN:BAN],320-67-2,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2
+2020-09-22T02:17:58Z,PRS-343,PRS-343,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PRS-343,TRUE,FALSE,TRUE, Cinrebafusp alfa,2218515-90-1,https://chem.nlm.nih.gov/chemidplus/rn/2218515-90-1
+2020-09-22T02:19:02Z,CARFILZOMIB,CARFILZOMIB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CARFILZOMIB,TRUE,FALSE,TRUE,PR-413,1396006-47-5,https://chem.nlm.nih.gov/chemidplus/rn/1396006-47-5
+2020-09-22T02:19:02Z,CARFILZOMIB,CARFILZOMIB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CARFILZOMIB,TRUE,FALSE,TRUE,"Deepoxy ethane-1,2-diol carfilzomib",1541172-75-1,https://chem.nlm.nih.gov/chemidplus/rn/1541172-75-1
+2020-09-22T02:19:47Z,NECUPARANIB (M402),NECUPARANIB(M402),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NECUPARANIB(M402),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:20:07Z,DTC101,DTC101,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DTC101,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:20:28Z,SNX-5422,SNX-5422,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SNX-5422,TRUE,FALSE,TRUE,SNX 5422,908115-27-5,https://chem.nlm.nih.gov/chemidplus/rn/908115-27-5
+2020-09-22T02:20:28Z,SNX-5422,SNX-5422,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SNX-5422,TRUE,FALSE,TRUE,SNX-5422 mesylate,1173111-67-5,https://chem.nlm.nih.gov/chemidplus/rn/1173111-67-5
+2020-09-22T02:21:11Z,EMACTUZUMAB (RO5509554),EMACTUZUMAB(RO5509554),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EMACTUZUMAB(RO5509554),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T02:21:32Z,MEDI6383,MEDI6383,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MEDI6383,TRUE,FALSE,TRUE, Efizonerimod [USAN],1635395-27-5,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5
+2020-09-22T02:21:55Z,FLUOROURACIL,FLUOROURACIL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUOROURACIL,TRUE,FALSE,TRUE,1-Arabinofuranosyl-5-fluorouracil,131-06-6,https://chem.nlm.nih.gov/chemidplus/rn/131-06-6
+2020-09-22T02:21:55Z,FLUOROURACIL,FLUOROURACIL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUOROURACIL,TRUE,FALSE,TRUE,6-Fluorouracil,591-36-6,https://chem.nlm.nih.gov/chemidplus/rn/591-36-6
+2020-09-22T02:21:55Z,FLUOROURACIL,FLUOROURACIL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FLUOROURACIL,TRUE,FALSE,TRUE,5-Fluorodihydrouracil,696-06-0,https://chem.nlm.nih.gov/chemidplus/rn/696-06-0
+2020-09-22T02:22:50Z,MK-2206,MK-2206,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-2206,TRUE,FALSE,TRUE,MK-2206,1032349-77-1,https://chem.nlm.nih.gov/chemidplus/rn/1032349-77-1
+2020-09-22T02:22:50Z,MK-2206,MK-2206,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-2206,TRUE,FALSE,TRUE,MK 2206,1032349-93-1,https://chem.nlm.nih.gov/chemidplus/rn/1032349-93-1
+2020-09-22T02:22:50Z,MK-2206,MK-2206,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-2206,TRUE,FALSE,TRUE,MK-2206 dihydrochloride,1032350-13-2,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2
+2020-09-22T02:23:34Z,PEMETREXED,PEMETREXED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMETREXED,TRUE,FALSE,TRUE,Pemetrexed acid,137281-39-1,https://chem.nlm.nih.gov/chemidplus/rn/137281-39-1
+2020-09-22T02:23:34Z,PEMETREXED,PEMETREXED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMETREXED,TRUE,FALSE,TRUE,Pemetrexed 6-oxo diacid impurity,193281-00-4,https://chem.nlm.nih.gov/chemidplus/rn/193281-00-4
+2020-09-22T02:23:34Z,PEMETREXED,PEMETREXED,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PEMETREXED,TRUE,FALSE,TRUE,Pemetrexed disodium heptahydrate,357166-29-1,https://chem.nlm.nih.gov/chemidplus/rn/357166-29-1
+2020-09-22T02:24:20Z,MT-3724,MT-3724,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MT-3724,TRUE,TRUE,FALSE,NA,NA,NA
