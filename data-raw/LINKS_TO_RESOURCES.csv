@@ -13478,3 +13478,19 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T15:24:39Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Baralgin,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
 2020-09-22T15:24:39Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Baralgin,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
 2020-09-22T15:24:39Z,NA,http://www.google.com/search?q=%22PUNYXHSYWKIRTJ-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/8067-07-0
+2020-09-22T15:48:32Z,ClinicalTrials.gov,"https://clinicaltrials.gov/search/intervention=CT-011%20OR%20""Pidilizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1036730-42-3,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1036730-42-3,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=CT-011+OR+%22Pidilizumab%22,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed Mob,"https://www.ncbi.nlm.nih.gov/m/pubmed/?term=CT-011%20OR%20""Pidilizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=CT-011+OR+%22Pidilizumab%22,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=CT-011%20OR%20""Pidilizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=CT-011+OR+%22Pidilizumab%22,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,PubMed Toxicology,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=CT-011%20OR%20""Pidilizumab""",https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221036730-42-3%22+OR+%22%22+OR+%22CT-011%22,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221036730-42-3%22+OR+%22%22+OR+%22CT-011%22,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/B932PAQ1BQ,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=CT-011+OR+Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=CT-011+OR+Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
+2020-09-22T15:48:32Z,Wikipedia,http://en.wikipedia.org/wiki/Pidilizumab,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
