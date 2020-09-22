@@ -3892,3 +3892,35 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T09:23:42Z,PRINOMASTAT VS PLACEBO,PRINOMASTATVSPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PRINOMASTATVSPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T09:23:53Z,RUXOLITinib (INCB018424) Tablet,RUXOLITinib(INCB018424)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RUXOLITinib(INCB018424)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T09:24:03Z,taselisib/placebo,taselisib/placebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/taselisib/placebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:24:45Z,CUDC-907 13-045,CUDC-90713-045,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CUDC-90713-045,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:24:56Z,3F8 MoAB (IRB#09-159),3F8MoAB(IRB#09-159),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/3F8MoAB(IRB#09-159),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:25:23Z,CCI-779 (IRB#04-080),CCI-779(IRB#04-080),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CCI-779(IRB#04-080),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:25:34Z,LAPATinib 250 mg Tablet (IRB#08-025),LAPATinib250mgTablet(IRB#08-025),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LAPATinib250mgTablet(IRB#08-025),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:25:50Z,PBI-SHRNA,PBI-SHRNA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PBI-SHRNA,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:26:00Z,"CT53518 (IRB#02-063) Capsule INV, 100 mg","CT53518(IRB#02-063)CapsuleINV,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/CT53518(IRB#02-063)CapsuleINV,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:26:11Z,Temsirolimus (CCI-779) INVEST,Temsirolimus(CCI-779)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temsirolimus(CCI-779)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:26:34Z,HSPPC-96 (HEATSHOCK PROTEIN),HSPPC-96(HEATSHOCKPROTEIN),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HSPPC-96(HEATSHOCKPROTEIN),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:26:45Z,TN(C)KLH 3MCG + QS21 100MCG,TN(C)KLH3MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TN(C)KLH3MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:27:13Z,MDV3100 vs.Placebo,MDV3100vs.Placebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDV3100vs.Placebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:27:29Z,17-AAG (IRB#04-082),17-AAG(IRB#04-082),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/17-AAG(IRB#04-082),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:27:40Z,IRINOtecan (IRB#07-102),IRINOtecan(IRB#07-102),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRINOtecan(IRB#07-102),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:27:50Z,N-PROP POLYSIALIC AC-KLH+QS21,N-PROPPOLYSIALICAC-KLH+QS21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/N-PROPPOLYSIALICAC-KLH+QS21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:28:07Z,AMG 160 INVEST,AMG160INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG160INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:28:19Z,Oxaliplatin (IRB#00-009)(latex free),Oxaliplatin(IRB#00-009)(latexfree),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Oxaliplatin(IRB#00-009)(latexfree),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:28:31Z,ALL TRANS RETINOIC ACID10MGCAP,ALLTRANSRETINOICACID10MGCAP,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALLTRANSRETINOICACID10MGCAP,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:28:41Z,crenolanib (investigational medication),crenolanib(investigationalmedication),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/crenolanib(investigationalmedication),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:28:57Z,zanubrutinib 80 mg oral capsule,zanubrutinib80mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/zanubrutinib80mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:29:08Z,CML VAX B3 (IRB#05-045),CMLVAXB3(IRB#05-045),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CMLVAXB3(IRB#05-045),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:29:19Z,Abiraterone Acetate (CB 7630) or Placebo Tablet,AbirateroneAcetate(CB7630)orPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AbirateroneAcetate(CB7630)orPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:29:30Z,SUNITinib (SU011248) 12.5 mg Cap (IRB#07-019),SUNITinib(SU011248)12.5mgCap(IRB#07-019),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SUNITinib(SU011248)12.5mgCap(IRB#07-019),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:29:46Z,OXALIplatin (IRB#07-113),OXALIplatin(IRB#07-113),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OXALIplatin(IRB#07-113),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:29:57Z,BEMPEGALDESLEUKIN,BEMPEGALDESLEUKIN,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEMPEGALDESLEUKIN,TRUE,FALSE,TRUE, Bempegaldesleukin [INN],1939126-74-5,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:30:14Z,Temozolomide (IRB#01-088) 20 mg Capsule,Temozolomide(IRB#01-088)20mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temozolomide(IRB#01-088)20mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:30:25Z,anastrozole 1 mg oral tablet,anastrozole1mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/anastrozole1mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:30:36Z,"Perifosine Oral INVEST Tablet, 50 mg","PerifosineOralINVESTTablet,50mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/PerifosineOralINVESTTablet,50mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:30:47Z,AZD5363 200 mg tablet (IRB 17-322),AZD5363200mgtablet(IRB17-322),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD5363200mgtablet(IRB17-322),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:30:58Z,TEMOZOLOMIDE 250MG CAPSULE,TEMOZOLOMIDE250MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMOZOLOMIDE250MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:31:09Z,LOXO-101 Oral Capsule - Investigational Drug,LOXO-101OralCapsule-InvestigationalDrug,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LOXO-101OralCapsule-InvestigationalDrug,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:31:36Z,RAD001 (Everolimus) 2.5 mg Tab (IRB#04-033),RAD001(Everolimus)2.5mgTab(IRB#04-033),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)2.5mgTab(IRB#04-033),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:32:09Z,MDX-010 (Ipilimumab) (IRB#06-135),MDX-010(Ipilimumab)(IRB#06-135),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010(Ipilimumab)(IRB#06-135),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T09:32:20Z,STNKLH 30MCG+QS21100MCG,STNKLH30MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/STNKLH30MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
