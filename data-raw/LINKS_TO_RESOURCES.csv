@@ -13064,3 +13064,30 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T12:09:43Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
 2020-09-22T12:09:43Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
 2020-09-22T12:09:43Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Ziv-aflibercept[text],https://chem.nlm.nih.gov/chemidplus/rn/1609655-49-3
+2020-09-22T12:16:25Z,ClinicalTrials.gov,"https://clinicaltrials.gov/search/intervention=T-DM1+OR+trastuzumab+emtansine+OR+""trastuzumab-DM1+conjugate""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Trastuzumab%20emtansine,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Trastuzumab%20emtansine,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1018448-65-1,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1245,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1245,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,MedlinePlusAll,"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Trastuzumab+emtansine+OR+""Trastuzumab-DM1""+OR""trastuzumab-DM1+conjugate""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,MedlinePlusAll Mob,"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Trastuzumab+emtansine+OR+""Trastuzumab-DM1""+OR""trastuzumab-DM1+conjugate""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=trastuzumab-DM1+conjugate,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1018448-65-1,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=trastuzumab-DM1+conjugate+OR+%22Trastuzumab-DM1%22,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed Mob,"https://www.ncbi.nlm.nih.gov/m/pubmed/?term=trastuzumab-DM1+conjugate+OR+""Trastuzumab-DM1""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=trastuzumab-DM1+conjugate+OR+%22Trastuzumab-DM1%22,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed Cancer,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=trastuzumab-DM1+conjugate+OR+""Trastuzumab-DM1""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=trastuzumab-DM1+conjugate+OR+%22Trastuzumab-DM1%22,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,PubMed Toxicology,"https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=trastuzumab-DM1+conjugate+OR+""Trastuzumab-DM1""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221018448-65-1%22+OR+%22%22+OR+%22trastuzumab-DM1+conjugate%22,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221018448-65-1%22+OR+%22%22+OR+%22trastuzumab-DM1+conjugate%22,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C550911,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,DrugBank,http://www.drugbank.ca/drugs/DB05773,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Trastuzumab%20emtansine,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=1018448-65-1&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=trastuzumab%20emtansine,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/SE2KH7T06F,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Trastuzumab+emtansine+OR+""Trastuzumab-DM1""+OR+""trastuzumab-DM1+conjugate""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Trastuzumab+emtansine+OR+""Trastuzumab-DM1""+OR+""trastuzumab-DM1+conjugate""",https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-22T12:16:25Z,Wikipedia,http://en.wikipedia.org/wiki/Trastuzumab%20emtansine,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
