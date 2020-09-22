@@ -13692,3 +13692,12 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T17:19:04Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2129993-56-0,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
 2020-09-22T17:19:04Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2129993-56-0,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
 2020-09-22T17:19:04Z,NA,http://www.google.com/search?q=%22JBYKMODFCUCTGY-LLSQRQBFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/2129993-56-0
+2020-09-22T17:26:53Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/946415-49-2,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Hu3S193%20monoclonal%20antibody,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=946415-49-2,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
+2020-09-22T17:26:53Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=3S193,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2
