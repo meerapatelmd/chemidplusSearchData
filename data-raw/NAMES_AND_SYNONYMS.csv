@@ -6121,6 +6121,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,Adozelesine [INN-French]
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,Adozelesinum
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,Adozelesinum [INN-Latin]
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,4-(Ethoxymethyl)-2-methoxyphenol
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,"N-(2-((4,5,8,8a-Tetrahydro-7-methyl-4-oxocyclopropa(c)pyrrolo(3,2-e)-indol-2(1H)-yl)carbonyl)-1H-indol-5-yl)-2-benzofurancarboxamide, (7bR)"
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,NSC 615284
 2020-09-22T01:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2,Synonyms,"U 73,975"
@@ -6281,3 +6282,372 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T01:17:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1303607-60-4,Synonyms,SAR405838
 2020-09-22T01:17:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1303607-60-4,Synonyms,"Spiro(3H-indole-3,3'-pyrrolidine)-5'-carboxamide, 6-chloro-4'-(3-chloro-2-fluorophenyl)-2'-(2,2-dimethylpropyl)-1,2-dihydro-N-(trans-4-hydroxycyclohexyl)-2-oxo-, (2'S,3R,4'S,5'R)-"
 2020-09-22T01:17:10Z,https://chem.nlm.nih.gov/chemidplus/rn/1303607-60-4,Synonyms,UNII-8570LZ3RCA
+2020-09-22T01:18:06Z,https://chem.nlm.nih.gov/chemidplus/rn/53861-42-0,Name of Substance,Monoaquacisplatinum
+2020-09-22T01:18:06Z,https://chem.nlm.nih.gov/chemidplus/rn/53861-42-0,Synonyms,(SP-4-3)-Diammineaquachloroplatinum(1+)
+2020-09-22T01:18:06Z,https://chem.nlm.nih.gov/chemidplus/rn/53861-42-0,Synonyms,cis-Diamminemonoaquamonochloroplatinum II
+2020-09-22T01:18:06Z,https://chem.nlm.nih.gov/chemidplus/rn/53861-42-0,Synonyms,UNII-6L6R7H31YE
+2020-09-22T01:18:06Z,https://chem.nlm.nih.gov/chemidplus/rn/53861-42-0,Systematic Name,"Platinum(1+), diammineaquachloro-, (SP-4-3)-"
+2020-09-22T01:18:12Z,https://chem.nlm.nih.gov/chemidplus/rn/91864-32-3,Name of Substance,Deoxyadenylyl-thymidyl-deoxyguanylyl-deoxyguanosine-cisplatin complex
+2020-09-22T01:18:12Z,https://chem.nlm.nih.gov/chemidplus/rn/91864-32-3,Synonyms,Cisplatin-deoxyadenylyl-thymidylyl-deoxyguanylyl-deoxyguanosine complex
+2020-09-22T01:18:12Z,https://chem.nlm.nih.gov/chemidplus/rn/91864-32-3,Synonyms,d(A-T-G-G)Cisplatin
+2020-09-22T01:18:12Z,https://chem.nlm.nih.gov/chemidplus/rn/91864-32-3,Synonyms,d(Atgg)cispt
+2020-09-22T01:18:12Z,https://chem.nlm.nih.gov/chemidplus/rn/91864-32-3,Systematic Name,"Platinate(1-), diammine(2'-deoxyadenylyl-(3'-5')-thymidylyl-(3'-5')-2'-deoxyguanylyl-(3'-5')-2'-deoxyguanosinate(3-))-, (Z,E,E,E,E)-"
+2020-09-22T01:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/92205-21-5,"NA",Naphthazarindicisplatinum
+2020-09-22T01:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/92205-21-5,"NA",Naphthazarine dicisplatinum
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Name of Substance,Monohydroxycisplatin
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Synonyms,cis-Diammine(chloro)(hydroxy)platinum
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Synonyms,cis-Diamminechlorohydroxoplatinum
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Synonyms,Monohydroxycisplatin
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Synonyms,"Platinum, diamminechlorohydroxy-, (sp-4-3)-"
+2020-09-22T01:18:26Z,https://chem.nlm.nih.gov/chemidplus/rn/94118-73-7,Synonyms,UNII-V7JK4F3V8U
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Name of Substance,Vanillyl ethyl ether
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,alpha-Ethoxy-2-methoxy-P-cresol
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,EINECS 236-136-4
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,Ethyl 4-hydroxy-3-methoxybenzyl ether
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,Ethyl vanillyl ether
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,"P-Cresol, alpha-ethoxy-2-methoxy-"
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,"Phenol, 4-(ethoxymethyl)-2-methoxy-"
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Synonyms,UNII-1423UFT5P6
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Systematic Names,4-(Ethoxymethyl)-2-methoxyphenol
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Systematic Names,"Phenol, 4-(ethoxymethyl)-2-methoxy-"
+2020-09-22T01:19:01Z,https://chem.nlm.nih.gov/chemidplus/rn/13184-86-6,Superlist Name,Vanillyl ethyl ether
+2020-09-22T01:19:08Z,https://chem.nlm.nih.gov/chemidplus/rn/22414-91-1,Name of Substance,"2,2'-Disulfohexanoic acid"
+2020-09-22T01:19:08Z,https://chem.nlm.nih.gov/chemidplus/rn/22414-91-1,Synonyms,EINECS 244-976-8
+2020-09-22T01:19:08Z,https://chem.nlm.nih.gov/chemidplus/rn/22414-91-1,Synonyms,UNII-8UFT3C5WKA
+2020-09-22T01:19:08Z,https://chem.nlm.nih.gov/chemidplus/rn/22414-91-1,Systematic Names,"2,2'-Dithiobishexanoic acid"
+2020-09-22T01:19:08Z,https://chem.nlm.nih.gov/chemidplus/rn/22414-91-1,Systematic Names,"Hexanoic acid, 2,2'-dithiobis-, calcium salt (1:1)"
+2020-09-22T01:19:15Z,https://chem.nlm.nih.gov/chemidplus/rn/56694-23-6,Name of Substance,"Tuftsin, leu(1)-"
+2020-09-22T01:19:15Z,https://chem.nlm.nih.gov/chemidplus/rn/56694-23-6,Synonyms,1-Leu-tuftsin
+2020-09-22T01:19:15Z,https://chem.nlm.nih.gov/chemidplus/rn/56694-23-6,Synonyms,"Tuftsin, leucine(1)-"
+2020-09-22T01:19:15Z,https://chem.nlm.nih.gov/chemidplus/rn/56694-23-6,Systematic Name,"L-Arginine, N2-(1-(N2-L-leucyl-L-lysyl)-L-prolyl)-"
+2020-09-22T01:19:22Z,https://chem.nlm.nih.gov/chemidplus/rn/63138-91-0,Name of Substance,"Tuftsin, lys(4)-"
+2020-09-22T01:19:22Z,https://chem.nlm.nih.gov/chemidplus/rn/63138-91-0,Synonyms,4-Lys-tuftsin
+2020-09-22T01:19:22Z,https://chem.nlm.nih.gov/chemidplus/rn/63138-91-0,Synonyms,"Tuftsin, lysine(4)-"
+2020-09-22T01:19:22Z,https://chem.nlm.nih.gov/chemidplus/rn/63138-91-0,Systematic Name,"L-Lysine, N2-(1-(N2-L-threonyl-L-lysyl)-L-prolyl)-"
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Results Name,Tazemetostat [USAN:INN]
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Name of Substance,Tazemetostat
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Name of Substance,Tazemetostat [USAN]
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethyl(tetrahydro-2H-pyran-4-yl)amino)-4-methyl-4'-(4-morpholinylmethyl)-"
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,E 7438
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,EPZ-6438
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,"N-((4,6-Dimethyl-2-oxo-1,2-dihydropyridin-3-yl)methyl)-5-(ethyl(oxan-4-yl)amino)-4-methyl-4'-((morpholin-4-yl)methyl)(1,1'-biphenyl)-3-carboxamide"
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,Tazemetostat
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,Tazemetostat [INN]
+2020-09-22T01:19:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8,Synonyms,UNII-Q40W93WPE1
+2020-09-22T01:19:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-00-4,Name of Substance,Tazemetostat trihydrochloride
+2020-09-22T01:19:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-00-4,Synonyms,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethyl(tetrahydro-2H-pyran-4-yl)amino)-4-methyl-4'-(4-morpholinylmethyl)-, hydrochloride (1:3)"
+2020-09-22T01:19:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-00-4,Synonyms,EPZ-6438 trihydrochloride
+2020-09-22T01:19:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-00-4,Synonyms,Tazemetostat trihydrochloride
+2020-09-22T01:19:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-00-4,Synonyms,UNII-272LA4Y8S8
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Name of Substance,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-4-methyl-4'-(4-morpholinylmethyl)-5-((tetrahydro-2H-pyran-4-yl)amino)-"
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Synonyms,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-4-methyl-4'-(4-morpholinylmethyl)-5-((tetrahydro-2H-pyran-4-yl)amino)-"
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Synonyms,EPZ6930
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Synonyms,"N-((1,2-Dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-4-methyl-4'-(4-morpholinylmethyl)-5-((tetrahydro-2H-pyran-4-yl)amino)(1,1'-biphenyl)-3-carboxamide"
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Synonyms,Tazemetostat metabolite M5
+2020-09-22T01:19:55Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-87-7,Synonyms,UNII-02473RPZ50
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Name of Substance,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethylamino)-4-methyl-4'-(4-morpholinylmethyl)-"
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Synonyms,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethylamino)-4-methyl-4'-(4-morpholinylmethyl)-"
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Synonyms,EPZ006931
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Synonyms,"N-((1,2-Dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethylamino)-4-methyl-4'-(4-morpholinylmethyl)(1,1'-biphenyl)-3-carboxamide"
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Synonyms,Tazemetostat metabolite M3
+2020-09-22T01:20:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1403255-88-8,Synonyms,UNII-ON8SNW2Y82
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Name of Substance,Tazemetostat hydrobromide
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Name of Substance,Tazemetostat hydrobromide [USAN]
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,"(1,1'-Biphenyl)-3-carboxamide, N-((1,2-dihydro-4,6-dimethyl-2-oxo-3-pyridinyl)methyl)-5-(ethyl(tetrahydro-2H-pyran-4-yl)amino)-4-methyl-4'-(4-morpholinylmethyl)-, hydrobromide (1:1)"
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,EPZ-6438 monohydrobromide
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,EZ438
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,Tazemetostat hydrobromide
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,Tazemetostat monohydrobromide
+2020-09-22T01:20:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1467052-75-0,Synonyms,UNII-6P89T5M073
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Name of Substance,Siltuximab [USAN:INN]
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,CNTO 328
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,CNTO-328
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,"Immunoglobulin G1, anti-(human interleukin 6 (BSF-2, interferon beta-2)); human mouse chimeric monoclonal CNTO 328 gamma1 heavy chain (222-213')-disulfide with human mouse chimeric monoclonal CNTO 328 kappa light chain, dimer (228-228'':231-231'')- bisdi"
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,Siltuximab
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,Sylvant
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Synonyms,UNII-T4H8FMA7IM
+2020-09-22T01:21:16Z,https://chem.nlm.nih.gov/chemidplus/rn/541502-14-1,Systematic Name,"Immunoglobulin G1, anti-(human interleukin 6) (human-mouse monoclonal CNTO 328 heavy chain), disulfide with human-mouse monoclonal CNTO 328 kappa-chain, dimer"
+2020-09-22T01:21:29Z,https://chem.nlm.nih.gov/chemidplus/rn/1160-90-3,Results Name,N-Acetylmelphalan
+2020-09-22T01:21:29Z,https://chem.nlm.nih.gov/chemidplus/rn/1160-90-3,Synonyms,N-Acetylmelphalan
+2020-09-22T01:21:29Z,https://chem.nlm.nih.gov/chemidplus/rn/1160-90-3,Synonyms,"Phenylalanine, N-acetyl-4-(bis(2-chloroethyl)amino)-"
+2020-09-22T01:21:29Z,https://chem.nlm.nih.gov/chemidplus/rn/1160-90-3,Systematic Name,"Alanine, N-acetyl-3-(p-(bis(2-chloroethyl)amino)phenyl)-"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Results Name,Sarcolysine hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Name of Substance,Sarcolysin hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,3-(p-(Bis(2-chloroethyl)amino)phenyl)-DL-alanine hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,"3-(p-(Bis(beta-chloroethyl)amino)phenyl)-D,L-alanine hydrochloride"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,4-(Bis(2-chloroethyl)amino)-DL-phenylalanine hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,AI3-52155
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Alkeran (Russian)
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,CB 3007
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,"DL-Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, hydrochloride"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,"DL-Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, monohydrochloride"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,DL-Phenylalanine mustard hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,DL-Sarcolysin monohydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,DL-Sarcolysine hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Melphalan (Russian)
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,NCS-14210
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,NSC 14210
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Sarcolysin hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Sarcolysine HCl
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Sarcolysine hydrochloride
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Sarkoklorin
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,Sarkolizin
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,SKI 21739
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Synonyms,UNII-GEG3Q4FC64
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Systematic Names,"Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, hydrochloride, DL"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Systematic Names,"Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, monohydrochloride, DL- (8CI)"
+2020-09-22T01:21:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-26-5,Systematic Names,"DL-Phenylalanine, 4-(bis(2-chloroethyl)amino)-, monohydrochloride (9CI)"
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Name of Substance,Melphalan hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,AI3-26377
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Alanine nitrogen mustard hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Alkeran
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Alkeran hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,CB 3025 hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,L-3-(p-(Bis(2-chloroethyl)amino)phenyl)alanine monohydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,"L-Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, hydrochloride"
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,L-Phenylalanine mustard hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,L-Sarcolysine hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Melfalan hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Melphalan HCl
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Melphalan hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,Phenylalanine mustard hydrochloride
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,SK 15673
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Synonyms,UNII-1VXP4V453T
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Systematic Names,"Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, monohydrochloride, L-"
+2020-09-22T01:21:42Z,https://chem.nlm.nih.gov/chemidplus/rn/3223-07-2,Systematic Names,"L-Phenylalanine, 4-(bis(2-chloroethyl)amino)-, monohydrochloride (9CI)"
+2020-09-22T01:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/1005342-46-0,Name of Substance,LCL-161
+2020-09-22T01:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/1005342-46-0,Synonyms,LCL 161
+2020-09-22T01:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/1005342-46-0,Synonyms,LCL161
+2020-09-22T01:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/1005342-46-0,Synonyms,UNII-6TNS415Y3P
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Name of Substance,Cenisertib benzoate
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,"(1S,2S,3R,4R)-3-(5-Fluoro-2-(3-methyl-4-(4-methylpiperazin-1-yl)-phenylamino)-pyrimidin-4-ylamino)bicycle(2.2.1)hept-5-ene-2-carboxamide benzoate"
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,AS-703569 benzoate
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,"Bicyclo(2.2.1)hept-5-ene-2-carboxamide, 3-((5-fluoro-2-((3-methyl-4-(4-methyl-1-piperazinyl)phenyl)amino)-4-pyrimidinyl)amino)-, (1S,2S,3R,4R)-, benzoate"
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,MSC-1992371A
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,R-763 benzoate
+2020-09-22T01:22:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1145859-64-8,Synonyms,UNII-S68QU67MAZ
+2020-09-22T01:23:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1246560-33-7,Name of Substance,VS-5584
+2020-09-22T01:23:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1246560-33-7,Synonyms,"2-Pyrimidinamine, 5-(8-methyl-9-(1-methylethyl)-2-(4-morpholinyl)-9H-purin-6-yl)-"
+2020-09-22T01:23:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1246560-33-7,Synonyms,UNII-W71J4X250V
+2020-09-22T01:23:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1246560-33-7,Synonyms,VS-5584
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Name of Substance,Etevritamab
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,AMG-596
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,AMG596
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,anti-Egfrviii/cd3 bite antibody AMG 596
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,Etevritamab
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,Etevritamab [INN]
+2020-09-22T01:24:02Z,https://chem.nlm.nih.gov/chemidplus/rn/2329692-74-0,Synonyms,UNII-WR4J8FV2SM
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Name of Substance,BR96-doxorubicin immunoconjugate
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Synonyms,BMS 182248-1
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Synonyms,cBR96-Doxorubicin Immunoconjugate
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Synonyms,SGN 15
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Synonyms,SGN-15
+2020-09-22T01:24:26Z,https://chem.nlm.nih.gov/chemidplus/rn/160612-45-3,Systematic Name,BMS 182248
+2020-09-22T01:24:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-28-5,Name of Substance,Dafsolimab setaritox
+2020-09-22T01:24:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-28-5,Synonyms,Dafsolimab setaritox
+2020-09-22T01:24:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-28-5,Synonyms,Dafsolimab setaritox [INN]
+2020-09-22T01:24:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-28-5,Synonyms,"Immunoglobulin g2a-lambda, anti-(cd7 (cd7antigen (p41),gp40, Leu-9, TP41, tp40)), mus musculus monoclonal antibody conjugated to ricin toxin A (rta) (dafsolimab setaritox)"
+2020-09-22T01:24:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-28-5,Synonyms,UNII-AG8ULI6K9U
+2020-09-22T01:24:46Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-29-6,Name of Substance,Grisnilimab setaritox
+2020-09-22T01:24:46Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-29-6,Synonyms,Grisnilimab setaritox
+2020-09-22T01:24:46Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-29-6,Synonyms,Grisnilimab setaritox [INN]
+2020-09-22T01:24:46Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-29-6,Synonyms,"Immunoglobulin g2a-lambda, anti-(cd7 (cd7antigen (p41),gp40, Leu-9, TP41, tp40)), mus musculus monoclonal antibody conjugated to ricin toxin A (rta)"
+2020-09-22T01:24:46Z,https://chem.nlm.nih.gov/chemidplus/rn/2361013-29-6,Synonyms,UNII-ES6SG61M8L
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Name of Substance,Grisnilimab
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Synonyms,Grisnilimab
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Synonyms,Grisnilimab [INN]
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Synonyms,"Immunoglobulin g2a, anti-(human CD7 antigen) (mus musculus monoclonal WT1 gamma2a-chain), disulfide with mus musculus monoclonal WT1 lambda-chain, dimer"
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Synonyms,"Immunoglobulin g2a-lambda, anti-(cd7 (cd7 antigen (p41),gp40, Leu-9, TP41, tp40)), mus musculusmonoclonal antibod (grisnilimab)"
+2020-09-22T01:24:53Z,https://chem.nlm.nih.gov/chemidplus/rn/2367001-70-3,Synonyms,UNII-5ADI68Z0PC
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Name of Substance,Bisphenol A epoxy resin diacrylate ester
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,A 3002
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Actocryl 400
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,AgiSyn 1010
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Bisphenol A bis(3-acrylato-2-hydroxypropyl) ether
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Bisphenol A diether with glycidyl acrylate
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Bisphenol A diglycidyl ether acrylate
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Bisphenol A diglycidyl ether diacrylate
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Bisphenol A glycerolate diacrylate
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Celrad 3600
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Celrad 3700
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Diclite UE 8200T
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,EB 3700
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,EB 600
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ebecryl 3700
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ebecryl 3704
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ebecryl 3720TP40
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ebecryl 600
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,EINECS 225-144-3
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,EPA 37
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Epotuf 91-275
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Epoxy Ester 3000A
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Kayarad R 115
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,MorCure 2000
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Novacure 3700
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Photomer 3015
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,PN 1570
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,R 115
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ripoxy SP 1509
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,Ripoxy VR 77
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,SP 1509
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,UNII-615T9XD11Q
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Synonyms,VR 77
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Systematic Names,"(1-Methylethylidene)bis(4,1-phenyleneoxy(2-hydroxy-3,1-propanediyl)) diacrylate"
+2020-09-22T01:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/4687-94-9,Systematic Names,"2-Propenoic acid, (1-methylethylidene)bis(4,1-phenyleneoxy(2-hydroxy-3,1-propanediyl)) ester"
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Results Name,Ibrutinib metabolite M37
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Name of Substance,PCI-45227
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Synonyms,"1-Propanone, 1-((3R)-3-(4-amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-1-piperidinyl)-2,3-dihydroxy-"
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Synonyms,Ibrutinib metabolite M37
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Synonyms,PCI-45227
+2020-09-22T01:25:18Z,https://chem.nlm.nih.gov/chemidplus/rn/1654820-87-7,Synonyms,UNII-29446230GA
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Name of Substance,Remibrutinib
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Synonyms,"Benzamide, N-(3-(6-amino-5-(2-(methyl(1-oxo-2-propen-1-yl)amino)ethoxy)-4-pyrimidinyl)-5-fluoro-2-methylphenyl)-4-cyclopropyl-2-fluoro-"
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Synonyms,N-(3-(6-Amino-5-(2-(N-methylacrylamido)ethoxy)pyrimidin-4-yl)-5-fluoro-2-methylphenyl)-4-cyclopropyl-2-fluorobenzamide
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Synonyms,Remibrutinib
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Synonyms,Remibrutinib [INN]
+2020-09-22T01:25:25Z,https://chem.nlm.nih.gov/chemidplus/rn/1787294-07-8,Synonyms,UNII-I7MVZ8HDNU
+2020-09-22T01:25:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-93-6,Name of Substance,"N-(2-(4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-5-hydroxypentyl)-2,3-dihydroxypropanamide, (R)-"
+2020-09-22T01:25:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-93-6,Synonyms,Ibrutinib metabolite M24
+2020-09-22T01:25:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-93-6,Synonyms,"N-(2-(4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-5-hydroxypentyl)-2,3-dihydroxypropanamide, (R)-"
+2020-09-22T01:25:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-93-6,Synonyms,"Propanamide, N-(2-(4-amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-5-hydroxypentyl)-2,3-dihydroxy-, (R)-"
+2020-09-22T01:25:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-93-6,Synonyms,UNII-YLV55WHI7Q
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Name of Substance,PCI-45752
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,"2-Propenamide, N-(2-(4-amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-5-hydroxypentyl)-, (R)-"
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,Ibrutinib metabolite M34
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,JNJ-55499743
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,"N-(2-(4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-5-hydroxypentyl)-2-propenamide, (R)-"
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,PCI-45752
+2020-09-22T01:25:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1838132-94-7,Synonyms,UNII-R89W1G0ITW
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Name of Substance,Methyl belinostat
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,"2-Propenamide, N-methoxy-3-(3-((phenylamino)sulfonyl)phenyl)-"
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,"2-Propenamide, N-methoxy-3-(3-((phenylamino)sulfonyl)phenyl)-, (2E)-"
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,Methyl belinostat
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,PX-106507
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,PX106507
+2020-09-22T01:27:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-34-2,Synonyms,UNII-KF5Y5X84T9
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Name of Substance,Belinostat amide
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,"2-Propenamide, 3-(3-((phenylamino)sulfonyl)phenyl)-"
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,"2-Propenamide, 3-(3-((phenylamino)sulfonyl)phenyl)-, (2E)-"
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,Belinostat amide
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,PX-118624
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,PX118624
+2020-09-22T01:27:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1485081-57-9,Synonyms,UNII-40EYG848GW
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Name of Substance,Belinostat (Non-Stereospecific)
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Name of Substance,PXD 101
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,Beleodaq
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,Belinostat
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,N-Hydroxy-3-(3-(phenylsulfamoyl)phenyl)prop-2-enamide
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,PDX101
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,PX 105684
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,PXD-101
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Synonyms,PXD101
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Systematic Names,"2-Propenamide, N-hydroxy-3-(3-((phenylamino)sulfonyl)phenyl)-"
+2020-09-22T01:27:16Z,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9,Systematic Names,N-Hydroxy-3-(3-(phenylsulfamoyl)phenyl)prop-2-enamide
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Name of Substance,Belinostat [USAN:INN]
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,Beleodaq
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,Belinostat
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,E-Belinostat
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,PX 105684
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,PXD 101
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Synonyms,UNII-F4H96P17NZ
+2020-09-22T01:27:23Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0,Systematic Name,"2-Propenamide, N-hydroxy-3-(3-((phenylamino)sulfonyl)phenyl)-, (2E)-"
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Name of Substance,Belinostat acid
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,"2-Propenoic acid, 3-(3-((phenylamino)sulfonyl)phenyl)-"
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,"2-Propenoic acid, 3-(3-((phenylamino)sulfonyl)phenyl)-, (2E)-"
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,Belinostat acid
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,PXD-101-6
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,PXD101-6
+2020-09-22T01:27:29Z,https://chem.nlm.nih.gov/chemidplus/rn/866323-87-7,Synonyms,UNII-D342E3PX5U
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Name of Substance,Eculizumab
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Name of Substance,Eculizumab [USAN:INN:BAN]
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,Alexion
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,Eculizumab
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,Eculizumab (genetical recombination
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,h5G1.1
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,h5G1.1VHC h5G1.1VLC
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,h5G1.1VHC(+)h5G1.1VLC
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,h5G1.1VHC+h5G1.1VLC
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,HSDB 8394
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,"Immunoglobulin, anti-(human complement C5 alpha-chain) (human-mouse monoclonal 5G1.1 heavy chain), disulfide with human-mouse monoclonal 5G.1.1 light chain, dimer. Molecular weight is approximately 150,000 daltons"
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,Soliris
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Synonyms,UNII-A3ULP0F556
+2020-09-22T01:27:43Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,Systematic Name,"Immunoglobulin,  anti-(human  complement  C5 a-chain)  (human-mouse  monoclonal  5G1.1  heavy  chain),  disulfide  with human-mouse  monoclonal  5G.1.1  light  chain,  dimer"
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Name of Substance,1-Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Name of Substance,"Alcohol, undecyl"
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Name of Substance,Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,1-Hendecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,1-Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,1-Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,4-01-00-01835 (Beilstein Handbook Reference)
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,AI3-00330
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Alcohol C-11
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,BRN 1698334
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,C11 alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Decyl carbinol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,EC 203-970-5
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,EINECS 203-970-5
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Fatty alcohol(C11)
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,FEMA No. 3097
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Hendecanoic alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Hendecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,HSDB 1089
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,n-Hendecylenic alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,n-Undecan-1-ol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,n-Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,n-Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,NSC 403667
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Tip-Nip
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Synonyms,UNII-06MJ0P28T3
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Systematic Names,1-Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Systematic Names,Undecan-1-ol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Systematic Names,Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Superlist Names,1-Undecyl alcohol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Superlist Names,Undecanol
+2020-09-22T01:28:17Z,https://chem.nlm.nih.gov/chemidplus/rn/112-42-5,Superlist Names,Undecyl alcohol
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Name of Substance,"Allopregnane-3beta,17alpha,20alpha-triol 3,20-diacetate"
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Synonyms,"5alpha-Pregnane-3beta,17,20alpha-triol, 3,20-diacetate"
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Synonyms,"Allopregnane-3beta,17alpha,20alpha-triol 3,20-diacetate"
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Synonyms,"Allopregnane-3beta,17alpha,20alpha-triol 3,20-diacetate [MI]"
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Synonyms,"Pregnane-3,17,20-triol, 3,20-diacetate, (3beta,5alpha,20S)-"
+2020-09-22T01:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1176-49-4,Synonyms,UNII-HU5FN3P28K
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Name of Substance,Leucinamide
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Synonyms,(S)-2-Amino-4-methylpentanamide
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Synonyms,EINECS 211-696-2
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Synonyms,UNII-RP28A6538M
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Systematic Names,(S)-2-Amino-4-methylvaleramide
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Systematic Names,"Pentanamide, 2-amino-4-methyl-, (2S)-"
+2020-09-22T01:28:31Z,https://chem.nlm.nih.gov/chemidplus/rn/687-51-4,Systematic Names,"Pentanamide, 2-amino-4-methyl-, (S)-"
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Name of Substance,2-Ethylhexanoyl chloride
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,2-Ethylcaproyl chloride
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,2-Ethylhexanoic acid chloride
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,2-Ethylhexanoyl chloride
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,EC 212-081-1
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,EINECS 212-081-1
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,NSC 87892
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Synonyms,UNII-81065MP285
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Systematic Names,2-Ethylhexanoyl chloride
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Systematic Names,"Hexanoyl chloride, 2-ethyl-"
+2020-09-22T01:28:38Z,https://chem.nlm.nih.gov/chemidplus/rn/760-67-8,Superlist Name,"Hexanoyl chloride, 2-ethyl-"
+2020-09-22T01:28:45Z,https://chem.nlm.nih.gov/chemidplus/rn/95-02-3,Name of Substance,2-Methyl-4-amino-5-aminomethylpyrimidine
+2020-09-22T01:28:45Z,https://chem.nlm.nih.gov/chemidplus/rn/95-02-3,Synonyms,EC 202-384-7
+2020-09-22T01:28:45Z,https://chem.nlm.nih.gov/chemidplus/rn/95-02-3,Synonyms,EINECS 202-384-7
+2020-09-22T01:28:45Z,https://chem.nlm.nih.gov/chemidplus/rn/95-02-3,Synonyms,UNII-EU1UNR0P28
+2020-09-22T01:28:45Z,https://chem.nlm.nih.gov/chemidplus/rn/95-02-3,Systematic Name,4-Amino-2-methylpyrimidine-5-methylamine
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Name of Substance,Pembrolizumab [USAN:INN]
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,HSDB 8257
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,"Immunoglobulin G4, anti-(human protein PDCD1 (programmed cell death 1)) (human-Mus musculus monoclonal heavy chain), disulfide with human-Mus musculus monoclonal light chain, dimer"
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,Keytruda
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,Lambrolizumab
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,Merck 3475
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,MK 3475
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,Pembrolizumab
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,Sch 900475
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Synonyms,UNII-DPT0O3T46P
+2020-09-22T01:29:42Z,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4,Systematic Name,"Immunoglobulin G4, anti-(human programmed cell death 1); humanized mouse monoclonal (228-L-proline(H10-S>P))gamma 4 heavy chain (134-218')-disulfide with humanized mouse monoclonal kappa light chain dimer (226-226'':229-229'')-bisdisulfide"
+2020-09-22T01:30:43Z,https://chem.nlm.nih.gov/chemidplus/rn/104959-35-5,Name of Substance,Cladribine 5'-monophosphate diammonium
+2020-09-22T01:30:43Z,https://chem.nlm.nih.gov/chemidplus/rn/104959-35-5,Synonyms,2-Chloro-2'-deoxy-5'-adenylic acid diammonium
+2020-09-22T01:30:43Z,https://chem.nlm.nih.gov/chemidplus/rn/104959-35-5,Synonyms,"5'-Adenylic acid, 2-chloro-2'-deoxy-, diammonium salt"
+2020-09-22T01:30:43Z,https://chem.nlm.nih.gov/chemidplus/rn/104959-35-5,Synonyms,Cladribine 5'-monophosphate diammonium
+2020-09-22T01:30:43Z,https://chem.nlm.nih.gov/chemidplus/rn/104959-35-5,Synonyms,UNII-ACG7003W3B
