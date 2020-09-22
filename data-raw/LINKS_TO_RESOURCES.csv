@@ -12684,6 +12684,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T10:00:11Z,NA,http://www.google.com/search?q=%22WXCXUHSOUPDCQV-HPRDVNIFSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1443331-82-5
 2020-09-22T10:00:24Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
 2020-09-22T10:00:24Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/792921-10-9,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
+2020-09-22T10:25:13Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Alvocidib+OR+flavopiridol,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
 2020-09-22T10:00:24Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
 2020-09-22T10:00:24Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=792921-10-9,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
 2020-09-22T10:00:24Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Abagovomab,https://chem.nlm.nih.gov/chemidplus/rn/792921-10-9
@@ -12705,3 +12706,52 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T10:09:19Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2108782-45-0,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
 2020-09-22T10:09:19Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2108782-45-0,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
 2020-09-22T10:09:19Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=OMS721,https://chem.nlm.nih.gov/chemidplus/rn/2108782-45-0
+2020-09-22T10:25:13Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=flavopiridol,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Flavopiridol+OR+Alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22131740-09-5%22+OR+%22%22+OR+alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22131740-09-5%22+OR+%22%22+OR+alvocidib,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=131740-09-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/D48MS3A6N9,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Alvocidib+OR+flavopiridol,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:25:13Z,NA,http://www.google.com/search?q=%22LGMSNQNWOCSPIK-LWHGMNCYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-22T10:27:43Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=76429-85-1,https://chem.nlm.nih.gov/chemidplus/rn/76429-85-1
+2020-09-22T10:27:43Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2276429-85-1%22+OR+%22%22+OR+%2210-Deacetyltaxol+B%22,https://chem.nlm.nih.gov/chemidplus/rn/76429-85-1
+2020-09-22T10:27:43Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=76429-85-1,https://chem.nlm.nih.gov/chemidplus/rn/76429-85-1
+2020-09-22T10:27:43Z,NA,http://www.google.com/search?q=%22ADDGUHVEJPNWQZ-GJKIWTKTSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/76429-85-1
+2020-09-22T10:27:50Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/78432-77-6,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+78432-77-6+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=10-Deacetyltaxol,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=78432-77-6,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=10-Deacetyltaxol+OR+78432-77-6+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=10-Deacetyltaxol+OR+78432-77-6+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=10-Deacetyltaxol+OR+78432-77-6+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=10-Deacetyltaxol+OR+78432-77-6+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=10-Deacetyltaxol+OR+78432-77-6+[rn],https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2278432-77-6%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2278432-77-6%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C031494,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=78432-77-6,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/B77R96LJLK,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:27:50Z,NA,http://www.google.com/search?q=%22TYLVGQKNNUHXIP-MHHARFCSSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/78432-77-6
+2020-09-22T10:30:06Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ag-221,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1802003-09-3,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1802003-09-3,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=ag-221,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=ag-221,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-22T10:30:06Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22ag-221%22,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
