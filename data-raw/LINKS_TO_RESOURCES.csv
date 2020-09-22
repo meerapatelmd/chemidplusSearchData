@@ -13223,3 +13223,13 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T12:49:47Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=AZD6738+OR+Ceralasertib,https://chem.nlm.nih.gov/chemidplus/rn/1352226-88-0
 2020-09-22T12:49:47Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=AZD6738+OR+Ceralasertib,https://chem.nlm.nih.gov/chemidplus/rn/1352226-88-0
 2020-09-22T12:49:47Z,NA,http://www.google.com/search?q=%22DTTJKLNXNZAVSM-JYCIKRDWSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1352226-88-0
+2020-09-22T12:58:02Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1308672-74-3,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1308672-74-3,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221308672-74-3%22+OR+%22%22+OR+%22HMPL-012%20%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221308672-74-3%22+OR+%22%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=%22HMPL-012%22+OR+Surufatinib,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
+2020-09-22T12:58:02Z,NA,http://www.google.com/search?q=%22TTZSNFLLYPYKIL-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
