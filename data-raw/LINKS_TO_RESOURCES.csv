@@ -13758,3 +13758,79 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T18:43:31Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=carfilzomib+OR+""pr-171""",https://chem.nlm.nih.gov/chemidplus/rn/868540-17-4
 2020-09-22T18:43:31Z,Wikipedia,http://en.wikipedia.org/wiki/Carfilzomib,https://chem.nlm.nih.gov/chemidplus/rn/868540-17-4
 2020-09-22T18:43:31Z,NA,http://www.google.com/search?q=%22BLMPQMFVWMYDKT-NZTKNTHTSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/868540-17-4
+2020-09-22T18:54:42Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Dabrafenib+OR+GSK+2118436,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1195765-45-7,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1270,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1270,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a613038.html,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a613038.html,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1195765-45-7,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221195765-45-7%22+OR+%22%22+OR+%22GSK+2118436%22,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221195765-45-7%22+OR+%22%22+OR+%22GSK+2118436%22,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C561627,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,DrugBank,http://www.drugbank.ca/drugs/DB08912,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=1195765-45-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=dabrafenib,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=1195765-45-7,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/QGP4HA4G1B,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Dabrafenib+OR+GSK+2118436,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Dabrafenib+OR+GSK+2118436,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:54:42Z,NA,http://www.google.com/search?q=%22BFSMGDJOXZAERB-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-22T18:59:03Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%224291-63-8%22+,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+4291-63-8+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7564,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7564,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1234,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1234,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a693015.html,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a693015.html,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Cladribine+OR+4291-63-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Cladribine+OR+4291-63-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Cladribine+OR+4291-63-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Cladribine+OR+4291-63-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Cladribine+OR+4291-63-8+[rn],https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%224291-63-8%22+OR+%22Cladribine%22+,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%224291-63-8%22+OR+%22Cladribine%22+,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,CA65,http://oehha.ca.gov/proposition-65/proposition-65-list,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D017338,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DrugBank,http://www.drugbank.ca/drugs/DB00242,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=CLADRIBINE,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=4291-63-8&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/4291638.html,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/47M74X9YT5,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,Wikipedia,http://en.wikipedia.org/wiki/Cladribine,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-22T18:59:03Z,NA,http://www.google.com/search?q=%22PTOAARAWEBMLNO-KVQBGUIXSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
