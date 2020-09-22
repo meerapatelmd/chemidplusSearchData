@@ -4968,3 +4968,29 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T14:12:40Z,Mocetinostat Protocol 15-133,MocetinostatProtocol15-133,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MocetinostatProtocol15-133,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T14:12:51Z,TRAMETinib or Placebo Tablet,TRAMETiniborPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRAMETiniborPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T14:13:02Z,TAS-119 Tablet,TAS-119Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TAS-119Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:13:51Z,BEVACIZUmab (IRB#10-091),BEVACIZUmab(IRB#10-091),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#10-091),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:14:33Z,"KU-0059436 (IRB#07-117) Capsule INV, 50 mg","KU-0059436(IRB#07-117)CapsuleINV,50mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/KU-0059436(IRB#07-117)CapsuleINV,50mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:14:44Z,LSZ102 150mg tablet (IRB 16-740),LSZ102150mgtablet(IRB16-740),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LSZ102150mgtablet(IRB16-740),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:14:54Z,PT2385 200mg tablets,PT2385200mgtablets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PT2385200mgtablets,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:15:18Z,CCI-779 (Temsirolimus) (IRB#06-164),CCI-779(Temsirolimus)(IRB#06-164),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CCI-779(Temsirolimus)(IRB#06-164),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:15:40Z,B-Glucan (IRB#01-075),B-Glucan(IRB#01-075),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B-Glucan(IRB#01-075),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:16:13Z,Sapacitabine Capsule,SapacitabineCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SapacitabineCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:16:24Z,ASP2215 (gilteritinib),ASP2215(gilteritinib),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASP2215(gilteritinib),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:16:35Z,Bevacizumab or Placebo (IRB#02-036),BevacizumaborPlacebo(IRB#02-036),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BevacizumaborPlacebo(IRB#02-036),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:16:45Z,IM862 VS PLACEBO NASAL DROPS,IM862VSPLACEBONASALDROPS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM862VSPLACEBONASALDROPS,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:17:03Z,TEMOLOLOMIDE 5MG OR PLACEBO,TEMOLOLOMIDE5MGORPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TEMOLOLOMIDE5MGORPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:17:31Z,LGX818 Oral INVEST,LGX818OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LGX818OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:17:42Z,"R115777 Tablet INV, 100 MG","R115777TabletINV,100MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/R115777TabletINV,100MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:17:53Z,ORH-2014 Capsule,ORH-2014Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ORH-2014Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:18:04Z,OSI-774 (IRB#06-098 Open Label) 150 mg Tab,OSI-774(IRB#06-098OpenLabel)150mgTab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(IRB#06-098OpenLabel)150mgTab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:18:15Z,NF-ZD1839 VS PLACEBO,NF-ZD1839VSPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NF-ZD1839VSPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:18:32Z,Selinexor (KPT-330) or Placebo Tablet,Selinexor(KPT-330)orPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selinexor(KPT-330)orPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:19:01Z,Lonsurf,Lonsurf,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Lonsurf,TRUE,FALSE,TRUE, Tipiracil hydrochloride mixture with Trifluridine,733030-01-8,https://chem.nlm.nih.gov/chemidplus/rn/733030-01-8
+2020-09-22T14:20:00Z,KAPANOL 100MG CAPSULE,KAPANOL100MGCAPSULE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KAPANOL100MGCAPSULE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:20:11Z,CMLVAX 10MCG,CMLVAX10MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CMLVAX10MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:20:22Z,PATIENTS WITH MELANOMA,PATIENTSWITHMELANOMA,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PATIENTSWITHMELANOMA,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:20:51Z,tepotinib 100 mg,tepotinib100mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/tepotinib100mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:21:07Z,LORLAtinib (PF-06463922) Oral TABLET INVEST,LORLAtinib(PF-06463922)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LORLAtinib(PF-06463922)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:21:18Z,CELL CANCER,CELLCANCER,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CELLCANCER,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:21:29Z,AG-881 Tablet or placebo tablet,AG-881Tabletorplacebotablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-881Tabletorplacebotablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T14:21:52Z,"RAD001 (Everolimus) (IRB#06-131) Tab, 5 mg","RAD001(Everolimus)(IRB#06-131)Tab,5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)(IRB#06-131)Tab,5mg",TRUE,TRUE,FALSE,NA,NA,NA
