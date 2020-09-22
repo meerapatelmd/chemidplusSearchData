@@ -9381,6 +9381,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T16:49:33Z,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4,Synonyms,SP924
 2020-09-22T16:49:33Z,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4,Synonyms,UNII-DO989GC5D1
 2020-09-22T16:49:33Z,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4,Systematic Names,"9,12-Epoxy-1H-diindolo(1,2,3-fg:3',2',1'-kl)pyrrolo(3,4-i)(1,6)benzodiazocin-1-one, 2,3,9,10,11,12-hexahydro-10-hydroxy-10-(hydroxymethyl)-9-methyl-, (9S,10S,12R)-"
+2020-09-22T17:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2,Synonyms,MK-2206 dihydrochloride
 2020-09-22T16:49:33Z,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4,Systematic Names,"9,12-Epoxy-1H-diindolo(1,2,3-fg:3',2',1'-kl)pyrrolo(3,4-i)(1,6)benzodiazocin-1-one, 2,3,9,10,11,12-hexahydro-10-hydroxy-10-(hydroxymethyl)-9-methyl-, (9S-(9alpha,10beta,12alpha))-"
 2020-09-22T16:52:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2,Name of Substance,Pinometostat trihydrate
 2020-09-22T16:52:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1628338-78-2,Synonyms,"Adenosine, 5'-deoxy-5'-((cis-3-(2-(6-(1,1-dimethylethyl)-1H-benzimidazol-2-yl)ethyl)cyclobutyl)(1-methylethyl)amino)-, hydrate (1:3)"
@@ -9437,3 +9438,16 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T17:26:52Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2,Synonyms,Monoclonal antibody Hu 3S193
 2020-09-22T17:26:52Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2,Synonyms,Monoclonal antibody Hu3S193
 2020-09-22T17:26:52Z,https://chem.nlm.nih.gov/chemidplus/rn/946415-49-2,Systematic Name,hu 3S193
+2020-09-22T17:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2,Name of Substance,MK-2206 dihydrochloride
+2020-09-22T17:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2,Synonyms,"1,2,4-Triazolo(3,4-f)(1,6)naphthyridin-3(2H)-one, 8-(4-(1-aminocyclobutyl)phenyl)-9-phenyl-, hydrochloride (1:2)"
+2020-09-22T17:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2,Synonyms,MK-2206 hydrochloride
+2020-09-22T17:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1032350-13-2,Synonyms,UNII-Q34I3E28IO
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,"2,3-Dichlorochinoxalin-6-karbonylchlorid"
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,"2,3-Dichlorochinoxalin-6-karbonylchlorid [Czech]"
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,"2,3-Dichloroquinoxaline-6-carbonylchloride"
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,5-25-04-00363 (Beilstein Handbook Reference)
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,BRN 0746912
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Synonyms,EINECS 217-642-4
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Systematic Names,"2,3-Dichloroquinoxaline-6-carbonyl chloride"
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Systematic Names,"6-Quinoxalinecarbonyl chloride, 2,3-dichloro-"
+2020-09-22T17:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1919-43-3,Systematic Names,"Quinoxaline-6-carbonylchloride, 2,3-dichloro-"
