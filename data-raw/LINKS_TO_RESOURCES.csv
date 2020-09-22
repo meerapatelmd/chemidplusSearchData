@@ -14073,3 +14073,25 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T20:03:58Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C049340,https://chem.nlm.nih.gov/chemidplus/rn/81445-91-2
 2020-09-22T20:03:58Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=81445-91-2,https://chem.nlm.nih.gov/chemidplus/rn/81445-91-2
 2020-09-22T20:03:58Z,NA,http://www.google.com/search?q=%22PPUCUNKHOFYRLN-FJSFXKJISA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/81445-91-2
+2020-09-22T20:28:04Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+9002-10-2+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Monophenol%20Monooxygenase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=tyrosinase[text],https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=tyrosinase[text],https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,DSLD,https://dsld.od.nih.gov/dsld/Ingredient.jsp?db=adsld%2C&item=tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=9002-10-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.029.673,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:28:04Z,Wikipedia,http://en.wikipedia.org/wiki/Tyrosinase,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2

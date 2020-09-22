@@ -6161,3 +6161,38 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T20:16:40Z,"TAXOL ""SEMI-SYNTHETIC""","TAXOL""SEMI-SYNTHETIC""",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/TAXOL""SEMI-SYNTHETIC""",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:16:58Z,CA-170 Tablet,CA-170Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CA-170Tablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T20:17:16Z,OXALIplatin (IRB#07-145),OXALIplatin(IRB#07-145),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OXALIplatin(IRB#07-145),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:18:59Z,IM862 VS PLACEBO,IM862VSPLACEBO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM862VSPLACEBO,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:19:20Z,TUCAtinib Oral (NF) Tablet,TUCAtinibOral(NF)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TUCAtinibOral(NF)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:19:41Z,Sunitinib (SU011248) 12.5 mg Capsule #06-081,Sunitinib(SU011248)12.5mgCapsule#06-081,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Sunitinib(SU011248)12.5mgCapsule#06-081,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:20:23Z,erlotinib 150 mg oral tablet,erlotinib150mgoraltablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/erlotinib150mgoraltablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:20:44Z,"TRAMEtinib (GSK1120212) Oral TABLET INVEST (PEDS) Tablet, 0.125 mg","TRAMEtinib(GSK1120212)OralTABLETINVEST(PEDS)Tablet,0.125mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/TRAMEtinib(GSK1120212)OralTABLETINVEST(PEDS)Tablet,0.125mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:21:04Z,Tucatinib 50mg tablets,Tucatinib50mgtablets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tucatinib50mgtablets,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:21:25Z,SGN-35 (BRENTUXimab) or Placebo INVEST,SGN-35(BRENTUXimab)orPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-35(BRENTUXimab)orPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:21:46Z,Temozolomide 5 mg Capsule (IRB#08-065),Temozolomide5mgCapsule(IRB#08-065),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temozolomide5mgCapsule(IRB#08-065),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:22:07Z,GP100 DNA (Human) (IRB#03-007),GP100DNA(Human)(IRB#03-007),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GP100DNA(Human)(IRB#03-007),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:23:00Z,Ifosfamide INJ Admix,IfosfamideINJAdmix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IfosfamideINJAdmix,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:23:20Z,Tamoxifen or Placebo Oral CAPSULE INVEST,TamoxifenorPlaceboOralCAPSULEINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TamoxifenorPlaceboOralCAPSULEINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:23:41Z,PF-02341066 (CRIZOTinib) Tablet,PF-02341066(CRIZOTinib)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-02341066(CRIZOTinib)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:24:12Z,AMG 232 Tablet,AMG232Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AMG232Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:24:33Z,XmAb18087 INVEST,XmAb18087INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/XmAb18087INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:25:14Z,BI 754111 INVEST Admix,BI754111INVESTAdmix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BI754111INVESTAdmix,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:25:35Z,"Gefitnib (IRB#04-071) Tablet INV, 250 mg","Gefitnib(IRB#04-071)TabletINV,250mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/Gefitnib(IRB#04-071)TabletINV,250mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:25:56Z,OXALIplatin INJ,OXALIplatinINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OXALIplatinINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:26:38Z,SU011248 (Sunitinib) 25 mg Capsule IRB# 05-124,SU011248(Sunitinib)25mgCapsuleIRB#05-124,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(Sunitinib)25mgCapsuleIRB#05-124,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:27:20Z,A1G4 MONOCLONAL ANTIBODY,A1G4MONOCLONALANTIBODY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/A1G4MONOCLONALANTIBODY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:27:51Z,TYROSINASE,TYROSINASE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TYROSINASE,TRUE,FALSE,TRUE,Tyrosinase,9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-22T20:27:51Z,TYROSINASE,TYROSINASE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TYROSINASE,TRUE,FALSE,TRUE,Tyrosine Phenol-Lyase,9059-31-8,https://chem.nlm.nih.gov/chemidplus/rn/9059-31-8
+2020-09-22T20:28:34Z,Rituximab IRB #01-118,RituximabIRB#01-118,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RituximabIRB#01-118,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:28:55Z,HDM201,HDM201,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HDM201,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:29:16Z,NERATinib (HKI-272) Capsule,NERATinib(HKI-272)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NERATinib(HKI-272)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:29:47Z,bRENtuximab vedotin (SGN-35) INVEST,bRENtuximabvedotin(SGN-35)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/bRENtuximabvedotin(SGN-35)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:30:08Z,Clofarabine INJ,ClofarabineINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ClofarabineINJ,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:30:39Z,RO4929097 Tablet 10 mg (IRB#10-085),RO4929097Tablet10mg(IRB#10-085),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RO4929097Tablet10mg(IRB#10-085),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:31:10Z,"Capecitabine Tablet INV, 500 mg IRB# 05-030","CapecitabineTabletINV,500mgIRB#05-030",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/CapecitabineTabletINV,500mgIRB#05-030",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:31:31Z,OSI-774 (Erlotinib) Tablet 100 mg (IRB# 03-031),OSI-774(Erlotinib)Tablet100mg(IRB#03-031),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(Erlotinib)Tablet100mg(IRB#03-031),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:32:03Z,REGORAFenib Tablet,REGORAFenibTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/REGORAFenibTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:32:24Z,ABT-263 Solution in Oral Syringe (150mg) #7,ABT-263SolutioninOralSyringe(150mg)#7,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-263SolutioninOralSyringe(150mg)#7,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:32:45Z,"ZD1839 Tab INV, 250 MG","ZD1839TabINV,250MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839TabINV,250MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:33:05Z,ONC201 250mg,ONC201250mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ONC201250mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:33:26Z,CH 14.18 ANTIBODY,CH14.18ANTIBODY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CH14.18ANTIBODY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T20:33:48Z,LY3500518 (AM0010) INVEST,LY3500518(AM0010)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY3500518(AM0010)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
