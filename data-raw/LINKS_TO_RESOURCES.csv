@@ -12901,3 +12901,23 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T10:55:25Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
 2020-09-22T10:55:25Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Leuprolide,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
 2020-09-22T10:55:25Z,NA,http://www.google.com/search?q=%22RGLRXNKKBLIBQS-XNHQSDQCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-22T11:22:27Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=RXDX-101,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ENTRECTINIB,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ENTRECTINIB,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1108743-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1108743-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=RXDX-101+OR+Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=RXDX-101%20OR%20Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=RXDX-101+OR+Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=RXDX-101%20OR%20Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=RXDX-101+OR+Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=RXDX-101%20OR%20Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221108743-60-7%22+OR+%22%22+OR+Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221108743-60-7%22+OR+%22%22+OR+Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000607349,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,DrugBank,http://www.drugbank.ca/drugs/DB11986,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/L5ORF0AN1I,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=RXDX-101%20OR%20Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=RXDX-101%20OR%20Entrectinib,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-22T11:22:27Z,NA,http://www.google.com/search?q=%22HAYYBYPASCDWEQ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
