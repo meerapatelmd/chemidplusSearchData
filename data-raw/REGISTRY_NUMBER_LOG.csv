@@ -5559,6 +5559,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T17:19:09Z,romiDEPSIN INJ,romiDEPSININJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/romiDEPSININJ,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:19:21Z,E7080 Capsule,E7080Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/E7080Capsule,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:19:38Z,BB25-16,BB25-16,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BB25-16,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:33:18Z,DOCEtaxel INJ,DOCEtaxelINJ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOCEtaxelINJ,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:19:50Z,enzalutamide 40 mg oral capsule vs Placebo,enzalutamide40mgoralcapsulevsPlacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/enzalutamide40mgoralcapsulevsPlacebo,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:20:00Z,BEC2 MoAB Vac. IRB#97-136,BEC2MoABVac.IRB#97-136,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC2MoABVac.IRB#97-136,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:20:11Z,CUSAtuzumab (JNJ-74494550) INVEST,CUSAtuzumab(JNJ-74494550)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CUSAtuzumab(JNJ-74494550)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
@@ -5595,3 +5596,32 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T17:30:42Z,"SU011248 (IRB#04-108) Capsule INV, 50 MG","SU011248(IRB#04-108)CapsuleINV,50MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#04-108)CapsuleINV,50MG",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:30:53Z,SGN-35 (IRB#09-020),SGN-35(IRB#09-020),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SGN-35(IRB#09-020),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T17:31:04Z,THALIDOMIDE 50MG CAPS,THALIDOMIDE50MGCAPS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/THALIDOMIDE50MGCAPS,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:32:03Z,msb0010718c,msb0010718c,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/msb0010718c,TRUE,FALSE,TRUE, Avelumab [USAN:INN],1537032-82-8,https://chem.nlm.nih.gov/chemidplus/rn/1537032-82-8
+2020-09-22T17:32:17Z,"SU011248 (Sunitinib) Capsule, 12.5mg","SU011248(Sunitinib)Capsule,12.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(Sunitinib)Capsule,12.5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:33:02Z,ZANUbrutinib (BGB-3111) Capsule,ZANUbrutinib(BGB-3111)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZANUbrutinib(BGB-3111)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:33:57Z,CML-VAX (6PEPX100PEP)+QS21 100,CML-VAX(6PEPX100PEP)+QS21100,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX(6PEPX100PEP)+QS21100,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:34:08Z,Hu5F9-G4 INVEST,Hu5F9-G4INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Hu5F9-G4INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:34:19Z,BCL201 50 mg tablet,BCL20150mgtablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BCL20150mgtablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:34:30Z,hum195 MoAB irb 02-016,hum195MoABirb02-016,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/hum195MoABirb02-016,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:34:41Z,Clofarabine (IRB#06-125),Clofarabine(IRB#06-125),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clofarabine(IRB#06-125),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:34:52Z,duvelisib 25 mg oral capsule,duvelisib25mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/duvelisib25mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:35:03Z,tazemetostat 200 mg tablets,tazemetostat200mgtablets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/tazemetostat200mgtablets,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:35:33Z,OSI-774 (Erlotinib) (IRB#03-031) 100 mg Tablet,OSI-774(Erlotinib)(IRB#03-031)100mgTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(Erlotinib)(IRB#03-031)100mgTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:35:44Z,BSI-201 (IRB#08-044)*Latex Safe*,BSI-201(IRB#08-044)*LatexSafe*,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BSI-201(IRB#08-044)*LatexSafe*,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:35:55Z,JNJ-56021927 (ARN-509) Tablet,JNJ-56021927(ARN-509)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/JNJ-56021927(ARN-509)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:36:06Z,UTOMILumab (PF-05082566) INVEST,UTOMILumab(PF-05082566)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/UTOMILumab(PF-05082566)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:36:17Z,Epirubicin HCl (IRB#03-092),EpirubicinHCl(IRB#03-092),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EpirubicinHCl(IRB#03-092),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:36:27Z,NOIC ACID IN ADENO CA PROSTATE,NOICACIDINADENOCAPROSTATE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NOICACIDINADENOCAPROSTATE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:36:38Z,BSI-201 (IRB#08-048),BSI-201(IRB#08-048),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BSI-201(IRB#08-048),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:36:49Z,CML-VAX(6 PEPX100MCG)+QS21,CML-VAX(6PEPX100MCG)+QS21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX(6PEPX100MCG)+QS21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:37:00Z,BEC2-KLH,BEC2-KLH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEC2-KLH,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:37:11Z,BEVACIZUmab (IRB#06-013),BEVACIZUmab(IRB#06-013),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-013),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:37:27Z,MK-2206 Tablet 200 mg (IRB#10-023),MK-2206Tablet200mg(IRB#10-023),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-2206Tablet200mg(IRB#10-023),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:37:49Z,zanubrutinib 80 mg,zanubrutinib80mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/zanubrutinib80mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:38:00Z,MONOCLONAL AB (R24) 2.5MG/ML,MONOCLONALAB(R24)2.5MG/ML,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MONOCLONALAB(R24)2.5MG/ML,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:38:11Z,ABEMAciclib (LY2835219) Capsule,ABEMAciclib(LY2835219)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABEMAciclib(LY2835219)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:38:32Z,IRB 12-078 (Necuparanib) 150 mg/ mL injection,IRB12-078(Necuparanib)150mg/mLinjection,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB12-078(Necuparanib)150mg/mLinjection,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:38:43Z,MK-3475 INVEST,MK-3475INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MK-3475INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:38:54Z,AV-951 Capsule 1 mg (IRB#08-144),AV-951Capsule1mg(IRB#08-144),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AV-951Capsule1mg(IRB#08-144),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:39:11Z,DEBIO 1347 10 mg 13-131 investigational drug,DEBIO134710mg13-131investigationaldrug,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DEBIO134710mg13-131investigationaldrug,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T17:39:27Z,"SU011248 (IRB#04-108) Capsule INV, 25 MG","SU011248(IRB#04-108)CapsuleINV,25MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#04-108)CapsuleINV,25MG",TRUE,TRUE,FALSE,NA,NA,NA
