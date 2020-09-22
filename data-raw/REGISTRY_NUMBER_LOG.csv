@@ -5712,3 +5712,25 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T18:07:10Z,"Letrozole Tablet INV, 2.5 mg","LetrozoleTabletINV,2.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/LetrozoleTabletINV,2.5mg",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:07:21Z,ABEXInostat Tablet,ABEXInostatTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABEXInostatTablet,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T18:07:32Z,INTERLEUKIN-12 100MCG/ML,INTERLEUKIN-12100MCG/ML,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-12100MCG/ML,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:08:39Z,"OSI-774 (ERLOTinib) or Placebo Tab, 100 mg","OSI-774(ERLOTinib)orPlaceboTab,100mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(ERLOTinib)orPlaceboTab,100mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:08:50Z,"CT53518 Capsule INV, 25 mg","CT53518CapsuleINV,25mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/CT53518CapsuleINV,25mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:09:01Z,ABT-263 25 mg/mL Soln (150 mg) Oral Syr #7,ABT-26325mg/mLSoln(150mg)OralSyr#7,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSoln(150mg)OralSyr#7,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:09:23Z,ABT-888 (Veliparib) Oral Soln INVEST,ABT-888(Veliparib)OralSolnINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-888(Veliparib)OralSolnINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:09:45Z,BTCT4465A (New Formulation) INVEST,BTCT4465A(NewFormulation)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BTCT4465A(NewFormulation)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:10:44Z,BEVACIZUmab (IRB#06-064) Latex Free,BEVACIZUmab(IRB#06-064)LatexFree,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-064)LatexFree,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:10:55Z,MUC-1KLH 100MCG+QS-21 100MCG,MUC-1KLH100MCG+QS-21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MUC-1KLH100MCG+QS-21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:11:06Z,GSK1363089 (XL880) 20 mg Cap (IRB#07-138),GSK1363089(XL880)20mgCap(IRB#07-138),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK1363089(XL880)20mgCap(IRB#07-138),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:11:17Z,LAPATinib Tablet,LAPATinibTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LAPATinibTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:11:28Z,"OSI-774 (Erlotinib)(IRB#03-031) Tab INV, 25 mg","OSI-774(Erlotinib)(IRB#03-031)TabINV,25mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/OSI-774(Erlotinib)(IRB#03-031)TabINV,25mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:11:46Z,KPT-330 (Selinexor) Oral CAPSULE INVEST,KPT-330(Selinexor)OralCAPSULEINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/KPT-330(Selinexor)OralCAPSULEINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:12:15Z,MLN0128(INK128) Capsule,MLN0128(INK128)Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN0128(INK128)Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:12:38Z,IPI-145 Oral INVEST,IPI-145OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPI-145OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:12:55Z,ENMD-2076 Capsule,ENMD-2076Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ENMD-2076Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:13:26Z,Selumetinib 75 mg,Selumetinib75mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Selumetinib75mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:15:14Z,romiDEPSIN INVEST,romiDEPSININVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/romiDEPSININVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:15:25Z,GD2-LACTONE/KLH 3MCG+QS21 100M,GD2-LACTONE/KLH3MCG+QS21100M,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GD2-LACTONE/KLH3MCG+QS21100M,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:15:36Z,Tazemetostat 200mg IRB 15-328,Tazemetostat200mgIRB15-328,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tazemetostat200mgIRB15-328,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:15:52Z,IRB 19-188 investitational medication CPI-0610,IRB19-188investitationalmedicationCPI-0610,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB19-188investitationalmedicationCPI-0610,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:16:10Z,GILTERItinib (ASP2215) or Placebo Tablet,GILTERItinib(ASP2215)orPlaceboTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GILTERItinib(ASP2215)orPlaceboTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:16:20Z,ABT-263 25 mg/mL Soln (225mg) Oral Syr #7,ABT-26325mg/mLSoln(225mg)OralSyr#7,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSoln(225mg)OralSyr#7,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T18:16:31Z,TRAStuzumab INJ (reference product or biosimilar),TRAStuzumabINJ(referenceproductorbiosimilar),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRAStuzumabINJ(referenceproductorbiosimilar),TRUE,TRUE,FALSE,NA,NA,NA
