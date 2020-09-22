@@ -4575,3 +4575,37 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T12:25:44Z,NILOTinib (AMN107),NILOTinib(AMN107),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NILOTinib(AMN107),TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T12:26:29Z,IRB 17-073 Investigational: Pembrolizumab,IRB17-073Investigational:Pembrolizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB17-073Investigational:Pembrolizumab,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T12:26:45Z,"R115777 (IRB#00-104) TAB INV, 100 MG","R115777(IRB#00-104)TABINV,100MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/R115777(IRB#00-104)TABINV,100MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:27:22Z,Methotrexate IVCI,MethotrexateIVCI,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MethotrexateIVCI,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:27:33Z,IM-862 VS. PLACEBO NASAL SOL.,IM-862VS.PLACEBONASALSOL.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IM-862VS.PLACEBONASALSOL.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:27:54Z,DOSTARLIMAB,DOSTARLIMAB,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DOSTARLIMAB,TRUE,FALSE,TRUE, Dostarlimab [USAN],2022215-59-2,https://chem.nlm.nih.gov/chemidplus/rn/2022215-59-2
+2020-09-22T12:28:07Z,coPANlisib INVEST,coPANlisibINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/coPANlisibINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:28:19Z,ABT-263 Solution in Oral Syringe (225 mg) #14,ABT-263SolutioninOralSyringe(225mg)#14,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-263SolutioninOralSyringe(225mg)#14,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:28:30Z,Talazoparib / BMN672,Talazoparib/BMN672,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Talazoparib/BMN672,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:28:41Z,GW786034 (IRB#07-097) 400 mg Tablet,GW786034(IRB#07-097)400mgTablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GW786034(IRB#07-097)400mgTablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:28:51Z,veliparib 100 mg capsule,veliparib100mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/veliparib100mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:29:09Z,Safingol (IRB#04-002) (latex-free),Safingol(IRB#04-002)(latex-free),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Safingol(IRB#04-002)(latex-free),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:29:34Z,cediranib 15 mg tablet IRB 16-132,cediranib15mgtabletIRB16-132,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/cediranib15mgtabletIRB16-132,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:29:45Z,ZD1839 225MG DOSE,ZD1839225MGDOSE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD1839225MGDOSE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:29:56Z,Debio 1347 - SPU,Debio1347-SPU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Debio1347-SPU,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:30:06Z,CML-VAX (6PEPX100MCGPEP)+QS21,CML-VAX(6PEPX100MCGPEP)+QS21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CML-VAX(6PEPX100MCGPEP)+QS21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:30:17Z,NF-THALIDOMIDE 50 MG,NF-THALIDOMIDE50MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/NF-THALIDOMIDE50MG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:30:40Z,IRB 15-111 Taselisib 4 mg vs Placebo,IRB15-111Taselisib4mgvsPlacebo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB15-111Taselisib4mgvsPlacebo,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:30:51Z,LSZ102 tablet 150 mg IRB 16-740,LSZ102tablet150mgIRB16-740,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LSZ102tablet150mgIRB16-740,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:31:02Z,AZD8055 Tablet 10 mg (IRB#08-093),AZD8055Tablet10mg(IRB#08-093),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD8055Tablet10mg(IRB#08-093),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:31:12Z,PERTUZUmab or Placebo INVEST,PERTUZUmaborPlaceboINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PERTUZUmaborPlaceboINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:31:34Z,DASATinib Oral TABLET INVEST,DASATinibOralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DASATinibOralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:31:50Z,Flavopiridol (Alvocidib) (IRB#09-034),Flavopiridol(Alvocidib)(IRB#09-034),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Flavopiridol(Alvocidib)(IRB#09-034),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:32:01Z,ALL TRANS RETINOIC ACID 10MG C,ALLTRANSRETINOICACID10MGC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALLTRANSRETINOICACID10MGC,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:32:18Z,MG-0103 (IRB#06-069) 25 mg Capsule,MG-0103(IRB#06-069)25mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MG-0103(IRB#06-069)25mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:32:29Z,"LAPATinib Oral INVEST Tablet, 250 mg","LAPATinibOralINVESTTablet,250mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/LAPATinibOralINVESTTablet,250mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:32:45Z,TASELisib (GDC-0032) or Placebo Tablet.,TASELisib(GDC-0032)orPlaceboTablet.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TASELisib(GDC-0032)orPlaceboTablet.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:32:56Z,HUMANIZED A33 MONOCLONALANTIBY,HUMANIZEDA33MONOCLONALANTIBY,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/HUMANIZEDA33MONOCLONALANTIBY,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:33:07Z,PLX8394 (SDD Formulation) Oral TABLET INVEST,PLX8394(SDDFormulation)OralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PLX8394(SDDFormulation)OralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:33:23Z,INTERLEUKIN-4 (IL-4),INTERLEUKIN-4(IL-4),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-4(IL-4),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:33:40Z,IRB 20-252 Tazemetostat,IRB20-252Tazemetostat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB20-252Tazemetostat,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:33:51Z,Binimetinib 15 mg tabs. 3 tabs po BID.,Binimetinib15mgtabs.3tabspoBID.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Binimetinib15mgtabs.3tabspoBID.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:34:02Z,GM2KLH + QS-21,GM2KLH+QS-21,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GM2KLH+QS-21,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:34:18Z,TYROSINASE 500MCG+MONTANIDE,TYROSINASE500MCG+MONTANIDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TYROSINASE500MCG+MONTANIDE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:34:34Z,LY2157299 Tablet,LY2157299Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY2157299Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:34:44Z,"Imatinib Mesylate Capsule INV, 100 mg STI-571","ImatinibMesylateCapsuleINV,100mgSTI-571",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/ImatinibMesylateCapsuleINV,100mgSTI-571",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T12:35:06Z,TRAMEtinib (GSK1120212/TMT212) 0.05 mg/ml Oral Solution INVEST (PEDS) 0.05 mg/ml,TRAMEtinib(GSK1120212/TMT212)0.05mg/mlOralSolutionINVEST(PEDS)0.05mg/ml,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRAMEtinib(GSK1120212/TMT212)0.05mg/mlOralSolutionINVEST(PEDS)0.05mg/ml,TRUE,TRUE,FALSE,NA,NA,NA
