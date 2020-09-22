@@ -13963,3 +13963,96 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T19:28:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
 2020-09-22T19:28:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=%22Didemnin%20A%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
 2020-09-22T19:28:35Z,NA,http://www.google.com/search?q=%22XQZOGOCTPKFYKC-VSZULPIASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/77327-04-9
+2020-09-22T19:35:15Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%22107-64-2%22+,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+107-64-2+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=4944,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,Household Products,http://hpd.nlm.nih.gov/cgi-bin/household/search?queryx=107-64-2&tbl=TblChemicals&prodcat=all,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5380,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5380,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22107-64-2%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22107-64-2%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,DSL,https://pollution-waste.canada.ca/substances-search/Substance/DisplaySubstanceDetails?Id=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,HPV,http://www.epa.gov/chemrtk/pubs/general/opptsrch.htm,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,INER,https://www.epa.gov/opprd001/inerts/,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,MTL,https://www.epa.gov/chemicals-under-tsca,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=107-64-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.003.190,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/107642.html,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/OM9573ZX3X,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,IUCLID,http://esis.jrc.ec.europa.eu/doc/IUCLID/datasheet/107642.pdf,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,NIOSH ICSC,https://www.cdc.gov/niosh/ipcsneng/neng1296.html,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,SRC BIODEG,http://esc.syrres.com/scripts/CASBDcgi.exe?CASNUM=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,SRC CHEMFATE,http://esc.syrres.com/scripts/CASCFcgi.exe?CASNUM=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=107-64-2,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,Wikipedia,http://en.wikipedia.org/wiki/Dimethyldioctadecylammonium%20chloride,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:15Z,NA,http://www.google.com/search?q=%22REZZEXDLIUJMMS-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/107-64-2
+2020-09-22T19:35:22Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=14014,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Dodecyltrimethylammonium%20chloride,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Dodecyltrimethylammonium+chloride,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Dodecyltrimethylammonium%20chloride,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=%22Dodecyltrimethylammonium%20chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22Dodecyltrimethylammonium%20chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22Dodecyltrimethylammonium%20chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22Dodecyltrimethylammonium%20chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22112-00-5%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22112-00-5%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,DSL,https://pollution-waste.canada.ca/substances-search/Substance/DisplaySubstanceDetails?Id=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,HPV,http://www.epa.gov/chemrtk/pubs/general/opptsrch.htm,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,INER,https://www.epa.gov/opprd001/inerts/,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=112-00-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.003.570,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/112005.html,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EPA HPVIS,http://iaspub.epa.gov/oppthpv/quicksearch.chemical?pvalue=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/A81MSI0FIC,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,SRC BIODEG,http://esc.syrres.com/scripts/CASBDcgi.exe?CASNUM=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,SRC CHEMFATE,http://esc.syrres.com/scripts/CASCFcgi.exe?CASNUM=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=112-00-5,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:22Z,NA,http://www.google.com/search?q=%22DDXLVDQZPFLQMZ-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/112-00-5
+2020-09-22T19:35:29Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+112-02-7+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=7613,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,Household Products,http://hpd.nlm.nih.gov/cgi-bin/household/search?queryx=112-02-7&tbl=TblChemicals&prodcat=all,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5553,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5553,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22112-02-7%22+OR+%22%22+OR+%22Trimethylhexadecylammonium+chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22112-02-7%22+OR+%22%22+OR+%22Trimethylhexadecylammonium+chloride%22,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,DSL,https://pollution-waste.canada.ca/substances-search/Substance/DisplaySubstanceDetails?Id=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,HPV,http://www.epa.gov/chemrtk/pubs/general/opptsrch.htm,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,INER,https://www.epa.gov/opprd001/inerts/,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,CAMEO,https://m.cameochemicals.noaa.gov/chemical/8717,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,ECHA,https://echa.europa.eu/brief-profile/-/briefprofile/100.003.571,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=112-02-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.003.571,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/112027.html,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EPA HPVIS,http://iaspub.epa.gov/oppthpv/quicksearch.chemical?pvalue=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/UC9PE95IBP,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,SRC BIODEG,http://esc.syrres.com/scripts/CASBDcgi.exe?CASNUM=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,SRC CHEMFATE,http://esc.syrres.com/scripts/CASCFcgi.exe?CASNUM=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=112-02-7,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Trimethylhexadecylammonium,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
+2020-09-22T19:35:29Z,NA,http://www.google.com/search?q=%22WOWHHFRSBJGXCM-UHFFFAOYSA-M%22,https://chem.nlm.nih.gov/chemidplus/rn/112-02-7
