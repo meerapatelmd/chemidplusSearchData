@@ -7587,3 +7587,162 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,NSC 609974
 2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Synonyms,UNII-6ST3ZF52WB
 2020-09-22T04:17:25Z,https://chem.nlm.nih.gov/chemidplus/rn/99519-84-3,Systematic Name,"1H-1,2,3-Triazole-4-carboxamide, 5-amino-1-((3,5-dichloro-4-(4-chlorobenzoyl)phenyl)methyl)-"
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Name of Substance,Gadolinium chloride
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Synonyms,EINECS 233-386-6
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Synonyms,Gadolinium chloride
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Synonyms,Gadolinium trichloride
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Synonyms,NSC 174322
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Synonyms,UNII-P7082WY76D
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Systematic Names,Gadolinium chloride
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Systematic Names,Gadolinium chloride (GdCl3)
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Systematic Names,Gadolinium trichloride
+2020-09-22T04:22:45Z,https://chem.nlm.nih.gov/chemidplus/rn/10138-52-0,Superlist Name,Gadolinium trichloride
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Name of Substance,"Metamelfalan, (+/-)-"
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,3-(Bis(2-chloroethyl)amino)-DL-phenylalanine
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,3-(m-(Bis(2-chloroethyl)amino)phenyl)-DL-alanine
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,"DL-Alanine, 3-(m-(bis(2-chloroethyl)amino)phenyl)-"
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,m-DL-Sarcolysin
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,m-DL-Sarcolysine
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,MP 267
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,NSC 27381
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Synonyms,UNII-8BA40E8GDC
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Systematic Names,"Alanine, 3-(m-(bis(2-chloroethyl)amino)phenyl)-, DL-"
+2020-09-22T04:22:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-79-5,Systematic Names,"DL-Phenylalanine, 3-(bis(2-chloroethyl)amino)- (9CI)"
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Name of Substance,Dihydrolipoamide succinyltransferase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Dihydrolipoyl transsuccinylase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,"DLST protein, rat"
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Lipoamide succinyltransferase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Lipoate succinyltransferase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Lipoyl transsuccinylase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,OGDC-E2
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Succinyl-CoA-dihydrolipoate-S-succinyltransferase
+2020-09-22T04:22:59Z,https://chem.nlm.nih.gov/chemidplus/rn/9032-28-4,Synonyms,Succinyl-coenzyme A-dihydrolipoate-S-succinyltransferase
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Name of Substance,"1,3-Dichloro-2-propanol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichloro-2-hydroxypropane"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichloro-2-propanol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichlorohydrin"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichloroisopropanol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichloroisopropyl alcohol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"1,3-Dichloropropanol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"2-Propanol, 1-3-dichloro-"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,4-01-00-01491 (Beilstein Handbook Reference)
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,AI3-14899
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,alpha-Propenyldichlorohydrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,BRN 1732063
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,CCRIS 953
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Dichlorohydrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,EC 202-491-9
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,EINECS 202-491-9
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Enodrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Gdch
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"Glycerol 1,3-dichlorohydrin"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"Glycerol alpha,gamma-dichlorohydrin"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,HSDB 5302
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,NSC 70982
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Propylene dichlorohydrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,s-Dichloroisopropyl alcohol
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,s-Glycerol dichlorohydrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Sym-dichloroisopropyl alcohol
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,Sym-glycerol dichlorohydrin
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,"U 25,354"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Synonyms,UNII-0F4P2VQC07
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Systematic Names,"1,3-Dichloropropan-2-ol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Systematic Names,"2-Propanol, 1,3-dichloro-"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Superlist Names,"1,3-Dichloro-2-propanol"
+2020-09-22T04:23:06Z,https://chem.nlm.nih.gov/chemidplus/rn/96-23-1,Superlist Names,"2-Propanol, 1,3-dichloro-"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Name of Substance,"2,2'-Methylenebis-(4-chlorophenol)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Name of Substance,Dichlorophen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Name of Substance,Dichlorophen [BSI:ISO]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Name of Substance,Dichlorophen [INN:BAN:DCF]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Name of Substance,Dichlorophene
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,MeSH Heading,Dichlorophen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,((Dihydroxydichloro)diphenyl)methane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"2,2'-Dihydroxy-5,5'-dichlorodiphenylmethane"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"2,2'-Methylenebis(4-chlorophenol)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"4,4'-Dichloro-2,2'-methylenediphenol"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,4-06-00-06658 (Beilstein Handbook Reference)
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"5,5'-Dichloro-2,2'-dihydroxydiphenylmethane"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,AI3-02370
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Anthiphen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Antifen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Antiphen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis(2-hydroxy-5-chlorophenyl)methane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis(5-chlor-2-hydroxyphenyl)-methan
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis(5-chlor-2-hydroxyphenyl)-methan [German]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis(5-chloro-2-hydroxyphenyl)methane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis(chlorohydroxyphenyl)methane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis-2-hydroxy-5-chlorfenylmethan
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Bis-2-hydroxy-5-chlorfenylmethan [Czech]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,BRN 1884514
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Caswell No. 563
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,CCRIS 6060
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Cordocel
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,DDDM
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,DDM
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,DDM (VAN)
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Di-(5-chloro-2-hydroxyphenyl)methane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Di-phentane-70
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dicestal
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichloorfeen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichloorfeen [Dutch]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorofen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorofen [Czech]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophen B
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophene
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophene 10
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophene [INN-French]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophene [ISO-French]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophenum
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorophenum [INN-Latin]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Dichlorphen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Diclorofeno
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Diclorofeno [INN-Spanish]
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Didroxan
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Didroxane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Difent*n
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Diphenthane 70
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,EINECS 202-567-1
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Embephen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,EPA Pesticide Chemical Code 055001
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Fungicide GM
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Fungicide M
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,G 4
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,G 4 (VAN)
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,G-4
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Gefir
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Gingivit
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Giv Gard G 4-40
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Halenol
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,HSDB 6033
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Hyosan
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Korium
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,NSC 38642
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"o,o-Methyleen-bis(4-chloorfenol)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"o,o-Methyleen-bis(4-chloorfenol) [Dutch]"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"o,o-Metilen-bis(4-cloro-fenolo)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"o,o-Metilen-bis(4-cloro-fenolo) [Italian]"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Palacel
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Panacide
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Parabis
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,"Phenol, 2,2'-methylenebis(4-chloro-"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Plath-lyse
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Prevental
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Preventol GD
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Preventol GDC
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Sandocide
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Sindar G 4
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Super mosstox
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Taeniatol
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Teniathane
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Teniatol
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Teniotol
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Trivex
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,UNII-T1J0JOU64O
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Vermithana
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Synonyms,Wespuril
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Systematic Names,"2,2'-Methylenebis(4-chlorophenol)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Systematic Names,Dichlorophen
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Systematic Names,"Phenol, 2,2'-methylenebis(4-chloro-"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Superlist Names,"2,2'-Methylenebis(4-chlorophenol)"
+2020-09-22T04:23:13Z,https://chem.nlm.nih.gov/chemidplus/rn/97-23-4,Superlist Names,Dichlorophene
