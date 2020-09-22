@@ -5296,3 +5296,29 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T15:59:21Z,ALRT 1057 25MG CAPSULES #60,ALRT105725MGCAPSULES#60,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ALRT105725MGCAPSULES#60,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T15:59:32Z,VS IT NEOPLAST. MENINGITIS,VSITNEOPLAST.MENINGITIS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/VSITNEOPLAST.MENINGITIS,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T15:59:43Z,ABT-263 25 mg/mL Solution in Oral Syringe (#21),ABT-26325mg/mLSolutioninOralSyringe(#21),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ABT-26325mg/mLSolutioninOralSyringe(#21),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:00:32Z,ACA-125 (IRB#03-068),ACA-125(IRB#03-068),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ACA-125(IRB#03-068),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:00:50Z,BMS-936558 (MDX-1106) Blind Dose INVEST,BMS-936558(MDX-1106)BlindDoseINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-936558(MDX-1106)BlindDoseINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:01:01Z,ripretinib 50 mg (DCC-2618),ripretinib50mg(DCC-2618),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ripretinib50mg(DCC-2618),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:01:13Z,IMC-A12 (CIXUtumumab) INVEST,IMC-A12(CIXUtumumab)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMC-A12(CIXUtumumab)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:01:32Z,Temodar 250 mg oral capsule,Temodar250mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Temodar250mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:01:47Z,"Sho-Saiko-To Packet INV, 2.5 gm IRB#02-073","Sho-Saiko-ToPacketINV,2.5gmIRB#02-073",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/Sho-Saiko-ToPacketINV,2.5gmIRB#02-073",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:02:23Z,REGN1400 INVEST,REGN1400INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/REGN1400INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:02:39Z,DLYE5953A INVEST,DLYE5953AINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DLYE5953AINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:02:55Z,LEWIS-Y-KLH 30MCG INJ.,LEWIS-Y-KLH30MCGINJ.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEWIS-Y-KLH30MCGINJ.,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:03:06Z,IRB # 13-187 / BMS-936558 - Novolumab Inj.,IRB#13-187/BMS-936558-NovolumabInj.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB#13-187/BMS-936558-NovolumabInj.,TRUE,FALSE,TRUE,Nitrobenzene,98-95-3,https://chem.nlm.nih.gov/chemidplus/rn/98-95-3
+2020-09-22T16:03:06Z,IRB # 13-187 / BMS-936558 - Novolumab Inj.,IRB#13-187/BMS-936558-NovolumabInj.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB#13-187/BMS-936558-NovolumabInj.,TRUE,FALSE,TRUE,Diffractaic acid,436-32-8,https://chem.nlm.nih.gov/chemidplus/rn/436-32-8
+2020-09-22T16:03:25Z,LOXO,LOXO,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LOXO,TRUE,FALSE,TRUE,2-Methyltetrahydrofuran,96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:38Z,AG120,AG120,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG120,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:03:49Z,cabozantinib 60 mg daily-dose oral capsule,cabozantinib60mgdaily-doseoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/cabozantinib60mgdaily-doseoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:04:35Z,Leuprolide (Eligard) INVEST,Leuprolide(Eligard)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Leuprolide(Eligard)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:04:45Z,AEB071 Tablet,AEB071Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AEB071Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:05:02Z,CMLVAX 30MCG,CMLVAX30MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CMLVAX30MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:05:13Z,LEE011 200 mg capsule,LEE011200mgcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LEE011200mgcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:07:02Z,RITUXImab (IRB#09-162),RITUXImab(IRB#09-162),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RITUXImab(IRB#09-162),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:07:32Z,"SU011248 (IRB#04-028) Capsule INV, 12.5 mg","SU011248(IRB#04-028)CapsuleINV,12.5mg",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/SU011248(IRB#04-028)CapsuleINV,12.5mg",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:07:48Z,MDX-010 (IPILIMUmab) INVEST,MDX-010(IPILIMUmab)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MDX-010(IPILIMUmab)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:08:06Z,IPILIMUmab (BMS-734016) INVEST (Single Pt Use),IPILIMUmab(BMS-734016)INVEST(SinglePtUse),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IPILIMUmab(BMS-734016)INVEST(SinglePtUse),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:08:17Z,Avastin 25 mg/mL intravenous solution,Avastin25mg/mLintravenoussolution,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Avastin25mg/mLintravenoussolution,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:08:46Z,M3814 (MSC2490484A) Tablet,M3814(MSC2490484A)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/M3814(MSC2490484A)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:09:09Z,GP100-TYR-JAV 1MCG/HSP70 200MC,GP100-TYR-JAV1MCG/HSP70200MC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GP100-TYR-JAV1MCG/HSP70200MC,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T16:09:27Z,Tarceva,Tarceva,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tarceva,TRUE,FALSE,TRUE, Erlotinib hydrochloride [USAN:INN],183319-69-9,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9

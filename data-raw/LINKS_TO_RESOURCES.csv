@@ -13501,3 +13501,33 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T15:58:16Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/78454-17-8,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
 2020-09-22T15:58:16Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=78454-17-8,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
 2020-09-22T15:58:16Z,NA,http://www.google.com/search?q=%22TYLVGQKNNUHXIP-DIYBZAJCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/78454-17-8
+2020-09-22T16:03:33Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,Haz-Map,https://hazmap.nlm.nih.gov/category-details?table=copytblagents&id=10927,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=2-Methyltetrahydrofuran,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=2-Methyltetrahydrofuran,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=2-Methyltetrahydrofuran,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%222-Methyltetrahydrofuran%22,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%222-Methyltetrahydrofuran%22,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%222-Methyltetrahydrofuran%22,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,MA,http://www.mass.gov/lwd/labor-standards/massachusetts-workplace-safety-and-health-program/chemical-right-to-know-.html,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,PA,http://www.openrecords.pa.gov/,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,TSCAINV,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,WHMI,http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C550584,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,ECHA,https://echa.europa.eu/brief-profile/-/briefprofile/100.002.281,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=96-47-9&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.002.281,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,EPA Envirofacts,http://www.epa.gov/enviro/html/emci/chemref/96479.html,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/FCD0VD8ALF,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,NIST WebBook,http://webbook.nist.gov/cgi/cbook.cgi?ID=96-47-9&Units=SI&cMS=on,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,NJ-HSFS,http://nj.gov/health/eoh/rtkweb/documents/fs/1294.pdf,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,NTP DBS,https://tools.niehs.nih.gov/ntp_tox/index.cfm?fuseaction=ntpsearch.searchresults&searchterm=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,SRC DATALOG,http://esc.syrres.com/scripts/CASdlcgi.exe?CASNUM=96-47-9,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,Wikipedia,http://en.wikipedia.org/wiki/2-Methyltetrahydrofuran,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
+2020-09-22T16:03:33Z,NA,http://www.google.com/search?q=%22JWUJQDFVADABEY-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/96-47-9
