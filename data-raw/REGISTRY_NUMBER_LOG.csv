@@ -3717,3 +3717,41 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T08:39:58Z,vistusertib,vistusertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/vistusertib,TRUE,FALSE,TRUE, Vistusertib [USAN:INN],1009298-59-2,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
 2020-09-22T08:40:11Z,niraparib 100mg,niraparib100mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/niraparib100mg,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T08:40:22Z,Selinexor KPT Protocol 16-682,SelinexorKPTProtocol16-682,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SelinexorKPTProtocol16-682,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:41:12Z,LAROTRECtinib (LOXO-101) Oral Solution INVEST,LAROTRECtinib(LOXO-101)OralSolutionINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LAROTRECtinib(LOXO-101)OralSolutionINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:41:23Z,ZOLADEX 3.6MG IMPLANT SYRINGE,ZOLADEX3.6MGIMPLANTSYRINGE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZOLADEX3.6MGIMPLANTSYRINGE,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:41:39Z,Venetoclax (ABT-199) or Placebo Oral TABLET INVEST,Venetoclax(ABT-199)orPlaceboOralTABLETINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Venetoclax(ABT-199)orPlaceboOralTABLETINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:41:49Z,MEK162 Capsule,MEK162Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MEK162Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:00Z,Clofarabine IRB # 02-053,ClofarabineIRB#02-053,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ClofarabineIRB#02-053,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:11Z,PF-06755992 (AdC68) INVEST,PF-06755992(AdC68)INVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PF-06755992(AdC68)INVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:22Z,MG-0103 (IRB#06-069) 10 mg Capsule,MG-0103(IRB#06-069)10mgCapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MG-0103(IRB#06-069)10mgCapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:33Z,DX8951F (Exatecan) (IRB#02-117),DX8951F(Exatecan)(IRB#02-117),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DX8951F(Exatecan)(IRB#02-117),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:44Z,IMC-20D7S INVEST,IMC-20D7SINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IMC-20D7SINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:42:55Z,GLOBO-H KLH 10MCG+ QS21 100MCG,GLOBO-HKLH10MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GLOBO-HKLH10MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:43:06Z,AG-221 Formulation 3 - 100mg tablets,AG-221Formulation3-100mgtablets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-221Formulation3-100mgtablets,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:43:16Z,ZD6474 (VANDETanib) Tablet,ZD6474(VANDETanib)Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ZD6474(VANDETanib)Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:43:27Z,AZD5363 200 mg tablet,AZD5363200mgtablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD5363200mgtablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:43:38Z,EMD 121974 (Cilengitide) (IRB#08-143),EMD121974(Cilengitide)(IRB#08-143),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EMD121974(Cilengitide)(IRB#08-143),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:43:49Z,LSZ102 Tablet,LSZ102Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LSZ102Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:44:12Z,GD2L-KLH 30 mcg / GD3L-KLH 30 mcg,GD2L-KLH30mcg/GD3L-KLH30mcg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GD2L-KLH30mcg/GD3L-KLH30mcg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:44:23Z,INTERLEUKIN-3 750MCG/1ML VIAL,INTERLEUKIN-3750MCG/1MLVIAL,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/INTERLEUKIN-3750MCG/1MLVIAL,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:44:34Z,temozolomide 100 mg oral capsule,temozolomide100mgoralcapsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/temozolomide100mgoralcapsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:44:45Z,AZD4877 (IRB#07-052) ***LATEX FREE***,AZD4877(IRB#07-052)***LATEXFREE***,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD4877(IRB#07-052)***LATEXFREE***,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:44:55Z,Selinexor vs Placebo--Protocol 16-382,SelinexorvsPlacebo--Protocol16-382,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/SelinexorvsPlacebo--Protocol16-382,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:45:06Z,"IMATinib (STI571) or Placebo Capsule INV, 100 MG","IMATinib(STI571)orPlaceboCapsuleINV,100MG",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/IMATinib(STI571)orPlaceboCapsuleINV,100MG",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:45:34Z,TRAMETinib (GSK1120212) Tablet (Single Patient Use),TRAMETinib(GSK1120212)Tablet(SinglePatientUse),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/TRAMETinib(GSK1120212)Tablet(SinglePatientUse),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:45:44Z,ARN-509 Capsule 30 mg (IRB#09-002),ARN-509Capsule30mg(IRB#09-002),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ARN-509Capsule30mg(IRB#09-002),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:45:55Z,BVD-523FB 13-254,BVD-523FB13-254,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BVD-523FB13-254,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:46:06Z,MLN0128 (INK128) Oral CAPSULE INVEST,MLN0128(INK128)OralCAPSULEINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/MLN0128(INK128)OralCAPSULEINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:46:17Z,BEVACIZUmab (IRB#06-072),BEVACIZUmab(IRB#06-072),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BEVACIZUmab(IRB#06-072),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:46:37Z,bms-813160-01,bms-813160-01,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/bms-813160-01,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:46:48Z,hu3f8,hu3f8,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/hu3f8,TRUE,FALSE,TRUE, Naxitamab [USAN],1879925-92-4,https://chem.nlm.nih.gov/chemidplus/rn/1879925-92-4
+2020-09-22T08:47:06Z,RAD001 (Everolimus) 5 mg Tab (Single-Pt-Use),RAD001(Everolimus)5mgTab(Single-Pt-Use),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/RAD001(Everolimus)5mgTab(Single-Pt-Use),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:47:17Z,Denileukin Diftitox (Single Pt Use),DenileukinDiftitox(SinglePtUse),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/DenileukinDiftitox(SinglePtUse),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:48:01Z,Gemtuzumab Ozogamicin INJ(NON-FORMULARY),GemtuzumabOzogamicinINJ(NON-FORMULARY),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GemtuzumabOzogamicinINJ(NON-FORMULARY),TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:48:12Z,GSK2110183 Capsule,GSK2110183Capsule,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/GSK2110183Capsule,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:48:23Z,LY353381 TABLETS,LY353381TABLETS,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/LY353381TABLETS,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:48:44Z,IRB 18-427: obinutuzumab,IRB18-427:obinutuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/IRB18-427:obinutuzumab,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:49:05Z,BAY 43-9006 (Sorafenib) (Irb#05-081) Tablet 200 mg,BAY43-9006(Sorafenib)(Irb#05-081)Tablet200mg,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY43-9006(Sorafenib)(Irb#05-081)Tablet200mg,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:49:17Z,AG-221 Oral INVEST,AG-221OralINVEST,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AG-221OralINVEST,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:49:27Z,BAY 2402234 Tablet,BAY2402234Tablet,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY2402234Tablet,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-22T08:49:38Z,BMS-247550 (IRB#02-046),BMS-247550(IRB#02-046),contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-247550(IRB#02-046),TRUE,TRUE,FALSE,NA,NA,NA
