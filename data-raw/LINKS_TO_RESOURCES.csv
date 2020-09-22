@@ -11309,6 +11309,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T04:36:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Thrombopoietin+OR+9014-42-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
 2020-09-22T04:36:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Thrombopoietin+OR+9014-42-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
 2020-09-22T04:36:50Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Thrombopoietin+OR+9014-42-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
+2020-09-22T04:49:50Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2268278-23-9%22+,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
 2020-09-22T04:36:50Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Thrombopoietin+OR+9014-42-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
 2020-09-22T04:36:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Thrombopoietin,https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
 2020-09-22T04:36:50Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Thrombopoietin+OR+9014-42-0+[rn],https://chem.nlm.nih.gov/chemidplus/rn/9014-42-0
@@ -11378,3 +11379,65 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T04:42:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
 2020-09-22T04:42:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Dasatinib,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
 2020-09-22T04:42:35Z,NA,http://www.google.com/search?q=%22XHXFZZNHDVTMLI-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-22T04:49:43Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/66640-93-5,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=66640-93-5,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=L-Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=L-Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=%22L-Eflornithine%22,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=%22L-Eflornithine%22,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/C780YUS9YI,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=L-Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=L-Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:43Z,NA,http://www.google.com/search?q=%22VLCYCQAOQCDTCN-LURJTMIESA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/66640-93-5
+2020-09-22T04:49:50Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=68278-23-9,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Vaniqa,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/68278-23-9,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a604031.html,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a604031.html,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=68278-23-9,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2268278-23-9%22+OR+%22%22+OR+Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2268278-23-9%22+OR+%22%22+OR+Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=68278-23-9&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.063.192,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=68278-23-9,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/UO07O10TCJ,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Eflornithine,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:49:50Z,NA,http://www.google.com/search?q=%22VKDGNNYJFSHYKD-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/68278-23-9
+2020-09-22T04:51:58Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=MITOMYCIN,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=MITOMYCIN,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%221404-00-8%22+,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+1404-00-8+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/MITOMYCIN,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=1404-00-8&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/V03E10691T,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Mitomycins,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:51:58Z,NA,http://www.google.com/search?q=%22NWIBSHFKIJFRCO-WUDYKRTCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-22T04:56:36Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Actinium-225-labeled%20humanized%20anti-cd33%20monoclonal%20antibody%20HUM195,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
+2020-09-22T04:56:36Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2209911-94-2,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
+2020-09-22T04:56:36Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2209911-94-2,https://chem.nlm.nih.gov/chemidplus/rn/2209911-94-2
