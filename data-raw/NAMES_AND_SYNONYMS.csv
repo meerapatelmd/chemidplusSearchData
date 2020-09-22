@@ -8717,6 +8717,7 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,"(+)-Allopregnane-3beta,11beta,17alpha,21-tetrol-20-one"
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,"3beta,5alpha-Tetrahydrocortisol"
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,3beta-Allotetrahydrocortisol
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,Bempegaldesleukin [INN]
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,"5alpha-Pregnan-20-one, 3beta,11beta,17,21-tetrahydroxy-"
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,"Allopregnane-3beta,11beta,17alpha,21-tetrol-20-one"
 2020-09-22T08:37:14Z,https://chem.nlm.nih.gov/chemidplus/rn/651-43-4,Synonyms,"Allopregnane-3beta,11beta,17alpha,21-tetrol-20-one [MI]"
@@ -8771,3 +8772,15 @@ nas_datetime,rn_url,concept_synonym_type,concept_synonym_name
 2020-09-22T09:10:42Z,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3,Synonyms,TAK 700
 2020-09-22T09:10:42Z,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3,Synonyms,TAK-700
 2020-09-22T09:10:42Z,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3,Synonyms,UNII-UE5K2FNS92
+2020-09-22T09:18:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9,Name of Substance,"Pinometostat, trans-"
+2020-09-22T09:18:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9,Synonyms,"9H-Purin-6-amine, 9-(5-deoxy-5-((trans-3-(2-(6-(1,1-dimethylethyl)-1H-benzimidazol-2-yl)ethyl)cyclobutyl)(1-methylethyl)amino)-beta-D-ribofuranosyl)-"
+2020-09-22T09:18:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9,Synonyms,"Pinometostat, trans-"
+2020-09-22T09:18:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9,Synonyms,UNII-F66X4M38G5
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Results Name,Bempegaldesleukin [INN]
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Name of Substance,Bempegaldesleukin
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Name of Substance,Bempegaldesleukin [USAN]
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,Bempegaldesleukin
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,"Interleukin 2 (de-1-alanine,125-serine) (recombinant human), pegylated"
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,NKTR-214
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,UNII-BNO1JG5MZC
+2020-09-22T09:23:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5,Synonyms,WHO 10593

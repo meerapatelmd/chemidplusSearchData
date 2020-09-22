@@ -12613,3 +12613,18 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-22T09:10:43Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Orteronel,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3
 2020-09-22T09:10:43Z,Wikipedia,http://en.wikipedia.org/wiki/Orteronel,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3
 2020-09-22T09:10:43Z,NA,http://www.google.com/search?q=%22OZPFIJIOIVJZMN-SFHVURJKSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3
+2020-09-22T09:18:39Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1380288-88-9,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9
+2020-09-22T09:18:39Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1380288-88-9,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9
+2020-09-22T09:18:39Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/F66X4M38G5,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9
+2020-09-22T09:18:39Z,NA,http://www.google.com/search?q=%22LXFOLMYKSYSZQS-YKPYGOBTSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1380288-88-9
+2020-09-22T09:23:36Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1939126-74-5,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1939126-74-5,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221939126-74-5%22+OR+%22%22+OR+%22NKTR-214%22,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221939126-74-5%22+OR+%22%22+OR+%22NKTR-214%22,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000611752,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-22T09:23:36Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Bempegaldesleukin+OR+NKTR-214,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
