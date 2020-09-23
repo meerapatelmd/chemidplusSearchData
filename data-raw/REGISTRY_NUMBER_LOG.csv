@@ -6540,3 +6540,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:26:37Z,BMS-906024,BMS-906024,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-906024,TRUE,FALSE,TRUE, BMS-906024,1401066-79-2,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
 2020-09-23T05:28:15Z,GDC 0077,GDC0077,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC0077,TRUE,FALSE,TRUE, GDC-0077,2060571-02-8,https://chem.nlm.nih.gov/chemidplus/rn/2060571-02-8
 2020-09-23T05:30:10Z,temozolomide,temozolomide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/temozolomide,TRUE,FALSE,TRUE, Temozolomide [USAN:INN:BAN],85622-93-1,https://chem.nlm.nih.gov/chemidplus/rn/85622-93-1
+2020-09-23T05:32:25Z,HE3235,HE3235,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HE3235,TRUE,FALSE,TRUE, HE 3235,183387-50-0,https://chem.nlm.nih.gov/chemidplus/rn/183387-50-0
+2020-09-23T05:32:44Z,imc-1121b,imc-1121b,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/imc-1121b,TRUE,FALSE,TRUE, Ramucirumab [USAN:INN],947687-13-0,https://chem.nlm.nih.gov/chemidplus/rn/947687-13-0
+2020-09-23T05:34:16Z,SB-743921,SB-743921,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SB-743921,TRUE,FALSE,TRUE,SB-743921,618430-39-0,https://chem.nlm.nih.gov/chemidplus/rn/618430-39-0
+2020-09-23T05:34:16Z,SB-743921,SB-743921,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SB-743921,TRUE,FALSE,TRUE,SB 743921,1067881-56-4,https://chem.nlm.nih.gov/chemidplus/rn/1067881-56-4
+2020-09-23T05:36:27Z,BEXAROTENE,BEXAROTENE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BEXAROTENE,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-23T05:36:51Z,cva21,cva21,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cva21,TRUE,FALSE,TRUE, Coxsackievirus A21,1802360-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
