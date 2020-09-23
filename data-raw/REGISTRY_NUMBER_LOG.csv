@@ -6475,3 +6475,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:10:45Z,DAUNORUBICIN,DAUNORUBICIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DAUNORUBICIN,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
 2020-09-23T04:11:39Z,CRLX101,CRLX101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CRLX101,TRUE,FALSE,TRUE, CRLX 101,1338695-89-8,https://chem.nlm.nih.gov/chemidplus/rn/1338695-89-8
 2020-09-23T04:11:57Z,AAFC,AAFC,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AAFC,TRUE,FALSE,TRUE,"5-Fluoro-2,2'-cyclocytidine",40505-45-1,https://chem.nlm.nih.gov/chemidplus/rn/40505-45-1
+2020-09-23T04:15:08Z,TOSITUMOMAB,TOSITUMOMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TOSITUMOMAB,TRUE,FALSE,TRUE, Tositumomab [USAN:INN],208921-02-2,https://chem.nlm.nih.gov/chemidplus/rn/208921-02-2
+2020-09-23T04:15:54Z,XELODA,XELODA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/XELODA,TRUE,FALSE,TRUE, Capecitabine [USAN:USP:INN:BAN],154361-50-9,https://chem.nlm.nih.gov/chemidplus/rn/154361-50-9
+2020-09-23T04:16:58Z,ETOPOSIDE,ETOPOSIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ETOPOSIDE,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-23T04:17:36Z,MRTX849,MRTX849,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MRTX849,TRUE,FALSE,TRUE, MRTX-849,2326521-71-3,https://chem.nlm.nih.gov/chemidplus/rn/2326521-71-3
+2020-09-23T04:18:21Z,IMCGP100,IMCGP100,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IMCGP100,TRUE,FALSE,TRUE, Tebentafusp [USAN],1874157-95-5,https://chem.nlm.nih.gov/chemidplus/rn/1874157-95-5
+2020-09-23T04:18:39Z,AZACITIDINE,AZACITIDINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZACITIDINE,TRUE,FALSE,TRUE, Azacitidine [USAN:INN:BAN],320-67-2,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2
+2020-09-23T04:19:55Z,Fimepinostat,Fimepinostat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fimepinostat,TRUE,FALSE,TRUE, Fimepinostat [USAN],1339928-25-4,https://chem.nlm.nih.gov/chemidplus/rn/1339928-25-4
