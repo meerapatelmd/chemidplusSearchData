@@ -7,10 +7,12 @@ Authors@R:
            role = c("aut", "cre"),
            email = "patelmeeray@gmail.com",
            comment = c(ORCID = "0000-0002-3401-3948"))
-Description:     
+Description: 
     Data exported from the ChemiDPlus Search schema maintained using the skyscraper R Package.
 License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
