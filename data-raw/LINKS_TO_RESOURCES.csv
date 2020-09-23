@@ -14915,6 +14915,7 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T06:55:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T07:11:50Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
 2020-09-23T06:55:15Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
@@ -14953,3 +14954,12 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T07:02:59Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=TG101348+OR+fedratinib+OR+SAR302503,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
 2020-09-23T07:02:59Z,Wikipedia,http://en.wikipedia.org/wiki/Fedratinib,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
 2020-09-23T07:02:59Z,NA,http://www.google.com/search?q=%22JOOXLOJCABQBSG-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:11:50Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1256565-36-2,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221256565-36-2%22+OR+%22%22+OR+PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221256565-36-2%22+OR+%22%22+OR+PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:11:50Z,NA,http://www.google.com/search?q=%22SRSHBZRURUNOSM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2

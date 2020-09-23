@@ -6604,3 +6604,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:03:15Z,AMN107,AMN107,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMN107,TRUE,FALSE,TRUE, Nilotinib [USAN:INN:BAN],641571-10-0,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0
 2020-09-23T07:03:33Z,Duvelisib,Duvelisib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Duvelisib,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
 2020-09-23T07:04:50Z,GOSERELIN,GOSERELIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GOSERELIN,TRUE,FALSE,TRUE,Goserelin acetate,145781-92-6,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6
+2020-09-23T07:08:06Z,xtandi,xtandi,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/xtandi,TRUE,FALSE,TRUE, Enzalutamide [USAN:INN],915087-33-1,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1
+2020-09-23T07:09:04Z,BICALUTAMIDE,BICALUTAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BICALUTAMIDE,TRUE,FALSE,TRUE, Bicalutamide [USAN:USP:INN:BAN],90357-06-5,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-23T07:11:36Z,PTC299,PTC299,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PTC299,TRUE,FALSE,TRUE, Emvododstat [USAN],1256565-36-2,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
