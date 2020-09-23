@@ -6537,3 +6537,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:22:20Z,Tipifarnib,Tipifarnib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tipifarnib,TRUE,FALSE,TRUE, Tipifarnib [USAN:INN],192185-72-1,https://chem.nlm.nih.gov/chemidplus/rn/192185-72-1
 2020-09-23T05:22:54Z,XL281,XL281,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/XL281,TRUE,FALSE,TRUE, XL 281,1029873-02-6,https://chem.nlm.nih.gov/chemidplus/rn/1029873-02-6
 2020-09-23T05:23:07Z,VINCRISTINE,VINCRISTINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VINCRISTINE,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:26:37Z,BMS-906024,BMS-906024,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-906024,TRUE,FALSE,TRUE, BMS-906024,1401066-79-2,https://chem.nlm.nih.gov/chemidplus/rn/1401066-79-2
+2020-09-23T05:28:15Z,GDC 0077,GDC0077,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC0077,TRUE,FALSE,TRUE, GDC-0077,2060571-02-8,https://chem.nlm.nih.gov/chemidplus/rn/2060571-02-8
+2020-09-23T05:30:10Z,temozolomide,temozolomide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/temozolomide,TRUE,FALSE,TRUE, Temozolomide [USAN:INN:BAN],85622-93-1,https://chem.nlm.nih.gov/chemidplus/rn/85622-93-1
