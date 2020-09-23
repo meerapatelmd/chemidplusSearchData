@@ -14879,3 +14879,56 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T06:31:23Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Ifosfamide,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
 2020-09-23T06:31:23Z,Wikipedia,http://en.wikipedia.org/wiki/Ifosfamide,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
 2020-09-23T06:31:23Z,NA,http://www.google.com/search?q=%22HOMGKSMUEGBAAB-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
+2020-09-23T06:52:47Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=CO-1686%20OR%20rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1374640-70-6,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,MedlinePlusAll,"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=""CO-1686""+OR+rociletinib",https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,MedlinePlusAll Mob,"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=""CO-1686""+OR+rociletinib",https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=CO-1686,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1374640-70-6,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=CO-1686+OR+rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=CO-1686%20OR%20rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=CO-1686%20OR%20rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=CO-1686+OR+rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=CO-1686%20OR%20rociletinib,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221374640-70-6%22+OR+%22%22+OR+%22CO-1686%22,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%221374640-70-6%22+OR+%22%22+OR+%22CO-1686%22,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C000589977,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/72AH61702G,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,USA.gov,"https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=""CO-1686""+OR+rociletinib",https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,USA.gov Mob,"https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=""CO-1686""+OR+rociletinib",https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:52:47Z,NA,http://www.google.com/search?q=%22HUFOZJXAKZVRNJ-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:55:15Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8259,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8259,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1279,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1279,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a612006.html,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a612006.html,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=INCB018424,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=ruxolitinib#results,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22941678-49-5%22+OR+%22%22+OR+INCB018424,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22941678-49-5%22+OR+%22%22+OR+INCB018424,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C540383,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,DrugBank,http://www.drugbank.ca/drugs/DB08877,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=941678-49-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/82S8X8XX8H,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,Wikipedia,http://en.wikipedia.org/wiki/Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:15Z,NA,http://www.google.com/search?q=%22HFNKQEVNSGCOJV-OAHLLOKOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5

@@ -6592,3 +6592,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:47:53Z,lenalidomide,lenalidomide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/lenalidomide,TRUE,FALSE,TRUE, Lenalidomide [USAN:INN:BAN],191732-72-6,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6
 2020-09-23T06:49:05Z,PU-H71,PU-H71,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PU-H71,TRUE,FALSE,TRUE, PU-H71,873436-91-0,https://chem.nlm.nih.gov/chemidplus/rn/873436-91-0
 2020-09-23T06:49:46Z,AMG 510,AMG510,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMG510,TRUE,FALSE,TRUE, Sotorasib,2296729-00-3,https://chem.nlm.nih.gov/chemidplus/rn/2296729-00-3
+2020-09-23T06:52:14Z,GSK3052230,GSK3052230,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GSK3052230,TRUE,FALSE,TRUE, FP-1039,1631072-93-9,https://chem.nlm.nih.gov/chemidplus/rn/1631072-93-9
+2020-09-23T06:52:34Z,co-1686,co-1686,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/co-1686,TRUE,FALSE,TRUE, Rociletinib [USAN:INN],1374640-70-6,https://chem.nlm.nih.gov/chemidplus/rn/1374640-70-6
+2020-09-23T06:53:31Z,AZD7762,AZD7762,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZD7762,TRUE,FALSE,TRUE, AZD 7762,860352-01-8,https://chem.nlm.nih.gov/chemidplus/rn/860352-01-8
+2020-09-23T06:53:55Z,INDIBULIN,INDIBULIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/INDIBULIN,TRUE,FALSE,TRUE, Indibulin [USAN:INN],204205-90-3,https://chem.nlm.nih.gov/chemidplus/rn/204205-90-3
+2020-09-23T06:54:55Z,RUXOLITINIB,RUXOLITINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RUXOLITINIB,TRUE,FALSE,TRUE, Ruxolitinib [USAN:INN],941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T06:55:38Z,BMS-813160,BMS-813160,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-813160,TRUE,FALSE,TRUE, BMS-813160,1286279-29-5,https://chem.nlm.nih.gov/chemidplus/rn/1286279-29-5
+2020-09-23T06:56:49Z,VLX1570,VLX1570,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VLX1570,TRUE,FALSE,TRUE, VLX-1570,1956378-23-6,https://chem.nlm.nih.gov/chemidplus/rn/1956378-23-6
