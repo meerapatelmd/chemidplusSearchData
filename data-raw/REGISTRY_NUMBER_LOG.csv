@@ -6565,3 +6565,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:00:12Z,TYROSINASE,TYROSINASE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TYROSINASE,TRUE,FALSE,TRUE, Tyrosinase,9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
 2020-09-23T06:02:00Z,mta,mta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mta,TRUE,FALSE,TRUE,4-Methylthioamphetamine,14116-06-4,https://chem.nlm.nih.gov/chemidplus/rn/14116-06-4
 2020-09-23T06:02:00Z,mta,mta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mta,TRUE,FALSE,TRUE,"Aniline, 3-(1H-tetrazol-5-yl)-",73732-51-1,https://chem.nlm.nih.gov/chemidplus/rn/73732-51-1
+2020-09-23T06:05:18Z,INTERLEUKIN-2,INTERLEUKIN-2,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/INTERLEUKIN-2,TRUE,FALSE,TRUE,Interleukin-2,102524-44-7,https://chem.nlm.nih.gov/chemidplus/rn/102524-44-7
