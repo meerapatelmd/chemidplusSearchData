@@ -14932,3 +14932,24 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T06:55:15Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=INCB018424+OR+ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,Wikipedia,http://en.wikipedia.org/wiki/Ruxolitinib,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:15Z,NA,http://www.google.com/search?q=%22HFNKQEVNSGCOJV-OAHLLOKOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
+2020-09-23T07:02:59Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=TG101348%20OR%20fedratinib%20OR%20SAR302503,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Tg101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22936091-26-8%22+OR+%22%22+OR+TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22936091-26-8%22+OR+%22%22+OR+TG101348,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C528327,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,DrugBank,http://www.drugbank.ca/drugs/DB12500,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=936091-26-8&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/6L1XP550I6,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=TG101348+OR+fedratinib+OR+SAR302503,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=TG101348+OR+fedratinib+OR+SAR302503,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,Wikipedia,http://en.wikipedia.org/wiki/Fedratinib,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:02:59Z,NA,http://www.google.com/search?q=%22JOOXLOJCABQBSG-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8

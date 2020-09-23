@@ -6599,3 +6599,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:54:55Z,RUXOLITINIB,RUXOLITINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RUXOLITINIB,TRUE,FALSE,TRUE, Ruxolitinib [USAN:INN],941678-49-5,https://chem.nlm.nih.gov/chemidplus/rn/941678-49-5
 2020-09-23T06:55:38Z,BMS-813160,BMS-813160,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-813160,TRUE,FALSE,TRUE, BMS-813160,1286279-29-5,https://chem.nlm.nih.gov/chemidplus/rn/1286279-29-5
 2020-09-23T06:56:49Z,VLX1570,VLX1570,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VLX1570,TRUE,FALSE,TRUE, VLX-1570,1956378-23-6,https://chem.nlm.nih.gov/chemidplus/rn/1956378-23-6
+2020-09-23T06:59:35Z,SAR405838,SAR405838,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SAR405838,TRUE,FALSE,TRUE, SAR-405838,1303607-60-4,https://chem.nlm.nih.gov/chemidplus/rn/1303607-60-4
+2020-09-23T07:01:39Z,FEDRATINIB,FEDRATINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/FEDRATINIB,TRUE,FALSE,TRUE, Fedratinib [USAN:INN],936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-23T07:03:15Z,AMN107,AMN107,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMN107,TRUE,FALSE,TRUE, Nilotinib [USAN:INN:BAN],641571-10-0,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0
+2020-09-23T07:03:33Z,Duvelisib,Duvelisib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Duvelisib,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-23T07:04:50Z,GOSERELIN,GOSERELIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GOSERELIN,TRUE,FALSE,TRUE,Goserelin acetate,145781-92-6,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6
