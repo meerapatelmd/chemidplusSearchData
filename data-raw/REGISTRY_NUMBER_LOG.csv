@@ -6613,3 +6613,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:14:36Z,AB122,AB122,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AB122,TRUE,FALSE,TRUE, AB-122,2259860-24-5,https://chem.nlm.nih.gov/chemidplus/rn/2259860-24-5
 2020-09-23T07:17:02Z,vistusertib,vistusertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/vistusertib,TRUE,FALSE,TRUE, Vistusertib [USAN:INN],1009298-59-2,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
 2020-09-23T07:18:44Z,RALOXIFENE,RALOXIFENE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RALOXIFENE,TRUE,FALSE,TRUE, Raloxifene [INN:BAN],84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:20:13Z,EFATUTAZONE,EFATUTAZONE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EFATUTAZONE,TRUE,FALSE,TRUE, Efatutazone [INN],223132-37-4,https://chem.nlm.nih.gov/chemidplus/rn/223132-37-4
+2020-09-23T07:23:59Z,NIMOTUZUMAB,NIMOTUZUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NIMOTUZUMAB,TRUE,FALSE,TRUE, Nimotuzumab [INN],780758-10-3,https://chem.nlm.nih.gov/chemidplus/rn/780758-10-3
+2020-09-23T07:24:28Z,verzenio,verzenio,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/verzenio,TRUE,FALSE,TRUE, Abemaciclib [USAN:INN],1231929-97-7,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7
