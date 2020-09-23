@@ -6524,3 +6524,12 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:04:14Z,DEFOROLIMUS,DEFOROLIMUS,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DEFOROLIMUS,TRUE,FALSE,TRUE, Ridaforolimus [USAN:INN],572924-54-0,https://chem.nlm.nih.gov/chemidplus/rn/572924-54-0
 2020-09-23T05:05:58Z,pazopanib,pazopanib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pazopanib,TRUE,FALSE,TRUE, Pazopanib [INN:BAN],444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
 2020-09-23T05:07:25Z,olaparib,olaparib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/olaparib,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
+2020-09-23T05:09:05Z,ROMIDEPSIN,ROMIDEPSIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ROMIDEPSIN,TRUE,FALSE,TRUE, Romidepsin [USAN:INN],128517-07-7,https://chem.nlm.nih.gov/chemidplus/rn/128517-07-7
+2020-09-23T05:10:08Z,CPI-444,CPI-444,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CPI-444,TRUE,FALSE,TRUE, Ciforadenant [USAN:INN],1202402-40-1,https://chem.nlm.nih.gov/chemidplus/rn/1202402-40-1
+2020-09-23T05:10:28Z,Blu-285,Blu-285,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Blu-285,TRUE,FALSE,TRUE, Avapritinib [INN],1703793-34-3,https://chem.nlm.nih.gov/chemidplus/rn/1703793-34-3
+2020-09-23T05:11:24Z,CX-072,CX-072,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CX-072,TRUE,FALSE,TRUE, CX-072,2101273-62-3,https://chem.nlm.nih.gov/chemidplus/rn/2101273-62-3
+2020-09-23T05:12:03Z,MEDI4736,MEDI4736,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MEDI4736,TRUE,FALSE,TRUE, Durvalumab [USAN:INN],1428935-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1428935-60-7
+2020-09-23T05:12:48Z,*OSSYPOL 10MG TABLET INVESTIG,*OSSYPOL10MGTABLETINVESTIG,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/*OSSYPOL10MGTABLETINVESTIG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-23T05:16:10Z,ISOTRETINOIN,ISOTRETINOIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ISOTRETINOIN,TRUE,FALSE,TRUE, Isotretinoin [USAN:USP:INN:BAN],4759-48-2,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-23T05:16:48Z,gdc-0032,gdc-0032,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/gdc-0032,TRUE,FALSE,TRUE, Taselisib [USAN:INN],1282512-48-4,https://chem.nlm.nih.gov/chemidplus/rn/1282512-48-4
+2020-09-23T05:18:11Z,KW-2450,KW-2450,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/KW-2450,TRUE,FALSE,TRUE, KW-2450,1360433-93-7,https://chem.nlm.nih.gov/chemidplus/rn/1360433-93-7
