@@ -6463,3 +6463,11 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T03:59:35Z,NEOD001,NEOD001,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NEOD001,TRUE,FALSE,TRUE, Birtamimab [USAN],1608108-91-3,https://chem.nlm.nih.gov/chemidplus/rn/1608108-91-3
 2020-09-23T04:00:25Z,EPACADOSTAT,EPACADOSTAT,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EPACADOSTAT,TRUE,FALSE,TRUE, Epacadostat [USAN:INN],1204669-58-8,https://chem.nlm.nih.gov/chemidplus/rn/1204669-58-8
 2020-09-23T04:01:26Z,AB928,AB928,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AB928,TRUE,FALSE,TRUE, AB-928,2239273-34-6,https://chem.nlm.nih.gov/chemidplus/rn/2239273-34-6
+2020-09-23T04:03:22Z,tak-700,tak-700,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/tak-700,TRUE,FALSE,TRUE, Orteronel [USAN:INN],566939-85-3,https://chem.nlm.nih.gov/chemidplus/rn/566939-85-3
+2020-09-23T04:03:51Z,EDOTECARIN,EDOTECARIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EDOTECARIN,TRUE,FALSE,TRUE, Edotecarin [USAN:INN],174402-32-5,https://chem.nlm.nih.gov/chemidplus/rn/174402-32-5
+2020-09-23T04:04:41Z,ALITRETINOIN,ALITRETINOIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ALITRETINOIN,TRUE,FALSE,TRUE, Alitretinoin [USAN:INN:BAN],5300-03-8,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
+2020-09-23T04:05:31Z,CX-2009,CX-2009,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CX-2009,TRUE,FALSE,TRUE, Praluzatamab ravtansine,2145115-85-9,https://chem.nlm.nih.gov/chemidplus/rn/2145115-85-9
+2020-09-23T04:06:05Z,Thalidomide,Thalidomide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Thalidomide,TRUE,FALSE,TRUE, Thalidomide [USAN:USP:INN:BAN:JAN],50-35-1,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1
+2020-09-23T04:06:51Z,PEGPH20,PEGPH20,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PEGPH20,TRUE,FALSE,TRUE, PEGPH 20,1644090-37-8,https://chem.nlm.nih.gov/chemidplus/rn/1644090-37-8
+2020-09-23T04:07:30Z,PALBOCICLIB,PALBOCICLIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PALBOCICLIB,TRUE,FALSE,TRUE, Palbociclib [USAN:INN],571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-23T04:08:05Z,IPI-145,IPI-145,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IPI-145,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
