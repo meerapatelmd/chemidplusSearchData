@@ -6487,3 +6487,11 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:25:25Z,ZD1839,ZD1839,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ZD1839,TRUE,FALSE,TRUE, Gefitinib [USAN:INN:BAN],184475-35-2,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2
 2020-09-23T04:26:26Z,mln9708,mln9708,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mln9708,TRUE,FALSE,TRUE, Ixazomib citrate [USAN],1239908-20-3,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
 2020-09-23T04:27:10Z,VOLOCIXIMAB,VOLOCIXIMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VOLOCIXIMAB,TRUE,FALSE,TRUE, Volociximab [USAN:INN],558480-40-3,https://chem.nlm.nih.gov/chemidplus/rn/558480-40-3
+2020-09-23T04:28:56Z,LDK378,LDK378,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LDK378,TRUE,FALSE,TRUE, Ceritinib [USAN:INN],1032900-25-6,https://chem.nlm.nih.gov/chemidplus/rn/1032900-25-6
+2020-09-23T04:29:14Z,SGN-75,SGN-75,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SGN-75,TRUE,FALSE,TRUE, Vorsetzumab Mafodotin [USAN],1165741-01-4,https://chem.nlm.nih.gov/chemidplus/rn/1165741-01-4
+2020-09-23T04:29:59Z,NY-ESO-1,NY-ESO-1,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NY-ESO-1,TRUE,FALSE,TRUE, NY-ESO-1,344422-47-5,https://chem.nlm.nih.gov/chemidplus/rn/344422-47-5
+2020-09-23T04:30:42Z,ONCOS-102,ONCOS-102,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ONCOS-102,TRUE,FALSE,TRUE, CGTG 102,1802359-98-3,https://chem.nlm.nih.gov/chemidplus/rn/1802359-98-3
+2020-09-23T04:31:32Z,CLADRIBINE,CLADRIBINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CLADRIBINE,TRUE,FALSE,TRUE, Cladribine [USAN:USP:INN:BAN],4291-63-8,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8
+2020-09-23T04:32:50Z,KU-0059436,KU-0059436,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/KU-0059436,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
+2020-09-23T04:33:51Z,zytiga,zytiga,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/zytiga,TRUE,FALSE,TRUE, Abiraterone acetate [USAN],154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-23T04:34:25Z,MMPR,MMPR,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MMPR,TRUE,FALSE,TRUE, Methylthioinosine,342-69-8,https://chem.nlm.nih.gov/chemidplus/rn/342-69-8
