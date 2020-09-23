@@ -14745,3 +14745,6 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T05:23:22Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
 2020-09-23T05:23:22Z,Wikipedia,http://en.wikipedia.org/wiki/Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
 2020-09-23T05:23:22Z,NA,http://www.google.com/search?q=%22OGWKCGZFUXNPDA-CFWMRBGOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:39:01Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/897026-25-4,https://chem.nlm.nih.gov/chemidplus/rn/897026-25-4
+2020-09-23T05:39:01Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=azurin%20(50-77),https://chem.nlm.nih.gov/chemidplus/rn/897026-25-4
+2020-09-23T05:39:01Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=897026-25-4,https://chem.nlm.nih.gov/chemidplus/rn/897026-25-4

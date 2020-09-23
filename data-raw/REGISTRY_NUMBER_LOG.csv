@@ -6546,3 +6546,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:34:16Z,SB-743921,SB-743921,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SB-743921,TRUE,FALSE,TRUE,SB 743921,1067881-56-4,https://chem.nlm.nih.gov/chemidplus/rn/1067881-56-4
 2020-09-23T05:36:27Z,BEXAROTENE,BEXAROTENE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BEXAROTENE,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
 2020-09-23T05:36:51Z,cva21,cva21,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cva21,TRUE,FALSE,TRUE, Coxsackievirus A21,1802360-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1802360-06-0
+2020-09-23T05:38:26Z,P28,P28,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/P28,TRUE,FALSE,TRUE, Azurin-P28,897026-25-4,https://chem.nlm.nih.gov/chemidplus/rn/897026-25-4
+2020-09-23T05:40:23Z,ENMD-2076,ENMD-2076,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ENMD-2076,TRUE,FALSE,TRUE,ENMD-2076,934353-76-1,https://chem.nlm.nih.gov/chemidplus/rn/934353-76-1
+2020-09-23T05:40:23Z,ENMD-2076,ENMD-2076,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ENMD-2076,TRUE,FALSE,TRUE,ENMD-2076,1453868-32-0,https://chem.nlm.nih.gov/chemidplus/rn/1453868-32-0
+2020-09-23T05:41:41Z,trabectedin,trabectedin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/trabectedin,TRUE,FALSE,TRUE, Trabectedin [USAN:INN:BAN],114899-77-3,https://chem.nlm.nih.gov/chemidplus/rn/114899-77-3
+2020-09-23T05:42:41Z,Tarceva,Tarceva,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tarceva,TRUE,FALSE,TRUE, Erlotinib hydrochloride [USAN:INN],183319-69-9,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9
