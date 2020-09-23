@@ -6452,3 +6452,14 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T03:07:17Z,Meear,Meear,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Meear,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-23T03:19:24Z,SURUFATINIB,SURUFATINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SURUFATINIB,TRUE,FALSE,TRUE, Surufatinib [INN],1308672-74-3,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
 2020-09-23T03:22:41Z,prexasertib,prexasertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/prexasertib,TRUE,FALSE,TRUE, Prexasertib [USAN],1234015-52-1,https://chem.nlm.nih.gov/chemidplus/rn/1234015-52-1
+2020-09-23T03:52:45Z,lurbinectedin,lurbinectedin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/lurbinectedin,TRUE,FALSE,TRUE, Lurbinectedin [USAN:INN],497871-47-3,https://chem.nlm.nih.gov/chemidplus/rn/497871-47-3
+2020-09-23T03:53:36Z,THIOTEPA,THIOTEPA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/THIOTEPA,TRUE,FALSE,TRUE, Thiotepa [USP:INN:BAN:JAN],52-24-4,https://chem.nlm.nih.gov/chemidplus/rn/52-24-4
+2020-09-23T03:54:23Z,VS-5584,VS-5584,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VS-5584,TRUE,FALSE,TRUE, VS-5584,1246560-33-7,https://chem.nlm.nih.gov/chemidplus/rn/1246560-33-7
+2020-09-23T03:55:13Z,MEGESTROL,MEGESTROL,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MEGESTROL,TRUE,FALSE,TRUE, Megestrol [INN:BAN],3562-63-8,https://chem.nlm.nih.gov/chemidplus/rn/3562-63-8
+2020-09-23T03:56:32Z,ROGARATINIB,ROGARATINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ROGARATINIB,TRUE,FALSE,TRUE, Rogaratinib [INN],1443530-05-9,https://chem.nlm.nih.gov/chemidplus/rn/1443530-05-9
+2020-09-23T03:57:19Z,ENTRECTINIB,ENTRECTINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ENTRECTINIB,TRUE,FALSE,TRUE, Entrectinib [USAN:INN],1108743-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-23T03:57:49Z,GDC-0084,GDC-0084,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0084,TRUE,FALSE,TRUE, Paxalisib [USAN],1382979-44-3,https://chem.nlm.nih.gov/chemidplus/rn/1382979-44-3
+2020-09-23T03:58:17Z,AZD5153,AZD5153,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZD5153,TRUE,FALSE,TRUE, AZD-5153,1869912-39-9,https://chem.nlm.nih.gov/chemidplus/rn/1869912-39-9
+2020-09-23T03:59:35Z,NEOD001,NEOD001,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NEOD001,TRUE,FALSE,TRUE, Birtamimab [USAN],1608108-91-3,https://chem.nlm.nih.gov/chemidplus/rn/1608108-91-3
+2020-09-23T04:00:25Z,EPACADOSTAT,EPACADOSTAT,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EPACADOSTAT,TRUE,FALSE,TRUE, Epacadostat [USAN:INN],1204669-58-8,https://chem.nlm.nih.gov/chemidplus/rn/1204669-58-8
+2020-09-23T04:01:26Z,AB928,AB928,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AB928,TRUE,FALSE,TRUE, AB-928,2239273-34-6,https://chem.nlm.nih.gov/chemidplus/rn/2239273-34-6
