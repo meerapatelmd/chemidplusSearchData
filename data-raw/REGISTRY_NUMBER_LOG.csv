@@ -6577,3 +6577,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:27:52Z,ENASIDENIB,ENASIDENIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ENASIDENIB,TRUE,FALSE,TRUE, Enasidenib [USAN:INN],1446502-11-9,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9
 2020-09-23T06:30:47Z,rxdx-101,rxdx-101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rxdx-101,TRUE,FALSE,TRUE, Entrectinib [USAN:INN],1108743-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
 2020-09-23T06:31:16Z,IFOSFAMIDE,IFOSFAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IFOSFAMIDE,TRUE,FALSE,TRUE, Ifosfamide [USAN:USP:INN:BAN:JAN],3778-73-2,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
+2020-09-23T06:35:44Z,sar245409,sar245409,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/sar245409,TRUE,FALSE,TRUE, Voxtalisib [USAN:INN],934493-76-2,https://chem.nlm.nih.gov/chemidplus/rn/934493-76-2
+2020-09-23T06:36:24Z,BMS- 813160,BMS-813160,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-813160,TRUE,FALSE,TRUE, BMS-813160,1286279-29-5,https://chem.nlm.nih.gov/chemidplus/rn/1286279-29-5
+2020-09-23T06:36:36Z,gdc-0449,gdc-0449,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/gdc-0449,TRUE,FALSE,TRUE, Vismodegib [USAN:INN],879085-55-9,https://chem.nlm.nih.gov/chemidplus/rn/879085-55-9
+2020-09-23T06:37:36Z,D1694,D1694,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/D1694,TRUE,FALSE,TRUE, Raltitrexed,112887-68-0,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0
