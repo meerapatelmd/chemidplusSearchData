@@ -6512,3 +6512,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:47:45Z,CIXUTUMUMAB,CIXUTUMUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CIXUTUMUMAB,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
 2020-09-23T04:48:03Z,azd2281,azd2281,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/azd2281,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
 2020-09-23T04:48:53Z,LY3039478,LY3039478,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LY3039478,TRUE,FALSE,TRUE, Crenigacestat [USAN],1421438-81-4,https://chem.nlm.nih.gov/chemidplus/rn/1421438-81-4
+2020-09-23T04:50:51Z,DARATUMUMAB,DARATUMUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DARATUMUMAB,TRUE,FALSE,TRUE, Daratumumab [USAN:INN],945721-28-8,https://chem.nlm.nih.gov/chemidplus/rn/945721-28-8
+2020-09-23T04:52:51Z,MDX-1203,MDX-1203,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MDX-1203,TRUE,FALSE,TRUE, MDX 1203,1607828-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1607828-84-1
+2020-09-23T04:54:55Z,DAROLUTAMIDE,DAROLUTAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DAROLUTAMIDE,TRUE,FALSE,TRUE, Darolutamide [USAN],1297538-32-9,https://chem.nlm.nih.gov/chemidplus/rn/1297538-32-9
