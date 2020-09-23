@@ -6450,3 +6450,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T01:57:29Z,MEDI6383,MEDI6383,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MEDI6383,TRUE,FALSE,TRUE, Efizonerimod [USAN],1635395-27-5,https://chem.nlm.nih.gov/chemidplus/rn/1635395-27-5
 2020-09-23T02:36:59Z,PACRITINIB,PACRITINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PACRITINIB,TRUE,FALSE,TRUE, Pacritinib [USAN:INN],937272-79-2,https://chem.nlm.nih.gov/chemidplus/rn/937272-79-2
 2020-09-23T03:07:17Z,Meear,Meear,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Meear,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-23T03:19:24Z,SURUFATINIB,SURUFATINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SURUFATINIB,TRUE,FALSE,TRUE, Surufatinib [INN],1308672-74-3,https://chem.nlm.nih.gov/chemidplus/rn/1308672-74-3
