@@ -6471,3 +6471,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:06:51Z,PEGPH20,PEGPH20,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PEGPH20,TRUE,FALSE,TRUE, PEGPH 20,1644090-37-8,https://chem.nlm.nih.gov/chemidplus/rn/1644090-37-8
 2020-09-23T04:07:30Z,PALBOCICLIB,PALBOCICLIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PALBOCICLIB,TRUE,FALSE,TRUE, Palbociclib [USAN:INN],571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
 2020-09-23T04:08:05Z,IPI-145,IPI-145,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IPI-145,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-23T04:09:11Z,PYROXAMIDE,PYROXAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PYROXAMIDE,TRUE,FALSE,TRUE, Pyroxamide,382180-17-8,https://chem.nlm.nih.gov/chemidplus/rn/382180-17-8
+2020-09-23T04:10:45Z,DAUNORUBICIN,DAUNORUBICIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DAUNORUBICIN,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
+2020-09-23T04:11:39Z,CRLX101,CRLX101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CRLX101,TRUE,FALSE,TRUE, CRLX 101,1338695-89-8,https://chem.nlm.nih.gov/chemidplus/rn/1338695-89-8
+2020-09-23T04:11:57Z,AAFC,AAFC,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AAFC,TRUE,FALSE,TRUE,"5-Fluoro-2,2'-cyclocytidine",40505-45-1,https://chem.nlm.nih.gov/chemidplus/rn/40505-45-1
