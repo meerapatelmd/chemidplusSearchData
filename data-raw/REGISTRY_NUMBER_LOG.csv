@@ -6505,3 +6505,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:41:05Z,Sunitinib,Sunitinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sunitinib,TRUE,FALSE,TRUE, Sunitinib [INN:BAN],557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
 2020-09-23T04:41:39Z,AG-221,AG-221,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AG-221,TRUE,FALSE,TRUE,AG 221,1802003-09-3,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
 2020-09-23T04:42:50Z,EVEROLIMUS,EVEROLIMUS,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EVEROLIMUS,TRUE,FALSE,TRUE, Everolimus [USAN:INN:BAN],159351-69-6,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6
+2020-09-23T04:44:11Z,PCNU,PCNU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PCNU,TRUE,FALSE,TRUE," 1-(2-Chloroethyl)-3-(2,6-dioxo-3-piperidinyl)-1-nitrosourea",13909-02-9,https://chem.nlm.nih.gov/chemidplus/rn/13909-02-9
+2020-09-23T04:44:55Z,GDC-0077,GDC-0077,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0077,TRUE,FALSE,TRUE, GDC-0077,2060571-02-8,https://chem.nlm.nih.gov/chemidplus/rn/2060571-02-8
+2020-09-23T04:45:19Z,GDC-0927,GDC-0927,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0927,TRUE,FALSE,TRUE, GDC-0927,2100830-77-9,https://chem.nlm.nih.gov/chemidplus/rn/2100830-77-9
+2020-09-23T04:46:49Z,pci-32765,pci-32765,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pci-32765,TRUE,FALSE,TRUE, Ibrutinib [USAN:INN],936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-23T04:47:45Z,CIXUTUMUMAB,CIXUTUMUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CIXUTUMUMAB,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
+2020-09-23T04:48:03Z,azd2281,azd2281,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/azd2281,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
+2020-09-23T04:48:53Z,LY3039478,LY3039478,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LY3039478,TRUE,FALSE,TRUE, Crenigacestat [USAN],1421438-81-4,https://chem.nlm.nih.gov/chemidplus/rn/1421438-81-4
