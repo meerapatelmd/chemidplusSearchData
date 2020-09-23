@@ -14445,3 +14445,114 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T04:23:38Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
 2020-09-23T04:23:38Z,Wikipedia,http://en.wikipedia.org/wiki/Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
 2020-09-23T04:23:38Z,NA,http://www.google.com/search?q=%22SDUQYLNIPVEERB-QPPQHZFASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:36:35Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8198,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8198,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1281,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1281,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a612007.html,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a612007.html,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=zd6474,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=vandetanib#results,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22443913-73-3%22+OR+%22%22+OR+%22Vandetanib%22+%22ZD6474%22,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22443913-73-3%22+OR+%22%22+OR+%22Vandetanib%22+%22ZD6474%22,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C452423,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,DrugBank,http://www.drugbank.ca/drugs/DB05294,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=443913-73-3&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/YO460OQ37K,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=ZD6474+OR+Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,Wikipedia,http://en.wikipedia.org/wiki/Vandetanib,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:35Z,NA,http://www.google.com/search?q=%22UHTHHESEBZOYNR-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
+2020-09-23T04:36:47Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ERBITUX,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ERBITUX,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7454,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7454,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1015,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1015,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607041.html,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a607041.html,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=IMC-C225+OR+cetuximab+OR+erbitu+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22205923-56-4%22+OR+%22%22+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22205923-56-4%22+OR+%22%22+OR+Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,DrugBank,http://www.drugbank.ca/drugs/DB00002,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=CETUXIMAB,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=205923-56-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/PQX0D8J21J,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:36:47Z,Wikipedia,http://en.wikipedia.org/wiki/Cetuximab,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-23T04:41:33Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7932,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7932,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1285,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1285,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607052.html,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a607052.html,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=sunitinib#results,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=sunitinib+OR+sutent,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22557795-19-4%22+OR+%22%22+OR+Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22557795-19-4%22+OR+%22%22+OR+Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000077210,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,DrugBank,http://www.drugbank.ca/drugs/DB01268,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=557795-19-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=557795-19-4,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/V99T50803M,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Sunitinib,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
+2020-09-23T04:41:33Z,NA,http://www.google.com/search?q=%22WINHZLLDWRZWRT-ATVHPVEESA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4
