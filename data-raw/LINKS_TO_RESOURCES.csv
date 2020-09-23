@@ -14963,3 +14963,42 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T07:11:50Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
 2020-09-23T07:11:50Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PTC299,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
 2020-09-23T07:11:50Z,NA,http://www.google.com/search?q=%22SRSHBZRURUNOSM-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:19:12Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2284449-90-1%22+,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+84449-90-1+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7460,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7460,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/SERMS,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a698007.html,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a698007.html,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=Raloxifene#results,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=raloxifene+OR+84449-90-1+[rn],https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2284449-90-1%22+OR+%22%22+OR+raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2284449-90-1%22+OR+%22%22+OR+raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D020849,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DrugBank,http://www.drugbank.ca/drugs/DB00481,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=84449-90-1&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/YX9162EO3I,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,Wikipedia,http://en.wikipedia.org/wiki/Raloxifene,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
+2020-09-23T07:19:12Z,NA,http://www.google.com/search?q=%22GZUITABIAKMVPG-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1

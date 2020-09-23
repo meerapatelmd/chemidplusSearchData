@@ -3332,3 +3332,7 @@ rn_datetime,rn_url,concept_registry_number_type,concept_registry_number
 2020-09-23T07:02:59Z,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8,System Generated Number,0936091268
 2020-09-23T07:11:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2,CAS Registry Number,1256565-36-2
 2020-09-23T07:11:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2,System Generated Number,1256565362
+2020-09-23T07:19:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1,CAS Registry Number,84449-90-1
+2020-09-23T07:19:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1,FDA UNII,YX9162EO3I
+2020-09-23T07:19:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1,Related Registry Number,82640-04-8 (hydrochloride)
+2020-09-23T07:19:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1,System Generated Number,0084449901

@@ -6607,3 +6607,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:08:06Z,xtandi,xtandi,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/xtandi,TRUE,FALSE,TRUE, Enzalutamide [USAN:INN],915087-33-1,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1
 2020-09-23T07:09:04Z,BICALUTAMIDE,BICALUTAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BICALUTAMIDE,TRUE,FALSE,TRUE, Bicalutamide [USAN:USP:INN:BAN],90357-06-5,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
 2020-09-23T07:11:36Z,PTC299,PTC299,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PTC299,TRUE,FALSE,TRUE, Emvododstat [USAN],1256565-36-2,https://chem.nlm.nih.gov/chemidplus/rn/1256565-36-2
+2020-09-23T07:13:25Z,ONC201,ONC201,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ONC201,TRUE,FALSE,TRUE, ONC 201,1616632-77-9,https://chem.nlm.nih.gov/chemidplus/rn/1616632-77-9
+2020-09-23T07:13:42Z,CPI-0610,CPI-0610,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CPI-0610,TRUE,FALSE,TRUE, Pelabresib monohydrate,1845726-14-8,https://chem.nlm.nih.gov/chemidplus/rn/1845726-14-8
+2020-09-23T07:14:18Z,LGX818,LGX818,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LGX818,TRUE,FALSE,TRUE, Encorafenib [USAN:INN],1269440-17-6,https://chem.nlm.nih.gov/chemidplus/rn/1269440-17-6
+2020-09-23T07:14:36Z,AB122,AB122,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AB122,TRUE,FALSE,TRUE, AB-122,2259860-24-5,https://chem.nlm.nih.gov/chemidplus/rn/2259860-24-5
+2020-09-23T07:17:02Z,vistusertib,vistusertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/vistusertib,TRUE,FALSE,TRUE, Vistusertib [USAN:INN],1009298-59-2,https://chem.nlm.nih.gov/chemidplus/rn/1009298-59-2
+2020-09-23T07:18:44Z,RALOXIFENE,RALOXIFENE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RALOXIFENE,TRUE,FALSE,TRUE, Raloxifene [INN:BAN],84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
