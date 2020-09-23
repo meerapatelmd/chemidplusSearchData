@@ -6571,3 +6571,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:12:59Z,PCI32765,PCI32765,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PCI32765,TRUE,FALSE,TRUE, Ibrutinib [USAN:INN],936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
 2020-09-23T06:17:08Z,PF-06688992,PF-06688992,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PF-06688992,TRUE,FALSE,TRUE, PF-06688992,2249791-21-5,https://chem.nlm.nih.gov/chemidplus/rn/2249791-21-5
 2020-09-23T06:19:52Z,AF0144,AF0144,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AF0144,TRUE,FALSE,TRUE, Perflubrodec [USAN:INN],307-43-7,https://chem.nlm.nih.gov/chemidplus/rn/307-43-7
+2020-09-23T06:21:57Z,bms-986015,bms-986015,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/bms-986015,TRUE,FALSE,TRUE, Lirilumab [USAN:INN],1000676-41-4,https://chem.nlm.nih.gov/chemidplus/rn/1000676-41-4
+2020-09-23T06:24:30Z,DECITABINE,DECITABINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DECITABINE,TRUE,FALSE,TRUE, Decitabine [USAN:INN:BAN],2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5

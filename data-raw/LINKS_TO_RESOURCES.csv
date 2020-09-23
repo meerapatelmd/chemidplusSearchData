@@ -14786,3 +14786,45 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T06:02:21Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=73732-51-1,https://chem.nlm.nih.gov/chemidplus/rn/73732-51-1
 2020-09-23T06:02:21Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=73732-51-1,https://chem.nlm.nih.gov/chemidplus/rn/73732-51-1
 2020-09-23T06:02:21Z,NA,http://www.google.com/search?q=%22FLGISLVJQPPAMV-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/73732-51-1
+2020-09-23T06:24:45Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=DECITABINE,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=DECITABINE,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%222353-33-5%22+,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+2353-33-5+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a608009.html,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a608009.html,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Decitabine+OR+2353-33-5+[rn],https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%222353-33-5%22+OR+%22%22+OR+Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%222353-33-5%22+OR+%22%22+OR+Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,CAMEO,https://m.cameochemicals.noaa.gov/chemical/19836,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000077209,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,DrugBank,http://www.drugbank.ca/drugs/DB01262,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=2353-33-5&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.017.355,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/776B62CQ27,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,NTP DBS,https://tools.niehs.nih.gov/ntp_tox/index.cfm?fuseaction=ntpsearch.searchresults&searchterm=2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,Wikipedia,http://en.wikipedia.org/wiki/Decitabine,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:24:45Z,NA,http://www.google.com/search?q=%22XAUDJQYHKZQPEU-KVQBGUIXSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
