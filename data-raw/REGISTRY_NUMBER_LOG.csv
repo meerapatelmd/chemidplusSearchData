@@ -6581,3 +6581,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:36:24Z,BMS- 813160,BMS-813160,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-813160,TRUE,FALSE,TRUE, BMS-813160,1286279-29-5,https://chem.nlm.nih.gov/chemidplus/rn/1286279-29-5
 2020-09-23T06:36:36Z,gdc-0449,gdc-0449,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/gdc-0449,TRUE,FALSE,TRUE, Vismodegib [USAN:INN],879085-55-9,https://chem.nlm.nih.gov/chemidplus/rn/879085-55-9
 2020-09-23T06:37:36Z,D1694,D1694,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/D1694,TRUE,FALSE,TRUE, Raltitrexed,112887-68-0,https://chem.nlm.nih.gov/chemidplus/rn/112887-68-0
+2020-09-23T06:39:25Z,BI 754111,BI754111,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BI754111,TRUE,FALSE,TRUE, Miptenalimab,2245092-03-7,https://chem.nlm.nih.gov/chemidplus/rn/2245092-03-7
+2020-09-23T06:39:55Z,PRT062070,PRT062070,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PRT062070,TRUE,FALSE,TRUE, Cerdulatinib hydrochloride,1369761-01-2,https://chem.nlm.nih.gov/chemidplus/rn/1369761-01-2
+2020-09-23T06:40:34Z,SAHA,SAHA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SAHA,TRUE,FALSE,TRUE, Vorinostat [USAN:INN],149647-78-9,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9
+2020-09-23T06:40:46Z,VINTAFOLIDE,VINTAFOLIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VINTAFOLIDE,TRUE,FALSE,TRUE, Vintafolide [USAN:INN],742092-03-1,https://chem.nlm.nih.gov/chemidplus/rn/742092-03-1
+2020-09-23T06:41:46Z,LY2875358,LY2875358,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LY2875358,TRUE,FALSE,TRUE, Emibetuzumab [USAN:INN],1365287-97-3,https://chem.nlm.nih.gov/chemidplus/rn/1365287-97-3
+2020-09-23T06:43:08Z,LUCITANIB,LUCITANIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LUCITANIB,TRUE,FALSE,TRUE, Lucitanib [USAN:INN],1058137-23-7,https://chem.nlm.nih.gov/chemidplus/rn/1058137-23-7
