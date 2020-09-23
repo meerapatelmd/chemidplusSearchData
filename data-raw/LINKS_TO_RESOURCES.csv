@@ -14574,3 +14574,41 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T05:01:18Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=PCI+24781+OR+abexinostat+OR+CRA+024781,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2
 2020-09-23T05:01:18Z,Wikipedia,http://en.wikipedia.org/wiki/Abexinostat,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2
 2020-09-23T05:01:18Z,NA,http://www.google.com/search?q=%22MAUCONCHVWBMHK-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2
+2020-09-23T05:06:26Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8210,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8210,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1273,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1273,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a610013.html,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a610013.html,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=pazopanib#results,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22444731-52-6%22+OR+%22%22+OR+PAZOPANIB,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22444731-52-6%22+OR+%22%22+OR+PAZOPANIB,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C516667,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,DrugBank,http://www.drugbank.ca/drugs/DB06589,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=444731-52-6&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=444731-52-6,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/7RN5DR86CK,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,Wikipedia,http://en.wikipedia.org/wiki/Pazopanib,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
+2020-09-23T05:06:26Z,NA,http://www.google.com/search?q=%22CUIHSIWYWATEQL-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/444731-52-6
