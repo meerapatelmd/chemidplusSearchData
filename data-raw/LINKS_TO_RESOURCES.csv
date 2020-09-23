@@ -14699,3 +14699,49 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T05:16:24Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Isotretinoin,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
 2020-09-23T05:16:24Z,Wikipedia,http://en.wikipedia.org/wiki/Isotretinoin,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
 2020-09-23T05:16:24Z,NA,http://www.google.com/search?q=%22SHGAZHPCJJPHSC-XFYACQKRSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-23T05:23:22Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2257-22-7%22+,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EMIC,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@and+@term+@rn+57-22-7+@term+@org+EMIC,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,GENETOX,https://pubchem.ncbi.nlm.nih.gov/substance/?source=gene-tox&sourceid=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3199,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3199,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM278,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM278,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/VincaAlkaloids,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682822.html,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a682822.html,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=vincristine+OR+57-22-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=vincristine+OR+57-22-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=vincristine+OR+57-22-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=vincristine+OR+57-22-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=vincristine+OR+57-22-7+[rn],https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2257-22-7%22+OR+%22Vincristine%22+,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2257-22-7%22+OR+%22Vincristine%22+,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,CAMEO,https://m.cameochemicals.noaa.gov/chemical/21220,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D014750,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,DrugBank,http://www.drugbank.ca/drugs/DB00541,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=57-22-7&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EINECS,https://echa.europa.eu/substance-information/-/substanceinfo/100.000.289,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,EPA SRS,https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/5J49Q6B70F,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,NTP DBS,https://tools.niehs.nih.gov/ntp_tox/index.cfm?fuseaction=ntpsearch.searchresults&searchterm=57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,Wikipedia,http://en.wikipedia.org/wiki/Vincristine,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-23T05:23:22Z,NA,http://www.google.com/search?q=%22OGWKCGZFUXNPDA-CFWMRBGOSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
