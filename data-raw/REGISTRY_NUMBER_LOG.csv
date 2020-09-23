@@ -6559,3 +6559,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:48:59Z,ECULIZUMAB,ECULIZUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ECULIZUMAB,TRUE,FALSE,TRUE, Eculizumab [USAN:INN:BAN],219685-50-4,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4
 2020-09-23T05:49:33Z,ADOZELESIN,ADOZELESIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ADOZELESIN,TRUE,FALSE,TRUE, Adozelesin [USAN:INN],110314-48-2,https://chem.nlm.nih.gov/chemidplus/rn/110314-48-2
 2020-09-23T05:50:23Z,BMS-986158,BMS-986158,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BMS-986158,TRUE,FALSE,TRUE, BMS-986158,1800340-40-2,https://chem.nlm.nih.gov/chemidplus/rn/1800340-40-2
+2020-09-23T05:52:40Z,RIPRETINIB,RIPRETINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RIPRETINIB,TRUE,FALSE,TRUE, Ripretinib [USAN],1442472-39-0,https://chem.nlm.nih.gov/chemidplus/rn/1442472-39-0
+2020-09-23T05:54:12Z,TKI258,TKI258,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TKI258,TRUE,FALSE,TRUE, Dovitinib lactate [USAN],915769-50-5,https://chem.nlm.nih.gov/chemidplus/rn/915769-50-5
+2020-09-23T05:54:46Z,PROSTVAC-V,PROSTVAC-V,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PROSTVAC-V,TRUE,FALSE,TRUE, Rilimogene galvacirepvec [USAN],1225283-43-1,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1

@@ -14752,3 +14752,8 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T05:48:30Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1809336-39-7,https://chem.nlm.nih.gov/chemidplus/rn/1809336-39-7
 2020-09-23T05:48:30Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1809336-39-7,https://chem.nlm.nih.gov/chemidplus/rn/1809336-39-7
 2020-09-23T05:48:30Z,NA,http://www.google.com/search?q=%22SSDRNUPMYCFXGM-UYPAYLBCSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/1809336-39-7
+2020-09-23T05:54:54Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Rilimogene%20galvacirepvec,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
+2020-09-23T05:54:54Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/1225283-43-1,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
+2020-09-23T05:54:54Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=1225283-43-1,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
+2020-09-23T05:54:54Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Rilimogene+galvacirepvec,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
+2020-09-23T05:54:54Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Rilimogene+galvacirepvec,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
