@@ -6562,3 +6562,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T05:52:40Z,RIPRETINIB,RIPRETINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RIPRETINIB,TRUE,FALSE,TRUE, Ripretinib [USAN],1442472-39-0,https://chem.nlm.nih.gov/chemidplus/rn/1442472-39-0
 2020-09-23T05:54:12Z,TKI258,TKI258,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TKI258,TRUE,FALSE,TRUE, Dovitinib lactate [USAN],915769-50-5,https://chem.nlm.nih.gov/chemidplus/rn/915769-50-5
 2020-09-23T05:54:46Z,PROSTVAC-V,PROSTVAC-V,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PROSTVAC-V,TRUE,FALSE,TRUE, Rilimogene galvacirepvec [USAN],1225283-43-1,https://chem.nlm.nih.gov/chemidplus/rn/1225283-43-1
+2020-09-23T06:00:12Z,TYROSINASE,TYROSINASE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TYROSINASE,TRUE,FALSE,TRUE, Tyrosinase,9002-10-2,https://chem.nlm.nih.gov/chemidplus/rn/9002-10-2
+2020-09-23T06:02:00Z,mta,mta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mta,TRUE,FALSE,TRUE,4-Methylthioamphetamine,14116-06-4,https://chem.nlm.nih.gov/chemidplus/rn/14116-06-4
+2020-09-23T06:02:00Z,mta,mta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mta,TRUE,FALSE,TRUE,"Aniline, 3-(1H-tetrazol-5-yl)-",73732-51-1,https://chem.nlm.nih.gov/chemidplus/rn/73732-51-1
