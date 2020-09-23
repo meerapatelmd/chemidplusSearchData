@@ -6573,3 +6573,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T06:19:52Z,AF0144,AF0144,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AF0144,TRUE,FALSE,TRUE, Perflubrodec [USAN:INN],307-43-7,https://chem.nlm.nih.gov/chemidplus/rn/307-43-7
 2020-09-23T06:21:57Z,bms-986015,bms-986015,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/bms-986015,TRUE,FALSE,TRUE, Lirilumab [USAN:INN],1000676-41-4,https://chem.nlm.nih.gov/chemidplus/rn/1000676-41-4
 2020-09-23T06:24:30Z,DECITABINE,DECITABINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DECITABINE,TRUE,FALSE,TRUE, Decitabine [USAN:INN:BAN],2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-23T06:27:06Z,SU101,SU101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SU101,TRUE,FALSE,TRUE, Leflunomide [USAN:USP:INN:BAN],75706-12-6,https://chem.nlm.nih.gov/chemidplus/rn/75706-12-6
+2020-09-23T06:27:52Z,ENASIDENIB,ENASIDENIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ENASIDENIB,TRUE,FALSE,TRUE, Enasidenib [USAN:INN],1446502-11-9,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9
+2020-09-23T06:30:47Z,rxdx-101,rxdx-101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rxdx-101,TRUE,FALSE,TRUE, Entrectinib [USAN:INN],1108743-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1108743-60-7
+2020-09-23T06:31:16Z,IFOSFAMIDE,IFOSFAMIDE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IFOSFAMIDE,TRUE,FALSE,TRUE, Ifosfamide [USAN:USP:INN:BAN:JAN],3778-73-2,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
