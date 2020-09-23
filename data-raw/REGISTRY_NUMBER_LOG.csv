@@ -6616,3 +6616,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:20:13Z,EFATUTAZONE,EFATUTAZONE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/EFATUTAZONE,TRUE,FALSE,TRUE, Efatutazone [INN],223132-37-4,https://chem.nlm.nih.gov/chemidplus/rn/223132-37-4
 2020-09-23T07:23:59Z,NIMOTUZUMAB,NIMOTUZUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NIMOTUZUMAB,TRUE,FALSE,TRUE, Nimotuzumab [INN],780758-10-3,https://chem.nlm.nih.gov/chemidplus/rn/780758-10-3
 2020-09-23T07:24:28Z,verzenio,verzenio,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/verzenio,TRUE,FALSE,TRUE, Abemaciclib [USAN:INN],1231929-97-7,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7
+2020-09-23T07:27:47Z,PRALATREXATE,PRALATREXATE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PRALATREXATE,TRUE,FALSE,TRUE, Pralatrexate [USAN:INN],146464-95-1,https://chem.nlm.nih.gov/chemidplus/rn/146464-95-1
+2020-09-23T07:28:13Z,K0706,K0706,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/K0706,TRUE,FALSE,TRUE, Vodobatinib [USAN],1388803-90-4,https://chem.nlm.nih.gov/chemidplus/rn/1388803-90-4
+2020-09-23T07:28:26Z,MITOMYCIN,MITOMYCIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MITOMYCIN,TRUE,FALSE,TRUE,Mitomycins,1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
+2020-09-23T07:28:52Z,NILOTINIB,NILOTINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NILOTINIB,TRUE,FALSE,TRUE, Nilotinib [USAN:INN:BAN],641571-10-0,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0
