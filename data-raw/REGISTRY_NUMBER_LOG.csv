@@ -6482,3 +6482,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T04:18:21Z,IMCGP100,IMCGP100,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IMCGP100,TRUE,FALSE,TRUE, Tebentafusp [USAN],1874157-95-5,https://chem.nlm.nih.gov/chemidplus/rn/1874157-95-5
 2020-09-23T04:18:39Z,AZACITIDINE,AZACITIDINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZACITIDINE,TRUE,FALSE,TRUE, Azacitidine [USAN:INN:BAN],320-67-2,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2
 2020-09-23T04:19:55Z,Fimepinostat,Fimepinostat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fimepinostat,TRUE,FALSE,TRUE, Fimepinostat [USAN],1339928-25-4,https://chem.nlm.nih.gov/chemidplus/rn/1339928-25-4
+2020-09-23T04:22:17Z,AXITINIB,AXITINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AXITINIB,TRUE,FALSE,TRUE, Axitinib [USAN:INN:JAN],319460-85-0,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0
+2020-09-23T04:23:13Z,GEMCITABINE,GEMCITABINE,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GEMCITABINE,TRUE,FALSE,TRUE, Gemcitabine [USAN:INN:BAN],95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:25:25Z,ZD1839,ZD1839,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ZD1839,TRUE,FALSE,TRUE, Gefitinib [USAN:INN:BAN],184475-35-2,https://chem.nlm.nih.gov/chemidplus/rn/184475-35-2
+2020-09-23T04:26:26Z,mln9708,mln9708,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mln9708,TRUE,FALSE,TRUE, Ixazomib citrate [USAN],1239908-20-3,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3
+2020-09-23T04:27:10Z,VOLOCIXIMAB,VOLOCIXIMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VOLOCIXIMAB,TRUE,FALSE,TRUE, Volociximab [USAN:INN],558480-40-3,https://chem.nlm.nih.gov/chemidplus/rn/558480-40-3

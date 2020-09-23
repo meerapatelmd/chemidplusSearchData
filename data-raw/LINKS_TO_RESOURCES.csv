@@ -14405,3 +14405,43 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T04:17:31Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Etoposide,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-23T04:17:31Z,Wikipedia,http://en.wikipedia.org/wiki/Etoposide,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-23T04:17:31Z,NA,http://www.google.com/search?q=%22VJJPUSNTGOMMGY-MRVIYFEKSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-23T04:23:38Z,CCRIS,https://pubchem.ncbi.nlm.nih.gov/substance/?source=CCRIS&sourceid=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DART,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=DART&term=%2295058-81-4%22+,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7567,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7567,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1370,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1370,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a696019.html,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a696019.html,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,RTECS,https://www.cdc.gov/niosh/rtecs/default.html,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2295058-81-4%22+OR+%22%22+OR+gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2295058-81-4%22+OR+%22%22+OR+gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DrugBank,http://www.drugbank.ca/drugs/DB00441,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,DrugDigest,https://host1.medcohealth.com/medco/consumer/ehealth/druginfo/dldruglist.jsp?dlsearch.jsp&accessLink=CategorySearchClass&drugname=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=GEMCITABINE,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=95058-81-4&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/B76N6SBZ8R,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,NIAID ChemDB,https://chemdb.niaid.nih.gov/CompoundDetails.aspx?cas_no=95058-81-4,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,Wikipedia,http://en.wikipedia.org/wiki/Gemcitabine,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
+2020-09-23T04:23:38Z,NA,http://www.google.com/search?q=%22SDUQYLNIPVEERB-QPPQHZFASA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/95058-81-4
