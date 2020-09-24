@@ -1,6 +1,6 @@
 #' @title CLASSIFICATION
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 1048 rows and 3 variables:
+#' @format A data frame with 1049 rows and 3 variables:
 #' \describe{
 #'   \item{\code{c_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_classification}}{character COLUMN_DESCRIPTION}
@@ -11,7 +11,7 @@
 
 #' @title CONCEPT
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 931 rows and 10 variables:
+#' @format A data frame with 932 rows and 10 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
@@ -29,7 +29,7 @@
 
 #' @title CONCEPT_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7823 rows and 3 variables:
+#' @format A data frame with 7828 rows and 3 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
@@ -40,7 +40,7 @@
 
 #' @title LINKS_TO_RESOURCES
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 15003 rows and 4 variables:
+#' @format A data frame with 15028 rows and 4 variables:
 #' \describe{
 #'   \item{\code{ltr_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{resource_agency}}{character COLUMN_DESCRIPTION}
@@ -52,7 +52,7 @@
 
 #' @title NAMES_AND_SYNONYMS
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 10274 rows and 4 variables:
+#' @format A data frame with 10282 rows and 4 variables:
 #' \describe{
 #'   \item{\code{nas_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
@@ -64,7 +64,7 @@
 
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 6621 rows and 11 variables:
+#' @format A data frame with 6627 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
@@ -83,7 +83,7 @@
 
 #' @title REGISTRY_NUMBERS
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 3337 rows and 4 variables:
+#' @format A data frame with 3341 rows and 4 variables:
 #' \describe{
 #'   \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}

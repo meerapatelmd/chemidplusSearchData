@@ -6620,3 +6620,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:28:13Z,K0706,K0706,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/K0706,TRUE,FALSE,TRUE, Vodobatinib [USAN],1388803-90-4,https://chem.nlm.nih.gov/chemidplus/rn/1388803-90-4
 2020-09-23T07:28:26Z,MITOMYCIN,MITOMYCIN,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MITOMYCIN,TRUE,FALSE,TRUE,Mitomycins,1404-00-8,https://chem.nlm.nih.gov/chemidplus/rn/1404-00-8
 2020-09-23T07:28:52Z,NILOTINIB,NILOTINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NILOTINIB,TRUE,FALSE,TRUE, Nilotinib [USAN:INN:BAN],641571-10-0,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0
+2020-09-23T07:33:17Z,SCH-66336,SCH-66336,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SCH-66336,TRUE,FALSE,TRUE, Lonafarnib [USAN:INN],193275-84-2,https://chem.nlm.nih.gov/chemidplus/rn/193275-84-2
+2020-09-23T07:33:35Z,SELUMETINIB,SELUMETINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SELUMETINIB,TRUE,FALSE,TRUE, Selumetinib [USAN:INN],606143-52-6,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6
+2020-09-23T07:34:35Z,LAPATINIB,LAPATINIB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LAPATINIB,TRUE,FALSE,TRUE, Lapatinib [INN:BAN],231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-23T07:35:18Z,MLN0128,MLN0128,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MLN0128,TRUE,FALSE,TRUE, Sapanisertib [USAN:INN],1224844-38-5,https://chem.nlm.nih.gov/chemidplus/rn/1224844-38-5
+2020-09-23T07:36:27Z,pf-02341066,pf-02341066,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pf-02341066,TRUE,FALSE,TRUE, Crizotinib [USAN:INN],877399-52-5,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
+2020-09-23T07:37:20Z,ALEMTUZUMAB,ALEMTUZUMAB,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ALEMTUZUMAB,TRUE,FALSE,TRUE, Alemtuzumab [USAN:INN:BAN],216503-57-0,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
