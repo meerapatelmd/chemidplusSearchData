@@ -15027,3 +15027,40 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-23T07:33:43Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=azd+6244+OR+selumetinib,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6
 2020-09-23T07:33:43Z,Wikipedia,http://en.wikipedia.org/wiki/Selumetinib,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6
 2020-09-23T07:33:43Z,NA,http://www.google.com/search?q=%22CYOHGALHFOKKQC-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6
+2020-09-24T14:46:03Z,ClinicalTrials.gov,https://clinicaltrials.gov/search/intervention=Lapatinib+,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,DailyMed,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,DailyMed Mob,https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,DrugPortal,https://druginfo.nlm.nih.gov/drugportal/rn/231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,HSDB,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8209,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,HSDB Mob,https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8209,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,LactMed,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1271,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,LactMed Mob,https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1271,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,LiverTox,https://www.ncbi.nlm.nih.gov/books/n/livertox/Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MedlinePlusAll,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MedlinePlusAll Mob,https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v:project=medlineplus&x=44&y=10&query=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MedlinePlusDrug,https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607055.html,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MedlinePlusDrug Mob,http://m.medlineplus.gov/druginfo/meds/a607055.html,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,MeSH Heading,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,Pillbox,https://pillbox.nlm.nih.gov/pillimage/search_results.php?submit=Search&splid=&getingredient=Lapatinib#results,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed Mob,https://www.ncbi.nlm.nih.gov/m/pubmed/?term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed AIDS,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=AIDS&term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=Lapatinib+OR+GW572016+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22231277-92-2%22+OR+%22%22+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,TOXLINE Mob,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%22231277-92-2%22+OR+%22%22+OR+Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,ChEBI,http://www.ebi.ac.uk/chebi/searchFreeText.do?searchString=231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=D000077341,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,Drugs@FDA,https://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&SearchType=BasicSearch&SearchTerm=lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,eChemPortal,https://www.echemportal.org/echemportal/substancesearch/substancesearch_execute.action?numberType=CAS&number=231277-92-2&allParticipants=true,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,EMA,http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landing_page.jsp&quickSearch=lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,EPA CompTox,https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,FDA SRS,https://fdasis.nlm.nih.gov/srs/unii/0VUA21238F,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,USA.gov,https://search.usa.gov/search?utf8=?&m=false&affiliate=usagov&query=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,Wikipedia,http://en.wikipedia.org/wiki/Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T14:46:03Z,NA,http://www.google.com/search?q=%22BCFGMOOMADDAQU-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
