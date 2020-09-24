@@ -15064,3 +15064,13 @@ ltr_datetime,resource_agency,resource_link,rn_url
 2020-09-24T14:46:03Z,USA.gov Mob,https://search.usa.gov/search?utf8=?&m=true&affiliate=usagov&query=Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
 2020-09-24T14:46:03Z,Wikipedia,http://en.wikipedia.org/wiki/Lapatinib,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
 2020-09-24T14:46:03Z,NA,http://www.google.com/search?q=%22BCFGMOOMADDAQU-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-24T15:57:51Z,MeSH,https://meshb.nlm.nih.gov/#/fieldSearch?searchInField=allTerms&sort=&size=20&searchType=exactMatch&searchMethod=FullWord&q=4'-Deoxydoxorubicinol,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,PubChem,https://pubchem.ncbi.nlm.nih.gov/#query=89780-72-3,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,PubMed,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&term=4'-Deoxydoxorubicinol+OR+89780-72-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,PubMed Cancer,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Cancer&term=4'-Deoxydoxorubicinol+OR+89780-72-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,PubMed Central,https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PMC&term=4'-Deoxydoxorubicinol+OR+89780-72-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,PubMed Toxicology,https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&cmd_current=Limits&pmfilter_Subsets=Toxicology&term=4'-Deoxydoxorubicinol+OR+89780-72-3+[rn],https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,TOXLINE,https://www.ncbi.nlm.nih.gov/pubmed?cmd_current=Limits&pmfilter_Subsets=Toxicology&term=%2289780-72-3%22+OR+%22%22+,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,CTD,http://ctdbase.org/detail.go?type=chem&acc=C046579,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,EPA ACToR,https://actor.epa.gov/actor/chemical.xhtml?casrn=89780-72-3,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
+2020-09-24T15:57:51Z,NA,http://www.google.com/search?q=%22OJKDFRDLLREGBS-UHFFFAOYSA-N%22,https://chem.nlm.nih.gov/chemidplus/rn/89780-72-3
