@@ -4,8 +4,8 @@ CONCEPT <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidp
 CONCEPT_SYNONYM <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/CONCEPT_SYNONYM.csv')
 LINKS_TO_RESOURCES <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/LINKS_TO_RESOURCES.csv')
 NAMES_AND_SYNONYMS <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/NAMES_AND_SYNONYMS.csv')
-REGISTRY_NUMBER_LOG <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/REGISTRY_NUMBER_LOG.csv')
 REGISTRY_NUMBERS <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/REGISTRY_NUMBERS.csv')
+REGISTRY_NUMBER_LOG <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/REGISTRY_NUMBER_LOG.csv')
 RN_URL_VALIDITY <- broca::simply_read_csv('/Users/patelm9/GitHub/Public-Packages/chemidplusSearchData/data-raw/RN_URL_VALIDITY.csv')
 
 usethis::use_data(

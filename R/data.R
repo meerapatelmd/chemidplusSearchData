@@ -62,6 +62,18 @@
 #' @details DETAILS
 "NAMES_AND_SYNONYMS"
 
+#' @title REGISTRY_NUMBERS
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 3346 rows and 4 variables:
+#' \describe{
+#'   \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{concept_registry_number_type}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{concept_registry_number}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"REGISTRY_NUMBERS"
+
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
 #' @format A data frame with 6635 rows and 11 variables:
@@ -80,18 +92,6 @@
 #'}
 #' @details DETAILS
 "REGISTRY_NUMBER_LOG"
-
-#' @title REGISTRY_NUMBERS
-#' @description DATASET_DESCRIPTION
-#' @format A data frame with 3346 rows and 4 variables:
-#' \describe{
-#'   \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{concept_registry_number_type}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{concept_registry_number}}{character COLUMN_DESCRIPTION} 
-#'}
-#' @details DETAILS
-"REGISTRY_NUMBERS"
 
 #' @title RN_URL_VALIDITY
 #' @description DATASET_DESCRIPTION
