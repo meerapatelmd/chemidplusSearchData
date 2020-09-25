@@ -13,15 +13,15 @@
 #' @description DATASET_DESCRIPTION
 #' @format A data frame with 932 rows and 10 variables:
 #' \describe{
-#'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{concept_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{domain_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{vocabulary_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{concept_class_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{standard_concept}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{concept_code}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{valid_start_date}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{valid_end_date}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{valid_start_date}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{valid_end_date}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{invalid_reason}}{character COLUMN_DESCRIPTION} 
 #'}
 #' @details DETAILS
@@ -31,9 +31,9 @@
 #' @description DATASET_DESCRIPTION
 #' @format A data frame with 7828 rows and 3 variables:
 #' \describe{
-#'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{concept_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{language_concept_id}}{double COLUMN_DESCRIPTION} 
+#'   \item{\code{language_concept_id}}{character COLUMN_DESCRIPTION} 
 #'}
 #' @details DETAILS
 "CONCEPT_SYNONYM"
