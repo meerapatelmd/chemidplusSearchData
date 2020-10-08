@@ -5,10 +5,12 @@
 \alias{REGISTRY_NUMBERS}
 \title{REGISTRY_NUMBERS}
 \format{
-A data frame with 3346 rows and 4 variables:
+A data frame with 20374 rows and 6 variables:
 \describe{
-\item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
+\item{\code{c_datetime}}{double COLUMN_DESCRIPTION}
+\item{\code{concept_classification}}{character COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
+\item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{concept_registry_number_type}}{character COLUMN_DESCRIPTION}
 \item{\code{concept_registry_number}}{character COLUMN_DESCRIPTION}
 }

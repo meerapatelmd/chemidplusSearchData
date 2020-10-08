@@ -5,12 +5,14 @@
 \alias{LINKS_TO_RESOURCES}
 \title{LINKS_TO_RESOURCES}
 \format{
-A data frame with 15075 rows and 4 variables:
+A data frame with 77334 rows and 6 variables:
 \describe{
+\item{\code{c_datetime}}{double COLUMN_DESCRIPTION}
+\item{\code{concept_classification}}{character COLUMN_DESCRIPTION}
+\item{\code{rn_url}}{character COLUMN_DESCRIPTION}
 \item{\code{ltr_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{resource_agency}}{character COLUMN_DESCRIPTION}
 \item{\code{resource_link}}{character COLUMN_DESCRIPTION}
-\item{\code{rn_url}}{character COLUMN_DESCRIPTION}
 }
 }
 \usage{
